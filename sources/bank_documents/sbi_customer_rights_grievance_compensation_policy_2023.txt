@@ -1,0 +1,1634 @@
+1 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+CUSTOMER RIGHTS,
+GRIEVANCE REDRESSAL
+AND
+COMPENSATION POLICY – 2023
+(Version- 4)
+Issue Date: 03.02.2024
+(Updated up to 15.11.2023)
+Customer Experience Enhancement
+Department (CEED)
+State Bank of India
+Corporate Centre
+Mumbai
+2 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+INDEX
+1 Abbreviations 5
+CUSTOMER RIGHTS POLICY - 2023
+Para Description Page No 
+1 Right to Fair Treatment 6-7
+2 Right to Transparency, Fair and Honest Dealing 7-10
+3 Right to Suitability 10
+4 Right to Privacy 10-11
+5 Right to Grievance Redressal and Compensation 11-13
+6 Amendment / Modification of the Policy 13
+CUSTOMER GRIEVANCES REDRESSAL POLICY – 2023
+1 Preamble 14
+2 Grievances relating to Branch transactions 14-16
+3 Escalation matrix for customer complaints 16-17
+4 Grievances relating to Technology related transactions 17-20
+5 Grievances relating to Sale of third-party products 20-21
+6 Nodal Officer for handling customer grievances 21
+7 Acknowledgement of Grievances and Redressal 21-22
+8 & 
+8 A
+Review Mechanism 22
+9 Enhanced disclosure on complaints 22
+10 Pre-empting occurrence of customer grievances & sensitizing operating 
+staff on handling complaints
+23
+3 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+11 Amendment / Modification of the Policy 24
+12 References of Circulars/ Guidelines used for drafting Customer Rights 
+and Grievance Redressal Policy 2023
+24
+COMPENSATION POLICY – 2023
+Para Description Page No 
+1 Preamble 25
+2 Objective 25
+3 Scope 25-26
+4 Recognition of Deficiency and Compensation 
+4.1) Unauthorized / Erroneous Debit 26-27
+4.2) ECS direct debits / other debits to accounts 27-28
+4.3) Penal interest payable for delays in credit / return of NEFT / NECS / 
+ECS transactions 
+28-29
+4.4) Issue of ATM / Debit Cards without written consent of customers 29
+4.5) Payment of Cheque after acknowledgement of Stop Payment 
+Instructions / Non-blocking of lost ATM card / UPI Services / INB Services 
+after acknowledgement of request for its blocking 
+29-30
+4.6) Limiting Liability of Customers in Unauthorized Electronic Banking 
+Transactions 
+30-34
+4.7) Collection of Cheques drawn on Foreign countries 35-37
+4.8) Compensation for adverse movement in Exchange Rates 37-39
+4.9) Collection of Cheques payable in India 39-40
+4.10) Compensation for delay in clearance of Local Cheques 40-41
+4.11) Compensation for loss of Cheques / Instruments in transit 41
+4 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+4.11.A) Delayed Collection of Bills: Payment of Interest for Delay in 
+Collection of Bills
+42
+4.12) ATM failure: Compensation to Customers for settlement of disputed 
+ATM transactions / Automated Deposit cum Withdrawal Machine (ADWM) 
+42-45
+4.13) Compensation for delay in Pension Payment 46
+4.14) Compensation for delay in Issuance of Duplicate IOI 46
+4.15) Payment of “at par” Cheques issued by other Banks 46-47
+4.16) Lenders’ liability: Commitment to borrowers 47
+4.17) Compensation for wrongful dishonour of cheques 47-48
+4.18) Compensation in case of delay on the part of the Bank to upload 
+Application Supported by Blocked Amount (ASBA)
+48-49
+4.19) Violations by Bank’s Agents 49-50
+4.20) Liability of Bank for any loss/damage to the contents of Lockers 49-50
+4.21) Timeline for Payment of Compensation 50
+4.22) Authority for Payment and Control Reporting 50
+5 Automation of Payment of Compensation in CBS 50-51
+6 Customer’s responsibility 51
+7 Disclaimer clause 51
+8 Force Majeure 51-52
+9 Amendment / Modification of the Policy 52
+10 References of Circulars / Guidelines used for drafting Compensation 
+Policy 2020
+52
+5 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+Abbreviations
+ADWM Automated Deposit cum Withdrawal Machine
+ATM Automated Teller Machine 
+BSBD Basic Savings Bank Deposit 
+CBS Core Banking Solution
+CCRC Circle Complaint Resolution Centre
+ECS Electronic Clearing System 
+EEFC A/C Exchange Earners’ Foreign Currency Account 
+FEDAI Foreign Exchange Dealers Association of India 
+FEMA Foreign Exchange Management Act 
+INB Internet Banking 
+IOI Inter Office Instrument
+IRC Inward Remittance Cell 
+IVR Interactive Voice Response 
+MBS Mobile Banking Services 
+MSME Micro Small & Medium Enterprises 
+NACH National Automated Clearing House 
+NECS National Electronic Clearing Service 
+NEFT National Electronic Fund Transfer 
+RBI Reserve Bank of India
+RTGS Real Time Gross Settlement
+SMS Short Messaging System 
+6 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+ 
+CUSTOMER RIGHTS POLICY 2023
+Customer protection is an integral aspect of financial inclusion. The following 
+comprehensive Customer Rights Policy based on domestic experience and 
+global best practices is brought out to enhance such protection.
+The Policy enshrines basic rights of the customers of the Banks regulated by the 
+Reserve Bank of India. The policy covers all the branches and offices of SBI in India.
+It spells out the rights of the customer and also the responsibilities of the Bank. The 
+Policy applies to all products and services offered by the Bank or its agents, whether 
+provided across the counter, over phone, by post, through interactive electronic
+devices, on internet or by any other method.
+Wherever number of days is mentioned, the number of days is considered as 
+“Calendar days”, unless mentioned specifically as “working days”.
+1. Right to Fair Treatment
+Both the customer and the financial services provider have a right to be treated 
+with courtesy. The customer should not be unfairly discriminated against on 
+grounds such as gender, age, religion, caste and physical ability when offering 
+and delivering financial products.
+In pursuance of the above Right, Bank will -
+i) Promote good and fair Banking practices by setting minimum standards in all 
+dealings with the customers.
+ii) Promote a fair and equitable relationship between the Bank and the customer.
+iii) Train Bank staff attending to the customers, adequately and appropriately.
+iv) Ensure that staff members attend to customers and their business promptly and 
+courteously.
+v) Treat all customers fairly and not discriminate against any customer on grounds 
+such as gender, age, religion, caste, literacy, economic status and physical ability, 
+etc. Bank may, however, have special schemes or products which are specifically 
+designed for members of a target market group or may use defensible, 
+commercially acceptable economic rationale for customer differentiation. Bank 
+7 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+may also have schemes or products as part of an affirmative action, such as, for 
+women or backward classes. Such schemes / products will not tantamount to unfair
+discrimination. The rationale for such special schemes or terms will be explained 
+by Bank wherever required.
+vi) Ensure that the above principle is applied while offering all products and services.
+vii) Ensure that the products and services offered are in accordance with relevant laws 
+and regulations.
+While it shall be the endeavor of the Bank to provide their customers with hassle free 
+services and fair treatment, Bank would expect their customers to behave courteously 
+and honestly in their dealings with the Bank.
+It shall also be the Bank’s endeavor to encourage their customers to approach the 
+Bank’s internal grievance redressal machinery and approach alternate fora after 
+exhausting all their remedies under Bank’s internal grievance mechanism.
+2. Right to Transparency, Fair and Honest Dealing
+The financial services provider should make every effort to ensure that the contracts 
+or agreements it frames are transparent, easily understood by, and well communicated 
+to the common person. The product’s price, the associated risks, the terms and 
+conditions that govern use over the product’s life cycle and the responsibilities of the 
+customer and financial service provider, should be clearly disclosed. The customer 
+should not be subject to unfair business or marketing practices, coercive contractual 
+terms or misleading representations. Over the course of their relationship, the financial 
+services provider cannot threaten the customer with physical harm, exert undue 
+influence, or engage in blatant harassment.
+In pursuance of the above Right, the Bank will -
+i) Ensure complete transparency so that the customer can have a better 
+understanding of what he or she can reasonably / fairly expect from the Bank.
+ii) Ensure that the Bank’s dealings with the customer rest on ethical principles of 
+equity, integrity and transparency.
+iii) Provide customers with clear information about its products and services, terms 
+and conditions, and the interest rates / service charges in simple and easily 
+understandable language, and with sufficient information so that the customer 
+8 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+could be reasonably expected to make an appropriate and informed choice of the
+product.
+iv) Ensure that all terms and conditions are fair and set out the respective rights, 
+liabilities and obligations clearly and as far as possible in plain and simple 
+vernacular language.
+v) Ensure that most Important Terms and Conditions (MITC) associated with the 
+product or service will be clearly brought to the notice of the customer through 
+Bank’s website, welcome kits and sanction letters as applicable for the products / 
+services. In general, it will be ensured that such terms will not inhibit a customer’s 
+future choice.
+vi) Provide information on interest rates, fees and charges either on the Notice Board 
+in the Branches or website or through helplines or helpdesk and wherever deemed 
+appropriate, the customer will be informed directly.
+vii) Display the tariff Schedule on Bank’s website and a copy of the same will be made 
+available on demand to the customer at all branches. Also, the Bank will display in 
+its Branches, a notice about the availability of the Tariff Schedule at the Branch.
+viii) Give details, in their Tariff Schedule, of all charges, if any, applicable to the 
+products and services chosen by the customer.
+ix) Inform the customer of any change in the terms and conditions through a letter or 
+Statement of Account, SMS or email or on Bank’s website www.sbi.co.in or 
+bank.sbi or as agreed by the customer, at least one month prior to the revised 
+terms and conditions becoming effective;
+x) Ensure that such changes of terms and conditions, as stated above, are made 
+only with prospective effect after giving notice of one month. If the Bank has 
+made any change without giving such notice which is favorable to the customer, 
+it will notify the change within 30 days of such change. If the change is adverse 
+to the customer, prior notice of minimum 30 days will be provided and the 
+customer may be provided options, to close the account or switch to any other 
+eligible account without having to pay the revised charge or interest within 60 
+days of such notice.
+xi) Provide information about the penalties leviable in case of non-observance / 
+breach of any of the terms and conditions governing the product / services chosen 
+by the customer.
+9 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+xii) Display on Bank’s website the Banks’ Policies on Deposits, Cheque Collection, 
+Grievance Redressal, Compensation and Collection of Dues and Security 
+Repossession;
+xiii) Make every effort to ensure that staff dealing in a particular product is properly 
+trained to provide relevant information to customers fully, correctly and honestly;
+xiv) Ensure to communicate to the applicant within a reasonable time period as 
+decided by the Bank about the acceptance / non-acceptance of applications 
+submitted for availing a product / service. Such period will be notified in the 
+Bank’s website and in the application of the particular product or service;
+xv) Communicate unambiguously the information about –
+a. discontinuation of particular products,
+b. relocation of their offices
+c. changes in working hours
+d. changes in telephone numbers
+e. closure of any office or Branch
+with advance notice of at least 30 days through Bank’s website, notice board at 
+Branches, digital signage systems etc. also affirm that disclosure of information 
+is an on-going process through the life-cycle of the product / relationship and will 
+be diligently followed by them. Ensure to use all possible channels of 
+communication, including website, to ensure that information on all changes is
+made known to the customer upfront.
+xvi) Advise the customer at the time of selling the product of the rights and obligations 
+embedded in law and / or Banking regulation including the need to report any 
+critical incidents that the customer suspects, discovers or encounters.
+xvii) Ensure that the Bank’s staff members shall, when approached by the customer 
+for availing a product or service, provide all relevant information related to the 
+product / service with a view to enable the customer to make an informed 
+decision.
+xviii) Not terminate a customer relationship without giving reasonable or contractual 
+prior notice to the customer.
+xix) Assist the customer in all available ways for managing his / her account, financial 
+relationship by providing regular inputs in the Bank’s realms;
+xx) Ensure that all marketing and promotional materials are clear and not misleading,
+and as far as possible in regional language pertaining to the region / area also;
+10 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+xxi) Not threaten the customer with physical harm, exert influence or engage in 
+behavior that would reasonably be construed as unwarranted harassment. 
+Ensure adherence only to the normal appropriate business practices;
+xxii) Ensure that the fees and charges on products / services and its structure are not 
+unreasonable to the customer.
+3. Right to Suitability
+The products offered should be appropriate to the needs of the customer and 
+based on an assessment of the customer’s financial circumstances and 
+understanding.
+In pursuance of the above Right, the Bank will -
+i) Ensure that it has a Board approved policy for assessing suitability of products 
+for customers prior to sale of third-party products.
+ii) Endeavour to make sure that the product or service sold or offered is appropriate 
+to the customer’s needs.
+iii) Sell third party products only if it is authorized to do so, after putting in place a 
+Board approved policy for marketing and distributing third party financial 
+products.
+iv) Not compel a customer to subscribe to any third-party products as a quid-proquo for any service availed from the Bank.
+v) Ensure that the products being sold, or service being offered, including third party 
+products, are in accordance with extant rules and regulations.
+vi) Inform the customer about his responsibility to promptly and honestly provide all 
+relevant and reasonable information that is sought by the Bank to enable the
+Bank to determine the suitability of the product to the customer.
+4. Right to Privacy
+Customers’ personal information should be kept confidential unless they have 
+offered specific consent to the financial services provider or such information 
+is required to be provided under the law or it is provided for a mandated 
+business purpose (for example, to credit information companies). The customer 
+11 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+should be informed upfront about likely mandated business purposes. 
+Customers have the right to protection from all kinds of communications, 
+electronic or otherwise, which infringe upon their privacy.
+In pursuance of the above Right, Bank will –
+i) Treat customer's personal information as private and confidential (even when the 
+customer is no longer Banking with us), and, as a general rule, not disclose such 
+information to any other individual / institutions including its subsidiaries / 
+associates, tie-up institutions etc. for any purpose unless:
+a. The customer has authorized such disclosure explicitly in writing.
+b. Disclosure is compelled by law / regulation.
+c. Bank has a duty to the public to disclose i.e. in public interest.
+d. Bank has to protect its interests through disclosure.
+e. It is for a regulatory mandated business purpose such as disclosure of 
+default to credit information companies or debt collection agencies.
+ii) Ensure that such likely mandated disclosures are communicated immediately 
+after such disclosure, to the customer in writing.
+iii) Not use or share customer’s personal information for marketing purpose, unless 
+the customer has specifically authorized it.
+iv) Adhere to the Law and regulation on Right to privacy including Telecom 
+Commercial Communications Customer Preference Regulations, 2018 (National 
+Customer Preference Registry) issued by Telecom Regulatory Authority of India, 
+while communicating with customers.
+5. Right to Grievance Redressal and Compensation
+The customer has a right to hold the financial services provider accountable for 
+the products offered and to have a clear and easy way to have any valid 
+grievance redressed. The provider should also facilitate redressal of grievances 
+stemming from its sale of third-party products. The financial services provider 
+must communicate its policy for compensating mistakes, lapses in conduct, as 
+well as non-performance or delays in performance, whether caused by the 
+provider or otherwise. The policy must lay out the rights and duties of the 
+customer when such events occur.
+12 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+Definition of Complaint:
+“An expression/representation of grievance or dissatisfaction, oral or written,
+by the customer, representative/legal guardian/nominee/appointee of the 
+customer about the deficiency in service or delay in delivery of service, while
+handling of any of the Banking related transactions that may have resulted in 
+financial loss, distress, or material inconvenience to the customer.”
+In pursuance of the above Right, Bank will –
+i) deal sympathetically and expeditiously with all things that go wrong.
+ii) correct mistakes promptly.
+iii) cancel any charge that has been applied wrongly and by mistake.
+The Bank will also –
+i) Place in public domain its Customer Grievance Redressal Policy, including the 
+grievance redressal procedure available for the customer.
+ii) Place in public domain the compensation policy for delays / lapses in conducting 
+/ settling customer transactions within the stipulated time and in accordance with 
+the agreed terms of contract.
+iii) Ensure to have a robust and responsive grievance redressal procedure and 
+clearly indicate the grievance resolution authority who shall be approached by 
+the customer.
+iv) Make grievance redressal mechanism easily accessible to customers.
+v) Advise the customer about how to make a complaint, to whom such a 
+complaint is to be made, when to expect a reply and what to do if the customer 
+is not satisfied with the outcome.
+vi) Display name, address and contact details of the Grievance Redressal Authority 
+/ Nodal Officer on the website. The time limit for resolution of complaints will also 
+be clearly displayed / accessible on the website.
+vii) Inform the complainant of the option to escalate his complaint to the Banking 
+Ombudsman if the complaint is not redressed within the pre-set time.
+viii) Place in public domain, information about Reserve Bank – Integrated 
+Ombudsman Scheme 2021.
+ix) Display at customer contact points the name and contact details of the Banking 
+Ombudsman under whose jurisdiction the Bank’s Branch falls.
+13 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+Further, the Bank will –
+i) Acknowledge all formal complaints (including complaints lodged through 
+electronic means) within three working days and work to resolve it within a 
+reasonable period, not exceeding 21 days (including the time for escalation and 
+examination of the complaint by the highest ranking internal official responsible 
+for grievance redressal). The 21 days’ period will be reckoned after all the 
+necessary information sought from the customer is received. However, 
+complaints relating to Point of Sales (POS) / Card Not Present (CNP) 
+transactions, Master Card / VISA complaints will be dealt with, within the period 
+prescribed, including pre-arbitration claims, as per the guidelines of Master 
+Card / VISA / Europay / CUP and Ru-Pay.
+ii) Provide aggrieved customers with the details of the Reserve Bank –
+Integrated Ombudsman Scheme 2021 for resolution of a complaint if the 
+customer is not satisfied with the resolution of a dispute, or with the outcome of 
+a dispute handling process.
+In addition, the Bank will clearly spell out, at the time of establishing a customer 
+relationship, the liability for losses, as well as the rights and responsibilities of all 
+parties, in the event of products not performing as per specifications or things going 
+wrong. However, the Bank will not be liable for any losses caused by extraneous 
+circumstances that are beyond its reasonable control (such as market changes, 
+performance of the product due to market variables, etc.).
+6. Amendment / Modification of the Policy:
+The Bank reserves the right to amend / modify this Policy, as and when deemed fit
+and proper, at its sole discretion. The Bank shall arrange to review the Policy at annual
+intervals. If any change is subsequently approved to this policy, consequent upon any
+subsequent change in regulatory guidelines / operating instructions etc; such changes
+and approvals, with the concurrence of Managing Director (RB & O), shall be deemed
+to be part of the policy till the policy is comprehensively reviewed.
+ ***************************
+14 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+CUSTOMER GRIEVANCES REDRESSAL POLICY - 2023
+1. SBI’s policy on customer grievances redressal covers all the branches and offices 
+of SBI in India and is based on the following principle:
+‘The customer is the focus of the Bank’s products, services and people. The 
+Bank’s business growth depends entirely on the satisfaction of customers 
+with what the Bank offers them. A suitable mechanism must therefore exist 
+for receiving and redressing customer grievances courteously, promptly and 
+satisfactorily. Any mistake made by the Bank should be apologized and
+rectified immediately. The details of grievances redressal mechanism must 
+be in the domain of public knowledge’.
+The above principle is incorporated in the Bank’s policy of grievances redressal.
+Wherever number of days is mentioned, the number of days is considered as 
+“Calendar days”, unless mentioned specifically as “working days”.
+2. Grievances relating to Branch transactions:
+i. In case of any difficulty in transactions, the customers may approach the Service 
+Manager at the Branch or the Customer Relations Executive or the Branch 
+Manager, who will ensure that the customers’ Banking needs are attended to. 
+However, if this does not happen, customers may demand the complaint book, 
+which will be available in all Branches with the Branch Manager / Service Manager, 
+and lodge a written complaint. A copy of the complaint shall be returned to the
+customer with an acknowledgement of receipt. The Branch shall make efforts to 
+ensure that the redressal of the complaint takes place expeditiously and in any 
+case within a maximum period of three weeks. If, for any reason, the Branch is 
+unable to redress the grievance within three weeks, the customer will be informed 
+of the reasons and the action taken for early redressal. The complaint entered in 
+the complaint book will be entered in CRM-CMS (Complaint Management System) 
+application by the Branch within the next working day and complaint number will
+be conveyed to customer by SMS on the registered mobile number / on registered 
+15 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+email address automatically by CRM-CMS application.” The customers can 
+provide their feedback on their satisfaction level about the complaint resolution by 
+either visiting our website or by calling our Toll-Free numbers.
+ii. In case the customer is unable to visit the Branch, he may lodge his complaint 
+through other channels viz. Contact Centre toll free numbers or through SMS 
+Unhappy channel by sending SMS ‘UNHAPPY’ to the designated number. The 
+customers shall be given a unique complaint number, which can be used for 
+tracking the status of their complaint. The Customers can also send their 
+complaints through email to the designated e-mail Id or lodge their grievance online 
+on the Bank’s web site (www.sbi.co.in or bank.sbi) under the link ‘Customer Care’ 
+or on pre-login page of onlinesbi.com / YONO Lite (Bank’s Internet Banking 
+platform). Complaints lodged on these channels are forwarded to the Branches / 
+offices / Circle Complaint Resolution Centres (CCRC) through web-based system 
+for redressal as above. The complainant can also get the status of redressal of his 
+complaint directly from the Contact Centre by calling or by sending SMS to the 
+designated number. The Customer can send his / her feedback on closed 
+Complaints by calling our toll-free numbers or through website www.sbi.co.in under 
+link Customer care.
+iii. In case of difficulty with the Branch, or unsatisfactory reply in respect of complaint 
+lodged with the Branch / other channels, the customer can approach the Assistant 
+General Manager [Regional Business office (RBO)] / Dy General Manager (B&O) 
+/ General Manager (Network) of the Local Head Office under whose administrative 
+control the Branch functions. The contact particulars of the officials can be 
+obtained from the Branch or from the helpline numbers at the concerned Local 
+Head Office. The customers can also write to the Customer Service Department 
+at the concerned Local Head Office. The helpline numbers and addresses are 
+placed on the website. The RBO / AO / LHO concerned, will enter the details of 
+the complaint in CRM-CMS for resolution.
+iv. Customers shall be provided with one or more channels – web-based or paperbased complaint form, IVR, Mobile Application, Call Centre, SMS, through 
+branches or offices etc, for lodging disputes and grievances. In addition to the 
+above channels, in case of mobile phone-based systems like Unified Payments 
+Interface (UPI), third party app providers (TPAPs) shall also provide customers 
+with a facility to lodge disputes and grievances through the same mobile app used 
+16 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+for making payments, which shall be integrated with Online Dispute Resolution 
+(ODR) System. A web-based Complaint Form has been made available on the 
+Bank’s website for customers to register their grievances online. On completing 
+the particulars and submitting the form, the customer will be given a unique ticket
+number which will enable him to follow up on his grievance with the Branch / Local 
+Head Office or the Corporate Centre..
+v. Instead of lodging a complaint in web-based complaint form if a customer sends 
+an email to the designated e-mail id., a complaint will be lodged under the 
+appropriate category and a ticket number will be sent for subsequent tracking of 
+the status of complaint by the complainant by SMS on the registered mobile 
+number / email on registered email address.
+vi. Customers can also raise their queries, feedback, suggestions etc. through our 
+Branches / offices / Bank’s website / Contact Centre. The CRM application will 
+classify them as non-complaints and appropriate action will be taken by the Bank. 
+3. Escalation matrix for customer complaints
+A complaint is required to be redressed within an overall maximum period of three 
+weeks except few categories of digital complaints, where the TAT is separately 
+prescribed. All the complaints received from the customers will be lodged in CRM 
+without any exception. The complaint (except few categories of digital complaints, 
+which are assigned to GITC) lodged by a customer is first assigned to the Customer 
+Complaint Resolution Centre (CCRC) for redressal. To monitor the disposal of 
+complaints by CCRC, an email alert will be triggered to higher officials to intervene 
+and ensure the disposal of the complaints within TAT. The escalation matrix (through 
+email alert) for customer complaints is given below:
+17 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+Sr 
+No
+Trigger 
+Conditions
+Level 0 
+Escalations 
+(Hours)
+1
+st Level 
+Escalations 
+(Hours) 
+2
+nd Level 
+Escalations 
+(Hours)
+3
+rd Level 
+Escalations 
+(Hours)
+T = Case created on + TAT
+1
+Internal
+Complaint
+TAT Breach + 
+Category + 
+Subcategory + 
+Sub-SubCategory
+T – 48 T – 36 T – 24 T
+Escalation will be sent to the below users based on the level.
+Level 0: Case Owner, Case Assigned To
+Level 1: Level 0 + their controller
+Level 2: Level 0 + Level 1 + their controller
+Level 3: Level 0 + Level 1 + Level 2 + their controller
+Note: The case assigned to/current owner of the case will be notified with escalation 
+and hierarchy will be same for all the levels as mentioned above.
+The resolver at CCRC is expected to resolve the case within prescribed TAT allotted 
+to category of cases in CRM. The complaint will invariably have to be redressed within 
+a maximum period of 21 days / three weeks. The Customer can approach the Banking 
+Ombudsman in case his grievance is not redressed within 30 days of lodging the 
+complaint as per extant guidelines.
+4. Grievances relating to Technology related transactions
+i) Keeping in view the growing trend and increased significance of Digital Banking 
+products (like ATMs, POS, E-commerce, Internet Banking, Mobile Banking, UPI, 
+Yono, etc), and newer interfaces of customer engagements, the Bank has 
+introduced exclusive mechanisms for redressal of grievances arising from use of 
+18 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+these channels. Assistance for such alternate channels and digital banking 
+products are available on Toll free helpline numbers. Customer may also lodge / 
+raise his grievance online on the Bank’s web site (www.sbi.co.in or bank.sbi) under 
+the link ‘Customer Care’ or on pre-login page of onlinesbi.com / YONO Lite (Bank’s 
+Internet Banking platform).
+ii) In respect of Digital banking / Electronic banking transactions done by the 
+customers, they may lodge their service requests / query / complaints etc by 
+contacting their home Branch or sending e-mail to the designated e-mail ids for 
+redressal of their issues / complaints. In case the customer is not satisfied with the 
+handling of his complaint, he may contact the General Manager (Network) of the 
+LHO or the Customer Service Department at LHO / Corporate Centre. The contact 
+details are available on the Bank’s website.
+iii) However, for notifying the Bank of any unauthorized electronic banking 
+transactions in their account(s) customers are required to immediately report the 
+unauthorized transaction on our dedicated toll-free (helpline) number 1800111109.
+A separate link has also been provided in bank’s website for the purpose of 
+reporting of unauthorized electronic transactions and the same may also be made 
+use of. Further, they may also notify unauthorized electronic banking transactions 
+by forwarding transaction SMS to the dedicated number from registered mobile
+number or by forwarding transaction email to the dedicated email address from
+registered email address or contact their home branch during working hours.
+iv) Unauthorized Transactions in Electronic Banking Channels: 
+In case of unauthorized transactions in electronic banking channels, the following 
+will be the rights and obligations of the customer:
+a. For availing electronic banking facilities, customer must mandatorily register 
+their mobile number for SMS alerts and wherever available, email address 
+for email alerts. Bank may not offer the facility of electronic banking, other 
+than ATM cash withdrawals, to customers who do not register mobile 
+numbers with the Bank.
+b. Customer should notify the Bank of any unauthorized electronic banking 
+transaction at the earliest after the occurrence of such transaction. The 
+longer the time taken to notify the Bank, the higher will be the risk of loss to 
+customer as per Bank’s Compensation Policy placed on our web site 
+www.sbi.co.in and Bank.sbi.
+19 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+c. To facilitate this, Bank will provide 24*7 access to customers through 
+multiple channels such as website, SMS on dedicated number, email on 
+dedicated email address, dedicated toll-free number for reporting 
+unauthorized transactions, and reporting to home branch during the working 
+hours etc.
+d. Bank shall provide a direct link for lodging such complaints, with specific 
+option to report unauthorized electronic transactions on home page of
+website along with the format of the application / SOP documents which the 
+complainant may submit to the Bank. The application/ SOP documents are 
+also made available at the branches. For cases involving amount up to (and 
+including) Rs.1,00,000/- a copy of police complaint / reporting to 
+https://cybercrime.gov.in, (National Cyber Crime reporting portal) or in the 
+website of State / Regional Police, has to be submitted and for cases above 
+Rs.1,00,000/- FIR with the Police station concerned has to be filed and 
+submitted. 
+e. Bank shall send, wherever mobile number / email address is registered, 
+advice / alerts of electronic banking transactions by means of SMS and / or 
+e-mail containing a mechanism to enable the customer to instantly notify 
+objections, if any, in cases of unauthorized transactions.
+f. On receipt of complaint of unauthorized transaction from the customer, Bank 
+will take immediate steps to prevent further unauthorized transactions by 
+blocking the concerned digital channel immediately.
+g. As soon as the complaint is lodged, an SMS / email acknowledgement will 
+be sent immediately along with the registered complaint number, provided 
+the customer has registered his / her correct mobile number / email address 
+with the Bank.
+h. A single dedicated Cell named as “Customer Liability Identification Cell” 
+(CLIC) has been set up at each Circle, exclusively dealing with complaints 
+emanating from Unauthorised Electronics Debit (UAED) transactions. 
+i. All the UAED related complaints will directly flow to the “CLIC” through CRM 
+for end-to-end resolution of the complaints including lodging of insurance 
+claims.
+20 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+j. All the eligible cases must be examined by “CLIC” for taking a decision to 
+identify the case as fraud in the books of the Bank and for restoration of 
+amount as follows:
+➢ Irrespective of amount involved. 
+➢ Irrespective of the channel through which unauthorized electronic 
+debit transaction was reported.
+k. Bank shall ensure that a complaint is resolved and customer liability, if any, 
+is determined within 90 days.
+l. Bank will take necessary measures for creating customer awareness 
+through different modes of communications like SMS, Email, Social Media 
+etc.
+m. A Board Approved Compensation Policy forms part of the “Customer Rights, 
+Grievance Redressal and Compensation Policy” is placed in the Bank’s 
+website, which governs, among other things, the compensation payable to 
+customers in case of unauthorized electronic banking transactions .
+n. Ministry of Home Affairs (MHA) has launched a national helpline number 
+1930 and rolled out https://cybercrime.gov.in portal for reporting the 
+financial cybercrime frauds by the victims. The URL of the Portal and the 
+helpline number should be displayed in the Branch premises to create 
+awareness among the customer and general public. 
+o. To comply with the MHA guidelines and to have focused monitoring, Cyber 
+Cells at LHO level have been made operational from 01.07.2021. These 
+Cells are headed by AGM (Surveillance) as a Nodal Officer , with a team of 
+officers / employees and working in staggering hours to provide 24 * 7 
+resolutions.
+p. The operating unit, which receives the complaint at first instance, will ensure 
+that all unauthorised transactions through electronic banking are lodged on 
+MHA helpline / portal also. 
+5. Grievances relating to Sale of third-party products:
+If customers find violation of their rights mentioned above in Customer Rights Policy 
+relating to selling of third-party products to them, they may lodge a complaint in the 
+21 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+Complaint Management System under appropriate category or else, they can opt for 
+other channels as mentioned above for lodging their grievances. The escalation matrix 
+will be same as for other categories of complaints.
+6. Nodal Officer for handling customer grievances:
+i) The Principal Nodal Officer at SBI, Corporate Centre, Mumbai for customer 
+grievances redressal is the General Manager (Customer Experience), 
+Customer Experience Enhancement Department. The Principal Nodal Officer is 
+responsible for implementation and monitoring of customer grievances redressal 
+in the entire Bank. Aggrieved customers can write quoting their complaint number 
+to the Principal Nodal Officer regarding their grievances.
+The address and contact particulars of Nodal Officer are available on the Bank’s 
+website as also with the Help lines functioning at 17 Local Head Offices across 
+the country.
+ii) The Nodal officer for grievance redressal at Local Head Offices shall be the 
+respective General Manager (Network) and grievances will be handled by the 
+Customer Experience Enhancement Department. The Network Nodal Officer shall 
+monitor the implementation of the Bank’s grievances redressal mechanism in 
+Branches under his Network. There will be a Deputy General Manager (Customer 
+Service & Channel Management) & an AGM (Customer Service) in each LHO for 
+coordinating with all the networks and Corporate Centre. They shall bring the 
+deficiencies, if any, to the attention of the Chief General Manager (LHO) for 
+rectification. The Network Nodal Officer shall also ensure implementation of 
+policies and instruction relating to the Bank’s Codes of Commitments to customers 
+and instructions on customer service issued by the RBI, DPG and other 
+Regulatory Agencies.
+7. Acknowledgement of Grievances and Redressal:
+i) The Branch, RBO, LHO or the Corporate Centre as the case may be can 
+lodge/acknowledge the grievance within three (3) working days of receipt and 
+initiate action to get the grievance resolved within a maximum period of three 
+weeks from the date of receipt. The customer will also be kept informed of the 
+action taken, the reasons for delay if any, in redressal and the progress in redressal 
+22 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+of grievance. Complaint can be lodged in CRM-CMS at any level from Branch to 
+Corporate Centre.
+ii) Complaints received by e-mail shall be acknowledged by email to the extent 
+possible. The follow up action taken in respect of such complaints shall be advised 
+to customers by email / SMS. However, in cases of complaints of serious nature 
+and delays in redressal etc., a paper trail will necessarily be created.
+iii) In case the customer is unhappy with the redressal provided by the Bank or his 
+grievance has not been redressed within one month of the date of the complaint, 
+he can also approach the Banking Ombudsman concerned for redressal. The 
+customer will be given the necessary guidance in this regard by the Branches / 
+LHOs. The contact details of the Banking Ombudsman of the respective Region 
+shall be displayed at each Branch.
+8. Review Mechanism
+Apart from random review of serious types of complaints by the Top Management, our
+Bank has different committees at Corporate Centre level for review of grievances and 
+grievance redressal mechanism of the Bank. At Circle level, similar review mechanism 
+is in place at all the Local Head Offices. Based on RBI benchmarks, half yearly selfappraisal of Customer Service along with review of complaints is also placed before 
+the Central Board of the Bank.
+A. Further, weekly review of twenty complaints (PRAGATI Report) is reported / 
+submitted to Top Management at Corporate Centre.
+Internal Ombudsman (Review mechanism)
+One or more Internal Ombudsmen (I.O.) will be appointed by the Bank who will review
+the negative closures of complaints and will be guided by the provisions contained in 
+the Internal Ombudsman Scheme, 2018 of RBI. The Scheme is available on our web 
+site www.sbi.co.in or bank.sbi.
+9. Enhanced disclosure on complaints:
+The Bank shall make the disclosures on complaints in the Annual Reports as 
+mandated by RBI. These disclosures are intended to provide to the customers and 
+members of public, greater insight into the volume and nature of complaints received 
+from customers and the complaints received from the Offices of Banking Ombudsmen, 
+as also the quality and turnaround time of redressal.
+23 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+10. Pre-empting occurrence of customer grievances & sensitizing operating
+ staff on handling complaints
+Customer grievances provide valuable feedback on quality of service at Branches and 
+whether the initiatives taken by the Bank in technology and re-engineering of business 
+processes are having the desired impact on business growth and improved customer 
+satisfaction. The Bank also understands the importance of sensitizing staff to handle 
+customer transactions / requests with courtesy, empathy, and promptness. All 
+Branches shall form a Customer Service Committee with representation of officers, 
+clerical staff and subordinate staff as well as customers (including Senior Citizen 
+Customers) as per extant instructions. The Committee shall hold a meeting on 15th of 
+every month (on previous working day in case 15th is a holiday) and deliberate on all 
+issues relating to customer service at the Branch and take suitable action as decided 
+by the Committee for improvement of customer service at the Branch. Customer 
+Relations Programs shall be organized at all Branches at least once every quarter on 
+25th of Feb, 25th May, 25th Aug and 25th Nov (on previous working day in case of a 
+holiday) where staff and customers meet and interact freely on service-related issues. 
+While these shall be structured meets, the customers will also be free to meet the 
+Branch Managers / other official at Administrative Offices at all levels to discuss their 
+grievances. Customers’ Day shall be observed on the 10th and 20th of every month.
+Designated Top functionaries at Regional Business Office, Administrative office, Local 
+Head Office and Corporate Centre shall make themselves available for a minimum of 
+two hours (3.00 PM to 5.00 PM) on the 10th and 20th (the following working day in case 
+10th or 20th falls on a holiday) of every month for customers to attend to their grievances 
+and listen to their suggestions. The Bank shall also conduct training programs 
+regularly for staff on customer service with the intent to reduce customer grievances
+by improving soft skills and job knowledge. Further, all staff training programs of 
+duration exceeding 3 days, will have a session dedicated for sensitizing the staff and 
+imparting soft skills required for handling irate customers. The Bank shall also conduct 
+customer satisfaction surveys periodically to understand customers’ perceptions of 
+bank’s service and to identify priority areas for improvement of customer satisfaction.
+24 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+11. Amendment / Modification of the Policy:
+The Bank reserves the right to amend / modify this Policy, as and when deemed fit
+and proper, at its sole discretion. The Bank shall arrange to review the Policy at annual
+intervals. If any change is subsequently approved to this policy, consequent upon any
+subsequent change in regulatory guidelines / operating instructions etc; such changes
+and approvals, with the concurrence of Managing Director (RB & O), shall be deemed
+to be part of the policy till the policy is comprehensively reviewed.
+Note: A copy of this policy is available in Bank’s official website www.sbi.co.in or 
+bank.sbi under link “Customer Care”. Instructions issued up to 31.08.2023 by 
+Bank/Regulatory Authority have been incorporated in the policy.
+12. References of Circulars/ Guidelines used for drafting Customer Rights and 
+Grievance Redressal Policy 2023
+1. RBI Circular letter CEPD. CO. PRS. No. 9957 / 20.60.001/2014- 15
+2. “Charter of Customer Rights” for banks formulated in Bimonthly Policy 
+ statement(2014-15) of RBI. 
+3. Master Circular on Customer Service in Banks 2015 (RBI Circular DBR.No. 
+ Leg.BC.21.09.07.006/2015-16 dated 01.07.2015)
+4. RBI Notification no. DBR. No. Leg. BC.78/09.07.005/2017-18 dated 06.07.2017.
+5. RBI Letter CEPD CO. PRS Cir No. 01/13.01.009/2018-19 dated 03.09.2018.
+6. BCSBI Code of Bank’s Commitment to Customers.
+7. RBI Notification RBI/2020-21/21 DPSS.CO.PD No.116/02.12.004/2020-
+ 21 dated 06.08.2020 on Online Dispute Resolution.
+8. RBI Notification RBI/2020-21/81 CEPD.CO.PRD.Cir.No.01/1301.01382020-21 
+ Dated 06.08.2020 on Online Dispute Resolution.
+ 
+25 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+COMPENSATION POLICY (BANKING SERVICES) - 2023
+1. Preamble:
+Technological progress in Payment and Settlement Systems and qualitative changes 
+in operational Systems and Processes undertaken by various players in the market, 
+have improved efficiencies for providing better service to the users of the system. It 
+has been the endeavour of the Bank to offer services to its customers with best 
+possible utilization of its technology infrastructure. Migration of all branches to Core 
+Banking Solution (CBS) platform is a great leap in this direction. Reserve Bank of 
+India has also been issuing various instructions / guidelines, from time to time. The 
+instructions / guidelines include instructions on Harmonisation of TAT and customer 
+compensation for failed transactions using authorised Payment Systems (Notification 
+no.DPSS.CO.PD.no.629/02.01.014/2019-20 dated 20.09.2019). With a view to 
+improve the level of Customer Service available to customers of the Bank, the 
+Compensation Policy for the Bank has been formulated. 
+2. Objective:
+The objective of the "State Bank of India Compensation Policy for Banking Services”, 
+hereinafter called as the Policy, is to establish a system whereby the Bank 
+compensates the customer for the loss or inconvenience due to deficiency in service 
+on the part of the Bank or any act of omission or commission, directly attributable to 
+the Bank. 
+3. Scope:
+a) The Policy will be applicable for all banking services to the customers of the 
+Bank and covers all branches / offices of State Bank of India in India.
+b) The Policy is based on principles of transparency and fairness in treatment of 
+the customers. It is designed to cover deficiency in service in areas relating to 
+26 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+unauthorized / erroneous debit, non-execution / delayed execution of debit / 
+credit NEFT / NECS / ECS / NACH transactions including Unauthorized
+Electronic Banking Transactions, issuance of ATM / Debit Cards without written 
+consent of customers, Payment of Cheque after acknowledgement of Stop 
+Payment Instructions / Non-blocking of lost ATM card / UPI services / INB 
+services after acknowledgement of request for its blocking, delay in collection 
+of local / outstation cheques and cheques drawn on Foreign countries, adverse 
+movement in Exchange Rates, loss of cheques / instruments in transit, delay 
+in settlement of disputed ATM transactions and other electronic / digital 
+transactions, transactions on Automated Deposit cum Withdrawal Machine, 
+delay in pension payment, delay in issuance of duplicate IOI, delay in release 
+of securities after payment of all dues, etc. as specified in the Policy. 
+c) Grant of compensation under this Policy is without prejudice to the Bank's 
+rights in defending its position before any Court of Law, Tribunal or any other 
+forum duly constituted to adjudicate Banker Customer disputes and does not 
+constitute admission of liability or any other issue, of any nature whatsoever, 
+for the purposes of Adjudicatory Proceedings. 
+d) Wherever number of days is mentioned, the number of days is considered as 
+“Calendar days”, unless mentioned specifically as “working days”.
+4. Recognition of Deficiency and Compensation:
+4.1 Unauthorised / Erroneous Debit:
+a) If the Bank has raised an unauthorised / erroneous debit to an account, the 
+entry shall be reversed with value dated credit to deposit / overdraft / loan
+account immediately on being detected / informed, after due verification. 
+b) Further, if the customer has suffered any financial loss incidental to return 
+of a cheque or not carrying out of direct debit instructions due to 
+insufficiency of balance on account of the unauthorized / erroneous debit, 
+Bank will compensate the customer to the extent of such financial loss in 
+addition to an amount equivalent to interest calculated on the unauthorized 
+27 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+/ erroneously debited amount at applicable Savings Bank rate, minimum 
+Rs.100/-, besides refunding the cheque return charges. 
+c) In case verification of the entry reported to be unauthorised / erroneous by 
+the customer, does not involve a third party, the Bank shall arrange to 
+complete the process of verification within a maximum period of 7 working 
+days from the date of reporting of erroneous debit. If it involves a third party 
+or where verification is to be done at overseas centres, the Bank shall 
+complete the verification process within a maximum period of one month 
+from the date of reporting of unauthorised / erroneous transaction by the 
+customer. 
+d) In case any amount has been debited to the account of a customer on 
+account of fraudulent transaction(s) and the Bank is at fault, the amount will 
+be restored to the affected customer account without delay / demur, once 
+the fraud is established, with due verification. 
+e) If a fraud, in the account of a customer, has been committed by a member 
+of staff, and has been so established, Bank will not only restore the amount, 
+it will also pay compensation @ 1% above the applicable interest rate in 
+respect of deposit / overdraft / loan account, for the period, on the amount 
+involved. 
+ 4.2 ECS / Direct debits / NACH / Other debits to accounts: 
+a) The Bank undertakes to carry out, within the prescribed time, direct debit / 
+ECS (Electronic Clearing System) / NACH debit instructions of customers. 
+In the event of non-compliance / delayed compliance of instructions by the 
+Bank to meet such commitments, the customer will be compensated to the 
+extent of any financial loss the customer may incur on account of delay in 
+carrying out the instruction / failure to carry out the instruction. 
+b) Such compensation be, in addition to an amount equivalent to the interest 
+calculated on the amount to be debited for the delayed period at applicable 
+Savings Bank rate, with minimum of Rs. 100/-, subject to a maximum of Rs. 
+1,000/-. 
+28 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+c) The Bank would debit the customer’s account with any applicable service 
+charge as per the schedule of charges notified by the Bank. In the event the 
+Bank levies any charge in violation of the arrangement or inadvertently, the 
+Bank will reverse the charges, subject to scrutiny of agreed terms and 
+conditions, and compensate the customer with a sum equal to the charges 
+reversed. 
+4.3 Penal interest payable for delays in credit / return of NEFT / NECS / ECS
+/ RTGS transactions: 
+In terms of the NEFT / NECS / ECS Procedural Guidelines of RBI, as also the 
+relevant circulars / instructions issued by RBI from time to time, the Bank will 
+afford credit to beneficiary accounts or return transactions (not credited for 
+whatever reason) to the originating / sponsor Bank within the prescribed 
+timeline. Any delays in doing so will attract the following penal provisions: 
+4.3.1 NECS / ECS-Credit: 
+In case of delayed credit by the destination bank, the destination bank would 
+be liable to pay penal interest (at the prevailing RBI LAF Repo rate plus two 
+percent) from the due date of credit till the date of actual credit. Such penal 
+interest should be credited to the Destination Account Holder’s account even if 
+no claim is lodged to the effect by the Destination Account Holder.
+4.3.2 NEFT: 
+If the NEFT transaction is not credited or returned within two hours after batch 
+settlement, then the Bank is liable to pay penal interest to the affected customer 
+at the current RBI LAF Repo Rate plus two percent for the period of delay / till 
+the date of credit or refund, as the case may be. Such credit is afforded to the 
+customers’ account without waiting for a specific claim to be lodged by the 
+customer in this regard.
+If it is not possible to afford credit to the account of the beneficiary for any 
+reason, destination banks are required to return the transaction (to the 
+originating branch) within two hours of completion of the batch in which the 
+transaction was processed.
+29 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+In terms of the RBI ECS (Credit Clearing) procedural guidelines, which clearly 
+stipulate that if a destination Bank branch is not in a position to credit a 
+particular transaction for reasons like "Account Closed / transferred"; "No such 
+Accounts"; "Account description does not tally"; etc., it should report the same 
+and forward it to the Service Branch / Main Branch on the same settlement 
+day. 
+4.3.3 RTGS
+If it is not possible to credit the funds to the beneficiary customer’s account for 
+any reason, the funds received by the RTGS member bank will be returned to 
+the originating bank within one hour of receipt of the payment at the Payment 
+Interface (PI) or before the end of the RTGS Business Day, whichever is earlier. 
+Once the money is received back by the remitting bank, the original debit entry 
+in the customer's account needs to be reversed.
+In case of any delay in returning the failed payment, the originating customer 
+is eligible to receive compensation at current repo rate plus 2%.
+4.4 Issue of ATM / Debit Cards without written consent of customers: 
+Bank shall not dispatch a card to a customer unsolicited, except in the case 
+where the card is a replacement for a card already held by the customer. If 
+done, the said ATM / Debit card will be taken back by the Bank and cancelled. 
+The Bank would not only reverse the charges, if levied, immediately but also 
+pay compensation to the customer @ Rs. 100/- (Rupees One Hundred only).
+4.5 Payment of Cheque after acknowledgement of Stop Payment Instructions 
+/ Non-blocking of lost ATM Card – UPI Services – INB Services after 
+acknowledgement of request for its blocking: 
+4.5.1 The instruction for Stop Payment of cheque / blocking of lost ATM 
+card / Disabling of UPI Services - INB Services will be accepted at 
+any Branch / through Contact Centre (Stop Payment instructions 
+from authenticated Phone Banking users). Disabling of INB Services 
+in case of reporting unauthorised transactions through Internet 
+Banking /alternate channel.
+30 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+4.5.2 In case a cheque has been paid after acknowledgement of its stop 
+payment instruction / ATM Card has not been blocked / UPI services 
+/ INB Services has not been disabled in the requested account after 
+such a request has been acknowledged by the Bank, the Bank shall 
+reverse the debit on account of stopped cheque / blocked ATM card 
+/ UPI transaction – INB Transaction with value dated credit within 
+two working days of the customer intimating the transaction to the 
+Bank, and also compensate the customer with Rs.100/-.
+4.5.3 However, no compensation will be paid if cheque has been paid / 
+ATM Card transaction / UPI-INB transaction has occurred prior to 
+acknowledgment of instructions for stop payment of cheque / 
+blocking of lost ATM Card / UPI -INB Services. 
+4.6 Limiting Liability of Customers in Unauthorised Electronic Banking
+transactions:
+The systems and procedures in the Bank have been designed to make customer 
+feel safe about carrying out Electronic Banking Transactions. On receipt of report 
+of an unauthorised transaction from the customer, Bank to take immediate steps 
+to prevent further unauthorised transactions in the account. 
+4.6.1 Reporting of Unauthorised Transactions by customers to Banks: 
+a) Customers will mandatorily register for SMS alerts and wherever 
+available register for e-mail alerts, for electronic banking 
+transactions. The SMS alerts shall mandatorily be sent to the 
+customers, while email alerts may be sent, wherever registered. 
+b) The customers will be advised to notify the Bank of any unauthorised 
+electronic banking transaction at the earliest after the occurrence of 
+such transaction and informed that the longer the time taken to notify 
+the Bank, the higher will be the risk of loss to the Bank / customer. 
+To facilitate this, the Bank will provide customers with 24x7 access 
+through multiple channels (via website, phone banking, SMS, email, IVR, a dedicated toll-free helpline, reporting to home branch, 
+31 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+etc.) for reporting unauthorised transactions that have taken place 
+and / or loss or theft of payment instrument such as card, etc. 
+c) The Bank will also enable customers to instantly respond by "Reply" 
+to the SMS and e-mail alerts and the customers will not be required 
+to search for a web page or an e-mail address to notify the objection, 
+if any. 
+d) Further, a direct link for lodging the complaints, with specific option 
+to report unauthorised electronic transactions shall be provided by 
+the Bank on home page of the website https://www.bank.sbi or 
+sbi.co.in. 
+e) The loss / fraud reporting system shall also ensure that immediate 
+response (including auto response) is sent to the customers 
+acknowledging the complaint along with the registered complaint 
+number. 
+f) The communication systems used by the Bank to send alerts and 
+receive their responses thereto will record the time and date of the 
+message sent and receipt of customer’s response, if any, to the 
+Bank. This shall be important in determining the extent of a 
+customer’s liability. 
+g) The Bank will not offer facility of electronic transactions, other than 
+ATM cash withdrawals, to customers who do not provide mobile 
+numbers to the Bank. 
+h) On receipt of report of an unauthorised transaction from the 
+customer, the Bank will take immediate steps to prevent further 
+unauthorised transactions in the account. 
+4.6.2 Limited Liability of a Customer: 
+ a) Zero Liability of a Customer:
+A customer’s entitlement to zero liability shall arise where the unauthorised 
+transaction occurs in the following events: 
+(i) Contributory fraud / negligence/ deficiency on the part of the Bank 
+(irrespective of whether or not the transaction is reported by the customer). 
+32 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+(ii) Third party breach where the deficiency lies neither with the Bank nor with 
+the customer but lies elsewhere in the system, and the customer notifies the 
+Bank within three working days of receiving the communication from the Bank 
+(by SMS alert, email or letter) regarding the unauthorised transaction. 
+b) Limited Liability of a Customer:
+A customer shall be liable for the loss occurring due to unauthorised 
+transactions in the following cases: 
+(i) In cases where the loss is due to negligence by a customer, such as 
+where he has shared the payment credentials, the customer will bear the entire 
+loss until he reports the unauthorised transaction to the Bank. Any loss 
+occurring after the reporting of the unauthorised transaction shall be borne by 
+the Bank. 
+(ii) In cases where the responsibility for the Unauthorised Electronic Banking 
+Transaction lies neither with the Bank nor with the Customer but lies elsewhere 
+in the system and when there is a delay (of four to seven working days after 
+receiving the communication from the Bank) on the part of the Customer in 
+notifying the Bank of such a transaction, the per transaction liability of the 
+Customer shall be limited to the transaction value or the amount mentioned in 
+Table 1, whichever is lower. 
+Table 1
+Maximum Liability of a Customer under above paragraph 4.6.2.b (ii)
+Type of Account Maximum 
+liability (₹) 
+• BSBD Accounts 5,000
+33 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+• All other SB accounts.
+• Pre-paid Payment Instruments and Gift Cards 
+• Current / Cash Credit / Overdraft Accounts of MSMEs 
+• Current Accounts/ Cash Credit / Overdraft Accounts of 
+Individuals with annual average balance (during 365 
+days preceding the incidence of fraud)/ limit up to Rs.25 
+lakh 
+• Credit cards with limit up to Rs.5 lakh 
+10,000
+• All other Current / Cash Credit / Overdraft Accounts 
+• Credit cards with limit above Rs.5 lakh 
+25,000
+Overall liability of the customer in third party breaches, as detailed in paragraph 
+4.6.2.a (ii) and paragraph 4.6.2.b (ii) above, where the deficiency lies neither with the 
+Bank nor with the customer but lies elsewhere in the system, is summarised in the 
+Table 2: 
+Table 2
+Summary of Customer’s Liability
+Time taken to report the fraudulent 
+transaction from 
+the date of receiving the 
+communication
+Customer’s liability (₹) 
+Within 3 working days 
+Within 4 to 7 working days 
+ 
+Zero liability. 
+The transaction value or the amount 
+mentioned in Table 1, whichever is 
+lower. 
+Beyond 7 working days Full liability. 
+34 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+The number of working days mentioned in Table 2 shall be counted as per the 
+working schedule of the Home Branch of the customer excluding the date of 
+receiving the communication. 
+Further, if the delay in reporting is beyond seven working days, the customer 
+liability shall be full. For such inordinate delays (beyond seven working days) 
+the Customer shall bear the full liability / loss and the Bank will not bear any 
+loss or liability. However, the Bank may extend its support (by issuing required 
+certificates / statements free of cost) to the Customer, if specifically requested 
+by the Customer, without incurring any liability in any manner, for his efforts for 
+recovering the lost amount from the miscreants.
+4.6.4. Reversal Timeline for Zero Liability / Limited Liability of customer
+On being notified by the customer, the Bank will credit (shadow reversal) the 
+amount involved in the unauthorised electronic transaction to the customer’s 
+account within 10 working days from the date of such notification by the 
+customer. The credit shall be value dated to be as of the date of the 
+unauthorised transaction. 
+ 4.6.5. Burden of Proof
+The burden of proving customer liability in case of unauthorised electronic 
+banking transactions shall lie with the bank.
+4.6.6 Further, Bank will ensure that: 
+a) a complaint is resolved and liability of the customer, if any, established within 
+90 days from the date of receipt of the complaint, and the customer is 
+compensated as per provisions of paragraphs 4.6.2 to 4.6.4 above.
+b) where it is unable to resolve the complaint, or determine the customer liability, 
+if any, within 90 days, the compensation as prescribed in paragraphs 4.6.2 to 
+4.6.4 is paid to the customer: and 
+c) in case of debit card / Bank account, the customer does not suffer loss of 
+interest. 
+35 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+4.7. Collection of Cheques drawn on Foreign Countries: 
+4.7.1 The Bank will not compensate the customer for delays in collection of cheques 
+drawn on banks in foreign countries as the Bank would not be able to ensure 
+timely credit from overseas banks. It is the Bank’s experience that time for 
+collection of instruments drawn on banks in foreign countries differ from country 
+to country and even within a country, from place to place. The time norms for 
+return of instruments cleared provisionally also vary from country to country. 
+4.7.2.The Bank has a network of branches, linked branches and Global Link Services 
+(GLS) Department. GLS uses services of different Correspondent Banks with 
+large volumes, robust systems, suitable technology back up and country 
+specific strengths to provide efficient service. Different Correspondent Banks 
+are able to offer varied customized products to the Bank for risk reduction, 
+quicker collection, improved reconciliation etc. 
+Cooling period for Foreign Currency Cheque collection stipulated in the 
+FOREX manual.
+ 
+ Instruments for collection Cooling period
+USD cheques payable in USA 10 working days
+Traveller’s Cheque,Money Order,Gift 
+cheques in USD
+10 working days
+EURO payable in countries like Austria,
+Belgium, France, Germany, Italy,
+Luxemburg, The Netherland, Portugal 
+&Spain
+11 working days
+GBP payable in UK 14 working days
+CAD less than CAD10000.00 13 working days
+CAD 10000.00 and above NIL
+But holding period of 60 days.
+Other Currencies 21days
+36 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+4.7.3 Time Frame for credit of proceeds of Foreign Currency Cheques: 
+The timeframe for credit of proceeds of Foreign Currency Cheques to the customer’s 
+account will be 10 days from the date of clear credit to NOSTRO account, including 
+cooling period. However, it must not exceed 45 days from the date of deposit of 
+cheques / instruments, except for the cheques / instruments in Canadian Dollar (CAD) 
+for 10000/- & above, where it will be 10 days from credit to NOSTRO account. 
+i. Delay in collection of cheques payable at foreign centres will be construed if 
+the customer’s account is not credited within 10 days i.e. after taking into 
+account the prescribed cooling period for that currency, with the correspondent, 
+from the date of clear credit.
+ii. For the sake of uniformity and clarity, the date of Clear Credit is defined as the 
+date on which clear funds are available in Bank’s NOSTRO Account after an 
+actual or notional cooling period – for actual credit to customers’ account as 
+per Bank’s agreement with the concerned Correspondent Bank. Wherever 
+there is no specific agreement on the cooling period, or the funds are directly 
+collected from a paying bank, the Clear Credit Date will be after observing a 
+cooling period, as per the discretion of the Bank, for that specific currency / 
+country / clearing system, from the date of actual credit to Bank’s Nostro 
+Account. 
+The compensation on account of delay in collection of instruments in foreign 
+currency will be paid in Indian Rupee, as detailed below: 
+a) At Savings Bank rate from the date of clear credit to NOSTRO Account till the 
+date of payment if the period of delay is beyond prescribed collection period. 
+For example: 
+Date of NOSTRO A/C credit 01.08.2017 
+Add 15 days cooling period 16.08.2017 
+To be paid within 10 days 26.08.2017 (No delay) 
+Delayed interest payment, if proceeds are not credited within 26.08.2017.
+The period of delay will be counted from the date NOSTRO a/c was credited 
+to the date of credit to the account (excluding credit date) i.e payment after 
+26th August will entitle payment of interest from 1st Aug 2017 till the date of 
+payment upto 45 days after 26th August 2017.
+37 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+b) In case of abnormal delay, i.e., delay exceeding 45 days, interest will be paid 
+at term deposit rate applicable for the period and for delays beyond 90 days, 
+2% above the applicable term deposit rate. 
+In the above example delay exceeding 45 days (beyond 26/08/17) will be, if not 
+paid till 10th Oct. 2017. 
+Delay/ Abnormal delay Delayed interest @ 
+>45 days to 90 days TDR rate. 
+>90 days 2 % above TDR rate. 
+c) In the event of the proceeds of cheque under collection being required to be 
+credited to an overdraft / loan account of the customer, interest will be paid at 
+the rate applicable to the loan account, if the delay is less than 45 days. For 
+abnormal delays, i.e., beyond 45 days, interest will be paid at the rate of 2 % 
+above the applicable interest rate to the loan account. 
+d) Such interest shall be payable with a minimum of Rs. 25/-. 
+e) Compensation as detailed above shall be paid without any formal demand 
+from customers. 
+f) No separate compensation is payable by the Bank on account of movement 
+in the value of the respective currencies. 
+4.8. Compensation for adverse movement in exchange rates:
+4.8.1. FEDAI Rules – 7.1 Edition effective from 1st July, provide for compensation for 
+delayed collection of export bills, for delayed payment of outward remittances 
+etc. 
+4.8.2. On the assumption that the customer has complied with FEMA guidelines and 
+Bank's requirements, the following Compensation guidelines are prescribed: 
+38 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+a) Payment to Exporter:
+In case of delay beyond the date when the Forex amount is due for credit, 
+compensation is payable for adverse movement of exchange rate. The compensation 
+will be decided as follows: 
+(i) In case the rate ruling on the date of payment is better for the customer 
+compared to the rate that was ruling on the day the amount was due for 
+credit, no compensation needs to be paid. 
+(ii) In case the rate ruling on the date of payment is adverse for the customer 
+compared to the rate that was ruling on the day the amount was due for 
+credit, compensation shall be determined as 50 % of the difference between 
+the two rates. 
+Note: If the exporter has expressed willingness to keep part of the proceeds in 
+EEFC A/c, no compensation would be payable for the amount not converted. 
+b) Payment of foreign inward remittances:
+All remittances up to USD 5000/- or equivalent meant for retail customer (i.e. 
+individuals) are to be converted at the prevailing Card Rates and credited to 
+their respective account immediately. However, for the convenience of the 
+customer, the facility may be extended up to USD 10,000 or equivalent. Since 
+Inward Remittance Cell (IRC) at Global Market Unit (GMU) Kolkata will put 
+through conversion transactions up to USD 10,000 or equivalent and as per 
+FEDAI guidelines customer consent is required for remittances above USD 
+5000 equivalent, there may be occasions where the customer might require the 
+remittances proceeds in Foreign Currency (FC). In such cases, IRC will 
+facilitate re-conversion at level rate within 07 days from the date of 
+transaction(s) as and when requested by the Branch on behalf of customer. 
+Compensation would be payable: 
+(i) If the remittance is not converted within 10 days of receipt of remittance 
+advice from abroad and 
+(ii) There is an adverse movement of exchange rate between the date of 
+payment and the last due date. 
+39 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+(iii)The quantum of compensation would be determined as 50 % of the 
+difference between the rates ruling on those dates (i.e. on the due date 
+of payment and the date of conversion). 
+4.9. Collection of cheques payable in India
+4.9.1. Payment of Interest for delayed Collection of Outstation Cheques: 
+As part of the Compensation Policy of the Bank, the Bank will pay interest to 
+its customers on the amount of collection instruments in case there is delay in 
+giving credit beyond the time period specified in Bank’s Cheque collection 
+policy, which is as under: 
+ SBI
+ Branches
+Branches of other Banks
+a) Collections between 
+Metropolitan Centres/ Major 
+‘A’ Class Cities 
+(Mumbai,Chennai, Kolkata, 
+New Delhi, Ahmedabad, 
+Bangalore & 
+Hyderabad) 
+6 days 7 days
+b)Collections between places 
+at (a): above and State 
+Capitals(other than North 
+Eastern States & Sikkim) and 
+Area I Cities, i.e. Pune, Nagpur, 
+Kanpur, Surat, Visakhapatnam, 
+Vadodara, Kochi, Indore,
+Ludhiana, Coimbatore, Agra, 
+Madurai and Varanasi 
+8 days 10 days
+c)Collections between all other : 
+centres
+10 days 14 days
+40 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+4.9.2. Interest for delayed collection shall be paid at the following rates:
+a) For collection of Cheques drawn on SBI, Saving Bank rate for the period of 
+delay beyond 6 / 8 days 4.9.1 (a) & (b) and 10 days for 4.9.1 (c), (interest 
+will be payable) from 7th/ 9th day for the centres (a)& (b) and 11th day for the 
+centre (c). 
+b) Saving Bank rate for the period of delay beyond 7 / 10 / 14 days, as the case 
+may be, in collection of outstation cheques drawn on other banks, i.e. [the 
+interest will be payable] from 8th /11th / 15th day. 
+c) Where the period of delay is beyond 14 days, interest will be paid at the rate 
+applicable for term deposit for the corresponding period or Saving Bank rate, 
+whichever is higher. 
+d) In case of extraordinary delay, i.e. delays exceeding 90 days, interest will 
+be paid at the rate of 2% above the corresponding Term Deposit rate. 
+e) In the event of the proceeds of cheque under collection to be credited to an 
+overdraft / loan account of the customer, interest will be paid at the rate 
+applicable to the loan account. For extraordinary delays, i.e. delays 
+exceeding 90 days, interest will be paid at the rate of 2% above the rate 
+applicable to the loan account. 
+4.9.3. Interest as above shall be payable with a minimum of Rs.25/-. Such interest 
+shall be paid without any demand from customers in all types of accounts. 
+4.10. Compensation for delay in clearance of Local Cheques:
+4.10.1. Cheques deposited in the drop-box within branch premises, before the 
+specified cut-off line will be sent for clearance on same day, for which the 
+clearance period will be T+1 working days. Cheques deposited after the cut-off 
+time will be sent for clearing on next day, for which clearance period will be T+2 
+working days. 
+4.10.2. The compensation to the customers is payable in case of delay in clearance 
+of local cheques beyond above stipulated period in all types of accounts at 
+Savings Bank interest rate. 
+41 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+4.10.3. Bank shall also permit usage of the shadow credit afforded to the customers’ 
+account immediately after closure of relative return clearing and withdrawal 
+may be allowed on the day of affording shadow credit or maximum within an 
+hour of the commencement of business on the next working day, subject to 
+usual safeguards. 
+4.11. Compensation for loss of Cheques / Instruments in transit
+a) In the event a cheque or an instrument accepted for collection is lost in 
+transit or in clearing process or lost by the Service Provider ( in case of 
+CMP), the Bank shall immediately, on coming to know of the loss of 
+instrument, bring the same to the notice of the account holder so that 
+the account holder can inform the drawer to record stop payment and 
+also take care that cheques, if any, issued by him / her are not 
+dishonoured due to non-credit of the amount of the lost cheque / 
+instrument. The Bank would provide all assistance to the customer to 
+obtain a duplicate instrument from the drawer of the cheque. 
+b) In case intimation regarding loss of instrument is conveyed to the 
+customer beyond the time limit stipulated for collection, as per the 
+Cheque Collection Policy of the Bank, (7 / 10 / 14 days as the case may 
+be) interest will be paid for the period beyond the stipulated collection 
+period at the rates specified in para 4.9.2 above for cheques payable in 
+India and at rates specified at Para 4.7 above in regard to cheques 
+payable abroad. 
+c) Bank will pay interest on the amount of the cheque for a further period 
+of 15 days at Savings Bank rate to provide for possible further delay in 
+obtaining duplicate cheque /instrument and collection thereof. 
+The Bank would also compensate the customer for any reasonable charges which he 
+/ she incurs in getting duplicate cheque / instrument upon production of receipt, in the 
+event the instrument is to be obtained from a Bank / institution who would charge a 
+fee for issue of duplicate instrument, subject to a maximum of Rs. 250/-. 
+42 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+4.11.A Delayed Collection of Bills: Payment of interest for Delay in
+ collection of Bills:
+The lodger’s bank should pay interest to the lodger for the delayed period in 
+respect of collection of bills at the rate of 2% p.a. above the rate of interest 
+payable on balances of Savings Bank accounts. The delayed period should be 
+reckoned after making allowance for normal transit period based upon a time 
+frame of 2 days each for (i). Dispatch of bills; (ii) Presentation of bills of drawee 
+(iii) Remittance of proceeds to the lodger’s bank (iv) Crediting the proceeds to 
+drawer’s account. 
+4.12. ATM Failure: Compensation to customer for settlement of disputed ATM 
+ transactions / Automated Deposit cum Withdrawal Machine (ADWM): 
+4.12.1 A ‘failed transaction’ is a transaction which has not been fully completed due 
+to any reason not attributable to the Customer such as failure in communication 
+links, non-availability of cash in an ATM, time-out of sessions, etc. Failed 
+transactions shall also include the credits which could not be effected to the 
+beneficiary account on account of lack of full information or lack of proper 
+information and delay in initiating a reversal transaction. As per RBI instructions 
+issued vide Circular No. RBI/2019-20/67 DPSS.CO.PD 
+No.629/02.01.014/2019-20 dated 20th September 2019, if an ATM transaction 
+is failed or not complete due to any reason not attributable to the customer 
+such as failure in communication links, non-availability of cash in an ATM, timeout of sessions, etc. it should be pro-actively reversed / auto-reversed in 
+customers account within a maximum of T + 5 days (where T is the day of 
+transaction and refers to the calendar date). Accordingly, failure to re-credit the 
+customer’s account within T+5 days, the bank should pay compensation @ 
+Rs.100/- per day of delay beyond T + 5 days suo moto, without waiting for a 
+complaint or claim from the customer.
+Compensation as per RBI circular will be applicable for following:
+Description of Incident Compensation payable
+ATM including Micro ATMs
+customer’s account debited but cash
+₹ 100/- per day of delay beyond T + 5 days,
+to the credit of the account holder. 
+43 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+not dispensed. 
+Card Transaction 
+Card to card transfer Card account 
+debited but the beneficiary card
+account not credited. 
+₹ 100/- per day of delay beyond T + 1 day. 
+Point of Sale (PoS) (Card Present) 
+including Cash at PoS Account
+debited but confirmation not received 
+at merchant location i.e., charge-slip
+not generated. 
+₹ 100/- per day of delay beyond T + 5 days. 
+Card Not Present (CNP) (ecommerce) Account debited but 
+confirmation not received at 
+merchant’s system. 
+4.12.2 In case of dispute in regard to delayed credit to the customer’s account from 
+Automated Deposit cum Withdrawal Machine (ADWM), the Bank will pay the 
+interest at the applicable rate of the customer’s deposit / overdraft / loan 
+account for the delayed period, after due verification. However, in case of any 
+dispute related to genuineness of the currency deposited in the ADWM, it will 
+not be covered under Bank’s compensation policy. Authority structure for 
+reversing of compensation through BGL 2399995(Which was paid by debit to 
+BGL 98581 by GITC under RBI’s Harmonisation of TAT in respect of ATM failed 
+transactions).
+a) Branches are required to obtain approval from their respective DGM(B&O) 
+through their RBO for putting through debit entries in BGL 2399995 for eventual 
+reversal of outstanding compensation related entries lying in BGL 98581.
+b) All the approvals are required to be put up to their respective Network General 
+Manager by DGM(B&O) for control.
+44 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+c) A fortnightly report is required to be put to Chief General Manager of the circle 
+by DGM(B&O) for information.
+Deposit/Withdrawal transactions in SBI ATMs/ADWMs: Awareness for 
+Customers
+After completion of transactions, customers shall ensure that welcome screen is 
+displayed on ATM screen before leaving the premises.
+4.12.3 Technical failure: Compensation to customers for
+ Mobile Banking / Internet Banking (MBS / INB) / Mobile wallets and 
+ Other Digital Products: 
+ In case of dispute with regard to unsuccessful transactions in MBS / UPI / INB 
+due to technical fault / error, in addition to auto reversal of such entries by the 
+System compensation will be paid as per table
+Description of Incident Compensation payable
+Immediate Payment System (IMPS) 
+Account debited but the beneficiary.
+account is not credited.
+₹ 100/- per day of delay beyond T + 1
+days, to the credit of the account holder. 
+Unified Payments Interface (UPI) 
+Account debited but the beneficiary.
+account is not credited (transfer of funds). 
+₹ 100/- per day of delay beyond T+1 days.
+Account debited but transaction
+confirmation not received at merchant.
+location (payment to merchant). 
+₹ 100/- per day of delay beyond T+ 5 days.
+Aadhaar Enabled Payment System 
+(including Aadhaar Pay)
+₹ 100/- per day of delay beyond T+ 5 days. 
+45 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+a. Account Debited but transaction 
+confirmation not received at 
+Merchant location.
+b. Account Debited, but beneficiary 
+account not credited.
+Aadhaar Payment Bridge System
+(APBS)
+Delay in crediting beneficiary’s account
+₹ 100/- per day of delay beyond T+ 1 days. 
+National Automated Clearing House
+(NACH)
+a. Delay in crediting beneficiary’s 
+account or reversal of amount.
+b. Account debited despite revocation 
+of debit mandate with the Bank by 
+the customer
+₹ 100/- per day of delay beyond T+1 days. 
+Prepaid Payment Instruments (PPIs) 
+– Cards or Wallets.
+Off-us transactions.
+The Transaction will ride on UPI, Card
+Network, IMPS etc, as the case may be.
+The compensation rule of respective
+system shall apply.
+Prepaid Payment Instruments (PPIs) 
+– Cards or Wallets.
+On us transaction:
+a. Beneficiary’s PPI not credited.
+b. PPI debited, but transaction 
+confirmation not received at 
+Merchant location
+₹ 100/- per day of delay beyond T+ 1 days. 
+46 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+4.13 Compensation for Delay in Pension Payment:
+4.13.1 As per RBI instructions, pension (normal pension) of Central / State 
+Govt. pensioners should be credited to their account on any of the last four 
+working days of each month, except the pension for March every year which 
+will be credited on the first working day of April. 
+4.13.2 As regards disbursing revised pension / arrears, pensioners should get 
+the revised pension / arrears on the last day of the succeeding month, after the 
+month in which the concerned Government announces the revision and date 
+for implementation. In other words, each Agency Bank is getting adequate 
+reaction time ranging from 30 to 60 days to obtain the revised parameters from 
+the respective Government department and implement the same in time. 
+ 4.13.3 The concerned pensioner should be compensated for delay beyond the 
+due date (last date of the succeeding month subsequent to the month of issue 
+of order by the concerned Government Department) at the rate of 8% (fixed 
+rate) on the revised pension / arrears for the delay period. This compensation 
+shall be credited to the pensioner’s account automatically without any claim 
+from the pensioner in respect of all delayed pension payments made since 
+October 1, 2008. 
+4.13.4 In case of very complicated pension cases requiring reference back to 
+the respective Government / Department, the due date would commence from 
+the date of obtention of final clarification from the Government concerned.
+4.14. Compensation for delay in Issuance of Duplicate IOI (Inter Office Instrument): 
+Duplicate IOI will be issued within 7 working days from the date of receipt of 
+such request from the purchaser thereof. For delay beyond the above 
+stipulated period, interest at the rate applicable for Fixed Deposit of 
+corresponding period will be paid for the delay beyond 7 days as 
+compensation to the customer. 
+4.15. Payment of “at par” Cheques issued by other Banks
+4.15.1 Bank will not pay any compensation, to the cheque holder, for dishonour of "at 
+par" cheques issued by other banks, including co- operative banks, in the 
+absence of adequate funds in the account on which cheques are issued even 
+47 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+though the amount of the cheque may have been paid to the Bank, which had 
+issued the "at par" cheque. 
+4.15.2 RBI instructions stipulate that banks will not honour cheques drawn on current 
+accounts maintained by other banks with it, unless arrangements are made for 
+funding cheques issued. Issuing bank shall be responsible to compensate the 
+cheque holder for non-payment of cheques in the absence of adequate funding 
+arrangement. 
+4.16. Lenders’ liability: Commitments to borrowers:
+The Bank has adopted the principles of “Lenders’ liability”. In terms of 
+guidelines for “lenders’ liability” and the “Code of Bank’s commitment to 
+customers” adopted by the Bank, the Bank would return to the borrowers all 
+the securities / documents / title deeds of the mortgaged property within 15 
+days of repayment of all dues agreed to or contracted, subject to any other right 
+/ lien / claim by the Bank till the relevant claim is settled / paid. If any right to 
+set off is to be exercised for any other claim, Bank shall give due notice with 
+full particulars about the other claims and retain the securities / documents / 
+title to mortgaged property till the relevant claim is settled / paid. In the event 
+of loss of title deeds to mortgaged property at the hands of the Banks, the 
+compensation will cover out of pocket expenses for obtaining duplicate 
+documents on actual basis subject to a ceiling of Rs.5000/- plus a lump sum 
+amount, as decided by the Bank in the following manner: 
+“The bank would pay the compensation for delay in return of 
+securities/documents/title deed of the mortgaged property beyond 15 
+days of repayment of all dues agreed to or contracted, subject to above 
+conditions,@Rs.100/- per day (Maximum Rs.5000/-) to the borrower”.
+4.17 Compensation for wrongful dishonour of cheques / ECS / SI: 
+In case of complaints received from the customers for wrongful dishonour of 
+cheques / ECS / SI, the Bank shall take appropriate steps to investigate the 
+reason for such lapses and shall communicate to the customer within 7 working 
+days from the date of receipt of complaint. Otherwise, the Bank may 
+compensate the customer suitably for financial loss as decided by the Bank 
+48 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+with minimum of Rs.100/- per day for the period of delay, subject to a maximum 
+of Rs. 1,000/-, wherever justified. 
+4.17.1 Compensation payable to the customers on account of non-compliance / 
+non-updating of customer instructions (for example non-updating of 
+mobile number / mode of operation / signature of customer etc)
+In such cases, the Bank shall take appropriate steps to investigate the reason 
+for such lapses and shall communicate to the customer within 7 working days 
+from the date of receipt of complaint. Otherwise, the Bank may compensate the 
+customer suitably for financial loss as decided by the Bank with minimum of 
+Rs.100/- per day for the period of delay, subject to a maximum of Rs. 1,000/-, 
+wherever justified. 
+4.18 Compensation in case of delay on the part of the Bank to upload Application 
+Supported by Blocked Amount (ASBA):
+4.18.1 The following operational / technology issues may result in delay or failure on 
+the part of the Bank to upload ASBA applications. This is an illustrative list and 
+not exhaustive.
+a) Bank’s INB portal is down. 
+b) Bid data accepted for customer data entry but not captured / retained in Bank’s 
+System. 
+c) Omission of lien marking in the account but bid in the exchange site. 
+d) Lien marked in the account but bid data not uploaded by Bank in the exchange 
+site. 
+e) ASBA application received, acknowledgement given to applicant, but bid not 
+uploaded in the exchange site. 
+f) Bid amount & quantity and Application amount & quantity differs due to data 
+entry error by Bank’s staff. 
+g) Lien marked in the wrong account. 
+4.18.2 The proposed formula for calculation of minimum fair compensation is as 
+follows: Compensation = (Listing price - Issue Price) X (No. of shares that 
+would have been allotted if bid was successful) X (Probability of allotment 
+of shares determined on the basis of allotment) 
+49 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+(Listing price shall be taken as the highest of the opening price on the day of 
+listing across the recognized Stock Exchanges.)
+It is also proposed that in case of issues which are subscribed between 90 -
+100%, i.e. non-oversubscribed issues, the applicants would be compensated 
+for the shares which they would have been allotted. 
+No compensation would be payable to the applicant in case the listing 
+price is below the issue price. 
+Registrar to an Issue and Shares Transfer Agents (RTAs) shall share the basis 
+of allotment file, if sought by the Bank, so that the Bank shall have access to 
+the allotment ratio for the purpose of arriving at the compensation. 
+Any applicant whose application has not been considered for allotment, due to 
+failure on the part of the Bank shall have the option to seek redressal of the 
+same within three months of the listing date. On receipt of such application/s, 
+Bank would be required to resolve the same within 15 days, failing which it 
+would have to pay interest at the rate of 15% per annum for any delay beyond 
+the said period of 15 days.
+4.19. Violations by Bank’s Agents
+In the event of receipt of any complaint about any improper act / conduct on the part 
+of agent, in violation of the Code of the Bank’s commitment to customers which the 
+Bank has adopted voluntarily, the Bank shall take appropriate steps to investigate and 
+redress the complaint and endeavour to communicate to the customer within 7 
+working days from the date of receipt of complaint and, where justified, may 
+compensate the customer suitably for financial loss as decided by the Bank. Also, 
+necessary steps will be taken, if required as per Bank’s decision, to prevent 
+recurrence of similar complaints. 
+4.20 Liability of Bank for any loss/damage to the contents of Lockers (effective
+ from 01.01.2022)
+The Bank will take all steps for the safety and security of the premises in which the
+safe deposit vaults are housed. It has the responsibility to ensure that incidents like
+fire, theft / burglary / robbery, dacoity, building collapse do not occur in the bank's
+premises due to shortcomings, negligence and by any act of omission /
+50 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+commission. In instances where loss of contents of locker are due to incidents
+mentioned above or attributable to fraud committed by its employee(s), the Bank's
+liability shall be for an amount equivalent to one hundred times the prevailing annual
+rent of the safe deposit locker.
+4.21 Timeline for payment of compensation
+The amount of compensation for deficiencies in various categories of Banking 
+Services as mentioned in this Policy will be paid to the customers within 15 (fifteen) 
+days after the deficiency is acknowledged.
+4.22 Authority for payment and control reporting 
+The amount of compensation paid at the branch shall require post facto approval by 
+the Controller of the Branch who shall in turn put up Control Report to his Controllers. 
+5. Automation of payment of compensation in CBS: 
+IT-CBS Development department has developed the necessary functionality related 
+to automation of payment of compensation for the following deficiencies in CBS and 
+rolled out the same since November 2013. Detailed operational guidelines in regard 
+to payment of compensation to the customers on account of deficiencies in the 
+services have been circulated by way of e-Circular No.: NBG/BOD-GB/70/2014 – 15 
+dated 05th November 2014: 
+a) Unauthorised / erroneous debit. 
+b) ECS direct debits / other debits to accounts 
+c) Issue of ATM / Debit cards without written consent of customers. 
+d) Payment of cheques after acknowledgement of stop payment instruction at 
+Home Branch. 
+e) Compensation for delayed collection of export bills / payment of foreign inward 
+remittances etc., adverse movement of forex rates and also payment of interest 
+for delay in payment to the exporters on export bill sent for collection and realized 
+by authorized dealers. 
+f) Delay in credit / return of NEFT / NECS / ECS transactions 
+g) Collection of cheque drawn on Foreign countries 
+h) Cheque, lost in Bank’s custody, payable in India 
+51 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+i) Cheque, lost in Bank’s custody, payable in foreign countries 
+j) Disputed ATM transactions 
+k) Delay in credit of pension 
+l) Delay in issuance of duplicate IOI. 
+m) Lenders’ liability, delay in return of securities documents 
+6. Customers’ Responsibility:
+6.1. Bank will not be responsible for the loss to the customers due to customer’s 
+carelessness in keeping the Cheque book, passbook, cards, PIN or other 
+security information and not following “Do’s and Don’ts” issued by the Bank, 
+until the Bank has been notified by the customer. 
+6.2. The Bank will not be responsible for the loss to the customer if the customer 
+acts fraudulently and / or acts without reasonable care which has resulted in 
+loss to him / her. Bank will also not be responsible for the losses arising out 
+of misuse of lost PIN, compromise of passwords or confidential information, 
+until the time the Bank has been notified of such loss/compromise and the Bank 
+has taken steps to prevent its misuse. 
+7. Disclaimer clause:
+Notwithstanding anything contained hereinabove, the Bank shall not pay any 
+compensation in the following cases: -
+a) Any alleged deficiency in regard to loans and advances activities of the Bank. 
+b) Dishonour of at par payment agreement with other banks, due to non-funding 
+and security compliance. 
+c) In case of delay on account of non-functioning of business due to factors 
+beyond the control of the bank the period covered by such events shall be 
+omitted for calculation of delay etc. 
+d) Where the issues are sub-judice and pending before Courts, Ombudsman, 
+arbitrator, Government and matter put on hold due to stay.
+8. Force Majeure:
+The Bank shall not be liable to compensate customers under this Policy if some 
+unforeseen event including but not limited to civil commotion, sabotage, lockout, 
+52 | P a g e
+ Customer Rights, Grievance Redressal and Compensation Policy – 2023 
+strike or other labour disturbances, accident, fire, natural disasters, pandemic or 
+other “Acts of God", war, damage to the Bank's or its correspondent bank(s) 
+systems, communication channels etc. beyond the control of the Bank, prevents 
+it from performing its obligations within the specified service delivery parameters. 
+9. Amendment / Modification of the Policy:
+The Bank reserves the right to amend/modify this Policy, as and when deemed fit and 
+proper, at its sole discretion. The Bank shall arrange to review the Policy at annual 
+intervals. If any change is subsequently approved to this policy, consequent upon any
+change in subsequently regulatory guidelines / operating instructions etc; such
+changes and approvals, with the concurrence of Managing Director (RB & O), shall be
+deemed to be part of the policy till the policy is comprehensively reviewed.
+10. References of Circulars / Guidelines used for drafting Compensation 
+Policy 2023.
+1. Model Compensation Policy of IBA.
+2. Master Circular on Customer Service in Banks 2015 (RBI Circular 
+DBR.No.Leg.BC.21.09.07.006/2015-16 dated 01.07.2015).
+3. RBI Notification no. DBR.No.Leg.BC.78/09.07.005/2017-18 dated 06.07.2017.
+4. RBI Notification no..DPSS.CO.PD.No.629/02.01.014/2019-20 dated 20th
+September 2019.
+5. RBI FAQ on NEFT System updated as on 28.04.2020.
+6. RBI FAQ on RTGS system updated as on 07.01.2021
+7. RBI revised instructions on Safe Deposit Locker / Safe Custody Article Facility 
+provided by the banks vide their Notification No RBI/2021-2022/86 
+DOR.LEG.REC/40/09.07.005/2021-22 dated 18.08.2021.

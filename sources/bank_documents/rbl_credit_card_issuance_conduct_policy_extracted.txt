@@ -1,0 +1,513 @@
+Policy For Credit Card Issuance and Conduct
+Policy For Credit Card Issuance and Conduct - RBL Bank is a guidance framework adopted by the 
+bank to enlist guidelines that are relevant for current or future credit card customers to 
+understand issuance and conduct of credit cards. The broad framework covers the service 
+offerings of credit cards and binding governance mechanism in place. This policy is in 
+consonance with RBI’s circular (Master Direction – Credit Card and Debit Card – Issuance and 
+Conduct Directions, 2022) and is subject to change in accordance with developments in 
+regulatory directions or internal policies. This framework will be reviewed yearly to encapsulate 
+any change in internal policies, processes, or external factors.
+ 
+Page 2 of 16
+Index
+• Section 1: Type of Credit Card Programs
+• Section 2: Our Acquisition Channels
+• Section 3: Our Credit Policy and Checks
+• Section 4: Our KYC (Know your Customer) Policy
+• Section 5: Capturing Customer Consent
+• Section 6: Co-branding Arrangement and Roles
+• Section 7: Post-Onboarding customer engagement/Cross-Sell
+• Section 8: Fees and Charges
+• Section 9: Collections Policy
+• Section 10: Services and Grievance Redressal
+• Section 11: Reporting of Information to Credit Information Companies
+• Section 12: Compliance with other Instructions
+ 
+Page 3 of 16
+Section 1: Type of Credit Card Programs
+Credit Card product provides revolving credit facility to the cardmember and can be used as a 
+payment mechanism for settling amount due against purchase of goods and / or services and 
+can also be used for cash advances. Primary engagements for bank’s credit cards are bifurcated 
+into 2 main programs: 
+1. Retail (including Co-brand) Program
+2. Corporate or Commercial or Business (including co-brand) Program
+3. Secured Credit Cards: Fixed Deposit (FD) based Credit Card Program
+1. Retail Program 
+Bank provides a host of credit cards to individual borrowers with diversity in offerings targeted 
+to various customer segments. Bank has bouquet of solely bank owned proprietary cards for 
+affluent, mass and millennial segments along with the co-brand cards in partnership with 
+merchants, technology players or distribution franchise to service the customers with solutions 
+to their varied financial needs. In addition, bank may also provide add-on cards to existing 
+primary cardmembers as per their request. A co-brand credit card is jointly sponsored by the 
+bank and the merchant where co-brand partner does the origination of customers, and Bank 
+manages the credit assessment, acceptance, line/account management and client service etc. 
+Below is the Bank’s website link where all Cards that are currently being sourced (may change 
+with time) under retail program are listed:
+https://www.rbl.bank.in/personal-banking/cards/credit-cards/category
+2. Corporate/Commercial Program
+RBL Bank offers a range of commercial/corporate cards designed to support expense 
+management in SME, mid-sized and large corporates. The products are offered basis various 
+programs under company payment liability. Additionally, these cards could either be charge 
+cards (no revolve), or cards which allow for limited revolve. The entity needs to make the 
+payment as per the product setup. The card member is not allowed to split the transactions 
+done using this card into an EMI.
+Bank also has a co-branded commercial card with RazorpayX, designed to give the bank access 
+to the merchant’s customer base.
+3. Secured Credit Cards/Fixed Deposit (FD) based Credit Card Program
+Retail Program: The Bank may offer Secured Card (FD backed credit card) to the existing 
+customers who are holding fixed deposit account with Bank or agrees to open a new FD with 
+the Bank Secured cards are offered with credit limit basis the FD lien value (governed by the 
+credit policy). The Bank may offer its Proprietary Credit Card or Co-brand card to the customer 
+under the Secured Card program.
+ 
+Page 4 of 16
+Corporate/Commercial Program: May be offered against a fixed deposit with certain criteria. 
+The terms may be altered by the Bank, however 30 days’ notice shall be given to the 
+cardmember. After the notice period of 30 days, the cardmember would be deemed to have 
+accepted the terms. 
+Section 2: Our Acquisition Channels
+Bank utilizes various channels to acquire customers. Either prospects can self-initiate the 
+application request through digital or bank’s branch channel or bank will directly reach out 
+through below listed means to understand the interest of a prospect and fulfil the application 
+for issuance of credit card:
+▪ Digital Sourcing – marketing campaigns through SMS, email, web, etc. or customer can selfapply on Bank website.
+▪ Branch Sourcing/ Cross-sell to existing bank customers – branch walk-ins; application 
+request through MyBank app, ATM, inbound call centers; cross-sell to prequalified base, 
+secured card against FD etc. 
+▪ Through Storefront channels – identified marketplaces where outsourced employees 
+advertise and fulfil credit card applications.
+▪ Tele sales Sourcing – fresh tele-calling to the identified eligible base
+▪ Direct Sales Team – RBL field representatives reaching out to prospects through market 
+sourcing.
+▪ Co-brand Partner-led system – Credit card applications initiated through co-brand partners’ 
+platforms, including partner websites or integrated application systems.
+Credit Cards can be sourced through both digital modes as well as via physical application 
+depending on the source of application.
+Section 3: Our Credit Policy and Checks
+Every customer application goes through all or some of the checks and scorecard-based 
+underwriting where the applicants are assessed through analytics driven model.
+▪ Scorecard based analytical assessment: At the time of applying, basis application score 
+model, which includes but not limited to parameterized criteria and bureau behaviour the 
+customer is either approved, declined, or conditionally approved. Only approved and 
+conditionally approved applications are passed to the next level assessment. This tool is 
+reviewed and enhanced basis the portfolio performances from time to time. 
+▪ Credit checks and underwriting: Basis customer segment type (Salaried/Self Employed etc.) 
+and bureau history.
+▪ Contactability check and transparency in communication: At various stages of the 
+application flow journey, contact may be established with the applicant for the purpose of 
+ 
+Page 5 of 16
+verification and/or sharing of useful information regarding the applied product and for post 
+issuance engagement/account information. 
+▪ Credit Limit assignment: Credit limit is assigned to an approved card post assessing a 
+customer’s credit profile which is based on factors such as cardmember’s profile, bureau 
+history, overall current exposure and past re-payment track records.
+Bank is doing income assessment using account aggregator platform for underwriting 
+decisions.
+Credit Limit Management: Credit limit of the cardmember is revised (Increase or Decrease)
+basis the cardmember’s behaviour/performance/repayment track.
+Credit limit increase: Credit limit increase is based on a pre-approved offer according to the 
+bank's internal policies, or cardmembers who request a limit increase who are not part of a preapproved credit limit offer will need to send Income documents to check the limit increase 
+facility. Explicit consent of the cardmember shall be obtained during any subsequent 
+enhancement of credit limits.
+Commercial/Business cards consider underwriting of the corporate entity while determining 
+the eligibility and limit assessment. All programs focus on financial due diligence of the 
+corporate and not the individual.
+Framework for Card Deactivation, Suspension & Blocking
+Card Deactivation:
+As per RBI guidelines on ‘Enhancing Security of Card Transactions’, all Credit Cards are issued in 
+a deactivated state for security purpose. These cards are enabled for use only at contact-based 
+points of usage [ATMs and Point of Sale (PoS) devices] within India. Cardmembers can use 24*7 
+Mobile Banking/ Bank’s website/ Helpline to switch on / off and set / modify transaction limits.
+Card suspension and blocking:
+Bank at its sole discretion can temporarily suspend the card. The suspension can either be 
+removed or the card may get permanently blocked depending upon Bank’s policy.
+Analytical alert based block / suspension may be placed when the Bank observes any adverse 
+trigger on cardmember account: 
+1. Event based such as customer moving into High- Risk segment, card usage for transactions 
+related to online forex trading, lotteries, betting, gambling, Bitcoins or any form of virtual 
+currency / demographic change then the Bank may take a series of actions culminating into 
+card block.
+2. Instruction based such as alert triggered by external agencies like regulatory/government 
+agencies (DOT, I4C-MHA, Law Enforcement Agency (LEA), NPCI etc), Credit Bureaus, usage 
+on blocked MCCs etc.
+ 
+Page 6 of 16
+3. Transaction based such as when the Bank identifies suspicious transaction and 
+cardmember is non contactable for confirmation of transaction.
+4. Also, In case of no activity on the card by the cardmember from time to time.
+Rule Based Blocks / suspension may be placed under the following scenarios:
+1. Rule-based block may be placed due to displayed bad behaviour (non-payment of dues).
+a. Due to Non-payment of dues.
+b. Settlement: When cardmember has demonstrated inability to re-pay due amount and 
+has been given waiver on total amount outstanding, this is called Settlement. 
+2. When cardmember has agreed to take better variant card, existing card gets blocked.
+3. Transaction Dispute: When a dispute has been reported by cardmember.
+4. Inactive closure: Cardmembers who have not used their cards for 37 days from origination 
+date or have remained inactive for 12 months.
+5. Cardmember initiated request for card closure.
+6. Deceased cardmember: In case of cardmember’s death.
+7. KYC Block: This is placed when cardmembers fail to submit their KYC documents.
+8. Legal Action Initiated against cardmember.
+9. Return to origin: Block is placed when despite attempts, card has not been delivered to 
+cardmember.
+10. Lost or Stolen: Blocked on intimation from cardmember that his/her card has been lost or 
+stolen.
+11. Cardmember initiated potential dispute on card or transactions.
+Section 4: Our KYC (Know your Customer) Policy
+During the application journey, as a standard process KYC mechanisms are used as per latest 
+KYC regulations issued by RBI for KYC completion to onboard credit card customers as well as 
+for re-KYC purpose. Below are the KYC approaches that can be followed as per applicant’s 
+choice:
+ 
+Page 7 of 16
+KYC for Credit Cards Application:
+KYC Mode 1: eKYC + Video KYC
+Applicant requesting for RBL Bank Credit Cards through various channels will be required to 
+authenticate their Aadhaar details through OTP as a pre-requisite for completion of KYC process. 
+Those applicants who complete eKYC can complete all the details required for application 
+completion on digital form and then can schedule Video KYC as per preferred time, which will 
+be assessed by an independent checker. 
+KYC Mode 2: Biometric KYC 
+Applicant may opt to fulfil KYC requirement through biometric where bank associated agent will 
+meet the applicant to complete the KYC requirement. The agent will assist applicant in 
+conducting biometric KYC. 
+KYC Mode 3: Physical KYC 
+Applicant should have Officially Valid Documents (OVD) of current address as per RBI circular on 
+KYC and bank officer will validate applicant’s personal and demographic details with the 
+provided document.
+KYC Mode 4: Unified KYC
+For existing RBL Bank customers applying for an additional products or services, the KYC, 
+already available with the bank, will be leveraged at the time of application.
+KYC Mode 5: C-KYC
+Bank will leverage C-KYC portal for KYC basis customer consent.
+KYC for add-on Cards 
+For add-on Cards, only Identity proof of applicant will be taken. Below documents will be 
+accepted for add-on Cards: 
+▪ PAN NO.
+▪ Passport 
+▪ Voter ID Card 
+▪ Aadhaar/ Proof of possession of Aadhaar 
+▪ Driving License
+For the purpose of issuance of add-on Cards, above documents will be accepted through 
+primary cardmember’s registered email id.
+ 
+Page 8 of 16
+KYC for address change 
+Customer has to provide valid OVD documents as per the current CDD standards through 
+following modes in case there is a request of address change on card account:
+▪ Registered email ID 
+▪ OTP Based EKYC
+▪ Registered mobile number 
+▪ Digital Channels – Online Banking/MyCard/MyBank/Chatbot
+▪ Bio Metric based KYC
+Post declaration, due diligence is conducted by bank on the declared address.
+Re-KYC basis risk tagging: 
+In line with RBI guidelines, Bank conducts re-KYC basis the risk categorization of all credit card 
+customers following which the respective customers are requested (through various channels) 
+to share their latest KYC. In case the customer fails to submit the same, card account may get 
+blocked.
+Risk categorization grid with frequency of KYC is as below:
+Risk Categorization Frequency
+High Every 2 years from account opening
+Medium Every 8 years from account opening
+Low Every 10 years from account opening
+For the above purpose, below modes shall be applicable for KYC:
+No Change in Address/KYC (individuals): 
+If the KYC available in bank records is valid and as per current standards, we shall obtain selfdeclaration from the individual through following modes: 
+▪ Registered email Id 
+▪ Registered Mobile Number 
+▪ Digital Channels – Online Banking/MyBank/MyCard/Chatbot 
+No address verification would be needed if there is no change in customer’s address.
+ 
+Page 9 of 16
+Only Address change during REKYC (individuals): 
+OVD to be provided or if the KYC available in bank records is valid and as per current standards 
+obtain Self declaration from the Individual through following modes: 
+▪ Registered email id 
+▪ OTP Based EKYC
+▪ Registered Mobile Number 
+▪ Bio Metric based KYC
+▪ Digital Channels – Online Banking/MyBank/MyCard/Chatbot 
+Due diligence is conducted by bank on the declared address.
+Commercial / Business cards are issued after conducting KYC of the corporate and individual 
+(each user). Corporate KYC is conducted after verifying corporate establishment due diligence 
+and individual KYC can be done using any of the above-mentioned approaches.
+Section 5: Capturing Customer Consent:
+Bank captures explicit consent from customers through various modes on customer’s interest 
+and application processing for credit card product or other additional value offerings. 
+Credit Card: 
+For the issuance of credit card, customer’s consent for application, associated terms, KYC and 
+due diligence, etc. is obtained either through physical signature on the application or through 
+OTP (one time password) consent during the application journey. While taking the consent from 
+the prospective customer, a copy of Most Important Terms and Conditions and Card Member
+Agreement/Card Member Declaration is shared with the customer.
+Cross-Sell Offerings:
+Consent for credit cards’ cross-sell products for e.g. STPL, Xpress Cash, SnP, Add On Card, 
+Additional Credit card Insurance Cross-Sell etc. (products may change overtime) is also captured 
+through various mechanisms/channels mentioned below. These consent mechanisms will also 
+be incorporated for any future cross-sell products. 
+▪ Application Form 
+▪ SMS via short code
+▪ IVR recordings
+▪ RBL MyCard/MyBank Mobile app 
+▪ Internet banking credentials 
+▪ Through OTP consent on RBL Bank website 
+▪ Chatbot
+ 
+Page 10 of 16
+Any acceptance from the customer on any above channels would be deemed a valid consent 
+and request will be actioned. The modes of consent may change with time. Consent logs of 
+SMS, E-mail, calls and other channels will be maintained by the bank. 
+For Commercial cards the Bank considers consent of both corporate and individuals before 
+issuance of the card. However, credit limit & terms / features of the cards are agreed with 
+corporate authorized signatory only (principal account holder).
+Section 6: Co-branding Arrangement and Roles
+Co-branding Arrangement: 
+Any co-brand partnership will be first duly approved by an internal Name Clearance Committee 
+(consisting of key bank members) which follows a set framework to exercise better diligence to 
+assess and decision engagement related with the co-brand partner.
+Further, yearly review of existing partners happens to gauge the reputational and financial 
+aspects for continuous monitoring of partner engagement.
+Role of Partner:
+Co-brand partner is responsible for marketing, origination of application through its own 
+channel and distribution network. Bank may let some features be enabled on partner 
+application (used by the cardmember) through approved integrations where partner will not 
+have access to the customer data. 
+However, solely for the purpose of fulfilling the product value proposition for select co-branded 
+cards, the membership loyalty identification number may be exchanged between the Bank and 
+its partner.
+Revenue Share Arrangement with Co-Brand Partners:
+Revenue sharing with cobranding entity is usually linked to new card acquisition, card spends, 
+total no of customers in the cobrand program, portfolio quality, portfolio performance of the 
+program etc. The criteria mentioned is indicative and not exhaustive and revenue sharing 
+arrangement may vary across co-brand partners.
+Retail Program Revenue Sharing Corporate Program Revenue Sharing
+Paisa Bazaar Yes RazorpayX Yes
+Book My Show Yes
+SalarySe Yes
+DMI Finance Yes
+IOCL Yes
+IRCTC Yes
+TVS Yes
+Patanjali Yes
+Piramal Yes
+ 
+Page 11 of 16
+Section 7: Post-Onboarding customer engagement/Cross-Sell
+Credit Card Service Extensions: 
+Bank may reach out to customers for offering service extensions with a variety of value add 
+cross-sell products (which may change or be added in the below list with time) like: 
+▪ Dial for Cash (STPL-Short Term Personal Loans) 
+▪ Xpress Cash 
+▪ SnP (EMI Conversion) 
+▪ Utility Bill Payments 
+▪ EMI Infinity Pass 
+▪ SnP Plus 
+▪ Retail Banking Products 
+▪ Insurance and Protection products 
+▪ Add On Card
+Post-onboarding Engagement: 
+Card Activation
+Cards dispatched to customers are sent in accordance with the card’s security guidelines. Postdelivery of credit card, a card will be deemed active once any of the below events are triggered 
+by the customer:
+▪ Successfully processed and approved retail/cash transaction 
+▪ Card PIN change via any channel such as MyCard/MyBank application, IVR and website 
+▪ Settings change through Card Controls (switch control on or off) 
+▪ Successful registration on MyCard/MyBank application 
+▪ Card unblock through any bank’s channel (SMS short code/IVR/reaching out to customer 
+service helpline) for deactivated cards delivered with speed post 
+▪ Creating token on merchant websites without transaction authorization
+▪ Miss Call given by card member through registered Mobile Number on Bank’s dedicated 
+Activation Number
+▪ SMS Short Code sent by customer from registered Mobile Number on Bank’s dedicated 
+number
+▪ Activation consent given through WhatsApp from Cardmember's registered Mobile Number
+▪ Consent given through IVR from registered Mobile Number to Activate the card
+▪ Activation consent given through RBL Cares (Bank’s Chatbot)
+▪ Commercial cards given to any corporate can be activated by the principal account holder 
+(corporate authorized signatory) or respective user. 
+ 
+Page 12 of 16
+MyCard/MyBank Mobile App: 
+Bank provides credit card customers with a dedicated Mobile App “RBL MyCard/MyBank” 
+available at Android and iOS platforms which encapsulates various functionalities (may change 
+with time) such as: 
+▪ Spends Analyzer
+▪ Location-based offers 
+▪ Utility bill payments 
+▪ Other cross sell products 
+▪ Promotional offers 
+▪ Statements 
+▪ Bill payments 
+▪ Access digital savings accounts 
+▪ Reward program 
+▪ Card controls and card settings 
+▪ Help/support 
+▪ Other features aimed at better customer experience 
+Chatbot/WhatsApp: 
+Customers can also access digital services via the Bank’s chatbot/WhatsApp. This is available on 
+the Bank’s website and is also sent as part of outreach or promotional campaigns. 
+Billing and Payments: 
+Bank will send monthly statement to customers at their registered email address or mailing 
+address as per their billing cycle, with details of payments credited and the spends, transactions 
+debited to their respective account since the last statement date.
+Multiple bill payment options (both offline and online) are available for customers to pay their 
+Credit Card bills- including NEFT, Internet Banking, UPI, NACH, Cash and Cheque. A Standard 
+Instruction (SI) form may be taken from an existing bank’s customer to enable his/her credit 
+card bill payments. In addition, in case of secured card a lien maybe marked against customer’s 
+banking account to recover dues.
+Commercial card re-payment can be done in bulk by corporate or one-by-one for each 
+employee / individual card users.
+Card Controls 
+As per RBI guidelines – ‘enhancing security of card transactions’, bank is sending credit card 
+plastics with card controls enabled for only domestic ATM and POS transactions. Customers can 
+instantly switch on the transaction categories and control spends limits using any of the below 
+self-help channels:
+ 
+Page 13 of 16
+▪ MyCard App
+▪ MyBank App 
+▪ IVR (Only transaction categories)
+▪ RBL Cares Chatbot on http://www.rbl.bank.in
+▪ WhatsApp
+Contactless functionality: RBL Bank has started issuing credit card plastic with contactless 
+technology. Plastics which have contactless technology carry the contactless logo. This enables 
+customers to make contactless POS transaction up to Rs.5,000 at contactless enabled POS 
+terminal.
+Recurring Transactions: To process recurring merchant payments, RBL Bank has tied up with 
+payments partner for its Standard Instruction (SI) Hub solution to comply with the regulatory 
+mandates on recurring transactions. Recurring transactions are processed basis SI validation 
+flag sent by the acquirer at the time of authorisation. Currently, RBL bank has a tie up with 
+Billdesk (SI Hub) & RazorPay (HQ Mandate) to provide the above facility.
+Loss/Theft/Misuse of Card: In scenarios, where customer reports credit card as lost or stolen, 
+claims/reports misuse, block code is placed at card level and an immediate communication goes 
+to customer once block is placed. Customer can call RBL Bank Credit Card Helpline on the 
+numbers mentioned on the website (https://www.rbl.bank.in/contact-us) to report the loss, 
+theft or unauthorized use of card or PIN. 
+Dispute Transactions: Customer may dispute any transaction by contacting the helpline or 
+approaching the grievance redressal mechanism. The Bank will follow the dispute resolution 
+process in accordance with the stipulated guideline. Bank has setup multiple risk rules to 
+identify suspicious transactions for safety & security of customer’s credit card, the card gets 
+blocked if transaction seems to be suspicious. Customers can get the card unblocked 
+immediately by giving us consent.
+Card Closure: Customer can reach out to bank’s customer care number or dedicated customer 
+service email id cardcancellation@rbl.bank.in for requesting card closure. For Commercial Card 
+closure, customer can reach out to Corporate Card Support Team at 
+CorporateCard.Support@rbl.bank.in. The request will be honoured within seven working days 
+by the bank subject to payment of all dues by the customer. If card is unused for a year by 
+customer, Bank will initiate card closure post 30 days of intimation to customer if the intent of 
+keeping card active has not been consented from customer. 
+If a credit card has not been activated by the customer for more than 30 days from the date of 
+issuance, Bank shall close the credit card account without any cost to the customer within seven 
+working days. 
+ 
+Page 14 of 16
+Section 8: Fees and Charges
+All disclosures, fees, charges and applicable interest rates duly approved by the board 
+associated with credit card are updated in MITC and Schedule of Charges, links of which are as 
+under: 
+MITC: 
+https://webassets.rbl.bank.in/document/Credit%20Cards/RBL-MITC-final.pdf
+https://webassets.rbl.bank.in/document/credit-cards/commercial-cards-mitc.pdf
+Schedule of Charges: 
+https://webassets.rbl.bank.in/document/Credit%20Cards/CardsScheduleCharges.pdf
+https://webassets.rbl.bank.in/document/credit-cards/commercial-cards-schedule-ofcharges.pdf
+The consent on the MITC/CMA/CMD and conditions is taken at the application stage. Bank 
+communicates annual fee, limit, features, MITC & SOC via multiple SMS & Emails to the 
+customers. Bank’s written communication will take precedence over any verbal communication 
+made by the representative.
+Section 9: Collections Policy
+Collection activities are performed when an account turns overdue on their payment obligation
+In order to prevent accounts from turning overdue/delinquent, digital reminders are sent 
+before the payment due date.
+The collection process of the bank is carried out primarily through three different modes, viz. 
+digital reminders, tele-calling & field visitations by authorized debt recovery agents employed by 
+authorized collection/recovery agencies of the bank. Overdue accounts are assigned to debt 
+recovery agents for field visitations after attempts to recover the overdue amount through digital 
+reminders and tele-calling have failed.
+The bank has a defined code of conduct for its collection/recovery agents, which outlines 
+requirements that need to be adhered by its agents when contacting a customer for 
+collection/recovery of the overdue amount. It is aligned to the standards of banking practices 
+for banks set by BCSBI (The Banking Code and Standards Board of India) and Fair Practices Code 
+for lenders.
+The bank has a detailed collection/recovery policy approved by the Board, which outlines the 
+process and the approach to be followed to carry out the collection activity in an effective, 
+efficient, and compliant manner, in sync with regulatory norms and service standards of the 
+bank.
+ 
+Page 15 of 16
+Section 10: Services and Grievance Redressal 
+Once a customer applies for a credit card, they may contact the Bank through any of the 
+available communication channels for enquiries and/or redressal of concerns.
+▪ For queries related to the credit card application status, the customer may call the Bank or 
+track the application online at https://www.rbl.bank.in/track-app-status
+▪ Level I: Customer Care number at 022-6232 7777 or 18001026222 or 
+o For Retail cards email to cardservices@rbl.bank.in from registered e-mail id or write 
+to the bank to: Card Services, RBL Bank Limited, Unit 306-311, 3rd Floor, JMD 
+Megapolis, Sohna Road, Sector-48, Gurgaon, Haryana – 122018
+o For commercial card, email to corporatecard.support@rbl.bank.in from registered 
+email id or write to the bank to: Corporate Card Support, RBL Bank Limited, 2nd 
+Floor, JMD Megapolis, Sohna Road, Sector-48, 122018, Gurgaon, Haryana
+▪ Level II: In case customer is not satisfied with the provided resolution, customer can email 
+to headcardservice@rbl.bank.in with mention of card reference number provided at level 1 
+▪ Level-III: In case customer is still dissatisfied at level ii, he/she can escalate to our Principal 
+nodal Mr. Vikas Nigam by calling at 022-71432700 or writing email to 
+principalnodalofficer@rbl.bank.in
+The timeline of grievance redressal is duly updated in the grievance redressal policy of the Bank. 
+The bank compensates the customer as per the compensation policy hosted on the website in 
+accordance with the regulatory guidelines.
+Link: Customer Compensation and Protection Policy
+Section 11: Reporting of Information to Credit Information Companies
+Under the Credit Information Companies (Regulation) Act, 2005, all banks and financial 
+institutions are required to share relevant customer information with Credit Information 
+Companies (CIC) (that have obtained Certificate of Registration from RBI) to improve the 
+functionality and stability of the Indian financial system. This activity requires the Bank to 
+disclose information relating to credit history/repayment record and/or days past due status of 
+the Card Member to the CICs.
+Reporting Responsibilities of the Bank: 
+For providing information relating to credit history/repayment record of the cardmember to a 
+Credit Information Company, the Bank will explicitly bring to the notice of the customer that 
+such information is being provided in accordance with the terms of the Credit Information 
+Companies (Regulation) Act, 2005. The Bank will make this disclosure a part of the Most 
+Important Terms and Conditions (MITC) so that the customer is fully aware about the same at 
+the time of entering into a relationship with the Bank.
+The information elements to be shared with the CICs have been pre-aligned between CICs and 
+RBI and the Bank will strive to adhere to the same approved format while reporting information. 
+ 
+Page 16 of 16
+The Bank will also report credit information relating to a new credit card account to Credit 
+Information Companies only post activation of the card. 
+Reporting of Delinquencies: 
+The Bank will report a credit card account as 'past due' to credit information companies (CICs) 
+only when a credit card account remains 'past due' for more than three days. The number of 
+'days past due' is to be computed from the payment due date mentioned in the credit card 
+statement. 
+The Bank will intimate a Customer before reporting a credit cardmember as delinquent to a 
+Credit Information Company (CIC). In case of commercial / business cards, reporting will be 
+done for the corporate. 
+In the event the customer settles his/her dues after having been reported as defaulter, the Bank 
+will update the status within a month from the date of the settling of dues. 
+Reporting of Account Closure:
+The information regarding the closure of a card account will be updated with the Credit 
+Information Companies within one month of the closure event.
+Section 12: Compliance with other Instructions
+Bank’s credit card’s function follows list of various binding policies and regulations to determine 
+the governance mechanism for conduct of its business and related processes. Some of the main 
+RBI guidelines (but not limited to) are listed below that we follow on: 
+▪ Customer’s limiting liability in unauthorized electronic banking transactions 
+▪ Enhancing security of card transactions 
+▪ Managing risks and code of conduct in outsourcing of financial services by banks 
+▪ Harmonisation of turnaround time (TAT) and customer compensation for failed transactions 
+using authorised payment systems 
+▪ Security controls on digital payments
+▪ KYC directions 
+▪ Guidelines on Digital Lending
+▪ Guidelines for overseas forex trading through credit cards 
+▪ Processing of e-mandate on cards for recurring transactions 
+▪ Restriction on storage of actual card data 
+▪ Storage of payment system data 
+▪ Tokenisation of card transactions
+▪ Guidelines for outsourcing technology and services by committee on banking sector reforms
+▪ Arrangements with Card Networks for issue of Credit Cards
+Ver 11.02.2026

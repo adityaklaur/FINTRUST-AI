@@ -1,0 +1,395 @@
+Frequently Asked Questions - Reserve Bank of India
+
+Skip to main content
+
+Change Language हिंदी
+
+Search the Website Search
+
+Banker and Debt Manager to Government
+
+Financial Inclusion and Development
+
+Consumer Education and Protection
+
+Payment and Settlement System
+
+Deposit Insurance and Credit Guarantee Corporation
+
+# Frequently Asked Questions
+
+## Date : Jan 07, 2025
+
+## The Reserve Bank - Integrated Ombudsman Scheme, 2021
+
+(Updated as on January 07, 2025)
+
+Reserve Bank of India (RBI) integrated its three erstwhile Ombudsman Schemes viz. (i) the Banking Ombudsman Scheme, 2006, (ii) the Ombudsman Scheme for Non-Banking Financial Companies, 2018, and (iii) the Ombudsman Scheme for Digital Transactions, 2019, into one Scheme - ‘ The Reserve Bank - Integrated Ombudsman Scheme, 2021(the Scheme / RB-IOS, 2021)’ with effect from November 12, 2021. The Scheme simplifies the grievance redress process at RBI by enabling the customers of Regulated Entities (REs) like banks, Non-Banking Financial Companies (NBFCs), Payment System Participants (PSPs) and Credit Information Companies to register their complaints at one centralised reference point. The objective of the Scheme is to resolve the customer grievances involving ‘deficiency in service’ on part of REs in a speedy, cost-effective and satisfactory manner. These FAQs provide information on RB-IOS, 2021 and related aspects.
+
+1. What is RB-IOS, 2021?
+
+The Reserve Bank - Integrated Ombudsman Scheme, 2021(RB-IOS, 2021/ the Scheme) was launched on November 12, 2021. It integrates the erstwhile three Ombudsman schemes of RBI namely, (i) the Banking Ombudsman Scheme, 2006; (ii) the Ombudsman Scheme for Non-Banking Financial Companies, 2018; and (iii) the Ombudsman Scheme for Digital Transactions, 2019. These schemes had limited and different grounds of complaints and limited coverage of REs, apart from jurisdiction related restrictions. RB-IOS, 2021 provides for cost-free redress of customer complaints involving deficiency in services rendered by entities regulated by RBI, if not resolved to the satisfaction of the customers or not replied to within a period of 30 days by the RE.
+
+In addition to integrating the three existing schemes, the Scheme also includes under its ambit additional REs, namely, Non-Scheduled Primary (Urban) Co-operative Banks with a deposit size of ₹50 crore and above and Credit Information Companies. The Scheme adopts ‘One Nation One Ombudsman’ approach by making the RBI’s Ombudsman mechanism jurisdiction neutral.
+
+2. What is the RBI Alternate Grievance Redress (AGR) Framework?
+
+The AGR Framework of RBI comprises of RBI Ombudsmen (RBIOs), Consumer Education and Protection Cells (CEPCs) and CEPD. The RBIOs function under the framework of RB-IOS, 2021. The CEPCs take up complaints against REs not falling under the ambit of RB-IOS, 2021. CEPD provides assistance to the Appellate Authority (AA) under the RB-IOS and processes the appeal cases.
+
+3. Are all REs covered under RB-IOS, 2021?
+
+RB-IOS, 2021 covers all commercial banks, Non-Banking Financial Companies (NBFCs), Payment System Participants, most Primary (Urban) Cooperative Banks, and Credit Information Companies. The REs covered under the RB-IOS, 2021 are listed under Question 11.
+
+4. Who is an RBI Ombudsman (RBIO)?
+
+An RBI Ombudsman is a senior official of RBI appointed by RBI to redress the complaints from customers of the REs against “deficiency in service”, as defined under Clause 3(1)(g) of the RB-IOS, 2021.
+
+“Deficiency in service” means a shortcoming or an inadequacy in any financial service or such other services related thereto, which the RE is required to provide statutorily or otherwise, which may or may not result in financial loss or damage to the customer.
+
+5. Who is a Deputy Ombudsman?
+
+A Deputy Ombudsman is a senior officer appointed by RBI to assist the RBI Ombudsman (refer Question 4) in matters of resolution of complaints and in handling certain complaints and the functions entrusted under the Scheme. The Deputy Ombudsman endeavors to promote settlement of a complaint by agreement between the complainant and the RE through facilitation or conciliation or mediation and dispose complaints as discussed in Question 24.
+
+6. What are the advantages/ benefits of the RB-IOS, 2021 / AGR Framework?
+
+RB-IOS, 2021 has simplified the processes, centralized the receipt of physical and email complaints, brought more REs under its ambit, done away with limited grounds of complaints and difference jurisdictions of Ombudsmen and now all complaints involving deficiency in service are covered under RB-IOS. Complainants can lodge their complaints against an RE on the 24x7 online CMS portal at https://cms.rbi.org.in/ or send their complaint in email/physical form to CRPC (refer Question 16). Salient benefits for the complainant arising from the RB-IOS with upgraded CMS portal are as under:
+
+Simplification in the process of filing the complaint on CMS portal;
+
+A complaint can be filed on CMS portal/ CRPC from anywhere in the country irrespective of the address of the complainant, RE or branch involved;
+
+One address and one email for lodging of physical/ email complaints from anywhere in the country;
+
+Automatic acknowledgement to the complainant on registration of online complaint;
+
+Facility for real-time tracking of the status of complaint;
+
+Convenience from ‘One Nation One Ombudsman’ approach;
+
+Facility for online submission of additional documents on the CMS itself;
+
+Detailed letter intimating decision/ closure of complaint;
+
+Facility for online and voluntary feedback submission by the complainant regarding redress provided by RBI.
+
+7. What is a Centralised Receipt and Processing Centre (CRPC)?
+
+Centralised Receipt and Processing Centre (CRPC) has been set up at RBI, Chandigarh for receiving complaints through physical mode (letter/post). The CRPC undertakes initial scrutiny and processing of these complaints, uploads them on CMS, which are then assigned to Offices of RBI Ombudsmen (ORBIOs) or CEPCs for redressal. Please refer to Question 15 and 16 for further details.
+
+8. What is the Contact Center of RBI and how can it be accessed by complainants?
+
+The Contact Center of RBI is a platform where a complainant can reach out to RBI to get information related to AGR mechanism of RBI, procedure of or help in filing complaints and to ascertain the status of the complaint lodged with RBI. The contact center with Interactive Voice Response System (IVRS) with Toll Free #14448 is available 24x7, while the facility to connect to Contact Centre personnel is available from 8:00 AM to 10:00 PM (Monday through Saturday, except National Holidays) for English and Hindi, and ten Regional Languages (Assamese, Bengali, Gujarati, Kannada, Marathi, Malayalam, Odia, Punjabi, Telugu and Tamil).
+
+9. Can the complaints with the RBI Ombudsmen under RB-IOS, 2021 be filed through Contact Center?
+
+No, complaints cannot be filed through Contact Center, but the Contact Centre can assist the complainant in filing the complaint through CMS portal or physical mode. It will also provide clarifications about/ details of the AGR mechanism set up by RBI.
+
+10. Where are the Ombudsmen located? Will I be required to approach any specific Ombudsman office for filing a complaint?
+
+Presently, Offices of RBI Ombudsmen (ORBIOs) are functioning from 22 locations across India. However, the complainants need not contact/ approach any specified ORBIO for filing a complaint under the RB-IOS, 2021. The complaints lodged directly online through CMS Portal (https://cms.rbi.org.in) are automatically allocated to different RBI Ombudsmen for redressal upon registration of the complaint. Physical and email complaints are processed and entered in CMS for further processing, after seeking further information/ details, if missing, from the complainant.
+
+11. Which REs are covered under the RB-IOS, 2021?
+
+The following REs of RBI are covered under the RB-IOS, 2021:
+
+(i) Banks: All commercial banks, including Public Sector Banks, Private Sector Banks, Foreign Banks, Local Area Banks, Small Finance Banks, Payment Banks, Regional Rural Banks, Scheduled Primary (Urban) Co-operative Banks and Non-scheduled Primary (Urban) Co-operative Banks with deposit size of ₹50 Crore and above, as on the date of the audited balance sheet of the previous financial year;
+
+(ii) NBFCs registered with RBI: All Non-Banking Financial Companies (excluding Housing Finance Companies) which (a) are authorized to accept deposits; or (b) have customer interface, with an assets size of ₹100 crore and above as on the date of the audited balance sheet of the previous financial year;
+
+Note: Core Investment Companies, Infrastructure Debt Fund-Non-banking Financial Companies, Non-Banking Financial Companies-Infrastructure Finance Companies, companies in resolution or winding up / liquidation, or any other NBFC specified by RBI are excluded from the ambit of the RB-IOS, 2021.
+
+(iii) System Participants: All Payment System Participants - banks as well as non-banks regulated by RBI are covered under the RB-IOS, 2021. These entities issue Prepaid Payment Instruments (PPIs) and facilitate transactions over National Electronic Funds Transfer (NEFT) / Real Time Gross Settlement (RTGS) / Immediate Payment Service (IMPS) / Unified Payments Interface (UPI) / Bharat Bill Payment System (BBPS) / Bharat QR Code / *99# mobile transaction service using Unstructured Supplementary Service Data (USSD) / Aadhaar Enabled Payment System (AePS), etc.
+
+(iv) Credit Information Companies: All Credit Information Companies as defined in the Companies Act, 2013 (18 of 2013) and granted a Certificate of Registration under sub-section (2) of section 5 of the Credit Information Companies (Regulation) Act, 2005 (30 of 2005).
+
+The list of entities, periodically updated, covered under the RB-IOS, 2021 is available at https://cms.rbi.org.in/cms/assets/Documents/RBIO_English_Portal.pdf.
+
+12. What happens to the complaint if the grievance is against an entity regulated by RBI but not covered under the RB-IOS, 2021?
+
+The complaints pertaining to the REs not covered under the RB-IOS, 2021 are forwarded to CEPCs of RBI (currently located at 30 RBI Offices) for resolution. Such complaints can also be filed on the portal or address as per details given in Question 16. The complainant would be notified of the same through SMS and e-mail on the mobile number and email id provided at the time of filing the complaint.
+
+13. What are the grounds of complaints under the RB-IOS, 2021?
+
+All complaints involving ‘deficiency in service’ on the part of the RE, except for those listed under Question 14 below are handled under the RB-IOS, 2021. ‘Deficiency in service’ has been defined in RB-IOS, 2021 as ‘any shortcoming or inadequacy in any financial service, which the Regulated Entity of RBI is required to provide statutorily or otherwise, which may or may not result in financial loss or damage to the customer’.
+
+14. What types of complaints not covered under the RB-IOS, 2021?
+
+Certain types of complaints which are classified as non-maintainable complaints due to various reasons as indicated below are not covered under RB-IOS, 2021:
+
+Complaints which are filed directly with the Ombudsman without first being taken up with the RE concerned, in writing.
+
+Complaints which have been lodged with the RE, but a period of 30 days has not elapsed from such date of lodgment of the complaint with the RE, except for complaints for which the complainant has received a reply from the RE, and is not satisfied with the reply.
+
+Complaint made after one year from the date of receipt of the reply of the RE or, where no reply is received, later than one year and 30 days after the date of the representation to the RE;
+
+Complaints which have been already dealt with by Ombudsman/ CEPC or those under process/pending on the same cause of action and for similar relief (whether received from the same complainant or along with one or more complainants) with the RBIO;
+
+Complaints related to the commercial decision of the RE. For example: grant of a loan;
+
+Complaints related to any dispute between a vendor and a RE;
+
+Complaints addressed to other authorities and not directly addressed to Ombudsman;
+
+Complaints raising general grievances against the management or executives of RE;
+
+Complaints pertaining to a dispute in which action initiated by a RE is in compliance of the orders of a statutory or law enforcing authority;
+
+Complaints in which the alleged deficiency in the service relates to an entity not regulated by RBI;
+
+Complaints related to the disputes between REs;
+
+Complaints related to any dispute involving employee-employer relationship of RE;
+
+Complaints pending before any Court, Tribunal or Arbitrator or any other forum or authority; or, settled or dealt with on merits, by any Court, Tribunal or Arbitrator or any other forum or authority, whether or not received from the same complainant or along with one or more of the complainants/parties concerned;
+
+Complaints that are abusive or frivolous or vexatious in nature;
+
+Complaints made after the expiry of the period of limitation prescribed under the Limitation Act, 1963, for such claims;
+
+Complaints with incomplete details and those that are not specific/actionable in nature;
+
+Complaints lodged through an advocate (except where the advocate himself is the aggrieved person);
+
+Complaint in the nature of offering suggestions or seeking guidance or explanation.
+
+15. When can one file a complaint before the RBI Ombudsman?
+
+For redress of his grievance, the complainant must first approach the concerned RE. If the RE does not respond within a period of 30 days after lodgment of the complaint or rejects the complaint wholly/partly or if the complainant is not satisfied with the response/resolution given by the RE, the complainant can lodge his complaint under the RB-IOS, 2021.
+
+Approaching the RBI Ombudsman without first lodging a complaint with the RE or doing so before 30 days after lodging the complaint, if there is no response from the RE, would make the complaint non-maintainable under RB-IOS, 2021.
+
+It may be noted that the complaint should be made to the RBI Ombudsman not later than one year after receiving the reply of the RE or, in cases where no reply is received, not later than one year and 30 days after the date of the representation to the RE.
+
+16. What is the procedure for filing the complaint before the RBI Ombudsman?
+
+A complaint can be filed through any of the following methods:
+
+Online - on CMS portal of RBI at https://cms.rbi.org.in.
+
+Physical complaint (letter/post) in the form as specified in Annexure ‘A’ in the Scheme to “Centralised Receipt and Processing Centre, 4th Floor, Reserve Bank of India, Sector -17, Central Vista, Chandigarh - 160017”.
+
+Complaints with full details (please refer to Question 17 below) can be sent by email (crpc@rbi.org.in).
+
+17. What are the minimum details required to file a complaint with the RBI Ombudsman?
+
+The complainant is required to provide the following details
+
+Name of the complainant, age and gender;
+
+Full postal address of the complainant with personal e-mail ID, mobile number (mandatory to receive notifications), and landline number (if available);
+
+Name and address of the branch or office of the RE against which the complaint is filed;
+
+Complete facts giving rise to the complaint, including, transaction date and details, the details of the complainant’s account number, debit card or credit card number to the extent that they are relevant to the subject matter of the complaint;
+
+Date and details of the representation submitted to the RE for redressal of grievance and reply, if any, received from the RE;
+
+The nature and extent of the loss caused to the complainant; and
+
+The relief sought; along with
+
+Declaration that the complaint is not non-maintainable as per Clause 10 of the RB-IOS 2021.
+
+Note: The complainant shall submit, along with the complaint, copies of the relevant documents supporting the complaint.
+
+18. Can the complainant track the status of his complaint lodged under RB-IOS, 2021?
+
+After a complaint gets successfully registered, it is assigned a complaint number. An acknowledgement indicating this complaint number is sent to the complainant through SMS on the mobile number and through e-mail at the email id provided at the time of filing the complaint. The status of the complaint can be checked by using the mobile number and the complaint number (received on the mobile) through the following link: https://cms.rbi.org.in.
+
+The status of the complaint can also be ascertained by the complainant from the Contact Centre at CRPC, Chandigarh by contacting the toll-free number 14448.
+
+19. Can a complaint be filed before the RBI Ombudsman through a representative?
+
+Yes. A complaint can be filed through an authorized representative of the complainant (other than through an advocate). Such complaints should be submitted along with an authorization in the Form prescribed in the Scheme {containing details of the representative, i.e. Name, address, mobile number (mandatory to receive notifications) and e-mail}.
+
+20. Will the RB-IOS, 2021 lead to speedier redress?
+
+The speed of redress depends on a number of factors like complexity of the case, timely submission of documents by the RE, volume of complaints in Ombudsman offices etc.
+
+However, under the new System, CMS sends instant notifications to the complainant and RE and functions as single point reference for all complaint related communication for both parties, thereby obviating undue delays. All other things remaining the same, complaints lodged on CMS directly with all details get speedier redress.
+
+21. Is there any charge or fee to be paid for filing a complaint with the RBI Ombudsman?
+
+No. There is no charge or fee for a customer of the RE for filing or for resolving complaints under the RB-IOS, 2021. Further, complainants need not approach any third-party agency to file a complaint with RBI Ombudsman or pay any fee. Complainants can register their complaints by themselves or through a representative through any of the modes mentioned in Question 16 absolutely free of cost.
+
+22. Is there any monetary limit on the amount involved in the complaint or compensation that the RBI Ombudsman can sanction?
+
+There is no limit on the amount of disputed transaction for which the complaint/grievance can be raised under RB-IOS, 2021 and on which the RBI Ombudsman can provide resolution. However, only those complaints where the compensation sought, if any, for any loss suffered by the complainant arising directly out of the act or omission or commission of the RE, is ₹20 lakh or lower are admissible under RB-IOS. In addition, the Ombudsman can also provide compensation upto ₹1 lakh for mental agony/ harassment etc., suffered by the complainant as indicated in the Question 23.
+
+23. Can compensation be claimed for mental agony and harassment?
+
+The Ombudsman may award a compensation not exceeding ₹1 lakh to the complainant for loss of the complainant’s time, expenses incurred, harassment and mental anguish suffered by the complainant.
+
+24. What happens after a complaint is received by the RBI Ombudsman? What are the different ways, in which complaints are resolved by the Ombudsman Office?
+
+On receipt of a complaint, it is scrutinized to assess whether it is a maintainable or a non-maintainable complaint (as explained in Question 14). If found non-maintainable, the complaint is closed, and a suitable communication is issued to the complainant.
+
+For a maintainable complaint, the RBI Ombudsman endeavors to promote resolution by agreement between the complainant and the RE. If an amicable settlement of the complaint is arrived at between the parties, the same is recorded and signed by both the parties. As the parties have agreed to the settlement by affixing their signature on it, it becomes binding on both the parties and no formal Award is issued by the Ombudsman.
+
+If the matter is not resolved through settlement (facilitation or conciliation or mediation) the Ombudsman, after allowing the parties a reasonable opportunity (and based on records placed before him, principles of banking law and practice, directions, instructions and guidelines issued by RBI from time to time and such other factors which in his opinion are relevant for deciding the complaint), may pass an Award (directing the Regulated Entity for specific performance) or reject the complaint (if the RE is found to have adhered to the extant norms and practices in vogue). The outcome of the complaint is communicated to both the complainant and the RE.
+
+25. Can one participate in the conciliation meeting in the Ombudsman office from anywhere?
+
+Yes, the conciliation meeting can be held virtually either through the Video Conferencing facility of RBI, for which one may have to visit the nearest RBI Office, or from any nearby branch of the concerned bank or through platforms like WebEx etc. in consultation with the RBI Ombudsman office, and subject to the requirement given by the Office of RBI Ombudsman. Audio Conference calls are also possible.
+
+26. Can the RBI Ombudsman reject a complaint at any stage?
+
+Yes. As per Clause 16 of the RB-IOS, 2021, the RBI Ombudsman may reject a complaint at any stage, if the complaint:
+
+is non-maintainable under Clause 10 of the RB-IOS, 2021;
+
+is in the nature of offering suggestions or seeking guidance or explanation;
+
+in the opinion of the Ombudsman there is no deficiency in service;
+
+the compensation sought for the consequential loss is beyond the power of the Ombudsman to award as indicated in RB-IOS, 2021 (please refer to Question 22);
+
+the complaint is not pursued by the complainant with reasonable diligence;
+
+the complaint is without sufficient cause;
+
+the complaint requires consideration of elaborate documentary and oral evidence and the proceedings before the Ombudsman are not appropriate for adjudication of such a complaint;
+
+in the opinion of the Ombudsman there is no financial loss or damage, or inconvenience caused to the complainant.
+
+27. Can the Deputy Ombudsman reject any complaint?
+
+The Deputy Ombudsman can reject a complaint only on the following grounds:
+
+the complaint is non-maintainable under Clause 10 of the RB-IOS, 2021;
+
+the complaint is in the nature of offering suggestions or seeking guidance or explanation.
+
+28. What happens if the complaint is not settled by agreement?
+
+If the Ombudsman is satisfied that there is deficiency of service on the part of the RE and the complaint is not settled by agreement within a specified period as allowed by the Ombudsman, the RBI Ombudsman may pass an Award, if applicable. Before passing an Award, the Ombudsman provides a reasonable opportunity to the complainant and the RE to present their case.
+
+The complainant may accept the Award in full and final settlement or reject it. However, if he wishes to accept the Award, it is mandatory that the complainant submits his letter of acceptance to the RE concerned within 30 days, failing which, the Award will lapse.
+
+29. What if the RE does not comply with the decision of the RBI Ombudsman, or there is delay in compliance?
+
+In case the RE does not comply with the decision of the RBI Ombudsman within a reasonable time as may be decided by the RBI Ombudsman, the Ombudsman can pass an Award, if there are obvious deficiencies in service. An Award has to be complied with by the RE, unless appealed, within 30 days of the complainant accepting the Award.
+
+30. What if there are different decisions in similar cases?
+
+Cases that look similar prima-facie may vary in terms of facts and circumstances. However, to bring greater consistency in decisions, deliberations among Ombudsmen are held regularly.
+
+31. Is there any further recourse available in case of unsatisfactory decision by the RBI Ombudsman?
+
+Yes, the RB-IOS, 2021 provides for an appellate mechanism for the complainant as well as the RE for complaints closed under appealable Clauses of the Scheme. Any person aggrieved by an Award (except the RE in respect of Awards issued for non-furnishing of appropriate and satisfactory information within the stipulated time) or rejection of a complaint under an appealable clause, i.e. Sub-clauses (c) to (f) of Clause 16(2) of the Scheme, can file an appeal before the Appellate Authority in RBI, within 30 days of the date of receipt of communication of the Award (or acceptance of the award by the complainant1 in case of RE) or rejection of the complaint.
+
+The powers of Appellate Authority are vested with the Executive Director-in-charge of Department of RBI implementing the Scheme. The address of the Appellate Authority is:
+
+The Appellate AuthorityReserve Bank - Integrated Ombudsman Scheme, 2021Consumer Education and Protection DepartmentReserve Bank of IndiaFirst Floor, Amar Building, Fort, Mumbai 400 001.
+
+An appeal can be filed through the CMS Portal (https://cms.rbi.org.in) for a closed complaint. Alternatively, the appeal can also be sent vide e-mail at aaos@rbi.org.in.
+
+Further, if the complainant is not satisfied with the resolution provided by the Ombudsman, he/she is at liberty to explore other recourses and/or remedies available, as per law.
+
+32. What are the non-appealable clauses for which no appeal mechanism is available?
+
+Complaints that are closed under Clause 10 (non-maintainable complaints closed at CRPC), Clause 14 (complaints closed through facilitation or mediation or conciliation), Clause 16(1) (non-maintainable complaints closed at ORBIOs), Clause 16(2)(a)/(b) (complaints rejected on the basis of ‘no deficiency of service’ or ‘the compensation sought for the consequential loss is beyond the power of the Ombudsman to award the compensation’) of the RB-IOS, 2021 are not appealable before the Appellate Authority by the complainant or the RE. Further, REs do not have the right to appeal against Awards issued for non-furnishing of documents/information under Clause 15(1)(a) of the RB-IOS, 2021.
+
+33. Is there any time limit for filing an appeal?
+
+An appeal can be filed against the Award or the decision of the RBI Ombudsman rejecting the complaint closed under appealable clauses, within 30 days of the date of receipt of communication of Award or rejection of the complaint. The Appellate Authority, if satisfied that the applicant had sufficient cause for not making an application for appeal within the specified time, may also allow a period of extension not exceeding 30 days.
+
+34. How does the Appellate Authority deal with the appeal?
+
+The Appellate Authority, after examining the appeal and related documents, may act as given under:
+
+dismiss the appeal; or
+
+allow the appeal and set aside the Award/order of the RBI Ombudsman; or
+
+remand the matter to the RBI Ombudsman for fresh disposal in accordance with such directions as the Appellate Authority may consider necessary or proper; or
+
+modify the Award/order and pass such directions as may be necessary to give effect to the order of the RBI Ombudsman or Award so modified; or
+
+pass any other order as it may deem fit.
+
+Further, the orders of the Appellate Authority shall have the same effect as the Award passed by the RBI Ombudsman or the order rejecting the complaint, as the case may be.
+
+35. Can I withdraw my complaint at any stage?
+
+Yes. A complaint can be withdrawn at any stage by the complainant under the Scheme. For withdrawing a complaint, one can log on to the Complaint Management System portal (https://cms.rbi.org.in) and go to the tab “Track a complaint”.
+
+36. Where the full document/ Scheme of RB-IOS be found?
+
+The Scheme is available at the following link https://rbidocs.rbi.org.in/rdocs/content/pdfs/RBIOS2021_amendments05082022.pdf.
+
+37. Can a complainant provide feedback on the complaint closed by the RBI Ombudsman?
+
+Yes. Complainants can log on to RBI’s CMS portal (https://cms.rbi.org.in) and can share their feedback under the tab “Feedback”. This feedback is analyzed at RBI for further improving the grievance redress under RB-IOS, 2021.
+
+38. In what languages can a complaint be filed under RB-IOS, 2021?
+
+The online portal (https://cms.rbi.org.in) enables filing of complaint in two languages i.e. Hindi and English. However, facts/description of the complaint can be typed, copied and pasted in description box, in any language for upto 2,000 characters. However, the physical and email complaints can be filed in any language.
+
+39. What are the measures taken by RBI for creating awareness on availability of AGR mechanism and educating the customers about safe banking practices?
+
+Macro level: RBI Spreads awareness on RB-IOS, 2021 and related matters through various means including:
+
+Awareness campaigns hosted with the tag line “RBI Kehta Hai” and placed on the RBI website at https://rbikehtahai.rbi.org.in/.
+
+Awareness related messages placed on RBI website as well as the CMS portal. This covers cyber-crime awareness including frauds using mobile apps/ UPI/ QR codes etc.
+
+Awareness messages on illegal collection of deposits by unauthorized entities are hosted on Sachet portal at https://sachet.rbi.org.in.
+
+Messages broadcasted in various multimedia channels including during prime time.
+
+RBI has released two booklets, viz., BE(A)WARE on the common modus operandi used by fraudsters and precautions to be taken while carrying out various financial transactions, and ‘ Raju and the Forty Thieves’ covering forty stories providing glimpses of various fraudulent means employed by fraudsters, and provides simple tips about Do’s and Don’ts as safeguards against such incidents.
+
+All banks also repeatedly send SMS/ email to their customers detailing the modus operandi of different types of frauds and the due diligence required at the customer’s end to safeguard oneself from such frauds.
+
+List of Do’s and Don’t is published on the RBI website as tickers.
+
+Apart from the above, various outreaches including by Regional Offices of RBI, Centres for Financial Literacy (CFLs) and Financial Literacy Centres (FLCs), specific awareness programmes, town hall events and display of information/ messages at various public places are being regularly held through RBI Ombudsman Offices. ‘Ombudsman Speak’ too is held in the months of March and repeated in October, every year.
+
+40. In case of failed transactions, customers are facing problems in getting back the amount. Are there any specific guidelines regarding time for reversing the funds in case of failed transactions?
+
+Considering that a large number of customer complaints emanate on account of unsuccessful or ‘failed’ transactions, RBI has issued a circular dated September 20, 2019 on Harmonisation of Turn Around Time (TAT) and customer compensation for failed transactions using authorised Payment Systems wherein the TAT is prescribed for reversing the funds in case of failed transactions. Further, the circular also prescribes a compensation mechanism if there is a delay on the part of Regulated Entity to reverse the funds. The details of the circular are available at https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11693.
+
+41. Are there any RBI guidelines w.r.t. losses from fraudulent transaction through electronic and digital banking?
+
+Customers must report to the bank immediately after noticing any unauthorized transactions in their accounts. Delay in reporting reduces their chance of getting the money back.
+
+In terms of RBI circular on Limiting Liability of Customers in Unauthorised Electronic Banking Transactions dated July 06, 2017, zero liability of the customer shall arise if:
+
+Contributory fraud/ negligence/ deficiency is there on the part of the bank (irrespective of whether or not the transaction is reported by the customer).
+
+Third party breach where the deficiency lies neither with the bank nor with the customer but lies elsewhere in the system, and the customer notifies the bank within three working days of receiving the communication from the bank regarding the unauthorised transaction.
+
+Limited Liability of a Customer
+
+A customer shall be liable for the loss occurring due to unauthorized transactions in the following cases:
+
+In cases where the loss is due to negligence by a customer, such as where he/she has shared the payment credentials, the customer will bear the entire loss until the unauthorized transaction was reported to the bank. Any loss occurring after the reporting of the unauthorized transaction shall be borne by the bank.
+
+In cases where the responsibility for the unauthorized electronic banking transaction lies neither with the bank nor with the customer, but lies elsewhere in the system and when there is a delay (of four to seven working days after receiving the communication from the bank) on the part of the customer in notifying the bank of such a transaction, the per transaction liability of the customer shall be limited as given in the circular.
+
+42. Are there any guidelines issued by RBI specifically for senior citizens?
+
+In terms of Master circular on Customer Service in Banks dated July 1, 2015, banks are advised to have a board approved policy providing infrastructure facilities by branches by bestowing particular attention to providing adequate space, proper furniture, drinking water facilities, with specific emphasis on pensioners, senior citizens, disabled persons, etc. Further, Banks are advised to include senior citizens preferably in Branch Level Customer Service Committee.
+
+In terms of Statement on Developmental and Regulatory Policies - October 4, 2017- Banking Facility for Senior Citizens and Differently abled Persons dated November 9, 2017 banks are required to put in place appropriate mechanism with the following specific provisions:
+
+Dedicated Counters/Preference to Senior Citizens, differently abled persons - Banks are advised to provide a clearly identifiable dedicated counter or a counter which provides priority to senior citizens and people who are differently abled including visually impaired persons.
+
+Ease of submitting Life Certificate - banks shall ensure that when a Life Certificate is submitted in any branch, including a non-home branch, of the pension paying bank, the same is updated/ uploaded promptly in CBS by the receiving branch itself, to avoid any delay in credit of pension.
+
+Cheque Book Facility - Banks shall not insist on physical presence of any customer including senior citizens and differently abled persons for getting cheque books.
+
+Automatic conversion of status of accounts - Banks are advised that a fully KYC compliant account should automatically be converted into a ‘Senior Citizen Account’ based on the date of birth available in bank’s records.
+
+Ease of filing Form 15G/H - Banks are advised to provide senior citizens and differently abled persons Form 15G/H once in a year (preferably in April) to enable them to submit the same, where applicable, within the stipulated time.
+
+Door Step Banking - banks are advised to make concerted effort to provide basic banking facilities, such as pick up of cash and instruments against receipt, delivery of cash against withdrawal from account, delivery of demand drafts, submission of Know Your Customer (KYC) documents and Life certificate at the premises/ residence of such customers.
+
+Disclaimer - These FAQs are issued by the RBI for information and general guidance purposes only, which cannot be quoted in any legal proceeding and will have no legal purpose. It is not intended to be treated as legal advice or legal opinion. The Reserve Bank will not be held responsible for actions taken and/or decisions made on the basis of the same. For clarifications or interpretations, if any, readers are requested to be guided by the RB-IOS, 2021 and the relevant circulars/ notifications issued from time to time by the Reserve Bank and the Government.
+
+---
+
+1 Acceptance has to be furnished by the complainant within 30 days of receipt of communication of an Award
+
+Top

@@ -1,0 +1,991 @@
+Reserve Bank of India
+
+SELECT LANGUAGE ASSAMESE BENGALI ENGLISH GUJARATI HINDI KANNADA MALAYALAM MARATHI ODIA PUNJABI TAMIL TELUGU URDU
+
+| About Us Useful Information FAQs Financial Education Complaints Important Websites |
+| --- |
+
+| From |
+| --- |
+| To |
+
+| Period |
+| --- |
+
+| Year 2026 2025 2024 2023 2022 2021 2020 2019 2018 2017 2016 2015 2014 2013 2012 2011 2010 2009 2008 2007 2006 2005 2004 2003 2002 2001 2000 1999 1998 1997 1996 1995 1994 1993 1992 1991 1990 1989 1988 1987 1986 1985 Month All Months January Feburary March April May June July August September October November December |
+| --- |
+
+| Search |
+| --- |
+| Archives |
+
+RBI/2015-16/61 DCBR.CO.BPD.(PCB).MC.No.15/12.05.001/2015-16
+
+July 1, 2015
+
+The Chief Executive Officers of All Primary (Urban) Co-operative Banks
+
+Dear Sir,
+
+Master Circular on Customer Service - UCBs
+
+Please refer to our Master Circular UBD.BPD.(PCB).MC No.10/12.05.001/2014-15 dated July 1, 2014 on the captioned subject (available at RBI website www.rbi.org.in). The enclosed Master Circular consolidates and updates all the instructions / guidelines on the subject issued up to June 30, 2015 and mentioned in the Appendix.
+
+Yours faithfully,
+
+(Suma Varma) Principal Chief General Manager
+
+---
+
+Master Circular on Customer Service
+
+| Sr. No | Particulars |
+| --- | --- |
+| 1 | Introduction |
+| 2 | Service at the counters |
+| 3 | Deposit and other Accounts |
+| 4 | Safe deposit lockers |
+| 5 | Banking facilities to the visually challenged |
+| 6 | Identity badges |
+| 7 | Job enrichment |
+| 8 | Training |
+| 9 | Induction training |
+| 10 | Reward and recognition |
+| 11 | Systems and procedures |
+| 12 | Customer Service Audit |
+| 13 | Complaint box and book |
+| 14 | Inspection /Audit reports |
+| 15 | Complaint prone employees |
+| 16 | Periodical visits by senior officials |
+| 17 | Infrastructure provision |
+| 18 | Customer education |
+| 19 | Security arrangements |
+| 20 | Fair Practices Code – Display of Bank / Service Charges |
+| 21 | ATM Transactions |
+| 22 | Electronic Payment Products(RTGS,NEFT,NECS and ECS variants) |
+| 23 | Mobile Banking Transactions |
+| 24 | Card Payments |
+| 25 | Cheque Books/Cheque Collection |
+| 26 | Other Instructions |
+| 27 | Nomination Facilities |
+| 28 | Timely Issue of TDS Certificate to Customers |
+| 29 | Monitoring system of implementation of various instructions on customer service |
+| 30 | Customer Service- Redressal of Grievances |
+| 31 | Legal Guardianship Certificate issued under Mental Health Act, 1987 and National Trust for the welfare of persons with autism, cerebral palsy, mental retardation and multiple disabilities Act,1999. |
+| Annex I | Format of Complaint Book |
+| Annex II | Notification |
+| Annex III | Rates at a quick glance |
+| Annex IV | Cash withdrawal at point of sale |
+| Annex V | IIIustrative but not exhaustive list of objections where the customer are not at fault |
+| Annex VI | Electronic Payment Products (RTGS, NEFT, NECS and ECS variants) – Instructions for Processing inward transactions based solely on account number information |
+| Annex VII | Suggestions / Best Practices for Increasing the Penetration (Customer Registration / on-Boarding) of Mobile Banking |
+| Appendix | List of circulars consolidated in the Master Circular |
+
+1. Introduction
+
+The quality of customer service in Primary (Urban) Co-operative Banks (banks) has great significance as they are established primarily to fill the existing gaps in banking and credit needs in urban and semi urban areas. Meeting the legitimate aspirations of its customers will enable a bank to maintain its image, create confidence and attract funds comparatively at low cost in a competitive environment. Ensuring improvement in the customer service rendered by the banks has been the constant endeavour of Reserve Bank of India. In 1990,Reserve Bank of India had set up a Committee headed by Shri M.N.Goiporia, the then Chairman of State Bank of India to examine the various aspects of customer service in banks and make suitable recommendations for its perceptible improvement. The Committee had made various recommendations to ensure improvement in the customer service in the banks. The Committee on Procedures and Performance audit on Public Services (CPPAPS) had also made suggestions for improvement of customer service in banks. Reserve Bank has issued instructions to banks on the suggestions accepted by the Bank. In addition, Reserve Bank has also issued various guidelines on the subject in general and on specific aspects relating to immediate credit for the outstation instruments sent for collection, payment of interest for delay in collection of instrument, adherence of time schedule in such matters as payment to customers, issue of DDs/TTs, issue of cheque books, etc. The consolidated instructions are summarised below:
+
+2. Service at the Counters
+
+2.1 Business and working hours
+
+The employees are expected to be at their seats at the commencement of the business hours and attend to all the customers who are in the branch prior to the close of business hours. In practice, however, in many branches of banks, employees take their own time to open the counters and also do not attend to customers who are in the queue at the close of business hours. Some banks with a view to ensuring that the service to customers is made available exactly at the commencement of business hours fix the working hours of the staff 15 minutes before the start of business hours. This arrangement can be made by all the banks at their branches in metropolitan and urban centres.
+
+2.2 Display of time norms
+
+Time norms for specified business transactions should be displayed prominently in the banking hall so that it attracts the customers' attention as well as that of the employees for adherence.
+
+2.3 There are complaints that counters are closed at the end of business hours, without disposing of customers. Banks may issue instructions that all customers who enter the banking hall before the close of business hours may be attended to.
+
+2.4 Extension of business hours for non-cash transactions: Staff at the counters may undertake the following transactions during the extended business hours (branches to indicate the timings)
+
+(a) non-voucher generating transactions:
+
+issue of passbook/statement of accounts
+
+issue of cheque book
+
+delivery of term deposit receipts/drafts
+
+acceptance of share application form; and
+
+acceptance of clearing cheques/bills for collection
+
+(b) voucher generating transactions:
+
+issue of term deposit receipts (TDR)
+
+acceptance of cheques for locker rent due;
+
+issue of travellers’ cheques
+
+issue of gift cheques
+
+acceptance of individual cheques for transfer credit
+
+2.5 Uninterrupted Service
+
+Banks may devise appropriate procedures to ensure that no counter remains unattended during the business hours and uninterrupted service is rendered to the customers by making adequate relief arrangements as may be necessary.
+
+2.6 Guidance to Customers
+
+All branches, except very small ones, should have "Enquiry" or "May I help you" counters. Such counters may exclusively attend to enquiries or may be combined with other functions depending upon the requirement. As far as possible, such counters should be near the entry point to the banking hall.
+
+2.7 Provision of Note Counting Machines on counters
+
+Banks should install dual display note counting machines at the payment counters of their branches for the use of their customers towards building confidence in the minds of the public to accept note packets secured with paper bands.
+
+2.8. Facilities at Extension Counters
+
+Banks are allowed to undertake following limited transactions at the Extension Counters:
+
+Deposit / withdrawal transactions,
+
+Issue and encashment of drafts and mail transfers,
+
+Issue and encashment of travellers’ cheques,
+
+Collection of bills,
+
+Advances against fixed deposits of their customers (within the sanctioning power of the official concerned at the Extension Counter) and
+
+Disbursement of other loans (only for individuals) sanctioned by the Head Office/ base branch up to the limit of ₹ 10 lakh only.
+
+3. Deposit and other Accounts
+
+3.1 Rights of Transgender Persons-Changes in Bank Forms/Applications
+
+Banks are directed to include 'third gender' in all forms / applications etc. prescribed by the Reserve Bank or the banks themselves, wherein any gender classification is envisaged.
+
+3.2 Savings bank passbooks/ statement of accounts
+
+(a) Banks should ensure that full address / telephone number of the branch is invariably mentioned in the Pass Book / Statement of Accounts issued to account holders.
+
+(b) Banks should provide MICR code and IFSC Code of the branch in all passbook /statement of account to their account holders.
+
+(c) Banks should invariably offer passbook facility to all their savings bank account-holders (individuals). The cost of providing such passbooks should not be recovered from the customers.
+
+(d) Banks may devise controls to ensure that the passbooks are updated on an ongoing basis, and complete and correct particulars are written in a legible hand
+
+(e) Customers also need to be educated to submit the passbooks regularly for updating
+
+(f) Banks may take the following steps to provide customer satisfaction in these areas:
+
+Customer education drives may be launched to bring home the advantages of getting the passbooks updated regularly / periodically.
+
+Employees may be exhorted to attach importance to this area to provide customer satisfaction.
+
+(g) As a rule, passbooks may be updated immediately on submission. If updating is not possible immediately due to a large number of entries, then paper tokens be issued for collection of passbooks on the next day.
+
+3.2.1 Furnishing remitter details in pass book / pass sheet / account statement for credits received by customers through NEFT / NECS / ECS
+
+The procedural guidelines on NEFT/NECS/ECS and various circulars issued from time to time by the Reserve Bank clearly highlights the minimum information that should be provided to customers about the details of credit received through NEFT/NECS/ECS. Complaints about incomplete details about the remitter (or beneficiary) and/or the source of credit (or debit) in the passbooks/pass sheets/account statements, as also lack of uniformity across banks in providing even such minimal information are on the rise. Banks may enable their Core Banking Solutions (CBS) to capture complete information from the relevant fields in the messages/data files which can be displayed to customers when they access their accounts online or provide to them additionally when they approach the branch counters/help desks/call centres.
+
+3.3 Term deposits
+
+(a) Banks have made considerable innovations in the area of term deposits. Various innovative schemes have been introduced to suit customer requirements. However, customer awareness of the different schemes and facilities thereunder is actually lacking. Banks should therefore ensure that various term deposit schemes are made known to the customers through proper publicity and advice. The customers need to also be informed specifically of the provision of monthly interest on term deposits at a discounted rate and the facility of safe custody of term deposit receipts.
+
+(b) Term deposit application forms may be so devised as to contain a direction for disposal of deposits on maturity. In those cases where the customer does not indicate the course of action by the bank on maturity of deposits, banks may as a rule send intimation of impending due date of the deposit well in advance.
+
+3.4 Advisory Services on deposit schemes
+
+There is room for providing customer satisfaction by assisting customers in taking proper decisions for investment in various deposit schemes having regard to their particular needs and expectations. The banks should provide assistance/guidance to customers in the area of investment of funds in the various deposit schemes vis-à-vis the requirement of the customers.
+
+3.5 Brochures/pamphlets for guidance of customers
+
+Banks may make available to the customers brochures/ pamphlets in regional language/Hindi /English giving details of various schemes available and terms and conditions thereof. Such brochures may also contain, among others, dos and don'ts for smooth handling of day-to-day banking transactions, e.g. updating of passbooks, preferably in the leaner weeks of the month, say, third/fourth week, advantages of maintaining joint accounts and nomination, keeping the term deposit receipts in safe custody with the banks with instructions for disposal on maturity etc.
+
+3.6 Claims in respect of missing persons
+
+The settlement of claims in respect of missing persons would be governed by the provisions of Section 107 / 108 of the Indian Evidence Act, 1872. Section 107 deals with presumption of continuance and Section 108 deals with presumption of death. As per the provisions of Section 108 of the Indian Evidence Act, presumption of death can be raised only after a lapse of seven years from the date of his/her being reported missing. As such, the nominee / legal heirs have to raise an express presumption of death of the subscriber under Section 107/108 of the Indian Evidence Act before a competent court. If the court presumes that he/she is dead, then the claim in respect of a missing person can be settled on the basis of the same.
+
+Banks are advised to formulate a policy, which would enable them to settle the claims of a missing person after considering the legal opinion and taking into account the facts and circumstances of each case. Further, keeping in view the imperative need to avoid inconvenience and undue hardship to the common person, banks are advised that keeping in view their risk management systems, they may fix a threshold limit, up to which claims in respect of missing persons could be settled without insisting on production of any documentation other than (i) FIR and the non-traceable report issued by police authorities and (ii) letter of indemnity.
+
+4. Safe Deposit Lockers
+
+Banks should provide more and more lockers, especially in residential areas, while keeping in view the commercial viability.
+
+The Committee on Procedures and Performance Audit on Public Services (CPPAPS) had made some recommendations for easy operation of lockers. Accordingly, banks may adhere to the following guidelines:-
+
+4.1. Allotment and operation of Lockers
+
+4.1.1 Linking of Allotment of Lockers to placement of Fixed Deposits
+
+Banks should not link the provisions of lockers facility with placement of fixed or any other deposit beyond what is specifically permitted.
+
+4.1.2 Fixed Deposit as Security for Lockers
+
+Banks may obtain a Fixed Deposit which would cover 3 year's rent and the charges for breaking open the locker in case of an eventuality. However, banks should not insist on such Fixed Deposit from the existing locker hirers.
+
+4.1.3 Wait List of Lockers
+
+Branches should maintain a wait list for the purpose of allotment of lockers and ensure transparency in allotment of lockers. All applications received for allotment of locker should be acknowledged and given a wait list number.
+
+4.1.4 Security aspects relating to Safe Deposit Lockers
+
+(a) Operations of Safe Deposit Vaults/Lockers
+
+Banks should exercise due care and necessary precaution for the protection of the lockers provided to the customer.
+
+(b) Customer due diligence for allotment of lockers
+
+(i) Banks should carry out customer due diligence for both new and existing customers at least to the levels prescribed for customers classified as medium risk. If the customer is classified in a higher risk category, customer due diligence as per KYC norms applicable to such higher risk category should be carried out.
+
+(ii) Where the lockers have not been operated for more than three years for medium risk category or one year for a higher risk category, banks should immediately contact the locker hirer and advise him to either operate the locker or surrender it. This exercise should be carried out even if the locker hirer is paying the rent regularly. Further, the bank should ask the locker hirer to give in writing, the reasons why he / she did not operate the locker. In case the locker hirer has some genuine reasons as in the case of NRIs or persons who are out of town due to a transferable job etc., banks may allow the locker hirer to continue with the locker. In case the locker hirer does not respond nor operate the locker, banks should consider opening the lockers after giving due notice to him. In this context, banks should incorporate a clause in the locker agreement that in case the locker is not operated for more than one year, the bank would have the right to cancel the allotment of the locker and open the locker, even if the rent is paid regularly.
+
+(iii) Banks need to draw up a procedure in consultation with their legal advisers for breaking open the lockers and taking stock of inventory.
+
+(iv) In order to facilitate identifying the ownership of the locker keys, banks should introduce a system whereby the locker keys could be embossed with the Identification Code of the bank/branch. An arrangement for installation of necessary machinery at the branches with the help of the vendor company of the locker cabinet may be made for this purpose. The branches concerned may advise all the locker hirers about the embossing of the locker keys. It may also be ensured that the Identification Code is embossed on the locker keys in the presence of the locker hirer only. While Identification Code should be embossed on keys of all new lockers to be installed, in respect of keys of already hired out lockers, the Identification Code may be embossed whenever the hirer visits the bank to operate the locker.
+
+4.1.5 Access to the safe deposit lockers / return of safe custody articles to Survivor(s) / Nominee(s) / Legal heir(s)
+
+Instructions were laid down vide circular UBD. BPD. Cir. No.4/13.01.00/2005-06 dated July 14, 2005 for handing over the proceeds of deposit accounts. A similar procedure should be adopted for return of contents of lockers / safe custody articles to Survivor / Nominee / Legal Heirs.
+
+4.1.6 Access to the safe deposit lockers / return of safe custody articles (with survivor/nominee clause)
+
+If the sole locker hirer nominates a person, banks should give to such nominee access of the locker and liberty to remove the contents of the locker in the event of the death of the sole locker hirer. In case the locker was hired jointly with the instructions to operate it under joint signatures, and the locker hirer(s) nominates person(s), in the event of death of any of the locker hirers, the bank should give access of the locker and the liberty to remove the contents jointly to the survivor(s) and the nominee(s). In case the locker was hired jointly with survivorship clause and the hirers instructed that the access of the locker should be given over to ‘either or survivor’, ‘anyone or survivor’ or ‘former or survivor’ or according to any other survivorship clause, banks should follow the mandate in the event of the death of one or more of the locker hirers. However, banks should take the following precautions before handing over the contents:
+
+Banks should exercise due care and caution in establishing the identity of the survivor(s)/ nominee(s) and the fact of death of the locker hirer by obtaining appropriate documentary evidence.
+
+Banks should make diligent effort to find out if there is any order from a competent court restraining the bank from giving access to the locker of the deceased.
+
+Banks should make it clear to the survivor(s) / nominee(s) that access to locker / safe custody articles is given to them only as a trustee of the legal heirs of the deceased locker hirer; such access given to them shall not affect the right or claim which any person may have against the survivor(s) / nominee(s) to whom the access is given.
+
+4.1.7 Access to the safe deposit lockers / return of safe custody articles (without survivor/nominee clause)
+
+There is an imperative need to avoid inconvenience and undue hardship to legal heir(s) of the locker hirer(s). In case where the deceased locker hirer had not made any nomination or where the joint hirers had not given any mandate that the access may be given to one or more of the survivors by a clear survivorship clause, banks are advised to adopt a customer-friendly procedure drawn up in consultation with their legal advisers for giving access to legal heir(s) / legal representative of the deceased locker hirer. Similar procedure should be followed for the articles under safe custody of the bank.
+
+4.1.8 Banks are advised to be guided also by the provisions of Sections 45 ZC to 45 ZF of the Banking Regulation Act, 1949 (As Applicable to Cooperative Societies (AACS)) and the Co-operative Banks (Nomination) Rules, 1985 and the relevant provisions of Indian Contract Act and Indian Succession Act.
+
+4.1.9 Banks should prepare an inventory before returning articles left in safe custody / before permitting removal of the contents of a safe deposit locker in terms of Notification UBD.BR.767/B.1-84/85 dated March 29, 1985. The inventory shall be in the appropriate Forms set out as enclosed to the Notification or as near thereto as circumstances require. A copy of the Notification is shown as Annex II.
+
+4.2 Customer Guidance and Publicity
+
+4.2.1 Benefits of nomination / survivorship clause
+
+Banks should give wide publicity and provide guidance to locker-hirers / depositors of safe custody articles on the benefits of the nomination facility and the survivorship clause.
+
+4.3 IT enabled Financial Inclusion
+
+Banks are urged to scale up IT initiatives for financial inclusion speedily while ensuring that solutions are highly secure, amenable to audit, and follow widely accepted open standards to ensure eventual inter-operability among the different systems.
+
+5. Banking facilities to the visually challenged
+
+All the banking facilities such as cheque book facility including third party cheques, ATM facility, Net banking facility, locker facility, retail loans, credit cards etc. are required to be invariably offered to the visually challenged without any discrimination. Banks may also advise their branches to render all possible assistance to the visually challenged for availing the various banking facilities.
+
+Banks should make at least one third of new ATMs installed as talking ATMs with Braille keypads and place them strategically in consultation with other banks to ensure that at least one talking ATM with Braille keypad is generally available in each locality for catering to the needs of visually impaired persons. Banks may also bring the location of such talking ATMs to the notice of their visually impaired customers. Banks should make all new ATMs installed from July 1, 2014 as talking ATMs with Braille keypads and lay down a road map for converting existing ATMs as talking ATMs with Braille keypads and the same may be reviewed from time to time by the Board of Directors/Customer Service Committee of the Board.
+
+In addition to the above, magnifying glasses should also be provided in all bank branches for the use of persons with low vision, wherever they require, for carrying out banking transactions with ease. Branches should display at a prominent place notice about the availability of magnifying glasses and other facilities available for persons with disabilities.
+
+6. Identity badges
+
+Each employee may wear on his person, identity badge with photograph and name prominently displayed on it. Besides giving an official touch, it will create a better rapport with the customers.
+
+7. Job enrichment
+
+Periodic change of duties and job rotation among employees is necessary. Elementary checking functions such as authentication of pass books/ issuance of receipts for cheques deposited for credit to the customers' accounts etc., would not only make useful contribution towards customer service but also would give a boost to the morale and self image of the employees.
+
+8. Training
+
+It is essential to align the training programmes to the needs in various areas with an eye on customer service. The employees should be trained to develop the right kind of attitude towards customer service, and empathy towards customer needs and expectations. Training programmes may be so devised as to bring about positive attitudinal changes compatible to customer orientation.
+
+9. Induction training
+
+Training to new recruits should be a precursor to other follow - up training programmes. All new recruits, i.e. clerks/officers should be necessarily exposed to induction programme immediately after recruitment. A co-ordinated approach amongst banks is required in this regard.
+
+10. Reward and recognition
+
+The system of reward/recognition should be such that it puts an indifferent employee to a considerable disadvantage - psychologically and even financially. Only if the reward scheme is objectively enunciated, employees will be motivated to perform better. Indifferent and casual approach to work (customer service) should not go unnoticed, giving such employees wrong signals. Banks should evolve a fair system whereby employees are gauged or rated in the area of customer service and good work is rewarded.
+
+11. Systems and procedures
+
+Systems and procedures are necessary to assist banks in functioning in an effective and efficient manner and to ensure safety of customer's money. Banks may keep their systems and procedures in trim, by a continuous process of introduction of new procedures that may be required and by doing away with unwanted ones.
+
+12. Customer service audit
+
+Various facets of service to the customers need review and introduction of more avenues has to be identified. Banks may subject themselves to an audit approach towards their customer service points at grass root levels and also at policy prescription and macro levels in the matter of extension of customer service.
+
+13. Complaint box and book
+
+A Complaint cum Suggestion Box may be kept in the bank premises at a prominent place. Every bank branch may also maintain a Complaint Book with adequate number of perforated copies in each set, so designed as to instantly provide the complainant with an acknowledged copy of the complaint. A format of complaint book with adequate number of perforated copies prepared by the Indian Banks Association is given at Annex I. Banks should take appropriate steps to introduce the same for ensuring uniformity at all offices of the banks.
+
+14. Inspection/Audit reports
+
+The internal inspectors/auditors including audit firms engaged for the purpose during the course of their inspection/audit of branches should examine the various customer service aspects including the efficacy of the complaints handling and grievance redressal machinery; and based on their observations, record the improvements and deficiencies in various areas.
+
+15. Complaint prone employees
+
+Placement of employees in customer contact slots should be on a selective basis. By imaginative and innovative approaches, enough number of employees can be brought-up by training. Cases of deliberate recalcitrance and disregard of customer service spirit should be taken note of and kept in concerned employees’ service records apart from taking other action against such employees.
+
+16. Periodical visits by senior officials
+
+Senior officials while visiting the branches should also give priority to the customer service aspects. It will be great advantage if senior official counter checks the actual ‘branch atmosphere’ by having in hand a report on customer service submitted by the branch.
+
+17. Infrastructure provision
+
+Banks may bestow attention to providing adequate space, proper furniture, drinking water facilities, clean environment, (which include keeping the walls free of posters) etc., in their premises to enable conduct of banking transactions smoothly and more comfortably.
+
+18. Customer education
+
+Customer education both in regard to rights and responsibilities in dealing with banks should be viewed as a fundamental issue in any attempt to improve customer service. Customer should be made aware not only of the various schemes and services offered by banks, but also about the formalities, procedures, legal requirements and limitations in the matter of providing services by the banks, through a proper mix of advertisements, literature, interface, seminars, etc. Banks should involve their employees in all customer education programmes.
+
+19. Security arrangements
+
+In view of the incidents involving terrorists/dacoits, banks should review and improve upon the existing security system in branches so as to instill confidence amongst the employees and the public. Regular drill/ training to the security staff should be ensured.
+
+20. Fair Practices Code - Display of Bank/ Service Charges
+
+20.1 Banks have the freedom to prescribe service charges with the approval of their Boards. However, while fixing service charges, for various types of services like charges for cheque collection, etc., they should ensure that they are reasonable and are not out of line with the average cost of providing these services. Banks should also take care to ensure that customers with low volume of activities are not penalized.
+
+20.2. Display of information – Comprehensive Notice Board
+
+Banks should put up in a notice board important aspects or indicators on ‘customer service information’, ‘service charges’, ‘grievance redressal’ and ‘others’. The notice board should be updated on a periodical basis.
+
+Banks should display information relating to interest rates and service charges in their premises as well as post it on their websites, to enable the customer to obtain the desired information at a glance. An indicative format is enclosed at Annexure IV.
+
+20.3 Further, all banks, including scheduled banks, should also display at their offices/ branches the service charges relating to the following services in the local languages:
+
+A. Services rendered free of charge
+
+B. Others
+
+Minimum balances to be maintained in the SB account
+
+Charges leviable for non-maintenance of minimum balance in SB account
+
+Charges for collection of outstation cheques
+
+Charges for issue of Demand Draft
+
+Charges for issue of cheques books, if any
+
+Charges for account statement
+
+Charges for account closure, if any
+
+Charges for deposit/withdrawal at ATM locations, if any
+
+UCBs are advised to leverage technology available with them and the telecom providers to ensure that the charges levied by banks for sending SMS alerts are levied on all customers on actual usage basis.
+
+20.4 Banks should also ensure that the charges levied for offering various electronic products and for outstation cheque collection servicedo not exceed the framework of charges prescribed by the Reserve Bank, (for transactions originated and payable in India), which is summed up as under:-
+
+A. Electronic products –
+
+| (a) Inward Transactions |
+| --- |
+| RTGS /NEFT/ECS transactions | Free, no charge to be levied |
+| (b) Outward transactions |
+| (i) RTGS |
+| ₹ 1 to ₹ 5 lakh | Not exceeding ₹ 25 per transaction |
+| ₹ 5 lakh and above | Not exceeding ₹ 50 per transaction |
+| (ii) NEFT |
+| Up to ₹ 1 lakh | Not exceeding ₹ 5 per transaction |
+| ₹ 1 lakh and above | Not exceeding ₹ 25 per transaction |
+
+Banks may prescribe charges not higher than cheque return charges for ECS debit returns.
+
+B. Outstation cheque collection
+
+| Value | Service charge from Savings a/c of customers |
+| --- | --- |
+| Up to and including ₹ 5,000 | ₹ 25 ^ |
+| Above ₹ 5,000 and up to and including ₹ 10,000 | ₹ 50 ^ |
+| Above 10,000 and up to and including ₹ 1,00,000 | ₹ 100 ^ |
+| Above ₹ 1,00,000 | Left to the banks to decide |
+| ^ All inclusive maximum amount chargeable by banks to the customers |
+
+C. Service Charges for Cheque Collection under Speed Clearing (by Collecting Banks from customers
+
+| Value | Service charge from Savings a/c of customers |
+| --- | --- |
+| Up to and including ₹ 1,00,000 | Nil |
+| Above ₹ 1,00,000 | Left to the banks to decide |
+
+Banks are free to fix charges for collection of instruments for credit to other type of accounts.
+
+While fixing service charges not mandated herein, banks may note the following:
+
+The service charge structure put in place by the bank should have the approval of the Board of Directors.
+
+Charges fixed should be reasonable and computed on a cost-plus-basis and not as an arbitrary percentage of the value of the instrument. The service charge structure should not be open ended and should clearly specify the maximum charges that would be levied on customers including charges, if any, payable to other banks.
+
+While sharing service charges, banks may be guided by the provisions of circular CIR/RB-I/CCP/64 dated April 8, 2010 issued by the Indian Banks Association.
+
+Banks may note to ensure that collection charges fixed for instruments of any value is lower under Speed Clearing vis-à-vis Outstation Cheque Collection so as to encourage the use of Speed Clearing.
+
+Banks, which have fixed their service charges for outstation /speed clearing for instruments valuing above ₹ 1 lakh as percentage to the value of instruments are advised to review the same and fix the charges on a cost plus basis
+
+Banks may note to ensure that collection charges fixed for instruments valuing above ₹ 1 lakh is lower under Speed Clearing vis-à-vis Outstation Cheque collection as advised in paragraph 6 (d) of our circular dated January 19, 2011 so as to encourage the use of Speed Clearing.
+
+The updated service charges structure may be incorporated in the cheque Collection Policy (CCP) and the customers notified accordingly. The revised rates may also be placed on the bank’s web site.
+
+The service charges mandated/fixed by banks are inclusive of all charges (postal, courier, handling, etc.) other than service tax.
+
+Banks should use electronic modes like RTGS/NEFT to remit clearing proceeds to the collecting bank branch availing of Outstation Cheque Collection facility.
+
+Note: The above provisions are not applicable to cash handling charges levied by banks for handling large value cash transactions.
+
+D Wih a view streamline practice of charges for cheque returns to be levied by bank, the banks are advised to adhere to the following instructions:
+
+i. Cheque return charges shall be levied only in cases where the customer is at fault and is responsible for such returns. The illustrative, but not exhaustive, list of returns, where the customers are not at fault are indicated in the Annex IV.
+
+ii. Cheques that need to be re-presented without any recourse to the payee, shall be made in the immediate next presentation clearing not later than 24 hours (excluding holidays) with due notification to the customers of such re-presentation through SMS alert, email etc.
+
+21 ATM Transactions
+
+21.1 Customer charges for use of ATMs for cash withdrawal and balance enquiry
+
+(i) Banks have been deploying ATMs to increase their reach to increase the usage of ATMs as a delivery channel. Banks have also entered into bilateral or multilateral arrangements with other banks to have inter-bank ATM networks. While ATMs facilitate a variety of banking transactions for customers, their main utility has been for cash withdrawal and balance enquiry.
+
+(ii) The number of ATMs and Point of Sale (POS) terminals in the country and the use of debit cards at POS terminals at different merchant establishments has been steadily increasing. As a further step towards enhancing the customer convenience in using the plastic money, it has been decided to permit cash withdrawals at POS terminals. To start with, this facility will be available to all debit cards issued in India, up to ₹ 1,000 per day. The conditions subject to which this facility is being extended are given in the Annexure V
+
+(iii) After an analysis of the ATM deployment in the country as well as availability of alternate means of electronic payment infrastructure and access thereto, it was decided to revise the service charges as under:-
+
+a) Taking into account the high density of ATMs, bank branches and alternate modes of payment available to the customers, the number of mandatory free ATM transactions for savings bank account customers at other banks' ATMs has been reduced from the present five to three transactions per month (inclusive of both financial and non-financial transactions) for transactions done at the ATMs located in the six metro centres, viz. Mumbai, New Delhi, Chennai, Kolkata, Bengaluru and Hyderabad. Nothing, however, precludes a bank from offering more than three free transactions at other bank ATMs to its account holders if it so desires :
+
+b) This reduction will, however, not apply to small / no frills / Basic Savings Bank Deposit account holders who will continue to enjoy five free transactions, as hitherto.
+
+c) At other locations i.e. other than the six metro centres mentioned above, the present facility of five free transactions for savings bank account customers shall remain unchanged. If transactions are carried out at both the six metro centres and other locations, the total number of transactions (inclusive of both financial and non-financial) free of charge at other bank ATMs would continue to remain at FIVE.
+
+d) ATM installing banks are advised to indicate clearly at each ATM location that the ATM is situated in a 'metro' or 'non-metro' location using appropriate means (message displayed on the ATM / sticker / poster, etc.) to enable the customer to identify the status of the ATM in relation to availability of number of free transactions. Further, banks are advised to ensure the "ATM location identifiers" in their ATM database is accurate and kept up-to-date at all times so as to minimise disputes, if any, in the matter.
+
+e) The issuing banks are also advised to put in place proper mechanisms to track such transactions and ensure that no customer inconvenience or complaints arise on this account.
+
+f) Banks are advised that at least five free transactions (inclusive of financial and non financial transactions) per month should be permitted to the savings bank account customers for use of own bank ATMs at all locations. Beyond this, banks may put in place appropriate Board approved policy relating to charges for customers for use of own bank ATMs.
+
+g) The ceiling / cap on customer charges of Rs.20/- per transaction (plus service tax, if any) will be applicable.
+
+h) Banks are advised to ensure that the charges structure on ATM transactions, as per their Board approved policy, is informed to the customer in a fair and transparent manner.
+
+i) Further, banks are advised to put in place suitable mechanism for cautioning / advising / alerting the customers about the number of free transactions (OFF-US as well as ON-US) already utilised during the month by the customer and the possibility that charges may be levied as per the banks' policy on charges.
+
+The service charges for the following types of cash withdrawal transactions may be determined by the banks themselves:
+
+cash withdrawal with the use of credit cards.
+
+cash withdrawal in an ATM located abroad.
+
+21.2 Enhancement of Customer Service
+
+To improve the customer service through enhancement of efficiency in ATM operations, banks are advised to initiate action as below :
+
+The message regarding non-availability of cash in ATMs should be displayed before the transaction is initiated by the customer. Banks may exercise option to display such notices either on screen or in some other way.
+
+The ATM ID may be displayed clearly in the ATM premises to enable a customer to quote the same while making a complaint / suggestion.
+
+The forms for lodging ATM complaints may be made available by the banks within the ATM premises and display the name and phone number of the officials with whom the complaint can be lodged may be displayed.
+
+Banks may make available sufficient toll-free phone numbers for lodging complaints / reporting and blocking lost cards to avoid delays and also attend the requests on priority. Local helpline numbers (city-wise / centre wise) should also be increased and should be prominently displayed in the ATM premises / banks' web-site.
+
+Banks may proactively register the mobile numbers / e-mail IDs of their customers for sending alerts and also educate their customers to intimate changes, if any. A time-bound programme for updation of mobile number and or e-mail of all existing accounts may be drawn up. These details should be updated periodically along with KYC details.
+
+To prevent fraudulent withdrawal at ATMs, RBI had mandated requirement of PIN entry for each and every transaction, including balance enquiry transactions. It is advised that the time out sessions should be enabled for all screens / stages of ATM transaction keeping in view the time required for such functions in normal course. Bank may ensure that no time extensions are allowed beyond a reasonable limit at any stage of the transaction.
+
+Banks, in collaboration with Indian Banks' Association, may run advertisement campaign in both, print and electronic media at regular intervals for creating awareness about electronic banking products.
+
+21.3 Banks shall reimburse to the customers the amount wrongfully debited, if any, due to ATMs failure to dispense cash within a maximum period of 12 days from the date of receipt of customer complaints.
+
+21.4 Provision of ramps at Automated Teller Machines (ATMs)/branches
+
+Banks are advised to take necessary steps to provide all existing ATMs/ future ATMs with ramps so that wheel chair users / persons with disabilities can easily access them. The height of the ATM should be such that it does not create an impediment in its use by a wheelchair user. Banks may also take appropriate steps including ramps at the entrance of the bank branches so that the person with disabilities/wheel chair users can enter the bank branches and conduct business without much difficulty and report the progress made in this regard periodically to their Board of Directors/Customer Service Committee of the Board and ensure compliance. However, in cases where it is impracticable to provide such ramp facilities, whether permanently fixed to earth or otherwise, the requirement may be dispensed with, for reasons recorded or displayed in branches or ATMs concerned.
+
+22- Electronic Payment Products (RTGS, NEFT, NECS and ECS variants)
+
+22.1 Processing inward transactions based solely on account number information
+
+In the CBS environment, customers of a bank can be uniquely identified by their account number across branches. In terms of the extant Procedural Guidelines for RTGS/NEFT/NECS/ECS Credit, banks are generally expected to match the name and account number information of the beneficiary before affording credit to the account. In the Indian context, however, given the many different ways in which beneficiary names can be written, it becomes extremely challenging for the banks to perfectly match the name field contained in the electronic transfer instructions with the name on record in the books of the destination bank. This leads to manual intervention hindering the straight-through-processing (STP) environment causing delay in credit or due return of uncredited instructions. The manual intervention also provides scope for error and fraudulent intent.
+
+Being essentially credit-push in nature, responsibility for accurate input and successful credit lies with the remitting customers and the originating banks. The role of destination banks is limited to affording credit to beneficiary’s account based on details furnished by the remitter/originating bank. Instructions for processing such inward transactions based solely on account number information are given in Annexure VI.
+
+22.2 NEFT - Customer Service and Charges
+
+It was observed that in many branches the dealing officials / staff were unaware of the actual charges for NEFT and there was no board or material displaying the NEFT charges for customers wanting to remit funds. It was also observed that few large banks were diverting the walk-in customers / non-account holders / non-home branch customers to customer service points / agents for undertaking such transactions where the customers were being levied charges far higher than those mandated for NEFT transactions. In this context banks are advised to :
+
+Educate all their staff / officials about the NEFT process in general and extension of the facility to walk-in customers and customer charges applicable on NEFT, in particular, as outlined in the Procedural Guidelines for NEFT and instructions issued by the Reserve Bank from time to time on NEFT.
+
+Ensure NEFT applications forms with proper instructions are made available at all branches. The extant charges applicable on NEFT transactions should be displayed at all branches / locations of the bank where NEFT transactions can be conducted. A printed "charges card" in appropriate vernacular language should invariably be carried by agents / business correspondents of the banks.
+
+Ensure that the charges levied on customers for inter-bank NEFT transactions at both branch locations and CSP / BC / agent locations are at par. Further, it should be ensured that the customers should not be forcibly diverted to BC / CSP / agent locations from the branches for conducting NEFT transactions.
+
+Ensure that positive confirmation of credit to beneficiary account is invariably sent for all inward transactions received by them. Similarly, banks originating the NEFT transactions may ensure that such positive confirmation is relayed to all remitting customers, including walk-in customers who provide their mobile number / e-mail id, in accordance with our guidelines on the matter. Intimation of failed / returned transactions should also be brought to the notice of the remitting customer and funds credited to the account immediately / returned to the remitted at the earliest.
+
+Ensure that in case of delayed credits or delayed returns, the penal interest as applicable is paid suo-moto to the customer without necessitating a request for the same by the customer. Banks resorting to back-dating or value-dating such delayed transactions are not excused from paying the penal interest for the delayed period and adoption of such practices will be viewed seriously.
+
+23. Mobile Banking Transactions
+
+RBI had set up a “Technical Committee on Mobile Banking” to study the challenges faced by banks in providing mobile banking to customers in general(customer enrolment and technical issues) and also to examine the options/alternatives for expanding the reach of mobile banking in the country. The suggestions/recommendations that emerged from a conference organized to discuss the recommendations of the committee and that by an informal group formed with the representations from various stake holders for” Setting standards for on-boarding mobile banking customers by banks” are summarized below:-
+
+(i) There is a need for a greater degree for standardization in relating to on-boarding of customers for mobile banking (new customers, existing account holders whose mobile numbers are available with the bank but not registered for mobile banking, and existing account holders where mobile number is not available with the bank), as also the subsequent processes for authentication, including accessible options for generation of MPIN by customers.
+
+(ii) Banks should strive to provide options for easy registration for mobile banking services to their customers, through multiple channels, thus minimizing the need for the customer to visit the branch for such services. The time taken between registration of customers for mobile banking services and activation of the service should also be minimal. A few suggestions and best practices that can be adopted by banks for registering / on-boarding customers for mobile banking, under the three scenarios indicated above, are given in the Annex VII.
+
+(iii) Similarly, in order to quicken the process of MPIN generation and also widen the accessibility of this process to their mobile banking registered customers, banks can consider adopting various channels / methods such as
+
+Through the ATM channels (similar to option available for change of PIN on their own ATMs as well as in inter-operable ATM networks)
+
+Through an option provided in the USSD menu for mobile banking (both their own USSD platform, if any, as well as under the inter-operable USSD Platform for mobile banking)
+
+Banks' own internet banking website, with necessary safeguards
+
+Use of MPIN mailers (like PIN mailers for cards)
+
+Common website can also be designed as an industry initiative
+
+(iv) Banks are also advised to undertake customer education and awareness programme in multiple languages through different channels of communication to popularise their process of mobile banking registration / activation and its usage etc.
+
+24. Card Payments
+
+24.1 Security Issues and Risk Mitigation measures related to Card Not Present (CNP) transactions
+
+(a) It is mandatory for banks to put in place additional authentication / validation based on information not visible on the cards for all on-line card not present (CNP) transactions (e-commerce / IVR / MOTO / recurring based on standing instructions). It has been observed that there are instances of card not present transactions being effected without the mandated additional authentication / validation even where the underlying transactions are essentially taking place between two residents in India (card issued in India being used for purchase of goods and service offered by a merchant / service provider in India). It is also observed that these entities are evading the mandate of additional authentication / validation by following business / payment models which are resulting in foreign exchange outflow. Such camouflaging and flouting of extant instructions on card security, which has been made possible by merchant transactions (for underlying sale of goods / services within India) being acquired by banks located overseas resulting in an outflow of foreign exchange in the settlement of these transactions, is not acceptable as this is in violation of the directives issued under the Payment and Settlement Systems Act 2007 besides the requirements under the Foreign Exchange Management Act, 1999. Banks are advised not to adopt such practices leading to willful non-adherence and violation of extant instructions and should immediately put a stop to such arrangements. Banks are further advised that where cards issued by banks in India are used for making card not present payments towards purchase of goods and services provided within the country, the acquisition of such transactions has to be through a bank in India and the transaction should necessarily settle only in Indian currency, in adherence to extant instructions on security of card payments.
+
+(b) Banks were advised that with effect from September 01, 2015 all new cards issued - debit and credit, domestic and international - by banks shall be EMV chip and pin based cards. The migration plan for existing magnetic stripe only cards will be framed in consultation with stakeholders and timeline for the same will be advised in due course.
+
+24.2 Relaxation in requirement of Additional Factor of Authentication for Small Value Card Present Transactions
+
+(a) The instructions for Additional Factor of Authentication(AFA) requirements for small value card present transactions only using contact-less cards are as under:-
+
+Relaxation for AFA requirement is permitted for transactions for a maximum value of Rs.2,000/- per transaction;
+
+The limit of Rs.2000/- per transaction will be the limit set across all categories of merchants in the country where such contactless payments will be accepted;
+
+Beyond this transaction limit, the card has to be processed as a contact payment and authentication with PIN (AFA) will be mandatory;
+
+Even for transaction values below this limit, the customer may choose to make payment as a contact payment, which has to be facilitated by both issuing and acquiring banks. In other words, customers cannot be compelled to do a contactless payment;
+
+Banks are free to facilitate their customers to set lower per-transaction limits. The responsibility for authorizing the contactless payment based on such card-based limits will lie with the card issuing banks;
+
+Suitable velocity checks (i.e., how many such small value transactions will be allowed in a day / week / month) may be put in place by banks as considered appropriate; and
+
+The contactless cards should necessarily be chip cards adhering to EMV payment standard, so as to be acceptable across the existing card acceptance infrastructure which are EMV compliant based on the earlier mandate in this regard.
+
+(b) The banks were also advised in the interest of customer awareness and protection
+
+to clearly explain to customers about the technology, its use, and risks while issuing such contact less cards;
+
+to create awareness among customers to look for / identify the "contactless" logo on the card (to distinguish them from other cards) as well as the merchant location / POS terminal (to identify that contactless payments are accepted at that location);
+
+to clearly indicate to the customers that they can use the card in contactless mode (without PIN authentication) for transactions upto Rs.2000/- in locations where contactless payments are accepted and to make customers aware that they are free to use the same card as a regular chip card (with PIN authentication) at any location irrespective of transaction value;
+
+to clearly indicate the maximum liability devolving on the customer, if any, at the time of issuance of such cards along with the responsibility of the customer to report the loss of such cards to the bank; and
+
+to put in place robust mechanism for seamless reporting of lost / stolen cards, which can be accessed through multiple channels (website, phone banking, SMS, IVR etc.).
+
+(c) It may, however, be noted that the above relaxations shall not apply to :
+
+1. ATM transactions irrespective of transaction value and Card Not Present transactions (CNP).
+
+25. Cheque Books/Cheque Collection etc
+
+25.1 Issue of Cheque Books
+
+Banks should ensure that their cheque books are printed with due care and the perforation in the cheque leaves as also binding of cheque books are up to the mark so as to avoid any inconvenience to the customers. All CBS enabled banks are advised to issue only “payable at par”/”multi city”/ CTS 2010 standard cheques to all eligible customers.
+
+25.2 Cheque Drop Facility and the Facility for Acknowledgement of cheques
+
+While the cheque drop facility may be made available to the customers, the facility for acknowledgement of cheques at the regular collection counters should not be denied to them. No branch should refuse to give an acknowledgement on cheques being tendered by customers at their counters. Further, customers should be made aware of both options available to them i.e., dropping cheques in the drop box or tendering them at the counters so that they can take an informed decision in this regard.
+
+25.3. Immediate Credit of Outstation Cheques
+
+25.3.1 Non-scheduled banks should afford immediate credit for all outstation cheques up to the value of ₹ 5,000 tendered by individual account holders, provided they are satisfied about proper conduct of the accounts. These arrangements should be scrupulously followed. The banks may recover usual collection charges in respect of outstation cheques. The banks should not wait for customers’ requests for the facility but should, as a matter of normal course, provide this service. However, in respect of local cheques, the banks may extend the facility of affording immediate credit up to ₹ 5,000 to customers who wish to avail of the facility and are prepared to bear charges for the same.
+
+25.3.2 In case the cheques are returned unpaid, the bank can recover normal rate of interest at the Minimum Lending Rate for the period it is out of funds. For this purpose, banks may consider introducing pay-in-slips superimposing a notice to the effect that in the event of dishonour of the cheque, customer will be subject to payment of normal rate of interest for the period till the bank was out of funds.
+
+25.4 Time frame for collection of cheques
+
+In compliance with the orders of National Consumer Dispute Redressal Commission (NCDRC), all banks have to conform to the timeframe prescribed by it, namely:
+
+For local cheques, credit and debit shall be given on the same day or at the most, on the next day. If there is any delay in collection of the said cheques, the Cheque Collection Policy (CCP) of the bank should include the compensation payable for the delayed period: In case, no rate is specified in the (CCP) compensation at saving bank interest rate shall be paid for the corresponding period of delay
+
+Timeframe for collection of outstation cheques drawn on state capitals / major cities / other locations shall be 7 / 10 / 14 days respectively. If there is any delay in collection of the said cheques beyond this period, interest at the fixed deposit rate or at a specified rate as per the respective policy of the banks, is to be paid to the payee of the cheques. In case the rate is not specified in the Cheque Collection Policy (CCP), the applicable rate shall be the interest rate on Fixed Deposits for the corresponding maturity. The timeframe for collection specified by the Commission shall be treated as outer limit and credit shall be afforded if the process gets completed earlier. The banks shall not decline to accept outstation cheques deposited by their customers for collection.
+
+The collection period of outstation cheques and interest payable thereon in case of delay shall be published on the notice board in a precise manner in bold / visible lettersat a conspicuous place in every branch.
+
+Scheduled banks are required to formulate a comprehensive and transparent policy covering issues relating to (i) immediate credit of local / outstation cheques (ii) Timeframe for collection of local / outstation cheques and (iii) interest payment for delayed collection.
+
+25.5 Implementation and Accountability
+
+In order to ensure that the above time schedule is scrupulously followed by the branches, there needs to be a clear-cut staff accountability for the delay. For this purpose, special register may be introduced to record the delayed collections for necessary action.
+
+Further, it should be ensured that where delays occur, the account holders are paid penal interest without their making requests therefore. Necessary instructions may be issued to the branches with a view to ensuring strict compliance of these instructions for automatic credit of interest in respect of delayed collection of outstation cheques so as to avoid any room for representations/ complaints from public.
+
+Senior Officials while visiting branches should make it a point to check implementation of the above instructions.
+
+25.6 Additional Measures for Quicker Collection of Outstation Instruments
+
+(a) Banks should initiate the following additional measures to reduce the time taken for realization of cheques:
+
+(b) Cheques drawn on MICR centres should invariably be presented through National Clearing Cell.
+
+(c) Extensive use should be made of modern telecommunication technology for networking service branches in important centres and between service branches and other branches within a particular centre.
+
+(d) The concept of Quick/Fast collection service for collection of outstation instruments should be streamlined.
+
+(e) Separate registers should be maintained for local cheques and outstation cheques to enable the branch managers to exercise better supervision and remedial measures should be initiated to speed up the collection of outstation instruments.
+
+(f) With a view to closely monitoring the implementation of these instructions, internal inspection teams may be advised to verify these aspects during Inspection of the branches, as this is a singular feature having a direct bearing on rendering improved customer service.
+
+(g) It is also necessary to make customers aware of the above facilities. The banks may, therefore, make arrangements to display information about the facilities available at the branches, for customers’ knowledge.
+
+25.7 Collection of account payee cheques – Prohibition on crediting proceeds to third party account
+
+Banks should not collect ‘account payee’ cheques for any person other than the payee constituent. Where the drawer/ payee instructs the bank to credit the proceeds of collection to any account other than that of the payee, the instruction being contrary to the intended inherent character of the ‘account payee’ cheque, banks should ask the drawer/ payee to have the cheque or the account payee mandate thereon withdrawn by the drawer. This instruction will also apply with respect to the cheque drawn by a bank payable to another bank.
+
+However, with a view to mitigating difficulties faced by members of co-operative credit societies in collection of account payee cheques, collecting banks may consider collecting account payee cheques drawn for an amount not exceeding ₹ 50,000 to the account of their customers who are co-operative credit societies if the payees of such cheques are the constituents of such co-operative credit societies. While collecting the cheques as aforesaid, banks should obtain a clear undertaking in writing from the co-operative credit societies concerned that, upon realization, the proceeds of the cheques will be credited only to the account of the member of the co-operative credit society who is the payee named in the cheque. This shall, however, be subject to the fulfillment of the requirements of the provisions of Negotiable Instruments Act, 1881, including Section 131 thereof. The collecting bank shall subject the society to the usual KYC norms and enter into an agreement with the society that the KYC documents in respect of the society’s customers are preserved in the society's records and are available to the bank for scrutiny. The collecting banks should, however, be aware that in the event of a claim by the true owner of the cheque, the rights of the true owner of the cheque are not in any manner affected by these instructions and banks will have to establish that they acted in good faith and without negligence while collecting the cheque in question
+
+25.8. Dishonoured instruments
+
+Banks may ensure that dishonored instrument is returned / dispatched to the customer promptly without delay on the same day but in any case within 24 hours.
+
+25.9 Reimbursement of interest by paying bank
+
+Delay beyond two days on the part of paying bank in despatching the proceeds to the collecting bank may be treated as delay attributable to that bank and interest paid on delayed credit by the collecting bank may be reimbursed by the paying bank. Responsibility for payment of interest to the depositor of the cheque, however, should continue to remain that of the collecting bank.
+
+25.10 Cheque Related Fraud Cases - Preventive Measures
+
+25.10.1 Banks have been advised to review and strengthen the controls in the cheque presenting / passing and account monitoring processes and to ensure that all procedural guidelines including preventive measures are followed meticulously by the dealing staff / officials. Given below are some of the preventive measures UCBs may follow in this regard. The list is only indicative.
+
+Ensuring the use of 100% CTS - 2010 compliant cheques.
+
+Strengthening the infrastructure at the cheque handling Service Branches and bestowing special attention on the quality of equipment and personnel posted for CTS based clearing, so that it is not merely a mechanical process.
+
+Ensuring that the beneficiary is KYC compliant so that the bank has recourse to him / her as long as he / she remains a customer of the bank.
+
+Examination under UV lamp for all cheques beyond a threshold of say, Rs.2 lakh.
+
+Checking at multiple levels, of cheques above a threshold of say, Rs.5 lakh.
+
+Close monitoring of credits and debits in newly opened transaction accounts based on risk categorization.
+
+Sending an SMS alert to payer / drawer when cheques are received in clearing.
+
+The threshold limits mentioned above can be reduced or increased at a later stage with the approval of the Board depending on the volume of cheques handled by the UCBs or it's risk appetite.
+
+25.10.2 In addition to the above, UCBs may consider the following preventive measures for dealing with suspicious or large value cheques (in relation to an account's normal level of operations) :
+
+Alerting the customer by a phone call and getting the confirmation from the payer / drawer.
+
+Contacting base branch in case of non-home cheques.
+
+The above may be resorted to selectively if not found feasible to be implemented systematically.
+
+25.10.3 Banks have also been advised to take appropriate precautionary measures to ensure that the confidential information viz., customer name / account number / signature, cheque serial numbers and other related information are neither compromised nor misused either from the bank or from the vendors' (printers, couriers etc.) side. Due care and secure handling is also to be exercised in the movement of cheques from the time they are tendered over the counters or dropped in the collection boxes by customers.
+
+25.11. Rounding off cheques to the nearest rupee
+
+Banks are advised to ensure that cheques / drafts issued by clients containing fractions of a Rupee are not rejected or dishonoured by them. Banks may also review the practice being followed by them in this regard and take necessary steps, including through issue of internal circulars, etc., to ensure that the concerned staff are well versed with these instructions so that the general public does not suffer. Banks may also ensure that appropriate action is taken against members of their staff who are found to have refused to accept cheques / drafts containing fractions of a Rupee.
+
+26. Other instructions
+
+26.1 Customer Service-Periodical Review and Monitoring
+
+26.1.1 With a view to constantly upgrading the quality of customer satisfaction and also identifying more avenues for customer service, banks need to undertake periodical evaluation of the position in regard to the extent of actual implementation at the grass root level of the various recommendations of the Goiporia Committee, the CPPAPS and instructions issued by the Reserve Bank.
+
+26.1.2 Banks also need to evolve an appropriate monitoring system in respect of 15 core recommendations of the Goiporia Committee. The banks are free to include more items for such monitoring and evaluation by their Board of Directors.
+
+26.1.3 Banks should introduce a system of periodical evaluation on customer service on half yearly basis, as at the end of June and December, with a view to ensuring their implementation at all offices of the bank as also upgrading the quality of services to achieve higher satisfaction among the bank's customers.
+
+26.2 Issue of Duplicate Demand Draft
+
+26.2.1 Issue of Duplicate Demand Draft without receipt of Non-Payment Advice
+
+The duplicate draft amounting to ₹ 5,000 or less, may be issued on the basis of adequate indemnity and without obtaining Non-Payment Advice (NPA) from the drawee branch.
+
+26.2.2 Fixation of time-frame for issue of duplicate demand draft
+
+Banks should ensure that a duplicate demand draft is issued within a fortnight from the receipt of such requests. For delay in issuing duplicate demand draft beyond the above stipulated period, they should pay interest at rate applicable for fixed deposit of corresponding maturity in order to compensate the customer for such delay. These instructions would be applicable only in cases where the request for duplicate demand draft is made by the purchaser or the beneficiary and would not be applicable in the case of third party endorsements. Senior Officials, while visiting branches, should make it a point to check implementation of the above instructions.
+
+27 Nomination facilities
+
+27.1 Banks may get the account opening forms amended to incorporate a space to mention the name and address of the nominee and statutorily prescribed nomination forms may be obtained and preserved with the account opening forms. Availability of nomination facility needs to be widely publicised by printing compatible messages on cheque books/pass books and any other literature reaching the customers.
+
+Nomination should be a rule (rather than an exception) and banks should endeavor to cover all accounts, existing as well as new, under nomination, exception being the ones where the customer himself would prefer not to nominate; this fact may be recorded rather than left to the conjecture of non-compliance
+
+27.2 Nomination facilities are available not only for deposit accounts but also for safe custody articles and safe deposit lockers. As nomination facility for deposit accounts is more known to the customers, compared to the one available for safe custody articles and safe deposit lockers, publicising availability of the facility for these two services also may be effectively done.
+
+27.3 Statutory provisions for Nomination Facility
+
+The Banking Regulation Act, 1949 (AACS) has been amended by incorporating among others, new sections 45 ZA to 45 ZF, which provide, inter alia, for the following matters:
+
+to enable a co-operative bank to make payment to the nominee of a deceased depositor, of the amount standing to the credit of the depositor
+
+to enable a co-operative bank to return the articles left by a deceased person in its safe custody to his nominee, after making an inventory of the articles in the manner directed by Reserve Bank
+
+to enable a co-operative bank to release the contents of a safety locker to the nominee of the hirer of such locker, in the event of the death of the hirer after making an inventory of the contents of the safety locker in the manner directed by Reserve Bank.
+
+27.4 Nomination Rules
+
+Since such nomination has to be made in the prescribed manner, the Central Government has framed Co-operative Banks (Nomination) Rules, 1985 in consultation with the Reserve Bank. These Rules, together with the provisions of new Sections 45 ZA to 45 ZF, of Banking Regulation Act, 1949 (AACS) regarding nomination facilities have been brought into force with effect from March 29, 1985.
+
+The Co-operative Banks (Nomination) Rules, 1985, provide for:
+
+Nomination forms for deposit accounts, articles kept in safe custody and the contents of safety lockers,
+
+Forms of cancellation and variation of the nomination,
+
+Registration of nominations and cancellation and variation of nominations, and
+
+Matters related to the above.
+
+For the various Forms (DA1, DA2, and DA3 for Bank Deposits, Forms SC1, SC2 and SC3 for articles in safe custody and Forms SL1, SL1A, SL2, SL3 and SL3A for Safety Lockers) prescribed under the Co-operative Banks (Nomination) Rules, 1985 only Thumb-impression(s) shall be attested by two witnesses. The signatures of the account holders need not be attested by witnesses.
+
+27.5 Nomination of articles in safe custody
+
+In the matter of returning articles left in safe custody by the deceased depositor to the nominee or allowing the nominee/s to have access to the locker and permitting him/them to remove the contents of the locker, the Reserve Bank, in pursuance of Sections 45 ZC(3) and 45 ZE(4) of Banking Regulation Act, 1949 (AACS), has specified the formats for the purpose. In order to ensure that the amount of deposits, articles left in safe custody and contents of lockers are returned to the genuine nominee, as also to verify the proof of death, co-operative banks may devise their own claim formats of follow the procedure, if any, suggested for the purpose either by their own Federation/Association or by the Indian Banks Association.
+
+27.6 Registration of nomination in banks’ books
+
+In terms of Rules 2(10), 3(9) and 4(10) a co-operative bank is required to register in its books the nomination, cancellation and/or variation of the nomination. The co-operative banks should accordingly take action to register nominations or changes therein, if any, made by their depositor(s)/hirer(s) of lockers. Government of India has issued the notification bringing into force the provisions relating to nomination facilities, from March 29, 1985. Co-operative banks should therefore, ensure that the nomination facilities are made available to their customers.
+
+27.7 Incorporation of legend ‘Nominations Registered’ in pass book, deposit receipt etc.
+
+Banks should incorporate the legend ‘Nominations Registered’ on every pass book or deposit receipt so as to enable the relatives to know the availment of the nomination facility by the deceased depositor.
+
+28 Timely Issue of TDS Certificate to Customers
+
+UCBs are advised to put in place a system that will enable them to provide TDS Certificate in Form 16A to their customers from whose deposit accounts income tax has been deducted at source, within the time –frame prescribed under the Income Tax Rules.
+
+29. Monitoring system of implementation of various instructions on customer service
+
+The banks need to evolve an appropriate monitoring system for evaluating the position in regard to the extent of actual implementation at the grass root level of the various recommendations of the Goiporia Committee, the CPPAPS and instructions issued by the Reserve Bank.
+
+30. Customer Service – Redressal of Grievances
+
+Banks should have a robust grievance redressal structure and processes to ensure prompt in-house redressal of all their customer complaints. Banks are advised to ensure that a suitable mechanism exists for receiving and addressing complaints received from their customers with specific emphasis on resolving such complaints fairly and expeditiously regardless of the source of the complaints.
+
+Banks should have a system of acknowledging the complaints, where the complaints are received through letters / forms. Banks should prominently display at the branches the names of officials, who can be contacted for redressal of complaints together with their direct telephone number, fax number, complete address (not Post Box No.) and e-mail address etc. for proper and timely contact by the customers and for enhancing the effectiveness of the redressal machinery.
+
+In the case of scheduled banks, where the complaints are not redressed within one month, the branch concerned / Head Office of the bank should forward a copy of the same to the Nodal Officer concerned under the Banking Ombudsman scheme and keep him updated about the status of the complaint.
+
+In the case of fraudulent encashment of third party instruments by unscrupulous persons, by opening deposit accounts in the name/s similar to already established concern/s resulting in erroneous and unwanted debit of drawers’ accounts, it is advised that in cases where banks are at fault, the banks should compensate the customers without demur; and (ii) in cases where neither the bank is at fault nor the customer is at fault but the fault lies elsewhere in the system, then also the banks should compensate the customer (up to a limit) as part of a Board approved customer relations policy.
+
+31. Legal Guardianship Certificate issued under Mental Health Act, 1987 and National Trust for the welfare of persons with autism, cerebral palsy, mental retardation and multiple disabilities Act, 1999.
+
+The Mental Health Act, 1987 provides for a law relating to the treatment and care of mentally ill persons and to make better provision with respect to their property and affairs. According to the said Act, "mentally ill person" means a person who is in need of treatment by reason of any mental disorder other than mental retardation. Sections 53 and 54 of this Act provide for the appointment of guardians for mentally ill persons and in certain cases, managers in respect of their property. The prescribed appointing authorities are the district courts and collectors of districts under the Mental Health Act, 1987.
+
+The National Trust for Welfare of Persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities Act, 1999 provides for a law relating to certain specified disabilities. Clause (j) of Section 2 of that Act defines a "person with disability" to mean a person suffering from any of the conditions relating to autism, cerebral palsy, mental retardation or a combination of any two or more of such conditions and includes a person suffering from severe multiple disabilities. This Act empowers a Local Level Committee to appoint a guardian to a person with disabilities, who shall have the care of the person and property of the disabled person.
+
+Banks are advised to take note of the legal position mentioned above and may rely on and be guided by the orders / certificates issued by the competent authority, under the respective Acts, appointing guardians / managers for the purposes of opening / operating bank accounts. In case of doubt, care may be taken to obtain proper legal advice. Banks may also ensure that their branches give proper guidance to their customers so that the guardians / managers of the disabled persons do not face any difficulties in this regard.
+
+---
+
+Annex IV
+
+Illustrative but not Exhaustive List of Objections where Customers are not at Fault
+
+(Applicable for Instrument and Image-based Cheque Clearing as detailed in Annexure D to Uniform Regulations and Rules for Bankers' Clearing Houses)
+
+| Code No. | Reason for Return |
+| --- | --- |
+| 33 | Instrument mutilated; requires bank's guarantee |
+| 35 | Clearing House stamp / date required |
+| 36 | Wrongly delivered / not drawn on us |
+| 37 | Present in proper zone |
+| 38 | Instrument contains extraneous matter |
+| 39 | Image not clear; present again with paper |
+| 40 | Present with document |
+| 41 | Item listed twice |
+| 42 | Paper not received |
+| 60 | Crossed to two banks |
+| 61 | Crossing stamp not cancelled |
+| 62 | Clearing stamp not cancelled |
+| 63 | Instrument specially crossed to another bank |
+| 67 | Payee's endorsement irregular / requires collecting bank's confirmation |
+| 68 | Endorsement by mark / thumb impression requires attestation by Magistrate with seal |
+| 70 | Advice not received |
+| 71 | Amount / Name differs on advice |
+| 72 | Drawee bank's fund with sponsor bank insufficient (applicable to sub-members) |
+| 73 | Payee's separate discharge to bank required |
+| 74 | Not payable till 1st proximo |
+| 75 | Pay order requires counter signature |
+| 76 | Required information not legible / correct |
+| 80 | Bank's certificate ambiguous / incomplete / required |
+| 81 | Draft lost by issuing office; confirmation required from issuing office |
+| 82 | Bank / Branch blocked |
+| 83 | Digital Certificate validation failure |
+| 84 | Other reasons-connectivity failure |
+| 87 | 'Payee's a/c Credited' - Stamp required |
+| 92 | Bank excluded |
+
+---
+
+Annexure V (Vide Paragraph 21.1)
+
+Conditions for Cash Withdrawal at Point of Sale (POS)
+
+This facility is available only against debit cards issued in India
+
+The maximum amount that can be withdrawn at POS terminals is fixed at ₹ 1,000 per day
+
+This facility may be made available at any merchant establishment designated by the bank after a process of due diligence.
+
+The facility is available irrespective of whether the card holder makes a purchase or not.
+
+In case the facility is being availed with the purchase of merchandise, the receipt generated shall separately indicate the amount of cash withdrawal.
+
+Banks offering this facility shall put in place a proper customer redressal mechanism. Complaints in this regard will fall under the Banking Ombudsman Scheme.
+
+Banks offering the facility shall on approval by their respective Boards obtain one time permission of Reserve Bank of India, Urban Banks Department, Regional Office concerned under Section 23 of the Banking Regulation Act, 1949 (AACS) enclosing a copy of the Board note / approval.
+
+---
+
+Annexure VI (Vide paragraph 22.1)
+
+Electronic Payment Products (RTGS, NEFT, NECS and ECS variants) – Instructions for Processing inward transactions based solely on account number information
+
+Responsibility to provide correct inputs in the payment instructions, particularly the beneficiary account number information, rests with the remitter / originator. While the beneficiary’s name shall be compulsorily mentioned in the instruction request, and carried as part of the funds transfer message, reliance will be only on the account number for the purpose of affording credit. This is applicable both for transaction requests emanating at branches and those originated through the online / internet delivery channel. The name field in the message formats will, however, be a parameter to be used by the destination bank based on risk perception and / or use for post-credit checking or otherwise.
+
+Originating banks may put in place an appropriate maker-checker system to ensure that the account number information furnished by their customers is correct and free from errors. This may entail advising customers enjoying online / internet banking facilities to input the account number information more than once (with the first time feed being masked as in case of change of password requirements) or such other prescriptions. Customers submitting funds transfer requests at branches may be required to write down the account number information twice in the application form.
+
+For transactions requested at branches, the originating bank shall put in place a maker-checker process with one employee expected to input the transaction and the other checking the input.
+
+Banks should put suitable disclaimers on the funds transfer screens in the online / internet banking platform and funds transfer request forms advising customers that credit will be effected based solely on the beneficiary account number information and the beneficiary name particulars will not be used therefore.
+
+Destination banks may afford credit to the beneficiary’s account based on the account number as furnished by remitter / originating bank in the message / data file. The beneficiary’s name details may be used for verification based on risk perception, value of transfer, nature of transaction, post-credit checking, etc.
+
+Member banks shall take necessary steps to create awareness amongst their customers about the need for providing correct account number information while making payments through RTGS / NEFT / NECS / ECS Credit.
+
+The system of providing mobile / e-mail alerts to customers for debit / credit to their accounts will be another way of ensuring that the debits / credits are genuine and put through / expected by them, and preferably, should be extended to all customers for all funds transfer transactions irrespective of value.
+
+The above notwithstanding, in cases where it is found that credit has been afforded to a wrong account, banks need to establish a robust, transparent and quick grievance redressal mechanism to reverse such credits and set right the mistake and / or return the transaction to the originating bank. This particularly needs to function very efficiently and pro-actively till such time customers are comfortable with the new arrangements.
+
+2. These modifications are equally applicable to ECS Debit transactions to be used by destination banks for debiting their customer accounts based on details furnished by the user institutions / sponsor banks.
+
+3. Banks are hereby advised to put in place appropriate systems and procedures to ensure compliance with the above prescriptions. The guidelines are issued under the powers vested with Reserve Bank of India under Section 10(2) of the Payment & Settlement Systems Act, 2007 and would come into effect from January 1, 2011. The instructions would be reviewed and suitable changes will be effected, if necessary, based on operational experience and general feedback.
+
+---
+
+Annex VII (Vide Para 25)
+
+Suggestions / Best Practices for Increasing the Penetration (Customer Registration / on-Boarding) of Mobile Banking
+
+1. New Customer : at account opening time
+
+Account opening form should clearly indicate the option for mobile banking - the option for mobile banking services should be clear and distinct from the contact details of the customer where mobile number is also accepted; it should also be clearly indicated that alerts (if sent through SMS) will be sent to this registered mobile number.
+
+Customer should be made aware of the mobile banking facilities while opening the account. Further, the form should also clearly indicate that opting for mobile banking services will provide an alternate delivery channel to the customer; related inputs / materials / booklet etc. should be provided to the interested customers outlining the features of mobile banking services offered by the bank, the process involved, roles and responsibilities etc.
+
+2. Existing Customer- Mobile numbers registered with the bank but not active for mobile banking
+
+As mobile number registration has already taken place and available with the bank (is linked with the account), wider and more accessible platforms should also be made use of by the banks to increase awareness on mobile banking at every opportunity to get more and more customers to register for mobile banking services. Some of the methods that can be adopted by banks for having targeted customer awareness programs could include :
+
+sending SMS / e-mails to their customers on registered mobile numbers / e-mail ids about activating mobile banking, providing necessary URLs / customer care numbers from which the customer can obtain additional information on mobile banking activation process;
+
+ATMs and self-service Kiosks at branches can also alert the customers to activate the mobile banking options;
+
+social media can also be used by the banks to build awareness and encourage customers to register on mobile banking;
+
+through the internet banking website of the bank especially when the customer logs in for net banking operations (taking into account the security architecture and authentication mechanism already prevalent in the bank/s);
+
+banks can use their IVR and phone banking channels to encourage and facilitate registration and activation of customers for mobile banking;
+
+banks can also harness the potential of inter-operable channels such as the NFS (which is widely used by customers for transacting with their cards) to provide a widely accessible channel for mobile banking registration;
+
+3. Existing Customer - Mobile number not registered with the bank at all
+
+Banks need to find ways of obtaining mobile numbers of the account holders first for registration in their database and subsequently for mobile banking registration. Some of the options that can be used for this purpose are :
+
+Through ATM channel - an alert / message can be given (at the ATM itself) by banks when the customer transacts at the ATM, that she / he has not registered any mobile number with the bank
+
+Branch visit - at teller level, when the customer comes to the teller for any cash deposit / withdrawal transaction, the customer profile should indicate that he / she has not registered the mobile number at the bank and should be asked to do so immediately
+
+Similarly, at passbook printing counters / kiosks too, the customer profile should be verified for existence of mobile number and customer should be advised to register the mobile number when he / she uses the passbook printing kiosk
+
+At BC level with biometric authentication.
+
+---
+
+Appendix
+
+Master Circular on Customer Service List of circulars consolidated in the Master Circular
+
+| S.No | Circular No | Date | Subject |
+| --- | --- | --- | --- |
+| 1 | DPSS.CO.PD.No.2163/02.14.003/2014-2015 | 14.05.2015 | Card Payments - Relaxation in requirement of Additional Factor of Authentication for Small Value Card Present Transactions |
+| 2 | DPSS(CO)PD.No.2112/02.14.003/2014-15 | 07.05.2015 | Security and Risk Mitigation Measures for Card Present and Electronic Payment Transactions |
+| 3 | DCBR.CO.BPD.(PCB).Cir.No.2/12.05.001/2014-15 | 30.04.2015 | Rights of Transgender Persons-Changes in Bank Forms/Applications |
+| 4 | DPSS.CO.PD.No.1017/02.23.001/2014-2015 | 04.12.2014 | Mobile Banking Transactions in India - Operative Guidelines for Banks |
+| 5 | DCBR.CO.BPD.(PCB).Cir.No.2/12.05.001/2014-15 | 13.11.2014 | Cheque Related Fraud Cases - Preventive Measures |
+| 6 | DPSS.CO.PD.No.659/02.10.002/014-2015 | 10.10.2014 | Usage of ATMs -Rationalisation of Number of Free Transactions - Clarifications |
+| 7 | DPSS.PD.CO.No.371/02.14.003/2014-2015 | 22.08.2014 | Security Issues and Risk Mitigation measures related to Card Not Present (CNP) transactions |
+| 8 | DPSS.CO.PD.No.316/02.10.002/2014-2015 | 14.08.2014 | Usage of ATMs - Rationalisation of Number of Free Transactions |
+| 9 | UBD.BPD.(PCB)Cir.No.70/12.05.001/2013-14 | 11.06.2014 | Need for bank branches/ATMs to be made accessible to persons with disabilities |
+| 10 | DPSS.CO.(EPPD)/1583/04.03.01/2013-2014 | 21.01.2014 | NEFT –Customer Service and Charges-Adherence to Procedural Guidelines and Circulars |
+| 11 | UBD.BPD.(PCB)Cir.No.44/13.01.000/2013-14 | 21.01.2014 | Legal Guardianship Certificates Issued under the Mental Health Act, 1987 and National Trust for the Welfare of Persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities Act, 1999 |
+| 12 | UBD.BPD.(PCB)Cir.No.42/12.05.001/2013-14 | 06.12.2013 | Charges levied by banks for sending SMS Alerts |
+| 13 | UBD.BPD.(PCB)Cir.No.41/12.05.001/2013-14 | 05.12.2013 | Timely Issue of TDS Certificate to Customers |
+| 14 | DPSS.CO.PD.No.289/02.10.002/2013-2014 | 01.08.2013 | ATM Transactions-Enhancement of Customer Service |
+| 15 | DPSS.CO.CHD.No.2030/03.06.01/2012-2013 | 07.05.2013 | Delay in Re-presentation of Technical Return Cheques and Levy of Charges for such Returns |
+| 16 | UBD.BPD.(PCB)Cir.No.25/13.01.000/2012-13 | 03.12.2012 | The Co-operative Banks (Nomination) Rules, 1985 - Clarifications. |
+| 17 | DPSS.CO.CHD.No.284/03.06.03/2012-2013 | 13.8.2012 | Stipulation of compensation for delay in clearance of local cheques |
+| 18 | DPSS.CO.CHD.No.274/03.01.02/2012-2013 | 10.8.2012 | Issue of Multicity/Payable at all branches cheques by CBS enabled banks |
+| 19 | DPSS.CO.(EPPD)/98/04.03.01/2012-2013 | 13.7.2012 | National Electronic Fund Transfer(NEFT) System Rationalisation of Customer Charges |
+| 20 | DPSS.CO.CHD.No./2080/03.01.03/2011-12 | 11.05.2012 | Review of Service Charges for cheque collection – Outstation and Speed Clearing |
+| 21 | DPSS.CO.RTGS.No./1934/04.04.002/2011-12 | 20.04.2012 | Printing of MICR Code and IFSC Code on Passbook /Statement of Account |
+| 22 | UBD.BPD.No.41/12.05.001/2010-11 | 29.03.2011 | Collection account payee cheques – Prohibition on crediting proceeds to third party accounts |
+| 23 | DPSS.CO.CHD.No.1671/03.06.01/2010-11 | 19.01.2011 | Review if service charges for cheque collection – Local, Outstation and Speed Clearing |
+| 24 | UBD.BPD.(PCB)No.20/12.05.001/2010-11 | 12.11.2010 | Electronic Payment Products – Processing Inward Transactions based solely on Account Number Information |
+| 25 | UBD.CO.BPD.(PCB).No.18/12.05.001/2010-11 | 26.10.2010 | UCBs- Furnishing Remitter details in Pass Book/ Pass Sheet / Account Statement for credits received by customers through NEFT /NECS /ECS |
+| 26 | UBD.CO.BPD.No.13/09.18.300/2009-10 | 05.10.2009 | Cash Withdrawal at Point of Sale (POS) – UCBs |
+| 27 | UBD.CO.BPD.(PCB).Cir.No.22/12.05.001/2009-10 | 16.11.2009 | Extension of Safe Deposit locker/ Safe Custody Article Facility and Access to Safe Deposit Lockers/Return of safe Custody Articles by banks – Urban Co-operative Banks (Embossing Lockers Keys with Identification Code of Bank/Branch) |
+| 28 | UBD.Co.BPD.(PCB)Cir.No.50/09.39.000/2008-09 | 17.02.2009 | Reconciliation of transactions at ATMs failure – Time limit |
+| 29 | UBD.PCB.Cir.No.48/09.39.000/2008-09 | 02.02.2009 | Levy of Service Charges for Electronic Payment Products, Outstation Cheque Collection and Standardisation of charges for transfer of surplus clearing funds |
+| 30 | UBD.PCB.BPD.Cir.No.34/09.39.000/2008-09 | 20.01.2009 | Delays in Cheque Clearing – Case No. 82 of 2006 before National Consumer Dispute Redressal Commission (NCRDC) |
+| 31 | UBD.PCB.Cir.No.15/12.05.001/2008-09 | 18.09.2008 | Display of information relating to Interest Rates and Service Charges – Rates at a quick glance |
+| 32 | UBD.CO.BPD.(PCB).Cir.No.63/09.39.000/2008-09 dated April 29, 2009 | 29.4.2009 | Need for Bank Branches / ATMs to be made Accessible to persons with disabilities |
+| 33 | UBD.PCB.Cir.No.10/12.05.001/2008-09 | 01.09.2008 | Display of information by banks – Comprehensive Notice Board |
+| 34 | UBD.CO.BPD (PCB) No.8/09.39.000/2008-09 | 28.08.2008 | Grievance Redressal Mechanism in banks |
+| 35 | UBD.PCB.Cir.No.10/12.05.001/2008-09 | 01.09.2008 | Display of information by banks – Comprehensive Notice Board |
+| 36 | UBD.CO.BPD.(PCB)No.51/09.39.000/2007-08 | 12.06. 2008 | Banking facilities to the visually challenged – UCBs |
+| 37 | UBD.CO.BPD.No.45/13.01.000/2007-08 | 12.05.2008 | Settlement of claims in respect of missing persons |
+| 38 | UBD.CO.BPD.(PCB).No.40/09.39.000/2007-08 | 15.04.2008 | Committee on Procedures and Performance audit on Public Services (CPPAPS) – Formulating policy for (i) Immediate credit of local / outstation cheques (ii) Time frame for collection of local / outstation cheques and (iii) Interest payment for delayed collection. |
+| 39 | UBD.CO.BPD.(PCB)No.36/12.05.001/2007-08 | 12.03.2008 | Customer charges for use of ATMs for cash withdrawal and balance enquiry |
+| 40 | UBD.CO.BPD.No.24/12.05.001/2007-08 | 04.12.2007 | Legal Guardianship Certificate issued under the National Trust Act, 1999 empowering the disabled persons with autism, cerebral palsy, mental retardation and multiple disabilities. |
+| 41 | UBD.CO.BPD.(PCB)No.2/09.18.300/2007-08 | 04.07.2007 | Annual Policy statement for the year 2007-08 – IT enabled Financial Inclusion |
+| 42 | UBD.CO.BPD.No.47/12.05.001/2006-07 | 21.06.2007 | Extension of Safe Deposit Locker / Safe Custody Article Facility and Access to Safe Deposit Lockers / Return of Safe Custody Articles by banks |
+| 43 | UBD.CO.BPD.No.34/12.05.001/2006-07 | 17.04.2007 | Rounding off cheques to the nearest rupee |
+| 44 | UBD.PCB.Cir.No.25/09.39.000/2006-07 | 28.12.2006 | Cheque Drop Box Facility and the Facility for Acknowledgement of Cheques – UCBs |
+| 45 | UBD.CO.BPD.PCB.No.23/12.05.001/2006-07 | 13.12.2006 | Customer Service |
+| 46 | UBD.CO.(PCB).Cir.No.15/09.39.000/2006-07 | 16.10.2006 | Customer Service – Non-issuance of passbooks to Savings Bank Account –holders (individuals) – UCBs |
+| 47 | UBD.CO.BPD.Cir.No.12//09.39.000/2006-07 | 06.10.2006 | Address /Telephone Number of the Branch in Pass Books / Statement of Accounts – UCBs |
+| 48 | UBD(PCB)Cir.No.54/09.39.000/05-06 | 26-05-2006 | Display of Bank/ Service Charges |
+| 49 | UBD.No.LS.(PCB)No.49/07.01.000/2005-06 | 28-04-2006 | Facilities at Extension Counters |
+| 50 | UBD.BPD.Cir.No.35/09.73.000/2005-06 | 09-03-2006 | Provision of Note Counting Machines on the counters |
+| 51 | UBD.BPD.Cir.No.30/4.01.062/2005-06 | 30-01-2006 | Collection of account payee cheque- Prohibition on crediting proceeds to third party account |
+| 52 | UBDNo.BPD.PCB.Cir.20/09.39.00/2004-05 | 24-09-2004 | Customer Service |
+| 53 | UBD.DS.PCB.Cir.26/13.01.00/2002 | 20.11.2002 | Levy of Service Charges by UCBs |
+| 54 | UBD.BSD.I(PCB)No.45/12.05.00/2001-02 | 30-05-2002 | Customer service – Reversal of transactions |
+| 55 | UBD.BSD.I/PCB.No.45/12.05.00/ 2001-02 | 30-05-2002 | Reversal of Erroneous Debits arising on fraudulent or other transactions |
+| 56 | UBD.No.PCB.DS.34/13.01.00/2000-01 | 08-03-2001 | Customer Service - Disposal of Deposits on Maturity - Intimation to Impending Due Date of the Deposit in Advance to Customers/Deposits |
+| 57 | UBD.No.DS.7/13.05.00/1999-2000 | 23-06-2000 | Customer Service - Immediate Credit of Outstation and Local Cheques - Enhancement of Ceiling |
+| 58 | UBD.No.DS.PCB.CIR.38/13.01.00/1999-2000 | 14-06-2000 | Customer Service - Issue of Cheque Books |
+| 59 | UBD.No.PCB.CIR.21/13.05.00/1999-2000 | 17-01-2000 | Customer Service - Collection of Outstation Cheques |
+| 60 | UBD.No.DS.PCB.Cir.40/13.05.00/97-98 | 11-02-1998 | Customer Service - Collection of outstation instruments |
+| 61 | UBD.No.DS.PCB.Cir.54/13.05.00/96-97 | 26-05-1997 | Customer Service – Collection of local cheques |
+| 62 | UBD.No.DS.(PCB)CIR.66/13.05.00/94-95 | 30-06-1995 | Customer Service Collection of Outstation/Local cheques |
+| 63 | UBD.No.(SUC)DC.165/13.05.00/93-94 | 30-04-1994 | Customer Service - Implementation of recommendations of the Goiporia Committee |
+| 64 | UBD.No.POT.65/09.39.00/93-94 | 07-03-1994 | Committee on Customer Service in banks - Implementation of recommendations of the Goiporia Committee-Maintenance of complaint book |
+| 65 | UBD.No.(PCB)DC.11/(13.05.00)/93-94 | 25-08-1993 | Customer Service - Implementation of Recommendations of the Goiporia Committee |
+| 66 | UBD.No.(SUC)DC.131/(13.05.00)/93-94 | 25-08-1993 | Customer Service - Implementation of recommendations of the Goiporia Committee |
+| 67 | UBD.No.POT.26/UB.38/92-93 | 16-06-1993 | Committee on Customer service in banks Implementation of recommendations |
+| 68 | UBD(PCB) 45/DC(VII)-91/92 | 29-01-1992 | Customers Service – Payment of Interest at Savings Bank Rate for the Delay in Collection of Outstation Cheques |
+| 69 | UBD.No.POT.19/UB.38-92/93 | 06-10-1992 | Committee on Customer Service in banks - Implementation of recommendations |
+| 70 | UBD.(UCB)1/DC-R-1-89/90 | 17-01-1990 | Customers Service – Payment of Interest for Delay in Collection of Outstation Instruments |
+| 71 | UBD.DC.21/R.1-89/90 | 15-09-1989 | Customers Service – Payment of Interest at Savings Bank Rate for the Delay in Collection of Outstation Cheques |
+| 72 | UBD.No.(DC)51/R.1-86/87 | 28-01-1987 | Customers Service - Immediate Credit of Outstation Cheque up to ₹ 2500 |
+| 73 | DBOD.No.BD.RBL.1555/J-82/83 | 16-05-1983 | Extension of banking hours of branches of banks |
+
+| Date: 01/07/2015 |
+| --- |
+| Master Circular on Customer Service - UCBs |
+
+Top
+
+| Home>> Notification- Display |
+| --- |
+| Note : To obtain an aligned printout please download the(807.00 kb ) version to your machine and then use respective software to print the story. |
+
+Best viewed in 1024x768 resolution in IE 5 and above.
+
+| © Reserve Bank of India. All Rights Reserved. |
+| --- |

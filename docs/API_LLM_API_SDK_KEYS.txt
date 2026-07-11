@@ -1,0 +1,162 @@
+1. General-purpose API collections
+Repository	Best use	Assessment
+public-apis/public-apis	Discovering free APIs across many categories	The best-known starting point. It classifies APIs by authentication, HTTPS, CORS, and category. As of July 11, 2026, it had roughly 448,000 stars and had received code updates in June 2026. Its weakness is that individual entries may become paid, discontinued, or outdated between checks.
+public-api-lists/public-api-lists	A more structured, actively validated free-API directory	One of the strongest alternatives to public-apis. Its associated catalog currently advertises more than 800 APIs in 48 categories and exposes JSON endpoints, making it easier to use programmatically.
+APIs-guru/openapi-directory	OpenAPI definitions, SDK generation, testing, agents and automation	More valuable than a simple link list when you need machine-readable API schemas. It contains thousands of OpenAPI descriptions and more than 100,000 documented endpoints, with automated conversion and validation processes.
+ripienaar/free-for-dev	Free tiers for developers	Covers databases, cloud hosting, authentication, monitoring, CI/CD, AI services and APIs. It is not exclusively an API directory, but it is extremely useful when building a real application on a limited budget.
+sindresorhus/awesome	Finding specialist collections	A directory of curated “awesome lists.” Use it when you need APIs or datasets for a particular subject such as healthcare, finance, maps, cybersecurity, NLP or computer vision.
+tools-collection/apis-collection	API documentation, SDK and specification discovery	Claims more than 1,200 APIs and includes documentation, specifications, SDKs and related libraries. It is a useful secondary source after checking the three repositories above.
+keploy/public-apis-collection	Beginner projects and API experimentation	A curated collection that attempts to describe API usability and complexity. Useful for project ideas, but not as comprehensive as the main directories.
+alexandresanlim/public-apis-no-auth-only	APIs that work without keys	A filtered collection focused on no-authentication APIs. Convenient for prototypes, coding practice and demonstrations, although it may inherit outdated records from broader API lists.
+My ranking for normal software projects
+Public API Lists for browsing and its JSON catalog.
+APIs.guru OpenAPI Directory for programmatic integration.
+Public APIs for maximum breadth.
+Free for Developers for the surrounding infrastructure.
+Government APIs and open-government data
+Worldwide resources
+Repository	What it contains
+okfn/dataportals.org	A community-maintained catalog of national, regional and municipal open-data portals around the world. It helps locate official portals rather than listing every government endpoint individually.
+github/government.github.com	A catalog of government organizations and civic-technology groups using GitHub. This is useful for finding repositories maintained directly by departments, cities and public agencies.
+i-dot-ai/awesome-gov-datasets	Curated United Kingdom government datasets, maintained by the UK government’s Incubator for Artificial Intelligence.
+okhosting/awesome-open-data	Open-data sources covering government, demographics, economics, transport, science and international organizations.
+jdorfman/awesome-json-datasets	Public JSON datasets and endpoints, including government and economic data. Useful for quick prototypes because the sources are already JSON-oriented.
+rnckp/awesome-ogd-switzerland	Swiss government portals, APIs, tools and related international open-government resources.
+India-specific resources
+Official sources—use these first
+Data.gov.in APIs — India’s official Open Government Data API directory.
+API Setu — Government platform for publishing and consuming APIs from ministries, departments and other organizations.
+GitHub repositories
+Repository	Assessment
+addypy/datagovindia	Python client for searching, discovering and downloading resources from India’s OGD platform. This is one of the most practical choices for a Python data project.
+econabhishek/datagovindia	R interface for discovering API information and querying data.gov.in resources as tidy datasets.
+ctrlaltvikas/Indian-government-API-List	A useful historical collection of Indian government API links. However, its documented update date is February 2020, so every endpoint must be rechecked against Data.gov.in or API Setu before use.
+
+For an Indian-government project, I would use Data.gov.in/API Setu as the source of truth, then use addypy/datagovindia or econabhishek/datagovindia to access the data programmatically.
+
+Datasets for AI and machine-learning models
+General ML datasets
+Repository	Best use
+awesomedata/awesome-public-datasets	One of the broadest curated collections of public datasets, organized by subject. It covers biology, economics, education, finance, government, healthcare, NLP, social science and many other areas. The repository itself notes that although most datasets are free, some are not.
+huggingface/datasets	A software library and standardized access layer for datasets in NLP, computer vision, audio and multimodal ML. Better than downloading miscellaneous CSV files when you need reproducible loading, processing and versioning.
+bytewax/awesome-public-real-time-datasets	Streaming and real-time datasets accessible through HTTP, WebSockets and similar interfaces. Particularly suitable for data engineering, anomaly detection and live dashboards.
+Renumics/awesome-open-data-centric-ai	Tools and resources for inspecting, cleaning, annotating and improving unstructured ML data.
+jsbroks/awesome-dataset-tools	Dataset annotation, labeling, exploration and management tools, especially for computer vision workflows.
+LLM and instruction-training datasets
+Repository	Best use
+mlabonne/llm-datasets	One of the most useful current collections of datasets and tools for training and fine-tuning LLMs. It includes instruction, reasoning, coding, preference and specialized datasets.
+argilla-io/awesome-llm-datasets	LLM, RLHF and human-feedback datasets, along with relevant tools, papers and pretrained models.
+jianzhnie/awesome-instruction-datasets	Instruction-tuning datasets for supervised fine-tuning and conversational models.
+glgh/awesome-llm-human-preference-datasets	Preference, ranking and feedback datasets for RLHF, DPO and model evaluation.
+niderhoff/nlp-datasets	Traditional NLP datasets, including text classification, summarization, language modeling, dialogue and sentiment-analysis resources.
+lmmlzn/Awesome-LLMs-Datasets	A research-oriented landscape of hundreds of datasets used in LLM development. Particularly useful for understanding dataset types and domains rather than simply downloading files.
+
+
+
+
+Public API Lists
+Public APIs
+APIs.guru OpenAPI Directory
+Free for Developers
+Awesome Public Datasets
+Hugging Face Datasets
+LLM Datasets
+API-Pack
+Data Portals
+Awesome MCP Servers
+
+| Repository                                                                                                  | Best use                                                            | Assessment                                                                                                                                                                                                                                                                                                         |
+| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **[public-apis/public-apis](https://github.com/public-apis/public-apis)**                                   | Discovering free APIs across many categories                        | The best-known starting point. It classifies APIs by authentication, HTTPS, CORS, and category. As of July 11, 2026, it had roughly 448,000 stars and had received code updates in June 2026. Its weakness is that individual entries may become paid, discontinued, or outdated between checks. ([GitHub API][1]) |
+| **[public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists)**               | A more structured, actively validated free-API directory            | One of the strongest alternatives to `public-apis`. Its associated catalog currently advertises more than 800 APIs in 48 categories and exposes JSON endpoints, making it easier to use programmatically. ([GitHub][2])                                                                                            |
+| **[APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory)**                           | OpenAPI definitions, SDK generation, testing, agents and automation | More valuable than a simple link list when you need machine-readable API schemas. It contains thousands of OpenAPI descriptions and more than 100,000 documented endpoints, with automated conversion and validation processes. ([GitHub][3])                                                                      |
+| **[ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)**                                     | Free tiers for developers                                           | Covers databases, cloud hosting, authentication, monitoring, CI/CD, AI services and APIs. It is not exclusively an API directory, but it is extremely useful when building a real application on a limited budget. ([GitHub][4])                                                                                   |
+| **[sindresorhus/awesome](https://github.com/sindresorhus/awesome)**                                         | Finding specialist collections                                      | A directory of curated “awesome lists.” Use it when you need APIs or datasets for a particular subject such as healthcare, finance, maps, cybersecurity, NLP or computer vision. ([GitHub][5])                                                                                                                     |
+| **[tools-collection/apis-collection](https://github.com/tools-collection/apis-collection)**                 | API documentation, SDK and specification discovery                  | Claims more than 1,200 APIs and includes documentation, specifications, SDKs and related libraries. It is a useful secondary source after checking the three repositories above. ([GitHub][6])                                                                                                                     |
+| **[keploy/public-apis-collection](https://github.com/keploy/public-apis-collection)**                       | Beginner projects and API experimentation                           | A curated collection that attempts to describe API usability and complexity. Useful for project ideas, but not as comprehensive as the main directories. ([GitHub][7])                                                                                                                                             |
+| **[alexandresanlim/public-apis-no-auth-only](https://github.com/alexandresanlim/public-apis-no-auth-only)** | APIs that work without keys                                         | A filtered collection focused on no-authentication APIs. Convenient for prototypes, coding practice and demonstrations, although it may inherit outdated records from broader API lists. ([GitHub][8])                                                                                                             |
+
+[1]: https://api.github.com/repos/public-apis/public-apis "api.github.com"
+[2]: https://github.com/public-api-lists/public-api-lists?utm_source=chatgpt.com "Public API Lists"
+[3]: https://github.com/APIs-guru/openapi-directory?utm_source=chatgpt.com "GitHub - APIs-guru/openapi-directory: 🌐 Wikipedia for Web ..."
+[4]: https://github.com/ripienaar/free-for-dev?utm_source=chatgpt.com "ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS ..."
+[5]: https://github.com/sindresorhus/awesome?utm_source=chatgpt.com "Awesome lists about all kinds of interesting topics"
+[6]: https://github.com/tools-collection/apis-collection?utm_source=chatgpt.com "List of Public APIs"
+[7]: https://github.com/keploy/public-apis-collection?utm_source=chatgpt.com "keploy/public-apis-collection"
+[8]: https://github.com/alexandresanlim/public-apis-no-auth-only?utm_source=chatgpt.com "alexandresanlim/public-apis-no-auth-only"
+
+
+
+| Repository                                                                              | What it contains                                                                                                                                                                                                  |
+| --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[okfn/dataportals.org](https://github.com/okfn/dataportals.org)**                     | A community-maintained catalog of national, regional and municipal open-data portals around the world. It helps locate official portals rather than listing every government endpoint individually. ([GitHub][1]) |
+| **[github/government.github.com](https://github.com/github/government.github.com)**     | A catalog of government organizations and civic-technology groups using GitHub. This is useful for finding repositories maintained directly by departments, cities and public agencies. ([GitHub][2])             |
+| **[i-dot-ai/awesome-gov-datasets](https://github.com/i-dot-ai/awesome-gov-datasets)**   | Curated United Kingdom government datasets, maintained by the UK government’s Incubator for Artificial Intelligence. ([GitHub][3])                                                                                |
+| **[okhosting/awesome-open-data](https://github.com/okhosting/awesome-open-data)**       | Open-data sources covering government, demographics, economics, transport, science and international organizations. ([GitHub][4])                                                                                 |
+| **[jdorfman/awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets)** | Public JSON datasets and endpoints, including government and economic data. Useful for quick prototypes because the sources are already JSON-oriented. ([GitHub][5])                                              |
+| **[rnckp/awesome-ogd-switzerland](https://github.com/rnckp/awesome-ogd-switzerland)**   | Swiss government portals, APIs, tools and related international open-government resources. ([GitHub][6])                                                                                                          |
+
+[1]: https://github.com/okfn/dataportals.org?utm_source=chatgpt.com "okfn/dataportals.org: Open Data Portals and Sites around ..."
+[2]: https://github.com/github/government.github.com?utm_source=chatgpt.com "github/government.github.com: Gather, curate, and feature ..."
+[3]: https://github.com/i-dot-ai/awesome-gov-datasets?utm_source=chatgpt.com "Awesome UK Government Datasets"
+[4]: https://github.com/okhosting/awesome-open-data?utm_source=chatgpt.com "okhosting/awesome-open-data"
+[5]: https://github.com/jdorfman/awesome-json-datasets?utm_source=chatgpt.com "jdorfman/awesome-json-datasets"
+[6]: https://github.com/rnckp/awesome-ogd-switzerland?utm_source=chatgpt.com "Awesome Open Government Data Switzerland"
+
+
+| Repository                                                                                                | Assessment                                                                                                                                                                                                         |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **[addypy/datagovindia](https://github.com/addypy/datagovindia)**                                         | Python client for searching, discovering and downloading resources from India’s OGD platform. This is one of the most practical choices for a Python data project. ([GitHub][1])                                   |
+| **[econabhishek/datagovindia](https://github.com/econabhishek/datagovindia)**                             | R interface for discovering API information and querying data.gov.in resources as tidy datasets. ([GitHub][2])                                                                                                     |
+| **[ctrlaltvikas/Indian-government-API-List](https://github.com/ctrlaltvikas/Indian-government-API-List)** | A useful historical collection of Indian government API links. However, its documented update date is February 2020, so every endpoint must be rechecked against Data.gov.in or API Setu before use. ([GitHub][3]) |
+
+[1]: https://github.com/topics/ogd?o=desc&s=updated&utm_source=chatgpt.com "ogd · GitHub Topics"
+[2]: https://github.com/econabhishek/datagovindia?utm_source=chatgpt.com "econabhishek/datagovindia: This is an R wrapper ..."
+[3]: https://github.com/vikaskyadav/Indian-government-API-List?utm_source=chatgpt.com "ctrlaltvikas/Indian-government-API-List"
+
+
+
+| Repository                                                                                                    | Best use                                                                                                                                                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)**             | One of the broadest curated collections of public datasets, organized by subject. It covers biology, economics, education, finance, government, healthcare, NLP, social science and many other areas. The repository itself notes that although most datasets are free, some are not. ([GitHub][1]) |
+| **[huggingface/datasets](https://github.com/huggingface/datasets)**                                           | A software library and standardized access layer for datasets in NLP, computer vision, audio and multimodal ML. Better than downloading miscellaneous CSV files when you need reproducible loading, processing and versioning. ([Hugging Face][2])                                                  |
+| **[bytewax/awesome-public-real-time-datasets](https://github.com/bytewax/awesome-public-real-time-datasets)** | Streaming and real-time datasets accessible through HTTP, WebSockets and similar interfaces. Particularly suitable for data engineering, anomaly detection and live dashboards. ([GitHub][3])                                                                                                       |
+| **[Renumics/awesome-open-data-centric-ai](https://github.com/Renumics/awesome-open-data-centric-ai)**         | Tools and resources for inspecting, cleaning, annotating and improving unstructured ML data. ([Reddit][4])                                                                                                                                                                                          |
+| **[jsbroks/awesome-dataset-tools](https://github.com/jsbroks/awesome-dataset-tools)**                         | Dataset annotation, labeling, exploration and management tools, especially for computer vision workflows. ([GitHub][5])                                                                                                                                                                             |
+
+[1]: https://github.com/awesomedata/awesome-public-datasets?utm_source=chatgpt.com "awesomedata/awesome-public-datasets: A topic-centric list ..."
+[2]: https://huggingface.co/docs/datasets/en/index?utm_source=chatgpt.com "Datasets"
+[3]: https://github.com/bytewax/awesome-public-real-time-datasets?utm_source=chatgpt.com "Awesome Public Real-Time Datasets and Sources"
+[4]: https://www.reddit.com/r/MachineLearning/comments/11gzasl/p_we_are_building_a_curated_list_of_open_source/?utm_source=chatgpt.com "[P] We are building a curated list of open source tooling for ..."
+[5]: https://github.com/jsbroks/awesome-dataset-tools/blob/master/README.md?utm_source=chatgpt.com "awesome-dataset-tools/README.md at master"
+
+
+
+| Repository                                                                                                      | Best use                                                                                                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[mlabonne/llm-datasets](https://github.com/mlabonne/llm-datasets)**                                           | One of the most useful current collections of datasets and tools for training and fine-tuning LLMs. It includes instruction, reasoning, coding, preference and specialized datasets. ([GitHub][1]) |
+| **[argilla-io/awesome-llm-datasets](https://github.com/argilla-io/awesome-llm-datasets)**                       | LLM, RLHF and human-feedback datasets, along with relevant tools, papers and pretrained models. ([GitHub][2])                                                                                      |
+| **[jianzhnie/awesome-instruction-datasets](https://github.com/jianzhnie/awesome-instruction-datasets)**         | Instruction-tuning datasets for supervised fine-tuning and conversational models. ([GitHub][3])                                                                                                    |
+| **[glgh/awesome-llm-human-preference-datasets](https://github.com/glgh/awesome-llm-human-preference-datasets)** | Preference, ranking and feedback datasets for RLHF, DPO and model evaluation. ([GitHub][4])                                                                                                        |
+| **[niderhoff/nlp-datasets](https://github.com/niderhoff/nlp-datasets)**                                         | Traditional NLP datasets, including text classification, summarization, language modeling, dialogue and sentiment-analysis resources. ([GitHub][5])                                                |
+| **[lmmlzn/Awesome-LLMs-Datasets](https://github.com/lmmlzn/Awesome-LLMs-Datasets)**                             | A research-oriented landscape of hundreds of datasets used in LLM development. Particularly useful for understanding dataset types and domains rather than simply downloading files. ([GitHub][6]) |
+
+[1]: https://github.com/mlabonne/llm-datasets?utm_source=chatgpt.com "mlabonne/llm-datasets: Curated list of datasets and tools ..."
+[2]: https://github.com/argilla-io/awesome-llm-datasets?utm_source=chatgpt.com "argilla-io/awesome-llm-datasets"
+[3]: https://github.com/jianzhnie/awesome-instruction-datasets?utm_source=chatgpt.com "jianzhnie/awesome-instruction-datasets"
+[4]: https://github.com/glgh/awesome-llm-human-preference-datasets?utm_source=chatgpt.com "glgh/awesome-llm-human-preference-datasets"
+[5]: https://github.com/niderhoff/nlp-datasets?utm_source=chatgpt.com "niderhoff/nlp-datasets: Alphabetical list of free/public ..."
+[6]: https://github.com/lmmlzn/Awesome-LLMs-Datasets?utm_source=chatgpt.com "lmmlzn/Awesome-LLMs-Datasets"
+
+
+| Repository                                                                          | Purpose                                                                                                                                                                   |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)** | Large collection of Model Context Protocol servers connecting AI agents with databases, APIs, browsers, development tools, files and business applications. ([GitHub][1]) |
+| **[modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)** | Official reference implementations and links to community MCP servers. Start here when learning MCP architecture or assessing server quality. ([GitHub][2])               |
+
+[1]: https://github.com/punkpeye/awesome-mcp-servers?utm_source=chatgpt.com "punkpeye/awesome-mcp-servers"
+[2]: https://github.com/modelcontextprotocol/servers?utm_source=chatgpt.com "Model Context Protocol Servers"
+
+
+Finance and quantitative research
+wilsonfreitas/awesome-quant — quantitative-finance libraries, APIs, wrappers and data sources.

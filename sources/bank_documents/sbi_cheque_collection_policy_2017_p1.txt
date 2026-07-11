@@ -1,0 +1,914 @@
+SBI Cheque Collection Policy- 2017 Page 1
+INDEX
+Sr. No. Description Page No
+1 Background 3
+2 States/Circles covered in Grid based CTS-2010 
+centres
+ 4
+3 Branches dealing with government business 
+under CTS centres
+5
+4 Speed Clearing System 6
+5 Instruments drawn on our local and outstation 
+Branches
+9-11
+6 Instruments drawn on Outstation branches of 
+Other Banks
+11
+7 Timeframe for collection of cheques 11
+8 Time frame for collection of outstation 
+Instruments
+12-13
+9 Interest payment for delayed collection 13
+10 Cheques/Instruments lost in transit/ in Clearing
+Process or at paying Bank’s branch
+14
+11 Collection of international Cheques/ Instruments 15-20
+12 International Cheques/instruments lost in
+transit/ in clearing process
+20
+13 Force Majeure 22
+14 Reason for Return 23-25
+15 Objections where customers are not at fault 26
+16 Acronyms 2
+SBI Cheque Collection Policy- 2017 Page 2
+Acronyms
+BCSBI Banking Codes and Standards Board of India
+CAD Canadian Dollar
+CCP Cheque Collection Policy
+CTS Cheque Truncation System
+ECCS Express Cheque Clearing System
+FCC Foreign Cheque Collection
+GBP British Pound Sterling
+GLS Global Link Services
+IBA Indian Bank Association
+KYC Know Your Customer
+MO Money Order
+P2F Paper to follow
+RBI Reserve Bank of India
+TC Travellers Cheque
+URRBCH Uniform Rules and Regulations for Bankers’ Clearing 
+House
+USD United States Dollar
+Own
+Bank’s Cheque Cheque drawn on/ payable at branches of SBI
+Other bank’s 
+Cheques
+Cheque drawn on/ payable at branches of other banks 
+(other than SBI)
+SBI Cheque Collection Policy- 2017 Page 3
+Annexure
+STATE BANK OF INDIA
+CHEQUE COLLECTION POLICY – 2017
+1. PREAMBLE:
+1.1. Bank's Cheque Collection Policy (CCP) was first formulated in 
+2005 and is reviewed periodically, as per the guidelines issued by 
+Reserve Bank of India (RBI)/IBA/BCSBI from time to time. The 
+Policy duly approved by Bank’s Central Board shall be known as 
+Bank’s Cheque Collection Policy -2017.
+1.2. Bank’s Cheque Collection Policy-2017 has been formulated as a 
+comprehensive document with transparency, covering various
+aspects, taking into account our technological capabilities, 
+systems and processes adopted for clearing arrangements and 
+other internal arrangements for collection through different 
+methods. The Policy takes adequate care to ensure that the 
+interest of small depositors is fully protected and is in line with the 
+IBA’s model policy on Collection of cheques/instruments. The 
+procedure for collection of domestic cheques/instruments and 
+international instruments have been included herein, which, inter 
+alia, incorporates the following:
+a) Established procedure for collection of Bank’s own cheques 
+(local and outstation).
+b) Collection of cheques from our branches and branches of other 
+banks.
+c) Reduced time frame for collection of outstation/local cheques
+drawn on branches of the Bank
+d) Penalty for delayed collection for local/outstation cheques in a 
+progressive manner
+e) Amounts of cheques upto which immediate credit is to be 
+provided. 
+1.3 Cheque clearing process under revised scenario of CTS 
+based clearing system.
+SBI Cheque Collection Policy- 2017 Page 4
+1.3.1 The printing of IOI instruments is also now migrated on “CTS2010 standard” platform.
+1.3.2 Cheque Truncation System (CTS) is presently working at 
+Northern grid in Delhi, Southern Grid in Chennai and 
+Western grid in Mumbai. 
+1.3.3 States/Circles covered in Grid based CTS-2010 centres:
+Northern grid in Delhi covers Bihar, Chandigarh, Delhi, Haryana, 
+Jammu& Kashmir, Jharkhand, Rajasthan, Uttar Pradesh & 
+Uttarakhand states (Covering Chandigarh, Delhi, Lucknow, Jaipur
+and Patna Circles). Centres covered are Agra, Amritsar, Allahabad, 
+Bhilwara, Chandigarh, Dehradun, Delhi, Gorakhpur, Jaipur, 
+Jalandhar, Jamshedpur, Jammu, Jodhpur, Kanpur, Kota, 
+Lucknow, Ludhiana, Patna, Ranchi, Udaipur and Varanasi,
+Southern grid in Chennai covers Andhra Pradesh, North Eastern 
+States, Orissa, Karnataka, Kerala, Tamilnadu, Telangana & West 
+Bengal states (covering Amaravati, Bangalore, Bhubaneswar, 
+Chennai, Guwahati, Hyderabad, Kolkata and Thiruvananthapuram
+circles). Centres covered are Bangalore, Belgaum, Bhubaneswar, 
+Calicut, Chennai, Coimbatore, Cuttack, Ernakulum, Erode, 
+Guwahati, Hubli, Hyderabad, Kolkata, Madurai, Mangalore, 
+Mysore, Pondicherry, Salem, Thirunelvelli, Tiruchirapalli, Tirupur, 
+Trichur, Trivandrum, Vishakhapatnam and Vijayawada.
+Western grid in Mumbai covers Chhattisgarh, Goa, Gujarat,
+Madhya Pradesh, and Maharashtra states (covering Ahmedabad, 
+Bhopal and Mumbai Circles). Centres covered are Ahmedabad, 
+Anand, Aurangabad, Bhavnagar, Bhopal, Gwalior, Indore, 
+Jabalpur, Jamnagar, Kolhapur, Mumbai, Nagpur, Nasik, Pune, 
+Panaji, Rajkot, Raipur, Solapur, Surat and Vadodara.
+All centres covered under the same grid will be treated as a single 
+clearing zone and cheques drawn on these centres and presented 
+at any of the grid centres are treated as locally drawn cheques in
+as much as no clearing charges would be applicable for such 
+cheques.
+SBI Cheque Collection Policy- 2017 Page 5
+1.3.4 Separate clearing session was introduced in the three CTS grids
+(Mumbai, Chennai and New Delhi) for clearing of such residual 
+non-CTS-2010 cheques (including PDCs and EMI cheques) with 
+effect from 1stJanuary 2014. This separate clearing session is now
+operated once in a week (every Monday), from 1st November 
+2014 onwards.
+1.3.5 After introduction of these special sessions for non-CTS cheques, 
+non-CTS cheques are not to be presented in CTS clearing/ 
+session. If non-CTS cheques are presented in regular clearing 
+session drawee bank will returns the non-CTS cheques with 
+reason “37- present in proper zone”. These non-CTS cheques will 
+have to be re-presented by the collecting bank in the immediate 
+next special clearing session for non-CTS cheques.
+1.3.6 RBI has directed that no changes/corrections should be carried 
+out on the cheques. For any changes in the payee’s name, 
+currency amount (amount in figures) or legal amount (amount in 
+words) etc. fresh cheque forms should be used by customers. This 
+will help Banks to identify and control fraudulent alterations. 
+Collecting banks have to ensure that such cheques are not 
+accepted for presentation in CTS. This is not applicable to cheques 
+cleared under other clearing arrangements such as MICR clearing, 
+non-MICR clearing, over the counter collection (for cash payment) 
+or direct collection of cheques outside the Clearing House 
+Arrangement.
+1.3.7 Branches dealing with government business under CTS 
+centres are required to update their CBS data in view of 
+Govt P2F process :-
+Account level ground work :- Get linked to respective CCPC by 
+completing following activities for all State & Central Government 
+Accounts maintained at the Branch :-
+a. Capture signatures of Drawing & Disbursing Officers (DDOs) of 
+respective Govt departments and upload the same in CBS.
+b. Upload mandate / account operating instructions in CBS.
+c. Allocate cheque series (existing or CTS compliant category) to 
+the respective State / Central Government Account.
+SBI Cheque Collection Policy- 2017 Page 6
+d. Limits / LOCs are to be updated as per the instructions / 
+requirements of the Government Account holder.
+e. Ensure that Major-head / sub-head / supplementary-head for 
+Central Government Accounts or State Govt. code / Focal Point 
+Branch code / C or S flag are defined correctly against each 
+Central / State Government Account at the Branch.
+1.4 Process for clearing at clearing centres: All Banks
+participating at clearing centres have been provided with Express 
+Cheque Clearing System (ECCS) software and a server is located 
+at Clearing House, where all bank branches exchange their 
+cheques and also submit the data of cheques presented in 
+clearing to Clearing House by removable storage devices. The 
+Clearing House has ECCS software of Clearing House module, 
+which processes the data received from the member banks and 
+generates Bankwise report and settlement report. The settlement 
+bank makes settlement, based on the ECCS report in accounts 
+maintained with the bank. All provisions of Uniform Rules and 
+Regulations for Bankers’ Clearing House (URRBCH) issued by RBI 
+are adhered to by the Clearing House.
+1.5 Speed Clearing System: - Outstation cheques drawn on banks 
+participating in speed clearing at specified locations will be 
+collected and treated at par with local cheques. All terms and 
+conditions applicable for local clearing instruments will also apply 
+to speed clearing system, except that such cheques will be 
+collected by the collecting bank against realization of service 
+charges specified for the purpose. Speed Clearing System is 
+applicable for both CTS-2010 grid based clearing system and nonCTS clearing system.
+1.6 The list of objections for return of Instruments and Image based 
+Cheque Clearing, as detailed in Annexure D to Uniform 
+Regulations and Rules for Bankers’ Clearing House, has been 
+placed as Annexure-I of this document.
+1.7 Cheque return charges shall, however, be levied only in cases 
+where the customer is at fault and is responsible for such returns. 
+The list of reasons for return, where the customers are not at 
+fault is as per Annexure-II.
+SBI Cheque Collection Policy- 2017 Page 7
+1.8 Cheques that need to be re-presented without any reference to 
+the payee shall be presented in the immediate next presentation 
+clearing, not later than 24 hours (excluding holidays). Notification 
+will be sent to the customers for such re-presentation by SMS or 
+email.
+1.9 Dishonour /Return of cheques: Bank needs to mention the ‘Date 
+of Return’ & sign/initial the Cheque Return Memo, giving therein a 
+definite and valid reason for refusing payment as prescribed in 
+Rule 6 of the Uniform Regulations and Rules for Bankers’ Clearing 
+Houses (URRBCH). This will enable the holder of the instrument to 
+have legal recourse against the drawer of the cheque. 
+1.10 Collection of Third Party Cheques in clearing: RBI has prohibited 
+Banks from crediting ‘account payee’ cheques to the account of 
+any person other than the payee named therein. However, with a 
+view to mitigating the difficulties faced by members of cooperative credit societies in collection of account payee cheques, 
+RBI has permitted banks to collect for such societies account 
+payee cheques drawn for an amount not exceeding Rs.50,000/-
+on behalf of their constituents. 
+1.11 Cheques deposited at branch counters and Cheques deposited in 
+the drop-box within the branch premises, before the specified cutoff time, will be sent for clearance on same day, for which the 
+clearance period will be T+1 working day. Cheques deposited 
+after this cut off time will be sent for clearing on next day, for 
+which clearance period will be T+2 working days.
+1.11.1 The broad time–limit for receipt of cheques (say up to 3 hours 
+after opening of branch, 1 hour before closure of business etc.), 
+which may be finetuned for individual locations/branches, based 
+on local practices, will be fixed by the Controllers of the respective 
+branches. 
+1.11.2 All drop-boxes shall clearly indicate the timeline as above upto 
+which cheques dropped in the drop boxes would be sent for 
+clearing on the same day.
+SBI Cheque Collection Policy- 2017 Page 8
+1.11.3 Cheques deposited after the cut-off time and in drop-boxes 
+outside the branch premises including off-site ATMs will be 
+presented in the next clearing cycle.
+1.12 As a policy, Bank would give credit to the customer account on 
+the same day after day’s clearing settlement takes place and will 
+appear in book balance but would not be available for payment.
+Withdrawal of amount so credited will be permitted as per the 
+cheque return schedule of the clearing house.
+1.13 The timeline for clearing of local cheques will be extended by two
+additional days in case of branches having non-Sunday weekly off 
+and also preceding working day in 2nd & 4th weekend also being 
+holiday. It will be extended by one additional day only during 1st, 
+3
+rd & 5th week for branches working on Sunday.
+1.14 Bank branches situated at centres where no clearing house exists, 
+would present local cheques on drawee banks across the counter 
+and proceeds thereof would be credited, at the earliest, on 
+realization.
+1.15 Normal collection charges applicable at the material time will be 
+levied for local cheques not collected through clearing, 
+irrespective of the amount of cheques.
+1.16 SC/DDP automation has been implemented for collection of 
+outstation cheques of other banks from centres where speed 
+clearing system is not available.
+1.17 In the case of collection of outstation cheques at centers, where 
+the Speed Clearing System is not applicable, our collecting 
+branches will levy 50% of their applicable charges for collection of 
+outstation cheques. The drawee/ paying bank may also levy 50% 
+of applicable charges.
+1.18 Negotiation of local cheques/instruments drawn on other banks 
+will not be permitted. Branch Managers may use their discretion in 
+exceptional circumstances (business exigencies) to permit drawals 
+against uncleared effects up to Rs. 30,000/- (Rupees thirty 
+thousand only), in deposit accounts. The facility can be provided 
+only on well conducted, KYC compliant accounts as mentioned in 
+SBI Cheque Collection Policy- 2017 Page 9
+paragraph 2.2.1 below. This will be done within the discretionary 
+powers vested with the Branch Manager in the respective 
+Grade/Scale, for purchase of cheques/ clean bills, in terms of 
+Scheme of Financial Powers-Advances & Allied activities and is 
+required to be reported to the next higher authority, for control 
+purpose.
+1.19 In case of outstation cheques, the facility will be restricted to one 
+or more cheques for aggregate amount not exceeding Rs. 
+30,000/- at a time, ensuring that the liability on account of 
+outstanding cheques purchased does not exceed Rs. 30,000/- at 
+any time, except in cases where credit facility against cheques to 
+be purchased has been duly sanctioned by the competent 
+authority.
+1.20 If a cheque/instrument for which immediate credit has been 
+afforded is returned unpaid, Bank shall recover interest at clean 
+overdraft rate for the period Bank remained out of funds and also 
+cheque return charges, subject to the following :-
+a) Bank will charge interest from the date of credit of proceeds of 
+the cheque in the account till reimbursement/realization of the 
+amount to/by the Bank. 
+b) Where the cheque is credited to a Savings Bank account, such 
+credits will not be reckoned for interest purposes if the cheque is 
+returned unpaid. For the purpose, the branches will ensure 
+recovery of interest credited/ to be credited to the account on the 
+amount of cheque returned unpaid for the period involved.
+c) If proceeds are credited in an overdraft/loan account, interest 
+would be recovered at applicable rate/clean overdraft rate, 
+whichever is higher, on the amount of returned 
+cheque/instrument.
+2. INSTRUMENTS DRAWN ON OUR LOCAL AND OUTSTATION
+BRANCHES:
+Cheques drawn on Bank’s own branches, at local or at outstation 
+centres, irrespective of amount and market/business segment, 
+except Govt. Cheques, Banker's Cheques, RBI cheques, received 
+across the counter or through Drop-Box are not required to be 
+SBI Cheque Collection Policy- 2017 Page 10
+presented in clearing or purchased as DD or sent out on collection 
+as SC. These instruments shall be disposed of at their end only,
+subject to ceiling for non-home payment as decided by the Bank & 
+advised to branches from time to time. The instruments will be paid 
+by the receiving branches at their end after verifying the 
+genuineness of the instruments and observing all necessary 
+precautions for payment of instruments, who will afford credit 
+directly to the payee’s account.
+2.1 Cheques drawn on any branch of the our Bank, locally or 
+outstation, will normally be paid on the same day or next day, 
+depending upon the local situations, barring a few exceptional 
+circumstances, for example – insufficient balance, non-availability of 
+drawing power, uncleared balance, cheque number not matching 
+with the cheque range in the system, same cheque number already 
+paid, difference in signature, any lien stop/hold restrictions 
+(statutory, regulatory or otherwise), marked on the account, limit 
+exceeding in case of loan account etc.
+2.2 The facility of immediate credit will be provided by the branch to 
+the satisfactorily conducted accounts (defined hereinafter in the 
+Policy) of their customers in respect of instruments drawn on any of 
+our branches.
+2.2.1 For the purpose of this Policy, a satisfactorily conducted account 
+shall be one which has been:-
+i) Opened at least six months earlier to the date of depositing 
+cheque for realization and fully complies with KYC 
+documentation requirements.
+ii) Is not inoperative.
+iii) Where branch has not noticed any irregular dealings/ 
+suspicious transactions in the last 6 months. 
+iv) Where the branch has not experienced any difficulty in 
+recovery of any amount advanced in the past, including 
+cheques returned unpaid after giving credit. 
+v) Where no adverse features attached to the account/account 
+holders have been brought to the notice of the Bank.
+vi) Where no cheques/ instruments for which immediate credit 
+was afforded, had been returned unpaid for financial reason.
+SBI Cheque Collection Policy- 2017 Page 11
+2.2.2 The facility will be available to all individual deposit account 
+holders, without making a distinction about the type of their 
+accounts, i.e. Savings Bank/Current Account etc. It will also be 
+available at all branches/extension counters of the Bank.
+2.3 Branches will, on their own, afford immediate credit of outstation 
+cheques of other banks too up to and inclusive of Rs.30,000/-
+(Rupees thirty thousand only) tendered for collection by their 
+customers
+2.4 The facility of immediate credit would however not be applicable to 
+cheques collected under speed clearing arrangements.
+3 INSTRUMENTS DRAWN ON OUTSTATION BRANCHES OF 
+OTHER BANKS:
+3.1 Cheques drawn on other banks at outstation centres in India will 
+normally be collected through our own branches at those centres. 
+Where the Bank does not have a branch of its own, the instrument 
+would be directly sent for collection to the drawee bank. 
+3.2 All “CTS-2010 Standard” Cheques and other Negotiable Instruments 
+(CTS compliant), payable outstation on any banks, would be 
+presented by the branches linked to respective CTS-Grid through 
+the grid based clearing system (Chennai, Mumbai and Delhi Grids).
+3.3 As mentioned in para 1.3.4, processing of non-CTS cheques is now
+done through a special clearing session in three CTS grid centres 
+on weekly basis (every Monday) from 1st November, 2014 
+onwards. 
+3.4 Timeframe for collection of cheques :
+Cheques drawn on branches of other banks located at State 
+Capitals/Major “A” class Cities/other locations will be collected 
+within 7/10/14 days respectively. If there is any delay in collection 
+beyond this period, interest at the rate specified as per Para 5.2 
+shall be paid without insisting/waiting for a request from the 
+customer. Time-limit for collection specified by the Bank shall be 
+treated as the outer limit and credit shall be afforded immediately, 
+if the proceeds get collected earlier. 
+SBI Cheque Collection Policy- 2017 Page 12
+3.5 There is no change in the accounting procedure for DDP in respect 
+of cases where instruments will continue to be purchased by debit 
+to General Ledger Account/Customer’s Liability account and sent for 
+realization to the Drawee bank.
+3.6 Outstation cheques will be paid subject to recovery of usual service 
+charges, plus service tax applicable, as per Bank’s extant 
+instructions, but such charges shall not be more that the service 
+charges prescribed by RBI for Outstation Collection Charges. No 
+additional charges, P&T, Courier charges etc. will be recovered.
+4. TIME FRAME FOR COLLECTION OF OUTSTATION 
+INSTRUMENTS:
+4.1 With the leverage of CBS, upgradation of technology and 
+introduction of Speed Clearing System/CTS-grid based Clearing at
+MICR centre, the time frame for collection of outstations cheques 
+for SBI branches/ other banks will be as per normal clearing cycle 
+at the respective centre. For all other centres, the time frame for 
+collection of cheques/ instruments payable in India is as under:
+SBI 
+Branches*
+Branches 
+of Other 
+Banks
+a) Collections between 
+Metropolitan Centres/ Major ‘A’ 
+Class Cities (Mumbai, Chennai, 
+Kolkata, New Delhi, 
+Ahmedabad, Bangalore & 
+Hyderabad)
+:6 T+2 7 days
+b) Collections between places at 
+(a) above and State Capitals 
+(other than North Eastern 
+States & Sikkim) and Area I 
+Cities, i.e. Pune, Nagpur, 
+Kanpur, Surat, Vishakapatnam, 
+Vadodara, Kochi, Indore, 
+Ludhiana, Coimbatore, Agra, 
+Madurai and Varanasi 
+: T+2 10 days
+SBI Cheque Collection Policy- 2017 Page 13
+c) Collections between all other 
+Centres
+: T+3 14 days
+ * For cheques other than those drawn for the amount within the 
+ceiling printed of the cheque and cheques drawn on the branches within 
+the CTS Grid.
+4.2 The timeframe mentioned above is the outer limit and once the 
+instruments are realised, proceeds should be credited to the 
+customer's account immediately.
+4.3 The time limit for collection of cheques/instruments payable in 
+foreign countries has been mentioned separately in the Policy,
+under paragraph No.7.6.
+5. INTEREST PAYMENT FOR DELAYED COLLECTION:
+5.1. As part of the Compensation Policy, the Bank will pay interest to 
+its customer on the amount of collection instruments under 4.1 a, 
+b and c given above, in case there is delay in giving credit beyond 
+the time period mentioned above. Such interest shall be paid 
+without any demand from customers in all types of accounts. 
+5.2 Interest for delayed collection shall be paid at the following rates:
+a) For collection of Cheques drawn on SBI, Saving Bank rate for 
+the period of delay beyond T+2 days 4.1 (a) & (b) and T+3 for 
+4.1 (c), ( interest will be payable) from 4th day for the centres 
+(a)& (b) and 5th day for the centre (c).
+b) Saving Bank rate for the period of delay beyond 7/10/14 days, 
+as the case may be, in collection of outstation cheques drawn 
+on other banks, i.e. [the interest will be payable] from 8th /11th
+/15th day.
+c) Where the period of delay is beyond 14 days, interest will be 
+paid at the rate applicable for term deposit for the 
+corresponding period or Saving Bank rate, whichever is higher.
+d) In case of extraordinary delay, i.e. delays exceeding 90 days, 
+interest will be paid at the rate of 2% above the corresponding 
+Term Deposit rate.
+e) In the event of the proceeds of cheque under collection to be 
+credited to an overdraft / loan account of the customer, 
+interest will be paid at the rate applicable to the loan account. 
+SBI Cheque Collection Policy- 2017 Page 14
+For extraordinary delays, i.e. delays exceeding 90 days, 
+interest will be paid at the rate of 2% above the rate 
+applicable to the loan account.
+5.3 Interest as above shall be payable with a minimum of Rs.25/-.
+6. CHEQUES / INSTRUMENTS LOST IN TRANSIT / IN
+ CLEARING PROCESS OR AT PAYING BANK’S BRANCH:
+6.1 In the event of a cheque/instrument accepted for collection being
+lost in transit or in the clearing process or at the paying bank’s 
+branch, the Bank shall immediately, on coming to know about the 
+loss of instrument, bring the same to the notice of the account 
+holder, so that the drawer can be informed to record stop 
+payment and take care that cheques, if any, issued by him/her 
+are returned with specific remarks and not just dishonoured as a 
+routine due to non-credit of the amount of the lost 
+cheques/instruments. The Bank would also advise the drawee 
+bank all particulars of lost cheques / instruments for exercising 
+caution and provide all assistance to the customer in obtaining a 
+duplicate instrument from the drawer of the cheque. 
+6.2 Where a cheque/instrument is claimed to have been deposited by 
+the customer in Drop-Box, but Bank’s records do not show receipt 
+of such cheque with the Bank, the Bank can not decide on the 
+compensation amount for lost cheque in the absence of details of 
+cheque like date, amount, drawee bank/branch/drawee centre 
+etc. In such cases, the customer will have to corroborate a claim 
+for lost cheque with full facts, inter-alia, including 
+confirmation/enquiries from the drawee person/ drawee bank 
+about genuineness of the claim and, on this basis if it is 
+established that the customer has, in fact, tendered the cheque in 
+Drop-Box, the Bank will consider payment of compensation in 
+terms of the State Bank of India Compensation Policy.
+6.3 In line with the Compensation Policy of the Bank, the Bank will 
+compensate the account-holder in respect of instruments lost in 
+transit in the following way:
+a) In the event a cheque or an instrument accepted for collection 
+is lost in transit or in clearing process or lost by the Service 
+Provider (in case of CMP), the Bank shall immediately, on 
+SBI Cheque Collection Policy- 2017 Page 15
+coming to know of the loss of instrument, bring the same to 
+the notice of the account holder as brought out under Para 6.1 
+herein above. The Bank would provide assistance to the 
+customer to obtain a duplicate instrument from the drawer of 
+the cheque.
+b) In case intimation regarding loss of instrument is conveyed to 
+the customer beyond the time limit stipulated for collection, as 
+per the Cheque Collection Policy of the Bank, (7/10/14 days as 
+the case may be) interest will be paid for the period beyond 
+the stipulated collection period at the rates specified in para 
+5.2 & 5.3 above for cheques payable in India.
+c)
+i) Bank will pay interest on the amount of the cheque for a 
+further period of 15 days at Savings Bank rate to provide 
+for possible further delay in obtaining duplicate cheque 
+/instrument and collection thereof. 
+ii) The Bank would also compensate the customer for 
+reasonable charges which he/she incurs in getting duplicate
+cheque/instrument upon production of receipt, in the event 
+the instrument is to be obtained from a Bank/institution 
+who would charge a fee for issue of duplicate instrument, 
+subject to a maximum of Rs. 250/-. 
+7. COLLECTION OF INTERNATIONAL CHEQUES/INSTRUMENTS :
+ 7.1 The Bank handles, on behalf of its customers, at all its 
+branches, collection of cheques drawn in various foreign 
+currencies and payable at various foreign centers. The 
+bulk of the collection instruments are: -
+a) Foreign Currency cheques {including Travellers Cheques 
+(TCs) & Money Order (MO)} drawn on/ payable in the 
+country of that foreign currency ( viz. $ in USA, £ in UK, € 
+in Euro Zone and so on) drawn on countries other than the 
+country of particular currency viz. US $ cheques payable 
+outside USA.
+b) It is clarified that Travellers cheques issued by various 
+Banks/Entities in various currencies will continue to be paid 
+(by collection & purchase) at designated branches as per 
+bilateral arrangement in place, as advised by Global Markets 
+(Foreign Department), Kolkata, from time to time.
+SBI Cheque Collection Policy- 2017 Page 16
+7.2 Accordingly, the Policy for International Cheque Collection shall 
+cover the following aspects:
+i) Type of settlement process in foreign countries for collection of 
+cheques.
+ii) Arrangement for collection of cheques/instruments.
+iii) Time–frame for collection of cheques.
+iv) Interest payment for delayed collection, and 
+v) Collection instruments lost in transit.
+7.3 Settlement Process in Foreign Countries for collection of 
+cheque:
+Collection of cheques at various foreign centers differs vastly from 
+the process prevalent in India, both in advanced markets,
+developing countries and also from country to country within 
+these two sub-groups. In some of the markets, clearing / 
+settlement system can take more than 1 day, i.e. 2-4 days for 
+return clearing and, therefore, for final funds settlement. Further, 
+in some countries like USA the recall of funds from the collecting 
+banker can occur even after the time for return clearing for an 
+undefined period, in cases where National Clearing involves more 
+than one Fed Zone. Further, as per section-15, chapter 2B,
+paragraph-12B of “Manual of Forex operations”, updated as on 
+31.03.2017, in the event of any USD cheque returned for any 
+reason, in terms of Check 21Act of USA, we may receive an image 
+of the returned legal cheque, including a paper copy of cheque 
+image or a returned substitute cheque instead of a returned 
+original paper cheque. There are also countries like Germany 
+where cheques are no more the preferred mode of payments 
+(replaced by online payments) and clearing takes place on a 
+weekly basis. Cooling period for Foreign Currency Cheques (FCC) 
+collection, as per arrangement made by Global Link Services 
+(GLS) for FCC denominated in US$, Euro €, GB £, Canadian $ is as 
+under:
+Instruments for collection Cooling Periods
+US $ Cheques payable in USA 15 days.
+Travellers Cheque, Money Order, 
+Gift Cheques in US $
+15 days.
+Euro payable in 10 countries 15 days.
+SBI Cheque Collection Policy- 2017 Page 17
+(Austria, Belgium, France, Germany, 
+Italy, Luxembourg, Netherland, 
+Portugal, Spain & United Kingdom).
+GBP payable in UK 21 days.
+CAD less than CAD10000/- 21 days.
+CAD 10000/- and above NIL, but holding period of 60 
+days.
+Other Currencies 21 days.
+7.4 Arrangement for collection of foreign cheques/instruments:
+7.4.1 We have a network of branches, linked branches and Global Link 
+Services (GLS) Department of International Banking Group (IBG). 
+GLS uses services of different correspondent banks with large 
+volumes, robust systems, suitable technology back up and country 
+specific strengths to provide efficient service at competitive prices. 
+Different Correspondent Banks are able to offer varied customized 
+products to us for risk reduction, quicker collection, improved 
+reconciliation etc. at various prices. When FCNR (B)/NRE TDR 
+deposit receipt is to be issued against proceeds for FC cheques 
+collected, branches have to ensure that: 
+i) FCNR (B)/ NRE TDR Receipt should be mailed / handed 
+over to the depositor only after the cooling period is over.
+ii) As no protection against frauds on the face of cheques is 
+available in such cases (a recall is possible within 1 year or 
+more), the facility of loans, etc. against such deposits
+should be extended only where branches are satisfied with 
+the bonafides of the transaction and availability of recourse, 
+if required.
+iii) Valued date of FCNR (B) / NRE TDR will be the date of 
+credit in NOSTRO a/c.
+7.4.2 The USD, GBP, CAD & EURO cheques drawn on banks in USA, UK,
+CANADA and European countries respectively are accepted by 
+Global Link Service, Mumbai for collection. Cheques on these 
+currencies drawn elsewhere as well as cheques of other 
+currencies are required to be sent directly to the drawee bank, 
+SBI Cheque Collection Policy- 2017 Page 18
+with clear instructions for remittance of proceeds to the Banks’ 
+account maintained with foreign offices/ correspondent banks.
+7.5 Immediate credit of cheques to deposit accounts of 
+individuals:-
+7.5.1 Authorised branches of the Bank will offer immediate credit of 
+cheques drawn in foreign currency for satisfactorily conducted
+accounts complying with KYC norms where they are satisfied with 
+the scope for recourse, if required, and the customers are willing 
+to pay the cheque purchase charges. 
+In value terms, cheque purchases for issue of Rupee TDRs may 
+be authorized by Managers/Branch Managers in Scale III/IV 
+incumbencies for a Rupee equivalent up to Rs. 50,000/- (Rupees 
+fifty thousand only) and by AGM branch/ AGM Region for higher 
+values in satisfactorily conducted accounts, as per paragraph
+2.2.1 above, subject to their discretionary power. In all other 
+cases, the discretionary power to purchase cheques, in aggregate 
+for a particular customer, will be as per the laid down financial 
+powers for clean instruments, subject to usual reporting to the 
+next higher authority.
+7.5.2 If a cheque/instrument, for which immediate credit has been 
+afforded, is returned unpaid, the Bank shall recover interest at 
+clean overdraft rate for the period the Bank remained out of funds 
+and also cheque return charges and exchange loss, if any, subject 
+to the following:
+i) The Bank will charge interest from the date of credit of 
+proceeds of the cheques in the account till reimbursement of 
+money to the Bank.
+ii) Where the cheque is credited to a Savings Bank account, such 
+credits will not be reckoned for interest purposes if the cheque 
+is returned.
+iii) If proceeds are credited in an overdraft/loan account, interest 
+would be recovered at applicable rate/clean overdraft rate, 
+whichever is higher, on the amount of returned 
+cheques/instruments. 
+7.6 Time Frame for collection of instruments:- 
+SBI Cheque Collection Policy- 2017 Page 19
+The time frame is from the date of deposit of a cheque/ 
+instrument at a branch to the date of credit to the customer’s 
+account will be 10 days from the date of credit to NOSTRO 
+account, including cooling period. However, it will not be 
+exceeding 45 days from the date of deposit of cheques/ 
+instruments except for the cheques/ instruments in CAD for 
+10000/- & above, where it will be 10 days from credit to NOSTRO 
+account.
+7.7 Interest payment for delayed collection:- 
+7.7.1 Delay in collection of cheques payable at foreign centres will be 
+construed if the customer’s account is not credited within 7 days
+i.e. after taking into account the prescribed cooling period for that 
+currency, with the correspondent.
+7.7.2 The Bank however, will not compensate the customer for delays 
+in collection of cheques drawn on banks in foreign countries as 
+the bank would not be able to ensure timely credit from 
+overseas banks. It is the bank’s experience that time for collection 
+of instruments drawn on banks in foreign countries differs from 
+country to country and even within a country, from place to place. 
+The time norms for return of instruments cleared provisionally 
+also vary from country to country. 
+7.7.3 For the sake of uniformity and clarity, the date of Clear Credit is 
+defined as the date on which clear funds are available in our 
+Nostro Account after an actual or notional cooling period – for 
+actual credit to customers’ account as per Bank’s agreement with 
+the concerned Correspondent Bank. Wherever there is no specific 
+agreement on the cooling period or the funds are directly 
+collected from a paying bank, the Clear Credit Date will be after 
+observing a cooling period, as per the discretion of the Bank, for 
+that specific currency/country/clearing system, from the date of 
+actual credit to Bank’s Nostro Account.
+7.7.4 The compensation on account of delay in collection of instruments 
+in foreign currency will be paid in Indian Rupee, as detailed 
+below: 
+SBI Cheque Collection Policy- 2017 Page 20
+i) At Savings Bank rate from the date of clear credit to Nostro 
+Account till the date of payment if the period of delay is beyond 
+prescribed collection period:
+Date of NOSTRO A/C credit 01.08.2017
+Add 15 days cooling period 16.08.2017
+To be paid within 10 days 26.08.2017 (No delay)
+Delayed interest payment, if proceeds are not credited within 
+26.08.2017. The date of delay will be counted from the date 
+NOSTRO a/c credited to the date of credit to the account 
+(excluding credit date) i.e. payment after 26th Aug., will entitle 
+payment of interest from 1st Aug., 2017 till the date of payment 
+upto 45 days from 26th Aug., 2017.
+ii) In case of abnormal delay, i.e. delays exceeding 45 days, interest 
+will be paid at term deposit rate applicable for the period and for 
+delays beyond 90 days, 2%above the applicable term deposit 
+rate.
+In the above example delay exceeding 45 days (beyond 26/08/17)
+will be, if not paid till 10
+th Oct., 2017.
+Delay/ Abnormal delay Delayed interest @
+>45 days to 90 days TDR rate.
+>90 days 2 % above TDR rate.
+iii) In the event of the proceeds of cheque under collection being 
+required to be credited to an overdraft / loan account of the 
+customer, interest will be paid at the rate applicable to the loan 
+account, if the delay is less than 45 days. For abnormal delays, 
+i.e. beyond 45 days, interest will be paid at the rate of 2 % above 
+the applicable interest rate to the loan account. 
+iv) Such interest shall be payable with a minimum of Rs. 25/-. 
+7.7.5 Compensation as detailed above shall be paid without any 
+formal demand from customers.
+7.7.6 No separate compensation is payable by the Bank on account of 
+movement in the value of the respective currencies.
+7.7.7 International Cheques/instruments lost in transit/in 
+ clearing process :
+SBI Cheque Collection Policy- 2017 Page 21
+In the event an international cheque or an instrument accepted 
+for collection is lost in transit or in the clearing process, the Bank 
+shall, immediately on coming to know of the loss of an 
+instrument, bring the same to the notice of the account holder so 
+that the drawer can be informed to record stop payment. The 
+Bank would also advise the correspondent/drawee bank all 
+particulars of lost cheques/ instruments for exercising caution and 
+provide all assistance to the customer in obtaining a duplicate 
+instrument from the drawer of the cheques, if required. The Bank 
+will endeavor to get payment of the instrument based on the 
+photocopy/scanned image of the instrument, wherever the 
+practice is prevalent. The Bank will bear the actual charges of 
+recording Stop Payment instructions levied by drawee bank. The 
+Bank will also reimburse the customer with actual charges levied 
+by the drawer / bank in issuing duplicate cheques/instrument, 
+subject to a maximum of Rs.250/-. 
+ 
+8. GENERAL: 
+8.1 Both the drop box facility and the facility for the 
+acknowledgement of the cheques at regular collection counters 
+should be available to the customers and no branch should refuse 
+to give an acknowledgement if the customer tenders the cheques 
+at the counters. 
+8.2 Branch should ensure that customers are not compelled to drop 
+the cheques in the drop-box. 
+8.3 Further, in the context of customer awareness in this regard, 
+branch should invariably display on the cheque drop box itself that 
+“Customer can also tender the cheques at the counter and obtain 
+acknowledgment on the pay –in-slips”. The above message is 
+required to be displayed in English, Hindi and the concerned 
+regional language of the State. 
+8.4 Branches are also advised to make absolutely fool proof 
+arrangement accounting for the number of instruments each time 
+the box is opened so that there are no dispute and the customer’s 
+interest are not compromised.
+8.5 Branches shall not decline to accept outstation cheques deposited by its 
+customers for collection.
+SBI Cheque Collection Policy- 2017 Page 22
+8.6 Branches shall give wide publicity to the CCP by prominently displayed 
+salient features thereof in bold and visible letters on the notice board at 
+their branches.
+8.7 A copy of the complete CCP shall be made available by the Branch 
+Manager, if the customer requires so.
+8.8. DISCRETIONARY POWER FOR PUCHASE OF CHEQUES:
+Branches should refer Bank’s Delegation of Financial Power for 
+Unsecured advances in the respective grade/scale, for purchase of 
+cheques, revised from time to time. Current Ref: Organisational 
+Planning. Sl.no.: 881/2016 – 17 Circular no. : CDO/ORG-DFP/4/2016 –
+17, dated 04.10.2016:
+Assistant Manager NIL
+Deputy Manager 3 Lacs
+Manager 5 lacs
+Chief Manager 10 Lacs
+9. FORCE MAJEURE:
+Bank shall not be liable to compensate the customers for delayed 
+credit if some unforeseen event (including, but not limited to civil 
+commotion, sabotage, lockout, strike or other labour disturbances, 
+accident, fire, natural disasters or other “Acts of God”, war, 
+damage to the Bank’s facilities or of its correspondent bank(s), 
+beyond the control of the bank) prevents it from performing its 
+obligations within the specified service delivery parameters. 
+SBI Cheque Collection Policy- 2017 Page 23
+ANNEXURE-I
+Code No. Reason for Return
+ Funds
+01 Funds insufficient 
+02 Exceeds arrangement
+03 Effects not cleared, present again.
+ Reference to Drawer
+04 Refer to drawer
+ 05 Kindly contact Drawer/Drawee Bank and please present
+again. 
+ Signature
+ 10 Drawer’s signature incomplete
+ 11 Drawer’s signature illegible
+ 12 Drawer’s signature differs
+ 13 Drawer’s signature required
+ 14 Drawer’s signature not as per mandate
+ 15 Drawer’s signature to operate account not received
+ 16 Drawer’s authority to operate account not received
+ 17 Alteration requires drawer’s authentication
+ Stop Payment
+ 20 Payment stopped by drawer
+ 21 Payment stopped by attachment order
+ 22 Payment stopped by court order
+ 23 Withdrawal stopped owing to death of account holder
+ 24 Withdrawal stopped owing to lunacy of account holder
+ 25 Withdrawal stopped owing to insolvency of account 
+ holder 
+ Instrument
+ 30 Instrument post dated
+ 31 Instrument out dated/stale
+ 32 Instrument undated/ without proper date
+ 33 Instrument mutilated; requires Bank’s guarantee
+SBI Cheque Collection Policy- 2017 Page 24
+ 34 Cheque irregularly drawn/ amount in words and figures
+differs 
+ 35 Clearing House stamp/ date required
+ 36 Wrongly delivered/ Not drawn on us
+ 37 Present in proper zone
+ 38 Instrument contains extraneous matter
+ 39 Image not clear, present again with paper
+ 40 Present with document 
+ 41 Item listed twice
+ 42 Paper not received
+ Account 
+ 50 Account closed
+ 51 Account transferred to another branch
+ 52 No such account 
+ 53 Title of account required
+ 54 Title of account wrong/ incomplete
+ 55 Account blocked (situation covered in 21-25)
+ Crossing/Endorsement
+ 60 Crossed to two banks
+ 61 Crossing stamp not cancelled
+ 62 Clearing stamp not cancelled
+ 63 Instrument specially crossed to another bank
+ 64 Amount in protective crossing incorrect
+ 65 Amount in protective crossing required/illegible
+ 66 Payee’s endorsement required
+ 67 Payee’s endorsement irregular / requires collecting
+ bank’s confirmation
+ 68 Endorsement by mark/ thumb impression requires
+ attestation by Magistrate with seal 
+RBI /Government
+ 70 Advice not received
+ 71 Amount / Name differs on advice
+ 72 Drawee bank’s fund with sponsor bank insufficient
+ 73 Payee’s separate discharge to bank required 
+ 74 Not payable till 1st proximo
+ 75 Pay order/ cheque requires counter signature
+ 76 Required information not legible/ correct
+Miscellaneous 
+ 80 Bank’s certificate ambiguous/ incomplete/ required
+ 81 Draft lost by issuing office/ confirmation required from
+SBI Cheque Collection Policy- 2017 Page 25
+ Issuing office
+ 82 Bank/Branch blocked
+ 83 Digital Certificate Validation failure
+ 84 Other reasons-connectivity failure
+ 85 Alterations on instrument- Other than “Date” field
+(Alteration/correction on instruments are prohibited under
+Cheque Truncation System. Return reason code
+ applicable to instruments presented in CTS) 
+ 86 Fake/Forged/Stolen-draft/cheque/cash order/interest 
+ warrant/dividend warrant
+ 87 ‘Payee’s a/c credited’- Stamp required 
+ 88 Other reasons (Please specify)
+ 92 Bank Excluded
+SBI Cheque Collection Policy- 2017 Page 26
+ANNEXURE-II
+Illustrative but not exhaustive list of objections where 
+customers are not at fault
+(Applicable for instrument and image-based Cheque Clearing as detailed in 
+Annexure D to Uniform Regulations and Rules for Bankers’ Clearing Houses)
+Code No. Reason for Return
+33 Instrument mutilated; requires bank’s guarantee
+35 Clearing House stamp/date required
+36 Wrongly delivered/ not drawn on us
+37 Present in proper zone
+38 Instrument contains extraneous matter
+39 Image not clear ; present again with paper
+40 Present with document
+41 Item listed twice
+42 Paper not received
+60 Crossed to two banks
+61 Crossing stamp not cancelled
+62 Clearing stamp not cancelled
+63 Instrument specially crossed to another bank
+67 Payee’s endorsement irregular/ requires collecting bank’s 
+confirmation
+68 Endorsement by mark/ thumb impression requires attestation by 
+Magistrate with seal
+70 Advice not received
+71 Amount/ Name differs on advice
+72 Drawee bank’s fund with sponsor bank insufficient(applicable to 
+sub-members)
+73 Payee’s separate discharge to bank required
+74 Not payable till 1st proximo
+75 Pay order/cheque requires counter signature
+76 Required information not legible/correct
+80 Bank’s certificate ambiguous/ incomplete/required
+81 Draft lost by issuing office; confirmation required from issuing 
+office
+82 Bank/ Branch blocked
+83 Digital Certificate validation failure
+84 Other reasons-connectivity failure
+87 ‘Payee’s a/c Credited’-Stamp required
+92 Bank excluded
+SBI Cheque Collection Policy- 2017 Page 27
+Annexture-III
+Mr./Mrs./Ms.--------------------
+Address:-
+Madam/Dear Sir,
+Cheque/Instrument No. dated for Rs. Lost 
+in transit/ in clearing process.
+ 
+With reference to the above, we advise that the cheque deposited by 
+you, appears to be lost while carrying out the process of clearing. 
+Accordingly, we request you to advise the drawer of the cheque to 
+arrange for issuing STOP payment instruction to their concerned Banker. 
+Further, we request you to arrange for obtaining duplicate instrument 
+from drawer of the cheque.
+2. We regret for the inconvenience caused to you and assure you of our 
+best services.
+Yours faithfully,
+( Name )
+Branch Manager

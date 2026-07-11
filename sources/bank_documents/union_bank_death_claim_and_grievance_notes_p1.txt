@@ -1,0 +1,30 @@
+Title: Union Bank of India - Death Claim and Grievance Notes
+Source URLs:
+- https://icmt.unionbankofindia.co.in/deathclaim/
+- https://www.unionbankofindia.co.in/en/common/contact-us
+Source type: official Union Bank page notes / snapshots
+
+Use for FinTrust AI:
+- Union Bank deceased depositor claim workflow.
+- Union Bank grievance/contact routing.
+- Union Bank fraud/disputed transaction helpline context.
+
+Key points:
+- Union Bank provides an online Death Claim portal.
+- The death claim page links to "Policy On Settlement Of Death Claim 2026-2027" at:
+  https://icmt.unionbankofindia.co.in/deathclaim/Documents/2026/Policy%20On%20Settlement%20Of%20Death%20Claim%202026-2027.pdf
+- The claim form asks for claimant details, relationship to nominee/legal heirs, mobile, email and security question.
+- For complaints related to death claim, Union Bank links to its service portal.
+- Contact page provides toll-free numbers and dedicated helplines.
+- Fraud/disputed transactions helpline is listed separately.
+- Grievance redressal can be initiated through the Union Bank portal.
+- Union Bank mentions sign-language services for hearing impaired customers through its website path.
+
+Manual follow-up:
+- Download the 2026-2027 death claim policy PDF from the Union Bank death claim page.
+- Search/download Union Bank:
+  - customer compensation policy
+  - deposit policy
+  - cheque collection policy
+  - grievance redressal policy
+  - debit card / credit card terms

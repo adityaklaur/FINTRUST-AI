@@ -1,0 +1,25 @@
+Title: Sachet Portal - Unauthorized Deposits and Fraudulent Schemes
+Source URLs:
+- https://sachet.rbi.org.in/home
+- https://sachet.rbi.org.in/FAQ/FAQ
+- https://sachet.rbi.org.in/Complaints/Add
+- https://sachet.rbi.org.in/Entity/Index
+Source type: RBI/Sachet portal research notes
+
+Purpose for FinTrust AI:
+Use this for routing complaints about unauthorized deposit schemes, Ponzi/MLM schemes, fake investment schemes, fake employment schemes, fictitious calls/emails, and entities collecting deposits illegally.
+
+Key points:
+
+- Sachet is not the same as RBI CMS Ombudsman.
+- Sachet is meant for complaints or information related to deposits/schemes of various companies, unauthorized acceptance of deposits/money, and suspect entities.
+- If the complaint is about deficiency in services by RBI-regulated entities such as banks, small finance banks, payment banks, RRBs, cooperative banks, NBFCs, or payment system providers, users should use the RBI Complaint Management System at https://cms.rbi.org.in instead.
+- Sachet includes "File a Complaint", "Track your complaint", and "Help your Regulator".
+- Complaint categories include fake websites, fictitious phone calls, phishing emails, exorbitant loan interest by registered/unregistered bodies, fraudulent employment schemes, MLM/direct selling/Ponzi schemes, fraudulent collection of fees, unauthorized collection of deposits, and non-repayment of deposits.
+
+Implementation notes:
+
+- Add classifier category: `unauthorized_deposit_or_investment_scheme`.
+- If the issue is "bank failed to resolve my service complaint", route to RBI CMS, not Sachet.
+- If the issue is "company/app/person collected money illegally or Ponzi/fake investment", route to Sachet.
+- Ask for entity name, address/website, amount paid, communication evidence, receipt/agreement, and screenshots.

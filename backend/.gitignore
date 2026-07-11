@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Local secrets & data
+.env
+data/vector_store/
+data/audit/
+data/*.db
+data/eval/report_*.json
+
+# OS
+.DS_Store

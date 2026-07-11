@@ -1,0 +1,502 @@
+GRIEVANCE REDRESSAL POLICY
+
+Version No: 1.7
+
+Last approved date: 29-Mar-25
+
+Policy approved date: 31-Mar-26
+
+Policy Classification: Public
+
+Index:
+
+S. No. Title Page no.
+
+1.0 Introduction 3-4
+
+2.0 Complaint/Grievance Registration and Touch points 4-6
+
+3.0 Grievance Redressal Mechanism 6-7
+
+4.0 System support & tools for Complaint/grievance management 8-8
+
+5.0 Review and monitoring process 9-10
+
+6.0 Liability of the Customers in unauthorized credit card transactions 10-13
+
+7.0 Change Log 13-19
+
+1. Introduction
+
+A Customer Complaint is an expression of dissatisfaction from a customer, requiring a response, about 
+business activities performed by SBI Card or any of its employees or performed on their behalf by any third 
+party. This policy is formulated on the basis of prevailing RBI guidelines as amended from time to time. 
+SBI Cards and Payment Services Limited hereinafter referred to as “SBI Card” or “SBICPSL” or “Company”, 
+policy on customer grievance redressal is based on following principles: 
+• Customers are always treated fairly. 
+• A complaint is an expression of dissatisfaction made to an organization related to its products, 
+services, or the complaint handling process where a response or resolution is explicitly or implicitly 
+expected. 
+• Complaints raised by customers are dealt with courtesy, honesty and on time. 
+• Customers are informed about the avenues to escalate their complaints/ issues / grievances within 
+and outside the organization. 
+• The company will treat all complaints efficiently and fairly as they can damage the company’s 
+reputation and goodwill and lead to loss of customer’s faith. 
+• Employees would work in good faith and without prejudice to the interest of the customer. 
+
+The customer is the focus of the organization’s Products, Services and People. The business growth depends entirely on the satisfaction of the customers.
+
+A Complaint generally occurs on account of various reasons including: • Inadequacy of working/operational gaps in standards of services offered, expected and actual services rendered. • Technological issues. • The attitudinal/ behavioral aspects in dealing with the customers. • Environmental or External changes which further impact the overall working of internal processes. • Lack of awareness / information about the product or services with the customers on account of communication gap, misrepresentation by any employee / agent involved. • Fraudulent activity on the part of any of the stakeholders involved. • Data privacy related reasons
+
+Grievance: Complaints escalated to grievance channels are termed as Grievance/escalations.
+
+Customer has the right to register his/her complaint/ grievance if he/she is not satisfied with the services provided by SBI Card. A suitable mechanism must therefore exist for receiving and redressing customer Complaints/grievances courteously, promptly and satisfactorily. The details of complaint/grievance redressal mechanism must be in the domain of public knowledge. There are various channels through which a customer can lodge his/her grievance – in person by visiting SBI Card office/branch, by telephone, through website/Mobile app/chatbot or by mail/post or by email.
+
+If a complaint received via any of the above-mentioned channels is not resolved within the prescribed time frame or he/she is not satisfied with the resolution offered, he/she can approach Nodal officer/Principal Nodal Officer/ Customer Service Head appointed by SBI Card through email/ letter/telephone and if still not satisfied by the response he can approach Ombudsman appointed under the Reserve Bank- Integrated Ombudsman Scheme 2021 with his/her complaint or resort to other legal avenues for grievance redressal. Once a complaint has been registered / received by SBI Card, appropriate measures for resolution of the grievances are taken by the business.
+
+2. Complaint/Grievance registration and touch points
+
+Internal mechanism to handle customer complaints/ grievances
+
+I. Registration of customer complaints:
+
+Our customers can register their grievances with Company through various touch points:
+
+1. Dedicated call center at 18605001290, 18601801290, 39020202(Prefix local the STD code) or 
+1800 180 1290 (toll free), 18605002000 (Aurum credit card), 39 02 34 56 (Prefix local the STD code - 
+Tata card), 1860 500 8282 & 1800 180 8282 (toll free – Tata card). 
+Our customer care executives are available 8 AM - 8 PM from Monday to Saturday. Customer care 
+lines are open 24*7 for emergency & premium services. 
+2. By writing an email to customercare@sbicard.com, aurum@sbicard.com (Aurum credit card), 
+customer.care@tatacard.com (Tata card)or Customer can contact customer care through web-based 
+platform www.sbicard.com/email or SBI Card Mobile App – Go to connect with us>Mailbox>Compose 
+>select intend 
+3. Customers can also contact customer care by sending letters through post/courier. 
+SBI Cards and Payment Services Ltd. 
+DLF Infinity Towers, Tower C,12th Floor, Block 2, Building 3, DLF Cyber City, Gurgaon - 
+122002(Haryana) India, 
+
+4. Social media channels – like Twitter (Twitter@SBICard_Connect), Facebook etc. 
+5. The Cardholder can write on dedicated email id for the below complaint/requests categories: 
+
+• Mis-selling and Harassment related complaints - salesgrievance@sbicard.com • Dispute/unauthorized transaction through our Mobile App / website. Alternatively, the Cardholder can write on dedicated E-mail ID for dispute / unauthorized transaction at chargeback@sbicard.com. • Reporting of lost card – lostcard@sbicard.com • Account closure - closurerequest@sbicard.com • Data Privacy- dataprivacy.complaint@sbicard.com 6. The Cardholder can call us up on dedicated helpline for Miss-Sell/ Harassment related complaints: 080-39356050
+
+II. Guidelines of handling complaints/grievances
+
+A Customer complaint/grievance handling process has been put in place to ensure adequacy of response, response time, prompt closure, entry into a tracking system and analysis of recurring issues and trends.
+
+While handling the complaints/grievance recordkeeping requirements and local laws and regulations must also be adhered to. All customer interaction related to the complaints/ requests should be preserved for future reference as per the Company’s Document/Record Retention & Disposal Policy. All complaints/grievances are manually recorded in our CRM system when customer contacts any touch point.
+
+1. Customers are provided with the customer reference Id to facilitate follow-up, if required and 
+for future references 
+2. Acknowledgment is provided to the customer for complaints/grievance received. 
+3. Timelines are defined for the resolution. 
+4. Close looping is done by communication of complaint/grievance resolution to the customer. 
+5. CRM is updated with every communication – email/letter sent to the customer. 
+6. Periodic reporting and review by senior management 
+7. Analysis of recurring issues and trends 
+
+III. Complaints & Grievance Classification
+
+The customer care personnel can come across various other types of complaints from Customers other than the types listed below. The list below is an indicative list and not an exhaustive list of complaints. Also, the classifications prescribed by the Authority from time to time shall be adopted and incorporated in the systems. The customer communication with deficiency in product/ services is duly analyzed and when a service deficiency is identified, the same is treated as a complaint.
+
+The categories of complaints are broadly classified as under: - 
+Nature of complaints 
+1. Sales Communication 
+2. New Account Related –Data Capture related/Application related. 
+3. Application Related (Others) 
+4. Email ID Change Related 
+5. Product Code Revision –New Accounts /Marketing 
+6. Cashback/ Reward/ Easy Bill Pay Related 
+7. Contact Center (Call Disconnection/ Mis-sell/Uncourteous Behavior/ Wrong info etc.) 
+8. IT Related Issues - Web account 
+9. Delivery Delays 
+10. Add-on card not received 
+11. Chargeback Related 
+
+6 
+12. Co-Brand - Reward related 
+13. Payment Related 
+14. Collection behavior related 
+15. Collections Related 
+16. Co-Brand - Surcharge Related 
+17. Insurance Related 
+18. Cross-Sell Third Party 
+19. Fraud Related issues 
+20. Statement not received 
+21. Customer Services (Account management) 
+22. Balance transfer - VMT related 
+23. KYC Related 
+24. Corporate Card Complaints 
+25. Data Privacy Related 
+
+3. Grievance Redressal Mechanism
+
+A multi-layered approach for resolution, with a dedicated centralized team, is followed by our service touch points to address, investigate and resolve.
+
+I. Grievance Redressal Cell
+
+If a customer is not satisfied with the resolution provided by our service touch points, he or she can approach Grievance Redressal Cell by writing to the Nodal Officer. A dedicated team reviews all such grievances received and provides a resolution to the customer on a priority basis. All such Grievances are entered into our Complaint Management System for further resolution.
+
+Nodal Officer is a representative of Customer and ensures appropriate resolution by interfacing with different functions within SBI Card.
+
+Customer can contact Nodal Officer by email, sending letters and also by telephone o Email: - Nodalofficer@sbicard.com, head@tatacard.com (Tata card) o By Post: Nodal Officer, PO Bag 28 - GPO, New Delhi - 110001 o Helpline: - 1860-180-7777
+
+II. Responsibilities of Nodal Officer
+
+1. Review the grievances received and resolve in co-ordination with departmental representative 
+2. Liaise with respective functions for speedy closure of complaint 
+3. Regularly review and suggest revisions (if needed) in the grievance handling procedures for the 
+company 
+
+4. Nodal Officer would share findings and relevant gaps in the existing processes and work with process owners to put in place corrective actions.
+
+III. Escalation
+
+In the event, the customer is not satisfied with the resolution provided by the above touch points, then he/she can raise his/her grievance by following the escalation matrix given below:
+
+1. Principal Nodal Officer
+
+In case customer is still not satisfied with the solution provided by Nodal officer, he or she can email to Principal Nodal Officer with concerns at PrincipalNodalOfficer@sbicard.com.
+
+2. Customer Service Head
+
+Even after getting a response from Principal Nodal Officer, if a customer is not satisfied and wants to further escalate his grievance, he can email to the Customer Services Head @ CustomerServiceHead@sbicard.com
+
+3. SBI Card Internal Ombudsman
+
+With reference to the Appointment of Internal Ombudsman by Non-Banking Financial Companies dated November 15, 2021, and Reserve Bank of India (Non-Banking Financial Companies - Internal Ombudsman) Directions, 2026, dated 14th January 2026 regarding Internal Ombudsman, the Company refer all complaints to Internal Ombudsman (IO) which have been partly or wholly rejected within 20 days of receipt, for a final decision except complaints, for which Reserve Bank of India, National Payments Corporation of India, or card network guidelines prescribe a timeline for resolution, sufficiently in advance such that IO / Deputy IO gets at least 10 days for review of such complaints to enable final decision to be communicated to the complainants within the timelines prescribed by Reserve Bank of India, National Payments Corporation of India, or card network, as applicable. Basis the decision of IO/Deputy IO to uphold or overrule the decision of the Company to reject/partly reject the complaint, the reply sent to the customer shall explicitly state the same. In case of complaints that are fully or partly rejected even after examination by the IO/Deputy IO, the Company shall advise to the complainant accordingly and state as part of the reply that he/she can approach the RBI Ombudsman for redressal.
+
+4. Ombudsman/Regulator
+
+In the event a customer does not get satisfactory resolution by SBI Card within a maximum period of thirty days from the date of lodging complaint, the customer can approach Ombudsman appointed under the Reserve Bank- Integrated Ombudsman Scheme 2021 for Redressal of his / her complaint/grievance.
+
+The Grievance Redressal Mechanism and contact details of our Nodal Officer/ Principal Nodal Officer are displayed on our website and in all our branches.
+
+System Support & Tools for Complaint/Grievance Management
+
+Grievance management is supported by integrated CRM tool. The main functionalities of the system are:
+
+1. Complaint/Grievance Recording and acknowledgement
+
+All touch points can log a complaint through CRM system. The system generates a Reference No. which is communicated to the customer.
+
+2. Process for complaint resolution and tracking
+
+Once all touch points log the complaints in the system, the complaint status can be tracked by various stakeholders at any given point of time. MIS is shared with all the relevant stakeholders keeping them informed about the total number of complaints open and their turnaround time. The complaint is then resolved by the respective process owners. The resolution by the respective process owners is also communicated to the customer.
+
+Turnaround time for Complaints and Grievances
+
+In case of customer approaching us through any of our contact channel for queries or complaints, we shall initiate a confirmation of the query logged either through phone / email/ SMS immediately and the same shall get resolved either as a First Contact Resolution or as per Turn Around Time defined basis the nature of Request/complaint.
+
+Time frame for response: Depending on the nature of the complaint, specific timelines have been set for different categories.
+
+The turn-around-time for responding to a complaint is:
+
+i. Normal cases (other than the one mentioned below): 7 working days 
+ii. Chargeback related cases: 45 to 90 working days or as per VISA/Master Card/ Rupay /American-express 
+guidelines 
+iii. Cases involving 3 rd Party, Fraud cases, Legal cases and cases which need retrieval of documents and 
+exceptionally old records: 30 working days 
+iv. Internal Ombudsman referral Cases - Company refer all complaints to Internal Ombudsman (IO) which 
+have been partly or wholly rejected within 20 days of receipt, for a final decision. Post examination by the 
+IO, the Company shall advise to the complainant accordingly within a period of 30 days from the date of 
+receipt of complaint 
+
+In any case additional documents/information required, which would entail additional time, the customer will be duly intimated for resolution of the issue.
+
+5) Review and monitoring process
+
+Periodic Review & Reporting
+
+MIS is published on a periodic basis to all departments. The MIS includes the number of complaints received against each department with current status on resolution and timeline for resolution. It also highlights top complaints for the department.
+
+MIS is also published to the highest level of senior management including MD&CEO for review on monthly 
+basis in forums such as Customer Experience Council (minimum 10 in a year), Operational Risk Management 
+Committee (ORMC) and quarterly to Compliance Review Committee (CRC) 
+The periodic report is shared with the SBICPSL Board and with the Stakeholders Relationship and Customer 
+Experience Committee as well. 
+
+Apart from the above mentioned reporting is also done to various fora including regulators and senior management on monthly/quarterly basis.
+
+Customer grievance channel and Customer Experience team provides valuable feedback on quality of service and whether the initiatives taken by the Company in technology and reengineering of business processes are having the desired impact on improved customer satisfaction. The Company also understands the importance of sensitizing the staff to handle customer transactions/requests with courtesy, empathy and promptness. The company shall conduct training programs regularly for staff on customer service and minimizing customer grievances. The Company shall conduct customer satisfaction surveys periodically to understand customers’ perception of SBI Credit Card’s service and to identify priority areas for improvement of customer satisfaction. In case of any lapse on account of Customer Service representative, action will be taken as per applicable policy.
+
+Analysis of Overall and category-wise Complaints trends, with Root Cause Analysis and corrective actions, Resolution Turn-around time and Vendor-wise details as applicable along with Channel-wise complaints trends are presented to the Stakeholders relationship and Customer experience committee. CEC (Customer Experience Council) is organized regularly (minimum 10 in a year with (frequency monthly) where representatives of each function and Senior Management interact freely on service-related issues.
+
+Policy review
+
+This Policy will be reviewed annually or earlier, if necessary, by the Board on the recommendation of Stakeholders Relationship and Customer Experience Committee. Where the requirements of applicable local laws require a higher standard than those of this Policy/ to the extent that a local law conflicts with the requirements of this Policy, the local law prevails.
+
+6 Liability of the Customers in unauthorized credit card transactions
+
+SBI Card is committed to providing superior and safe customer service experience to all its customers. In order to enable the above, SBI Card has over the years invested in technology and has robust security systems and fraud detection & preventions mechanisms in place to ensure a safe and secure experience to its customers.
+
+The Grievance Redressal policy is designed to ensure customer protection relating to unauthorized transactions resulting in debits to customer’s card. The policy is based on the principles of transparency and fairness in the treatment of customers.
+
+Definitions & Explanations (for the purpose of this policy):
+
+a. Real loss is defined as financial outgo from customer’s account e.g. debit to customer’s card 
+account 
+b. Card Not Present (CNP) transactions are defined as transactions that require use of Card 
+information without card being physically used e.g. e-commerce transactions 
+c. Card Present (CP) transactions are defined as transactions that require physical presence of card 
+or card token-based device at the point of transaction. It is also known as face-to-face or a 
+proximity payment transaction e.g. at ATM or shops (POS) 
+d. Unauthorized transaction is defined as debit to customer’s account without customer’s consent 
+e. Consent includes authorization of a transaction debit either through standing instructions or 
+based on additional authentication required by SBI Card, such as use of security passwords, input 
+of dynamic password (SMS/Email OTP), use of Card details (CVV/ Expiry date) or any other option 
+provided by SBI Card 
+f. Date and time of reporting is defined as date and time on which customer has submitted a 
+unique complaint. The working schedule of the SBI Card would be considered for calculating 
+working days for customer reporting. Time of reporting will be as per Indian Standard Time. 
+g. Number of days will be computed based on working days excluding the date of receiving the 
+communication 
+h. Notification means an act of the customer reporting unauthorized electronic transaction to SBI 
+Card 
+i. Mode of reporting will be the channel through which customer complaint is received first time 
+by SBI Card 
+j. Loss in foreign currency if any shall be converted to Indian currency for this policy 
+
+Cardholders are advised to immediately contact SBI Card in case the card is misplaced, lost, stolen, mutilated, not received when due or if the cardholder suspects that the credit card is being used without his/her permission. The Cardholder can also block the card instantly on IVR, our website www.sbicard.com, mobile app or through SMS based service.
+
+In the event of any unauthorized transaction, the Cardholder can raise dispute via several channels such as helpline, website and mobile app. SBI Card shall send immediate response to the Cardholder acknowledging the complaint along with the registered complaint number. SBIC shall record the time and date of delivery of message and receipt of customer’s response which shall be used in determining the extent of a customer’s liability. Based on nature of dispute, investigation will be done by SBI Card, during which period temporary credit shall be posted to the extent of disputed amount. This temporary credit for an unauthorized credit card transaction dispute shall be given within 10 working days from the date of such notification by the customer and that would nullify the effect of disputed transaction on the total outstanding. However, based on the outcome of the investigation, the temporary credit may either be made permanent resulting in no liability from cardholder or reversed, where the valid
+
+documents are received from Acquiring Merchant Bank or the customer does not challenge validity of the documents.
+
+SBI Card shall arrange to complete the process of investigation within the period, as prescribed under network guidelines ( i.e. Visa/Mastercard/Rupay/American Express etc.) , from the date of reporting the unauthorized disputed credit card transaction which will be handled as per chargeback rules laid down by network providers (i.e. Visa/ Mastercard/Rupay/American Express etc.). SBI Card will provide explanation and, if necessary, documentary evidence or intimation about initiation of second stage to the customer within a maximum period of 90 days from the date of receipt of complaint subject to response from card network.
+
+Customer will timely submit the completed Transaction Dispute Form, all other necessary information and documents for investigation/ inquiry, as may be required by SBI Card, Network provider and Acquiring Bank. If customer fails to submit or delays submission of necessary information or documents to SBI Card, SBI Card reserves the right to establish liability of the customer in unauthorized credit card transactions, as it may deem fit and proper.
+
+In the unfortunate event of any fraudulent transaction having occurred on the customer’s credit card, the following provisions shall apply:
+
+A. Zero Liability of Customer
+
+The customer shall be entitled to full compensation of real loss in the event of contributory fraud/ negligence/ deficiency on the part of SBI Card (irrespective of whether or not the transaction is reported by the customer).
+
+Customer has Zero Liability in all cases of third-party breach where the deficiency lies neither with SBI Card nor with the customer but lies elsewhere in the system and the customer notifies SBI Card within three working days of receiving the communication from SBI Card regarding the unauthorized transaction
+
+B. Limited Liability of Customer
+
+In cases where the responsibility for the unauthorized credit card transaction lies neither with SBI Card nor with the customer, but lies elsewhere in the system and when there is a delay of Four to Seven days (after receiving communication from SBI Card) on the part of customer in notifying SBI Card of such unauthorized credit card transaction, the per transaction liability of the customer shall be limited to the transaction value or the amount mentioned in below Table in Annexure - 1, whichever is lower.
+
+C. Complete liability of Customer
+
+In cases where the loss is due to negligence by a customer, such as where customer has shared the payment credentials like credit card details, PIN, CVV, OTP or due to improper protection on customer devices like mobile/ laptop/ desktop leading to malware/ Trojan or Phishing/ Vishing attack. This could also be due to SIM deactivation by the fraudster; the customer will bear the entire loss till the customer reports unauthorized transaction to SBI Card. Any loss occurring after reporting of unauthorized transaction shall be borne by SBI Card.
+
+Customer shall be required to get his/her card blocked by calling at the helpline or logging to Web account, Mobile App or by sending SMS. On receipt of a request from the customer for blocking of credit card, SBI Card will take immediate steps to prevent further unauthorized transactions in the account.
+
+In cases where the responsibility for unauthorized electronic transaction lies neither with the SBI Card nor with the customer but lies elsewhere in the system and when there is a delay on the part of the customer in reporting to the SBI Card beyond 7 days, the customer would be completely liable for all such transactions.
+
+Annexure – 1
+
+Maximum Liability of the Customer:
+
+| REPORTING TIME CUSTOMER LIABILITY | | |
+| --- | --- | --- |
+| Within 3 working days Zero (Customer is not liable to pay) | | |
+| | a) Credit Limit of Credit Card <=5 lac: <=Rs.10,000 or b) Credit Limit of Credit Card >5 lac: <=Rs.25,000 or | the claim amount whichever is lower. the claim amount whichever is lower. |
+| More than 7 working days *100% (Customer is liable to bear entire loss) | | |
+
+The liability of the customer will be based on the outcome of the investigation. The temporary credit may either be made permanent resulting in no liability from cardholder or reversed, where the valid documents are received from Acquiring Merchant Bank or the customer does not challenge validity of the documents.
+
+4 - 7 working days
+
+Further, in accordance with para 85 (6) (iii) of the Reserve Bank of India (Non-Banking Financial Companies – Credit Cards Issuance and Conduct) Directions 2025 and Reserve Bank of India (Commercial Banks – Responsible Business Conduct) Directions, 2025, SBIC shall ensure that: (1) a complaint is resolved and liability of the customer, if any, established within such time, as specified in this policy, but not exceeding 90 days from the date of receipt of the complaint, and the customer is compensated as per RBI Guidelines, and (2) where it is unable to resolve the complaint or determine the customer liability, if any, within 90 days, the compensation as prescribed in RBI Guidelines is paid to the customer
+
+Further SBI Card may, at its sole discretion, also decide to suitably compensate the customer
+
+Customer is bound by following obligations:
+
+(i) Customer shall mandatorily register valid mobile number with SBI Card. 
+(ii) Customer shall regularly update his/ her registered contact details as soon as such details are 
+changed. Any failure of customer to update SBI Card with changes shall be considered as 
+customer negligence. Any unauthorized transaction arising out of this delay shall be treated as 
+customer liability. 
+(iii) Customer should co-operate with SBI Card investigating authorities and provide all required 
+information and necessary documents. 
+
+Customer must not share sensitive information (such as Credit Card details & PIN, CVV, Account ID & Password, OTP, transaction PIN etc.) with anyone, including staff of SBI Card.
+
+Notifying SBI Card of the unauthorized transaction: • Customer shall report unauthorized/disputed transaction to SBI Card at the earliest, with basic details such as Customer name, Card number date & time of transaction and amount of transactions. • Card blocking will happen automatically once a fraudulent transaction is reported. • Customer shall share relevant documents/information as needed for investigation viz. cardholder dispute form, copy of passport in case of international transactions and police complaint. • Fully co-operate and comply with SBI Card reasonable requirements towards investigation and provide details of transaction, customer presence, etc.
+
+Proof of customer liability:
+
+SBI Card has a process of second factor authentication for electronic transactions, as mandated by the Reserve Bank of India. SBI Card has onus to prove that all logs / proofs / reports for confirming two factor authentications are available. Any unauthorized electronic transaction which has been processed post second factor of authentication known only to the customer would be construed as sufficient proof of customer’s involvement / consent in effecting the transaction.
+
+Change log
+
+Page no and Section Existing Provision Revised Provision Rationale for Change
+
+| Page no and Section Existing Provision Revised Provision Rationale | | for Change |
+| --- | --- | --- |
+| Nil This policy is formulated on | the basis of prevailing RBI guidelines as amended from time to time. | Regulatory section requirement in policy |
+
+Page - 3 Section - 1 Introduction
+
+Regulatory section requirement in policy
+
+| Page - 4 | I. Registration of customer | I. Registration of customer | Aurum |
+| --- | --- | --- | --- |
+| Section - 2. | complaints: | complaints: | helpline |
+| Complaint/Grievance | | | number and |
+| registration and | Our customers can register | Our customers can register | email ID |
+| touch points. | their grievances with us | their grievances with us | mentioned. |
+| | through various touch | through various touch | |
+| | points: | points: | |
+| | 1. Dedicated call center at | 1. Dedicated call center at | |
+| | 18605001290, | 18605001290, 18601801290, | |
+| | 18601801290, | 39020202(Prefix local the | |
+| | 39020202(Prefix local the | STD code) or | |
+| | STD code) or | 1800 180 1290 (toll free), | |
+| | 1800 180 1290 (toll free). | 18605002000 (Aurum credit | |
+
+card), 39 02 34 56 (Prefix local the STD code -Tata card), 1860 500 8282 & 1800 180 8282 (toll free – Tata card).
+
+| | services. | executives are available 8 | |
+| --- | --- | --- | --- |
+| | 2. By writing an email to | AM - 8 PM from Monday to | |
+| | customercare@sbicard.com | Saturday. Customer care | |
+
+1. Dedicated call center at 18605001290, 18601801290, 39020202(Prefix local the STD code) or 1800 180 1290 (toll free). Our customer care executives are available 8 AM - 8 PM from Monday to Saturday. Customer care lines are open 24*7 for emergency & premium or Customer can contact customer care through web-based platform www.sbicard.com/email or SBI Card Mobile App – Go to connect with us>Mailbox>Compose >select intend 3. Customers can also contact customer care by sending letters through post/courier.
+
+| | customer care through | for emergency & premium | |
+| --- | --- | --- | --- |
+| | web-based platform | services. | |
+| | www.sbicard.com/email or | 2. By writing an email to | |
+| | SBI Card Mobile App – Go | customercare@sbicard.com, | |
+| | to connect with | aurum@sbicard.com (Aurum | |
+| | us>Mailbox>Compose | credit card), | |
+| | >select intend | customer.care@tatacard.com | |
+| | 3. Customers can also | (Tata card). | |
+| | contact customer care by | 2.3. Customer can contact | |
+| | sending letters through | customer care through web | |
+| | post/courier. | based platform | |
+
+Our customer care executives are available 8 AM - 8 PM from Monday to Saturday. Customer care lines are open 24*7 www.sbicard.com/email or SBI Card Mobile App – Go to connect with us>Mailbox>Compose >select intend 3.4. Customers can also contact customer care by
+
+| | Customer can contact | SBI Card Mobile App – Go to | |
+| --- | --- | --- | --- |
+| | Nodal Officer by email, | connect with | |
+| | sending letters and also by | us>Mailbox>Compose | |
+| | telephone | >select intend | |
+
+oEmail: -
+
+Nodalofficer@sbicard.com oBy Post: Nodal Officer, PO Bag 28 - GPO, New Delhi -110001 oHelpline: - 1860-180-7777 sending letters through post/courier.
+
+Customer can contact Nodal Officer by email, sending letters and also by telephone oEmail: -Nodalofficer@sbicard.com, head@tatacard.com (Tata card) oBy Post: Nodal Officer, PO Bag 28 - GPO, New Delhi -110001 oHelpline: - 1860-180-7777
+
+| Page - 7 | With reference to the | With reference to the | As per |
+| --- | --- | --- | --- |
+| Section -3 SBI card | Appointment of Internal | Appointment of Internal | Master |
+| internal Ombudsman | Ombudsman by Non | Ombudsman by Non-Banking | Circular |
+| | Banking Financial | Financial Companies dated | dated |
+| | Companies dated | November 15, 2021, and | January 14, |
+| | November 15, 2021, and | Master Direction - Reserve | 2026 & RBI |
+| | Master Direction - Reserve | Bank of India (Internal | RAR |
+| | Bank of India (Internal | Ombudsman for Regulated | observation |
+| | Ombudsman for Regulated | Entities) Directions, 2023 | |
+| | Entities) Directions, 2023 | dated December 29, 2023, | |
+| | dated December 29, 2023, | regarding Internal | |
+| | regarding Internal | Ombudsman, the Company | |
+| | Ombudsman, the Company | refer all complaints to | |
+| | refer | Internal Ombudsman (IO) | |
+| | all complaints to Internal | which have been partly or | |
+| | Ombudsman (IO) which | wholly rejected within 20 | |
+| | have been partly or wholly | days of receipt, for a final | |
+| | rejected for a final decision. | decision except complaints, | |
+| | Basis the decision | for which Reserve Bank of | |
+| | of IO to uphold or overrule | India, National Payments | |
+| | the decision of the | Corporation of India, or card | |
+| | Company to reject/partly | network guidelines prescribe | |
+| | reject the complaint, the | a timeline for resolution, | |
+| | reply | sufficiently in advance such | |
+| | sent to the customer shall | that IO / Deputy IO gets at | |
+| | explicitly state the same. In | least 10 days for review of | |
+| | case of complaints that are | such complaints to enable | |
+| | fully or partly rejected | final decision to be | |
+| | even after examination by | communicated to the | |
+| | the IO, the Company shall | complainants within the | |
+| | advise to the complainant | timelines prescribed by | |
+| | accordingly and state as | Reserve Bank of India, | |
+| | part of the reply that | National Payments | |
+| | he/she can approach the | Corporation of India, or card | |
+| | RBI Ombudsman for | network, as applicable. | |
+| | redressal. | Basis the decision of | |
+
+IO/Deputy IO to uphold or overrule the decision of the Company to reject/partly reject the complaint, the reply sent to the customer shall explicitly state the
+
+| | same. In case of complaints that are fully or partly rejected even after examination by the IO/Deputy IO, the Company shall advise to the complainant accordingly within a period of 30 days from the date of receipt of complaint and state as part of the reply that he/she can approach the RBI Ombudsman for redressal. | |
+| --- | --- | --- |
+| approaching our corporate through the said office, we complaint on priority basis | Nil Not to be | included as corporate centre is not part of Grievance redressal. |
+| | Review the grievances received and resolve in co ordination with departmental representative | Change in the verbiage |
+| Effective Apr’22 Complaints | Nil Removed | from the policy to avoid the confusion in public |
+
+Page - 8 
+Section - 2 System 
+Support & Tools for 
+Complaint/Grievance 
+Management 
+
+In case of customer approaching our corporate center / customer queries or complaints routed through the said office, we shall initiate contact with the complainant within 24 hours and attempt to resolve the query/ complaint on priority basis the nature of the complaint.
+
+Change in the verbiage
+
+Page 6 
+Section 
+Responsibilities of 
+Nodal officer 
+
+Review the grievances received and resolve in co ordination with departmental Heads
+
+Page 9 Section Review & monitoring process
+
+Effective Apr’22 Complaints redressed within the next working day will be monitored and reported however
+
+included in the gross inflow.
+
+domain regarding internal complaints reporting
+
+January RBI circular to be added
+
+Page 7 
+Section SBI card 
+Internal 
+Ombudsman 
+With reference to the 
+Appointment of Internal 
+Ombudsman by Non 
+Banking Financial 
+Companies dated 
+November 15, 2021, and 
+Master Direction - Reserve 
+Bank of India (Internal 
+Ombudsman for Regulated 
+Entities) Directions, 2023 
+dated December 29, 2023 
+regarding Internal 
+Ombudsman 
+
+Replaced us with company
+
+Our customers can register their grievances with us through various touch points:
+
+Page 4 
+Section 
+Complaint/Grievance 
+registration and 
+touch points 
+
+| | | domain regarding internal complaints reporting |
+| --- | --- | --- |
+| Master Direction - Reserve Ombudsman for Regulated | With reference to the Appointment of Internal Ombudsman by Non-Banking Financial Companies dated November 15, 2021, and Reserve Bank of India (Non Banking Financial Companies - Internal Ombudsman) Directions, 2026, regarding Internal Ombudsman | January RBI circular to be added |
+| Our customers can register | Our customers can register their grievances with company through various touch points: | Replaced us with company |
+| Nil Further, in accordance with | para 85 (6) (iii) of the Reserve Bank of India (Non Banking Financial Companies – Credit Cards Issuance and Conduct) Directions 2025 and Reserve Bank of India (Commercial Banks – Responsible Business Conduct) Directions, 2025, SBIC shall ensure that: (1) a complaint is resolved and liability of the customer, if any, established within such time, as specified in this policy, but not exceeding 90 days from the date of receipt of the complaint, and the customer is compensated as | Regulation for limited liability of customer |
+
+Page 12 Section Complete liability of customer
+
+Regulation for limited liability of customer
+
+per RBI Guidelines, and (2) where it is unable to resolve the complaint or determine the customer liability, if any, within 90 days, the compensation as prescribed in RBI Guidelines is paid to the customer
+

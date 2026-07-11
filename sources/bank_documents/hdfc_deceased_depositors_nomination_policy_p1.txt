@@ -1,0 +1,536 @@
+P a g e 1 | 12 Jan’23
+NOMINATION AND DECEASED CLAIMS POLICY
+A. Nomination:
+1. Nomination Rules
+1.1. With the amendment of the Banking Regulation Act, 1949, the nomination has to be made in the 
+prescribed manner. Accordingly, the Central Government has framed, in consultation with the RBI, 
+the Banking Companies (Nomination) Rules, 1985. These rules in respect of deposit accounts, articles 
+kept in safe custody and contents of safety lockers are detailed in Annexure 2.
+1.2. The following table succinctly indicates as to 'who can nominate' and 'who can be a nominee':
+Type of 
+Accounts
+Who can Nominate Who can be a Nominee
+Deposit 
+Accounts
+ Sole depositor
+ All depositors together (joint 
+accounts)
+ Pension account holder
+ Proprietary Concern account 
+holder
+ Minor through a person 
+lawfully entitled to operate 
+the account
+ Only one individual
+ A minor can be a nominee, subject to 
+another major individual being named 
+as an appointee during the minority 
+period of such minor nominee
+Safety Lockers  Sole hirer
+ Joint hirers
+ Even a minor hirer may 
+nominate through a person 
+lawfully entitled to act on 
+behalf of the minor
+ Only one individual by sole hirer
+ In case of joint hirers, each hirer may 
+nominate one individual
+ The nominee(s) may be minor(s) 
+subject to other major(s) individual(s) 
+being named as appointee(s) during 
+the minority period
+Articles in Safe 
+Custody
+ Sole depositor of articles in 
+safe custody.
+ Minor through a person 
+lawfully entitled to act on 
+behalf of the minor
+ Only one individual
+ A minor can be a nominee, subject to 
+a major individual being named as 
+appointee during the minority period
+1.3. Nominations cannot be made in the following circumstances:
+a) Deposit held in any representative capacity as the holder of an office or otherwise. For e.g.
+i) An Administrator appointed to dispose of assets of a person cannot appoint a Nominee.
+ii) A power of attorney holder cannot appoint a nominee.
+b) A nominee cannot be an association, trust, society or any other organization or any office 
+bearer thereof.
+c) Nomination facility is not available in respect of persons jointly depositing articles for safe 
+custody.
+P a g e 2 | 12 Jan’23
+d) There cannot be more than one nominee in respect of a deposit account.
+2. Effect of Nomination
+Deposit Accounts
+a) Nomination on a Deposit account enables the bank to make payment of the amount standing to 
+the credit of the deceased depositor to his/her nominee.
+b) In case of a joint deposit account, the nominees right arise only after the death of all the 
+depositors.
+c) Where a nomination is made in the prescribed manner, on the death of sole/all the 
+depositor(s), the nominee becomes entitled to receive the deposit to the exclusion of all other 
+persons notwithstanding anything contained in any other law for the time being in force or in 
+any disposition, whether testamentary or otherwise in respect of such deposit.
+d) Payment by the bank in accordance with the provisions of the Act shall constitute a full 
+discharge to the bank of its liability in respect of the deposit.
+Safety Lockers
+a) Nomination on a Safety Locker account enables the bank to release the contents of a safety 
+locker to the nominee of the hirer of such locker, in the event of the death of the hirer, after 
+making an inventory of the contents of the safety locker in the prescribed manner.
+b) In respect of lockers hired jointly, on the death of anyone of the joint hirers, the contents of the 
+locker are only allowed to be removed jointly by the nominee and the survivor(s) after an 
+inventory is taken in the prescribed manner.
+c) On the removal of the contents of any locker by nominee or jointly by the nominee and 
+survivors, the liability of the bank in relation to the contents of the locker shall stand 
+discharged.
+d) No suit, prosecution or other proceeding shall lie against the bank for any damage caused or 
+likely to be caused, for allowing access to the nominee and liberty to remove the contents of 
+the locker.
+Articles in Safe Custody
+a) Nomination in respect of articles in safe custody enables the bank to return the articles left by a 
+deceased person in its safe custody to his nominee, after making an inventory of the articles in 
+the prescribed manner.
+b) Where a nomination is made in the prescribed manner, on the death of the person leaving the 
+articles in safe custody, the nominee becomes entitled to receive the articles in safe custody to 
+the exclusion of all other persons notwithstanding anything contained in any other law for the 
+time being in force or in any disposition, whether testamentary or otherwise in respect of such 
+deposit. 
+Without Nomination (for settlement of claims in various types of accounts / facilities):
+Sr.
+No.
+Nature of 
+Account
+Single 
+Depositor
+Joint A/c
+(operated
+jointly)
+Joint A/c
+(Either or
+Survivor/ Former or 
+Survivor)
+Joint A/c
+(Anyone or
+Survivors)
+P a g e 3 | 12 Jan’23
+A Savings / 
+Current A/c
+Legal Heirs 
+or person 
+mandated by 
+them
+ On death of one 
+depositor –
+Legal Heirs of 
+deceased + 
+survivors
+ On death of all 
+depositors –
+Legal heirs of all 
+the depositors
+ Survivor
+ On death of 
+both the 
+depositors –
+Legal heirs of all 
+the depositors
+ On death of one or 
+more depositor/s –
+Legal Heirs of 
+deceased + 
+survivors
+ On death of all 
+depositors – Legal 
+heirs of all the 
+depositors
+B. Term 
+Deposit 
+Account
+- same as 
+above -
+(on maturity 
+of deposit)
+- same as above -
+(on maturity of 
+deposit)
+- same as above -
+(on maturity of 
+deposit)
+- same as above -
+(on maturity of deposit)
+C. Premature 
+withdrawal 
+of FD
+- same as 
+above -
+(As per 
+terms of 
+contract)
+- same as above -
+(As per terms of 
+contract)
+- same as above -
+(As per terms of 
+contract)
+- same as above -
+(As per terms of 
+contract)
+3. Registering Nomination in
+5.1 Deposit Accounts
+ At the time of opening an account, the customer should be guided to properly fill-up 
+Nomination Form DA1 as provided in Annexure 3. All the joint account holders must sign 
+the nomination form.
+Note: Nomination can also be made on the existing accounts at any time.
+ Nomination for deposit accounts held by customers to be account specific and not 
+customer specific. This implies that each new deposit account opened by the customer 
+with the Bank, needs to be accompanied by original nomination form in the event 
+customer intends to register nomination. 
+ Witnessing on nomination to be mandatory only for cases wherein the account holder is 
+illiterate / visually impaired. The witness (es) can be anyone other than the nominee.
+ Separate nomination forms should be obtained for each deposit only if the nominees are 
+different for each. If it is the same nominee, the details of the various deposits may be 
+mentioned in one nomination form.
+ Nomination facility is also available in Netbanking where the customer can log in and 
+maintain the Nomination as required
+5.2 Safety Lockers 
+i) Nomination form (Form SL1 in case of sole hirer and Form SL1A in case of Joint Hirers) 
+duly filled in and signed by all the hirer(s). 
+P a g e 4 | 12 Jan’23
+ii) In case of sole hirer, the nomination on a locker can be made in favor of one individual 
+only (sole nominee). 
+iii) For a minor nominee, the guardian’s name and address should be obtained. 
+iv) Modification in Nomination can be done through Form SL3 duly filled-in by the hirer in 
+case of a sole hirer and Form SL3A in case of joint hirer(s).
+5.3 Articles in Safe Custody
+i) Nomination Form SC1, duly filled in and signed by the sole lodger. 
+ii) For minor a nominee, the guardian’s name and address should be obtained.
+iii) Form SC3 to be provided in case of change in Nomination 
+4. NRI Accounts 
+6.1 Nomination Facility
+a) Nomination facility in terms of Banking (Nomination) Rules, 1985 is available in respect of NonResident (Ordinary) Rupee (NRO), Non-Resident (External) (NRE), Foreign Currency NonResident [FCNR(B)], Resident Foreign Currency (RFC), accounts held either in individual or in 
+joint names.
+b) The nominee in respect of the above accounts can be a Resident or a Non-Resident.
+c) The procedure relating to obtaining, variation and cancellation of nomination is similar to that 
+of resident deposits.
+d) Additional clause included in the nomination for NRE/FCNR accounts “Kindly note that 
+notwithstanding the fact that the deposit is freely repatriable during your lifetime, repatriation 
+of proceeds to the nominees would be subject to the approval of the Reserve bank of India and 
+the prevalent Exchange Control regulations in force from time to time.” 
+6.2 Repatriation Facility
+a) NRO Accounts
+Nominee can be a resident or a non-resident, but funds shall not be allowed to be repatriated 
+outside India.
+b) NRE Accounts
+i) The Banking Companies (Nomination) Rules, 1985 framed under Banking Regulation Act, 
+1949 enable banks to pay the amount standing to the credit of the deceased depositor to his 
+nominee. Authorized dealers may allow remittance of funds lying in the NRE/FCNR accounts 
+of the deceased account holder to their non-resident nominees, subject to the following 
+conditions:
+ A valid nomination has been registered in the bank’s record in favor of the nominee(s) 
+in conformity with the provisions of the Banking Companies (Nomination) Rules, 1985.
+ The nominee continues to be non-resident at the time of the claim/remittance sought 
+for from India and that the deceased depositor was non-resident at the time of his/her 
+death.
+ All the legal heirs are non-residents. A signed declaration to the effect duly witnessed 
+may be submitted by the nominee to the authorized dealer. 
+c) FCNR (B) Accounts
+P a g e 5 | 12 Jan’23
+The rules pertaining to repatriation of funds lying in the FCNR (B) accounts of the deceased 
+account holder are similar to rules applicable to NRE accounts as detailed above.
+d) (iv) RFC Accounts
+i) RFC accounts shall have the nomination facility as in the case of resident rupee 
+accounts.
+ii) On the death of an RFC account holder, the balance in the account may be repatriated to 
+the nominee(s) to the extent of his/their entitlement, if on the date of death of the 
+account holder such nominee(s) is/are resident outside India. If any nominee is a person 
+resident in India on the date of the death of the account holder, the amount may be paid 
+to him/her in equivalent Indian rupees. If the resident nominee desires to remit funds out 
+of his share of the repatriable deposits of the deceased account holder, for meeting the 
+latter's liabilities abroad or for similar other purposes the application may be forwarded 
+to RBI. Such requests will be considered on merits. 
+B. Deceased Constituents - Legal Aspects
+1. Bank's Responsibility on the Death of a Constituent
+1.1 Notice or knowledge of the death of a constituent precludes the bank from paying further cheques 
+signed by the deceased person even though these may be dated / issued prior to death of the 
+person, except when the bank itself becomes a holder-in-due course before the death of such 
+person.
+1.2 In case of a joint account, the withdrawal may continue to be permitted to the survivor(s), if any, 
+based on the mandate given at the time of opening a joint account. In due course, after completion 
+of prescribed formalities, the name of the deceased person may be deleted in case the joint holder 
+wants to continue the account or the account closed.
+1.3 However, the difficulties arise in the case of disposal of assets belonging to the only/all the account 
+holder(s) if there is/are no other joint account holder(s)/survivor. In such cases, the balance in the 
+account or valuables deposited in locker(s) or articles kept in safe custody should ordinarily be 
+paid/delivered to –
+a) A nominee, if any, or
+b) Legal heir(s)/representative(s).
+2. Death Claims - Operating Procedures
+i. Joint Accounts:
+ In joint accounts CASA and time deposits, where the survivor(s) can operate the accounts as per 
+mandate given at the time of account opening, withdrawals by the survivor(s) and cheque 
+deposits in their name(s) will be permitted in the account. 
+ Cheques signed by the deceased prior to death (except where the bank is holder-in-due course) 
+and deposit instruments favoring the deceased would be returned. 
+ii. Minor Accounts
+P a g e 6 | 12 Jan’23
+ In case of death of account holder, being a minor, the account must be closed immediately with a 
+request letter from the guardian and death certificate. 
+ The amount in the account will be paid to the guardian. The same applies with fixed deposit /
+recurring deposits, if any. 
+iii. Death of the Guardian
+In the event of death of the guardian the following can be done
+ Account to be continued:
+ The guardian in the account can be changed. Name of the new guardian to added basis 
+name addition process and the Name of the deceased customer to be deleted basis death 
+certificate. 
+ Instances where both the natural guardians of the minor are deceased, the guardian 
+appointed by the court can continue with the account by providing a court order.
+ Account to be closed:
+ The surviving guardian can close the account. 
+ The balance in the account will have to be made in favor of the minor – Minor u/g the 
+surviving guardian. Relationship proof to be taken of the minor with the surviving guardian
+ Where minor has turned major, and guardian is deceased:
+ In case the account needs to be closed a request letter to be taken from the Minor turned 
+major for closure.
+ Identity document (Officially Valid Documents – OVD) and photograph to be taken in from
+Minor (who has turned major).
+ Balance in the account will be paid to the Minor (who has turned major).
+ Death certificate of the guardian to be provided for name deletion.
+iv. Partnership Accounts:
+Blocking transactions on Partnership accounts in the event of death of a partner will depend on 
+the provisions in the Partnership Agreement as regards to dissolution of the firm in the event of 
+death of a partner or not. Pending study of the Partnership Agreement in consultation with 
+Legal department, a low severity caution memo may immediately be updated, and cheques 
+signed by the deceased partner returned. Further action should be initiated in consultation with 
+the legal department.
+If Partnership deed provides that in the event of death of the partner the partnership will 
+continue with the surviving partners themselves or by inducting new partners, the account can 
+continue. On receipt of the intimation of death of the partner of the firm the operations in the 
+account will be blocked pending receipt of a revised partnership deed along with a revised 
+mandate for operation of the account.
+Operations in the account with the surviving partners will be allowed as per the Partnership 
+deed with the consent of the legal heirs of the deceased partner. Following may be noted in 
+respect of the partnership account: 
+- When partnership is constituted with only two partners:
+The Partnership stands dissolved in the event of 1 of 2 partners dies or retires. The firm 
+cannot continue even if there is a survivor clause in the partnership deed that the firm will 
+continue to exist. The claim in respect of the account will be settled in favor of all the legal 
+heirs of the deceased partner and the surviving partner. However, the surviving partner is 
+P a g e 7 | 12 Jan’23
+at liberty to start a new partnership business by entering into a Fresh Partnership Deed / 
+Agreement with other partners.
+- When there are more than two partners in the partnership deed:
+In this scenario, the firm can continue as per the death and retirement clause given in the 
+partnership deed. i.e., a new partner can be added, and the firm can continue. A reconstituted 
+deed is prepared, and firm can continue the account in the bank. 
+In case the remaining partners wish to close the account, then normal closure process to be 
+followed by taking copy of death certificate of deceased partners and signature of all remaining 
+partners on the closure request. 
+v. Trust/Society/Clubs/Association accounts:
+ In case of death of sole trustee/authorized signatory, operation on the A/C should be immediately 
+blocked,
+ The trustees/ authorized signatory(ies) has to act jointly unless there is an express provision to the 
+contrary in the Trust Deed/Bylaws. In case of death of any, trustee, the operation on the a/c 
+should be stopped unless the relative Trust Deed/Bylaws confers express powers on the surviving 
+trustee to act. 
+vi. Private / Public LTD Accounts
+ Death of the director of a Company / LLP will not affect the constitution of the company as 
+company is different and separate entity from its directors. Therefore, no death claim is required 
+to be settled in case of Pvt. Ltd, Ltd and LLP company. The change in directors can be affected
+through Form 32 and ROC receipt.
+vii. HUF Accounts
+ In case of death of the Karta, the operation in the account will be blocked.
+ In case the account is to be continued:
+ Post death of Karta, next senior most co-parcener becomes the Karta,
+ The account will continue as is, with change in the name of Karta
+ In case the account is to be Closed
+ The amount can be claimed either by the eldest male member of the HUF or the Legal Heir. 
+ Request letter duly signed by all the coparceners for closure of account and NOC / authority 
+to one of the co-parcener to receive the balance should be obtained.
+viii. NRI Accounts - Death Claim for NRE/NRO/FCNR accounts:
+The entire process remains the same as that for resident account with only the below 
+exceptions.
+ In case the claimant cannot visit the branch, all death claim documents should be attested by 
+ Any authorized official of overseas branches of Scheduled Commercial Banks 
+registered in India
+ Any branch of overseas bank with whom HDFC Bank has relationship
+ Notary Public abroad.
+ Court Magistrate abroad.
+ Judge abroad. 
+P a g e 8 | 12 Jan’23
+ Indian Embassy/Consulate General in the country where the NRI/PIO resides.
+ The following points to be noted additionally in case of death claim settlement of a NRI 
+customer holding NRE/FCNR/NRO accounts.
+ Repatriation of NRE/FCNR funds to non-resident nominee - Authorized dealers/Authorized 
+banks may allow remittance of funds lying in the NRE/FCNR account of the deceased 
+account holder to his non-resident nominee OR can be credited to NRI nominee's 
+NRE/FCNR account 
+ Payment of NRO funds to Non-resident Nominee - The amount due/ payable to nonresident/NRO Account nominee from the account of a deceased account holder, shall be 
+credited to NRO account of the nominee with an Authorized dealer/Authorized bank in 
+India.
+ Remittances abroad by Resident nominee - If nominee is resident Indian and if he wishes to 
+remit death claim proceeds outside India for meeting the liabilities, if any, of the deceased 
+account holder or for similar other purposes, he should obtain Reserve Bank of India 
+permission. 
+ix. Limited Company’s A/cs: 
+ Where notice of death is received in respect of a person who is authorized to operate an A/c 
+of a Limited Co., outstanding cheques drawn by such person of the Company will be paid. 
+ If the date mentioned on a cheque is that of a date subsequent to the demise of the 
+authorized signatory, then such cheque should not be paid by the Bank. 
+ However, if the remaining authorized signatories of the company are empowered to issue 
+such cheques, independent of the deceased authorized signatory, a written confirmation 
+may be obtained from such signatories to honor the cheque, along with their signatures 
+and seal/stamp, in which case, the Bank may pay the cheque if the same is otherwise in 
+order. Such written confirmation should be attached to the cheque and held on record.
+ Association, Society, club A/c: The instructions given in respect of Limited Company’s A/cs 
+shall also apply to A/cs of Association, Society, Club etc. 
+ Accounts operated by a holder of Power of Attorney or Letter of Mandate: Upon the death 
+of the principal, the authority of Attorney or Mandate holder stands cancelled. The 
+operations in the a/c should be immediately stopped and no cheques signed by 
+Attorney/Mandate holder should be paid after receipt of notice of death of the principal.
+x. Public Provident Fund (PPF) 
+ In case of PPF account, if there is nominee in the account, Form G (Format provided by the PPF 
+office) to be obtained from the nominee for release of payment. 
+ If there is no nomination in PPF account, Form G to obtained from legal heir 
+ For amount greater than Rs 5 lakh, succession certificate is mandatory along-with Form G.
+ Multiple nominations are allowed in PPF account. In case of multiple nominations, payment to 
+be done as per percentage mentioned for each nominee in system.
+ Documents to be obtained as below:
+a) Death Certificate.
+b) Self-attested copy of Officially Valid Documents (OVD) to be obtained from nominee or 
+other claimant(s). 
+c) Claim Application from the Nominee (as per format provided in form G).
+P a g e 9 | 12 Jan’23
+d) Succession Certificate (Applicable only if there is no nomination and amount is more than Rs 
+5 lakh)
+Fresh Account Opening documents, if the nominee wants to open an account and transfer the funds 
+to his/her account.
+2.1 Claim Documents Required
+a) Documents Common to All Claim Situations
+In all claim situations, death certificate will be required as a basic document. Further, self-attested 
+copy of Officially Valid Documents (OVD) to be obtained from nominee or other claimant(s
+Death Certificate - Original Death Certificate issued by anyone of the following authorities alone is 
+accepted:
+ Registrar of Birth and Deaths
+ Municipality or Corporation
+ Panchayat Office
+Death Certificate normally contains the place and date of the death of the deceased, his 
+name and age. 
+In case the customer has expired in a foreign country and death certificate is issued abroad, 
+the same must be apostilled in the country issuing the death certificate by competent 
+authority to be recognized as valid document in India.
+(i) Proof of Identity of Nominee/Appointee of Minor/Other Claimants - Identification of the 
+Nominee/Appointee of Minor Nominee/Other Claimants would be as per the Bank’s acceptable 
+list of identity documents.
+b) Simple Claims for Deletion of Name(s)
+a) These claims can be entertained only in accounts with joint names with one/more deposit 
+accounts holders surviving, 
+b) The documents required are:
+(i) Death Certificate.
+(ii) Request Letter for deletion of name of the deceased.
+(iii) Fresh Nomination Form DA1.
+c) Where the deceased person is the first named person, the name of deceased person to be 
+deleted basis name deletion process supported by Death certificate
+d) Fresh Nomination Form DA1 will need to be filled-up and signed by the survivors even if they 
+wish to continue the original nominee.
+e) In case the Safe deposit locker was hired jointly with the instructions to operate it under joint 
+signatures, and the locker hirer(s) nominates any other individual(s), in the event of death of 
+any of the locker hirers, the bank shall give access of the locker and the liberty to remove the 
+contents jointly to the survivor(s) and the nominee(s) after an inventory was taken in the 
+prescribed manner. In case the Safe deposit locker was hired jointly with survivorship clause 
+and the hirers instructed that the access of the locker should be given to "either or survivor", 
+"anyone or survivor" or "former or survivor" or according to any other survivorship clause 
+permissible under the provisions of the Banking Regulation Act, 1949, the banks shall follow the 
+mandate in the event of death of one or more of the joint locker-hirers. In case of Safe Deposit 
+Lockers in joint names with survivorship benefits and no nomination, the survivor(s) is/are 
+required to surrender the existing locker and obtain fresh locker as per the prescribed 
+P a g e 10 | 12 Jan’23
+procedure with continuity of rental paid on the earlier locker. In case the surviving member
+insists to continue with the same locker, the same can be done with CH approval and a fresh 
+agreement
+c) Nomination based Claims
+The documents required are:
+a) Death Certificate.
+b) Self-attested copy of Officially Valid Documents (OVD) to be obtained from nominee or other 
+claimant(s), 
+c) Claim Application from the Nominee 
+d) Declaration from the Appointee of a Minor Nominee 
+e) Fresh Account Opening documents, if the nominee wants to open an account and transfer the 
+funds to his/her account. 
+d) Fast Track Claim without Nomination / Legal Representations 
+a) When there are no nominations, the legal heirs of the deceased constituents are required to 
+submit appropriate Legal Representations to claim the assets left by the deceased with the 
+bank. Getting Legal Representations causes considerable delay and difficulties to the legal heirs.
+b) In case where the deceased depositor has not made any nomination or for accounts other than 
+those styled as “either or survivor,” RBI has advised banks to adopt a simplified procedure for 
+repayment to legal heir(s) of depositor keeping in view the imperative need to avoid 
+inconvenience and undue hardship to common person. In this context, banks have been 
+advised to fix a minimum threshold limit for the balance in deceased holders account, (keeping
+in view their risk management systems) up to which claims in respect of the deceased 
+depositors could be settled without insisting on production of any documentation other than a 
+letter of indemnity. The letter of indemnity to be stamped as per the stamp act of the state.
+e) Legal Representation based Claims
+(i) Original legal representation in the form of Succession Certificate/Probate of the will granted by 
+the Court/Letters of Administration along with a duly certified copy (Certified copy means the 
+orders/succession certificate/probate issued by the court). Probate of will is required only in 
+the following cities:
+ Mumbai
+ Chennai
+ Kolkata
+For other parts of the country if the WILL is registered and the branch is satisfied with the 
+genuineness of the WILL, the claim can be settled in favor of the beneficiary of WILL /
+Executors of WILL on obtaining NOC from all the legal heirs stating that WILL is genuine / 
+undisputed, not challenged before any competent court of law and they do not have any 
+objection if the claim is settled basis WILL. In all such cases the Will to be vetted by Legal. 
+f) Public Provident Fund (PPF) 
+i. In case of PPF account, if there is nominee in the account, Form G (Format provided by the PPF 
+office) to be obtained from the nominee for release of payment. 
+ii. If there is no nomination in PPF account, Form G to obtained from legal heir 
+iii. For amount greater than Rs 5 lakh, succession certificate is mandatory along-with Form G.
+P a g e 11 | 12 Jan’23
+iv. Multiple nominations are allowed in PPF account. In case of multiple nominations, payment to 
+be done as per percentage mentioned for each nominee in system.
+v. Documents to be obtained as below:
+e) Death Certificate.
+f) Self-attested copy of Officially Valid Documents (OVD) to be obtained from nominee or 
+other claimant
+g) Claim Application from the Nominee (as per format provided in form G).
+h) Succession Certificate (Applicable only if there is no nomination and amount is more than Rs 
+5 lakh)
+Fresh Account Opening documents, if the nominee wants to open an account and transfer the funds 
+to his/her account.
+3. Procedure for settlement of Missing persons claims
+As per guidelines issued by Reserve Bank of India, settlement of claims in respect of missing persons 
+would be governed by the provisions of Section 107/108 of the Indian Evidence Act, 1872.
+Section 107 deals with presumption of continuance and Section 108 deals with the presumption of 
+death. Section 108 states that presumption of death can be raised only after a lapse of seven years 
+from the date of a person reported as “missing”. As such, the nominee / legal heirs must raise an 
+express presumption of death of the subscriber under Section 107/108 of the Indian Evidence Act 
+before a competent court. If the court presumes that he/she is dead, then the claim in respect of a 
+missing person can be settled based on the same. However, RBI has advised banks to formulate a 
+policy which would enable banks to settle the claims for missing person after considering the legal 
+opinion and considering the facts and circumstances of each case.
+Keeping in view the imperative need to avoid inconvenience and undue hardship to the customers the 
+mentioned process for claims with respect to missing persons should be followed:
+The claim process can be segregated into 2 types
+a) Fast track claims for missing persons – For claims amount below Rs. 25,000/- without any 
+dispute.
+b) Settlement of claims for missing persons – For claim amount greater than Rs. 25,000/-.
+3.1 Fast track claims for missing persons: For claims amount below Rs 25000/- without any dispute
+(a) To avoid undue hardship and settle the claims without causing inconvenience to customers, 
+claims with total balances in all accounts up to a maximum of Rs 25,000/- (Rupees Twenty-five 
+thousand only) and where there are no disputes between the legal heirs, will be settled without 
+production of Legal Representations i.e., probate/succession certificate.
+(b) Documentation for fast-track claims for missing persons:
+ Indemnity Letter – (as per the Banks Format) 
+ Copy of the FIR recorded at the police stations
+ Copy of the non-traceable report issued by the police authority
+* Please note however that in these cases there will be NO death certificate issued.
+3.2 Settlement of claims for missing persons: For claim amount greater than Rs. 25000/-
+P a g e 12 | 12 Jan’23
+(a) Where a nominee / legal heir raises an express presumption of death (in respect of a missing 
+relative), an order/decree of competent court presuming the missing person to be dead, will be 
+required to be submitted by the nominee/legal heirs of such a person.
+(b) In this case a competent court would be district court magistrate, High court, Civil Judge, 
+Supreme Court.
+(c) Please note that in all these cases there will be NO death certificate issued.
+****************

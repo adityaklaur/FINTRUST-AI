@@ -1,0 +1,47 @@
+# FinTrust AI backend — direct dependencies (Python 3.11+; built on 3.13).
+# Versions pinned to a known-good, tested set. `requirements.lock.txt` holds the
+# full transitive freeze for exact reproduction.
+#
+#   python3.13 -m venv .venv
+#   .venv/bin/pip install -r requirements.txt
+
+# --- Web / API ---
+fastapi==0.139.0
+uvicorn[standard]==0.51.0
+pydantic==2.13.4
+pydantic-settings==2.14.2
+
+# --- Relational storage ---
+sqlmodel==0.0.39
+python-dotenv==1.2.2
+
+# --- Retrieval / embeddings (ChromaDB ships ONNX all-MiniLM-L6-v2; no torch) ---
+chromadb==1.5.9
+onnxruntime==1.27.0
+tokenizers==0.23.1
+
+# --- Ingestion / document loading ---
+pdfplumber==0.11.10
+pypdf==6.14.2
+ftfy==6.3.1
+
+# --- Tests / lint ---
+pytest==9.1.1
+httpx==0.28.1
+ruff==0.15.21
+
+# --- Auth (optional; Supabase JWT verification) ---
+PyJWT==2.13.0
+
+# --- OPTIONAL: Postgres driver (install only when DATABASE_URL points at Postgres) ---
+# psycopg[binary]>=3.2
+
+# --- LLM providers (OPTIONAL — install only the one you use; see .env LLM_PROVIDER)
+#     The app runs fully without any of these (LLM_PROVIDER=none). ---
+# google-generativeai>=0.8      # gemini
+# groq>=0.11                    # groq
+# openai>=1.40                  # openai
+# anthropic>=0.34               # anthropic
+
+# --- Optional higher-quality embeddings (pulls in torch, ~1GB) ---
+# sentence-transformers>=3.0

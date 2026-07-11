@@ -1,0 +1,1776 @@
+GENERAL TERMS AND CONDITIONS
+CURRENT ACCOUNT, SAVINGS ACCOUNTS AND DEPOSITS
+1. SCOPE
+This document lays out the General Terms and Conditions (“Terms and Conditions”) 
+which shall be applicable to all the Account (defined below) which are existing or may 
+be opened anytime in the future with IDFC FIRST Bank Limited (“IDFC FIRST Bank/
+Bank”). These Terms and Conditions, including any changes/modifications from time 
+to time, shall govern the relationship including, without limitation, all transactions 
+relating to the operation and maintenance of the Account between the Customer 
+and IDFC FIRST Bank and shall govern the general relationship and the particular 
+services mentioned hereinafter and / or made available to the Customer at the sole 
+discretion of IDFC FIRST Bank (“Facilities”). These Terms and Conditions are in 
+addition to the terms and conditions as may be specified in any other document(s) as 
+may apply to a particular Account, Facilities, or transaction. In the event of any of these 
+Terms and conditions being contrary to those specified therein, the terms and conditions 
+as specified in such other document(s) in respect of a particular Account, Facilities or 
+transaction as the case may be will prevail over these Terms and Conditions.
+2. ACCEPTANCE
+The Customer unconditionally accepts and agrees to comply with and be bound by 
+these Terms and Conditions, as in force and the changes thereto from time to time 
+as communicated and / or made available on the Website (defined below). Without 
+prejudice to the foregoing, the use of the Account by the Customer will be deemed 
+acceptance of the Terms and Conditions. No act, delay or omission by the Bank shall 
+affect its rights, powers and remedies under these Terms and Conditions.
+3. DEFINITIONS AND INTERPRETATION
+In these Terms and Conditions, unless the context otherwise requires,
+3.01 Words importing the plural shall include the singular and vice-versa;
+3.02 References to masculine gender shall include references to feminine and third gender;
+3.03 An “authorisation” includes an authorisation, consent, clearance, approval, 
+permission, resolution, license, exemption, filing and registration;
+3.04 The headings in these Terms and Conditions are inserted for convenience of reference 
+only and are to be ignored in construing and interpreting the Terms and Conditions;
+3.05 “Account” shall mean all existing, new and future Savings Account, Current 
+Account or Term/Fixed Deposit Account opened by the Customer with the Bank on 
+acceptance of these Terms and Conditions and would be a domestic liability account 
+offered by Bank, as more particularly described in the Account opening documents;
+3.06 “Affiliate” means, with respect to any party, any person which, directly or indirectly, 
+(a) controls such party, (b) is controlled by such party, (c) is under common control 
+with such party;
+3.07 “ATM” means any automated teller machine whether of the Bank’s or a shared 
+network, at which, amongst other things, the Customer can use the ATM Card issued to 
+perform Account Transactions;
+3.08 “ATM/DEBIT Card” means the Debit Card issued by the Bank to the Holder, which, 
+either in conjunction with the PIN/ One Time Password and/or Aadhaar based 
+Biometric authentication or on authentication of the Customer’s signature, will allow 
+the Holder to perform Account Transactions;
+3.09 “Authorised Signatory(ies)” means the person(s) appointed by the Customer for the 
+purpose of giving instructions to the Bank on behalf of the Customer;
+3.10 “Authority” means any competent regulatory, prosecuting, tax or governmental 
+authority,court or tribunal, in any jurisdiction, domestic or foreign;
+3.11 “Bank” or “IDFC FIRST Bank” shall mean IDFC FIRST Bank Limited, a company 
+registered under the Companies Act, 2013 and a Banking Company within the 
+meaning of the Banking Regulation Act, 1949 having its Registered Office at KRM 
+Tower, 8th Floor, No: 1, Harrington Road, Chetpet, Chennai – 600031;
+3.12 “Current Account” means a form of demand deposit where from withdrawals are 
+allowed any number of times depending upon the balance in the account or up to a 
+particular agreed amount and shall also be deemed to include other deposit accounts 
+which are neither Savings Deposit nor Term Deposit;
+3.13 “Confidential Information” means information relating to the Customer, a related party, 
+a Affiliate or their respective representatives received by the Bank or its Affiliates 
+and its respective representatives in the course of providing the Facilities to the 
+Customer, including Customer Personal Data, Customer’s Account details, transactional 
+information, and any other information either designated by the Customer as confidential 
+at the time of disclosure or that a reasonable person would consider to be of a confidential 
+or proprietary in nature;
+3.14 “Customer” refers to the person or person(s) (i) whose details are more particularly 
+set out in the Account opening documents, (ii) in whose name the Accounts(s) with 
+the Bank are existing, may be opened (changed) now/any time in future; (iii) to 
+whom the Facilities are made available; (iv) the ATM/Debit Card holder, wherever 
+applicable, and includes both singular and plural, for purposes of reference to joint 
+account holders, individually and collectively. The word ‘Customer” includes juristic 
+persons, partnership firm, association of persons, HUF (Hindu Undivided Family), 
+company, co-operative society, charitable society or trust, including a government 
+or political subdivision or an agency or instrumentality thereof having an Account with 
+the Bank;
+3.15 “Customer Affiliate” means any entity, present or future, that directly or indirectly 
+controls or is controlled by the Customer;
+3.16 “Customer Personal Data” means personal data received by IDFC FIRST 
+Bank from the Customer, Customer Affiliates or their respective representatives in 
+the course of providing Accounts and Facilities to the Customer. Customer Personal 
+Data may include names, contact details, identification and verification information, 
+voiceprints, bank account and transactional information, to the extent that these amount 
+to personal data under applicable local law;
+3.17 “IBA” means the Indian Banks’ Association;
+3.18 “IDRBT” means the Institute for Development & Research in Banking Technology;
+3.19 “Internet Banking” refers to the Internet Banking facility offered by the Bank to the 
+Customer including but not limited to services such as enquiry about balance in the 
+Account, details about transactions in the Account(s), statement of Account(s), transfer 
+of funds and any other service as the Bank may decide to provide from time to time 
+through the internet. The availability/non- availability of a particular service shall be 
+communicated to the Customer through electronic- mail, the Website or in writing as 
+may be deemed fit by the Bank. Such Internet Banking may be provided by the Bank 
+directly or through its associates or contracted service providers;
+3.20 “Law or Regulation” includes any constitution, statute, law, rule, regulation, 
+ordinance, judgement, order, decree, authorisation, or any published, directive, guideline, 
+requirement or governmental restriction having the force of law, or any determination by, 
+or interpretation of any of the foregoing by, any judicial authority, whether in 
+effect as of the date of signing/submission of the application form or thereafter and 
+each as amended from time to time;
+3.21 “microATM” means a portable device that is compliant to IBA, NPCI, UIDAI, 
+IDRBT, Government and RBI microATM standards which allows the Customer to perform 
+transactions into the Account viz. deposit, withdraw, transfer funds, enquire balance 
+using Aadhaar as an identifier and biometric authentication mechanism and/or PIN 
+based authentication in an assisted manner;
+3.22 “NPCI” means National Payments Corporation of India;
+3.23 “Payment Infrastructure Provider” means a third party that forms part of the global 
+payment system infrastructure, including without limitation communications, clearing 
+or payment systems, intermediary banks and correspondent banks;
+3.24 “Reserve Bank of India/RBI” means the Reserve Bank of India established under the 
+ReserveBank of India Act, 1934;
+3.25 “Savings Account” means a form of demand deposit which is a deposit 
+account whether designated “Savings Account”, “Savings Bank Account”, “Savings 
+Deposit Account” or other account by whatever name called which is subject to 
+the restrictions as to the number of withdrawals as also the amounts of withdrawals 
+permitted by the bank during any specified period;
+3.26 “Schedule of Charges” means the fee/charges prescribed by the Bank in respect 
+of the Facilities provided/to be provided by the Bank, as amended from time to time as 
+available on the Website;
+3.27 “UIDAI” means Unique Identification Authority of India;
+3.28 “Term Deposit/Fixed Deposit” means a deposit received by the Bank for a fixed period 
+and which is withdrawable only after the expiry of the said fixed period or in case 
+of premature withdrawal subject to recovery of interest already paid or the penalty, 
+if any, in accordance with prevailing regulations of the Bank and RBI and shall also 
+include deposits such as Recurring/ Cumulative/ Annuity/ Reinvestment deposits, Cash 
+Certificates, and so on;
+3.29 “Third Party Service Provider” means a third party selected by the Bank to provide 
+services to it and who is not a Payment Infrastructure Provider;
+3.30 “Website or Website” shall mean the website bearing URL(s) https://www.idfcfirstbank.
+com/ the content of which is owned and controlled by the Bank;
+3.31 “Working Day” shall mean any day the Bank is open for business as well as for the 
+purposes of payment, settlement and clearing not including Sunday and public holidays, 
+in any city where the Bank has a branch.
+4. GENERAL CONDITIONS
+4.1 Account Opening:
+4.1.1 The Customer agrees that opening an Account with the Bank shall be in accordance with 
+theseTerms and Condition and such other terms of the Account opening form. 
+4.1.2 Further, any opening and maintenance of the Account is subject to the rules and 
+regulations introduced or amended from time to time by the RBI or any other regulatory 
+body. The Customer agrees that the Bank before opening any Account, will carry out a 
+Customer due diligence as required under the Know Your Customer (“KYC”) guidelines 
+of the Bank which is required under the Prevention of Money Laundering Act, 2002. 
+The Customer would be required to submit necessary documents or proofs, such as 
+identity, address, signature, photograph and any such information to meet with KYC, 
+Anti-Money Laundering (“AML”), Combating Financing of Terrorism (“CFT”) or 
+other statutory/regulatory requirements. Further, after the Account is opened, in 
+compliance with the extant regulatory guidelines, the Customer agrees to submit the 
+above documents again at periodic intervals, as may be required by the Bank.
+4.1.3 The Customer agrees that no amount in cash shall be paid to any sales representative 
+of the Bank at the time of opening an Account or for carrying out any transaction in the 
+normal course of the business. The Customer agrees to deposit cash only at the Bank’s 
+teller counters at the branch premises or by any other mode allowed by the Bank. In 
+case the Account is opened with an account opening cheque, the Bank reserves the 
+right not to open/activate/close the Account in the event the account opening cheque is 
+dishonored.
+4.1.4 Applicable if customer submits Aadhaar to the bank at the time of account 
+opening or subsequently: I submit my Aadhaar number and voluntarily give consent 
+to: Seed my Aadhaar/ UID number issued by the UIDAI, Govt of India into this account. 
+Receive all direct benefit transfers (DBT) from Govt. of India in this account. Use my 
+Aadhaar details to authenticate me from UIDAI. Use my mobile number for sending 
+SMS alerts to me. Information submitted to the bank will not be used for any purpose 
+other than those mentioned above or as per requirements of law.
+4.2 Operating Accounts:
+4.2.1 An Account may be opened in the names of: 
+(i) An individual in his/her own name;
+(ii) Two or more persons in their joint names;
+(iii) Sole Proprietorship; or
+(iv) Any other entities including companies and partnerships.
+4.2.2 All the Accounts maintained in the name of an individual shall be operated solely 
+by the individual or by the Power of Attorney holder of such an individual registered with 
+the Bank and in the case of joint accounts, by the account holders jointly, or by either 
+of the joint-holder/s or as may be specified by the joint account holder/s in the Account 
+opening form, or by their Power of Attorney holder and accepted by IDFC FIRST Bank 
+in its discretion.
+4.2.3 The Customer agrees that the Power of Attorney holder may give instructions, including 
+but not limited to, the operation or closure of the Account or for any withdrawal of any of 
+the Facilities. The Customer agrees and undertakes to keep the Bank informed of any 
+revocation of any Power of Attorney issued by the Customer, failing which the Customer 
+agrees and confirms not to hold the Bank liable for any loss or damage that may be 
+caused as a result of the Bank acting or carrying out any instructions given by such 
+Power of Attorney holder.
+4.2.4 In the case of joint Accounts, any change in operational instructions or any other 
+information with regard to the Account opening form is to be given by all the joint 
+account holders irrespective of the mode of operation. However, not with standing 
+anything to the contrary contained herein, in case any request is made to the Bank by 
+any of the joint account holders for change in his name or signature, the Bank may at its 
+sole discretion accede to such request without obtaining request/consent/instruction 
+from the other joint account holders. The Customer agrees to indemnify and keep 
+indemnified the Bank harmless from and against all claims and demands that the Bank 
+may suffer or incur on account of the above. 
+4.2.5 In case of non-individual Accounts, accounts shall be operated by authorised individuals 
+as specified in the Partnership Deed, Board Resolution, etc provided and accepted by 
+IDFC FIRST Bank in its discretion.
+The Customer agrees that authorised individuals as specified in the Partnership Deed, 
+Board resolution etc, may give instructions including but not limited to operation, 
+closure of the Account or for any withdrawal of any the Facilities. The Customer agrees 
+and undertakes to keep the Bank informed of any revocation or changes in any 
+Partnership Deed, Board Resolution, etc issued by the Customer, failing which the 
+Customer agrees and confirms not to hold the Bank liable for any loss or damage that 
+may be caused as a result of Bank acting or carrying out any instructions given by such 
+authorised individuals in Partnership Deeds, Board Resolution, etc.
+4.3 Validation of deposit receipts: As applicable, deposit receipt tickets for deposits made 
+into the Account will be validated by the Bank’s machine stamp or initials of the 
+Bank’s authorized persons. The amount of cash or other instrument deposited by 
+the Customer through a ATM/microATM for credit to the Account shall be verified by 
+authorized representatives of the Bank. The Customer understands and agrees that the 
+amount ascertained on verification by the authorized representatives shall be deemed 
+to be the correct amount deposited by the Customer, irrespective of the amount 
+mentioned on the receipt generated by the ATM/microATM at the time of making 
+the deposit.
+4.4 Monies in Account: The Customer shall only deposit into the Account monies 
+which the Customer is legally entitled to deposit. The Customer understands and 
+acknowledges that the Bank is entitled to information with regard to the source of any 
+monies being deposited in the Account and the Customer shall, upon demand, without 
+demur or dispute, inform the Bank of any such source of monies. In case of any cash 
+deposits to be made in the Account exceeding Rupees Fifty Thousand only (Rs. 50,000) 
+or any other amount, in line with the requirements of the Income Tax Act, 1961 the 
+Customer/person making such deposit shall be required to provide PAN/GIR number 
+of the Customer. In case the PAN/GIR number is not available, the Customer/person 
+making such deposit shall be required to provide Form 60/61. Further, the Customer 
+shall under no circumstances indulge in any scheme for making remittance towards 
+participation in lottery, money circulation schemes, other fictitious offers of funds, etc. 
+and the Customer acknowledges and understands that collecting and effecting / 
+remitting such payments directly/indirectly outside India would make himself liable to 
+be proceeded against contravention of the Foreign Exchange Management Act, 1999 
+besides being liable for violation of regulations relating to KYC norms / AML standards.
+4.5 Cheque Book Facility and Cheque Deposits: Cheque book facility may be 
+provided to the Customer for making withdrawals of funds/making payments from the 
+Account. The cheque book facility will be provided at the discretion of the Bank and may 
+be withdrawn if the facility is not used in accordance with Bank terms and conditions. 
+The Bank reserves right to withdraw the cheque book facility if cheques issued by 
+the Customer on the Account are frequently dishonored due to insufficient funds 
+being maintained in the Account. Frequent dishonor of cheques issued on the Account 
+due to insufficient funds being maintained in the Account may also result in closure of 
+the Account by the Bank. The Bank’s decision in this regard shall be final. The Bank 
+shall incur no liability or responsibility due to withdrawal of the said facility or closure of 
+the Account.
+4.6 If a cheque credited to the Account is subsequently dishonoured, the amount thereof will 
+be debited to the Account and the cheque returned to the Customer at his last known 
+mailing address as per the Bank’s records (subject to these Terms and Conditions) and 
+the Bank will levy applicable service charges. In the event the amount in the Account is 
+not sufficient, the Bank shall be entitled to recover the same from any other account of 
+the Customer, held with the Bank, along with interest levied at the prevailing commercial 
+rate on such funds used by the Customer and for the period used. 
+4.7 Withdrawals / Payments: All Cash withdrawals shall be permitted only through the 
+printed cheque forms/ withdrawal slips supplied by the Bank and/or through the ATM/
+microATM/Debit Cards and/or any other mode as may be prescribed by the Bank from 
+time to time.
+4.8 The obligations with respect to the Account and operations of the Account are subject 
+to Law or Regulation. The Customer understands and confirms that the Bank will be 
+entitled at all times, to act in accordance with Law or Regulation, without requiring to 
+provide prior intimation of such actions to the Customer. Any and all limits/constraints 
+imposed by Law or Regulation shall apply to the Account and the Facilities.
+4.9 Account Information / Statements:
+4.9.1 The Bank will issue and send to the Customer, statements of Account (“Statement(s)”) at 
+such intervals, and in such modes as the Bank may deem fit. Notice of availability of the 
+Statement on the internet would be sent to the Customer via email. The Customer must 
+notify the Bank in writing if any Statement or other advice expected by the Customer 
+is not received within a period of seven (7) days from the date when the same was 
+expected to be recieved. In case there is a discrepancy, error or omission in the 
+particulars or details of the Account, the Customer shall intimate the Bank in writing 
+of the relevant discrepancy, error or omission within14 days of receiving the statement, 
+which the Customer thinks has a discrepancy, error or omission. The failure to do 
+so shall deem the Statement to be true and correct for all intents and purposes and 
+accepted as such by the Customer and the Customer shall not be entitled to dispute 
+the same thereafter. The Customer hereby agrees and consents to give to the Bank 
+any notice of availability/ readiness of the Customer’s Statement via email, to the email 
+address specified by the Customer. The Bank would be deemed to have delivered 
+the Statement to the Customer, immediately on the Customer receiving notice of the 
+email containing the Statement as an attachment and/or notice of the availability of the 
+Statement. The Customer will be obliged to open/print the Statement after receiving the 
+email as aforesaid from the Bank. The Customer shall promptly inform the Bank if the 
+Customer is not able to access the electronic copy of the Statement delivered via email 
+to enable the Bank to make delivery of the Statement by alternate means if there is a 
+problem with online access and the Customer specifically requests for that particular 
+Statement to be delivered by other means acceptable to the Bank. Failure to advise the 
+Bank of any difficulty in accessing the Statement sent via email within 24 hours of 
+the Customer receiving notice as aforesaid shall serve as an affirmation regarding the 
+receipt and acceptance by the Customer of the Statement. The Customer understands 
+that the Customer shall be fully and solely liable for all of the Customer’s 
+contractual liabilities to the Bank irrespective of the receipt of any statement. With 
+respect to joint Accounts, all communication shall be addressed to the first Account 
+holder and this shall constitute communication to all Account holders.
+4.9.2 The notice of discrepancy, error or omission referred to in clause above shall provide 
+sufficient details to enable the Bank to investigate the alleged discrepancy, error or 
+omission and shall include the following information:
+(i) the Customer’s name and address and all relevant details of the Account; 
+(ii) a description of the irregularity or error or discrepancy;
+(iii) a copy of the Statement / transaction slip / other record; and
+(iv) any other information requested by the Bank.
+4.9.3 The Customer may also obtain balance information relating to the Account or get a 
+verbal or written history of the Customer’s transactions by calling the 24-hour telephone 
+banking service of the Bank, or through Internet Banking or ATM.
+4.9.4 The Customer agrees to preserve any information including without limitation, the 
+passwords, cheque book/ATM/Debit Card, or any information relating to the Account 
+carefully. In case of loss/theft of the same the Customer shall immediately inform the 
+Bank in writing. 
+4.10 Passbook
+4.10.1 The Bank shall offer passbook facility free of cost to Customers having Individual 
+Savings Account.
+4.10.2 Customer shall get the passbook updated only from branch where the Account is 
+maintained on a regular basis. Customer shall examine the entries reflected in the 
+passbook and immediately intimate the Bank of any errors or omissions.
+4.10.3 Physical Statement(s) will not be provided to the Customers availing the passbook 
+facility. The Bank at its sole discretion may also, in addition to the passbook facility, 
+decide to provide the Customer with statement of accounts at monthly/quarterly or any 
+other frequency
+4.10.4 Entries in the passbook are system generated and thus, do not require any authentication
+/signature by a Bank official.
+4.10.5 In case the Customer fails to get his/her passbook updated on a regular basis and, 
+transactions to be updated in the passbook are older than 6 months, the Bank 
+would only provide a statement of account for the said period.
+4.10.6 The passbook only reflects the transactions details in the Account and is to be 
+used for verification of Account Transactions. Balance as reflected in the passbook is 
+not to be construed as a balance confirmation certificate issued by the Bank.
+4.10.7 Customer shall ensure safe custody of the passbook and in case the passbook issued 
+is either lost, stolen, destroyed or spoilt, customer to make an application to the Bank 
+for issuance of a duplicate passbook. The Bank would issue duplicate Passbook after 
+levying a nominal charge as specified in the Schedule of Charges and such passbook 
+shall detail the transactions from the month when the duplicate passbook is issued.
+4.11 Immediate Payment Service (IMPS), National Electronic Funds Transfer system of 
+RBI (NEFT)& Real Time Gross Settlement System of RBI (RTGS) Electronic Clearing 
+Services (ECS), National Automated Clearing House (NACH):
+4.11.1 The Customer undertakes to execute such documents and writings in addition to 
+the instructions for making transfer of funds via NEFT/RTGS/IMPS/ECS/NACH facility, 
+in a form and manner satisfactory to the Bank, as the Bank may require from time to 
+time.
+4.11.2 Bank shall act upon instructions for transfer of funds using the 
+IMPS/NEFT/RTGS/ECS/NACH system of RBI only upon receipt of complete information 
+required for initiating such transfer of funds for giving effect to the instructions. Any such 
+instruction issued by the Customer shall be irrevocable. However, the Bank may, in its 
+sole and absolute discretion without being obligated to do so, revoke any instruction 
+under such circumstances and conditions as the Bank may deem fit. The transaction 
+shall be initiated by the Bank (a) for NEFT, on the date of the instruction as per the RBI 
+clearing timings specific to the location of the branch where the Customer holds the 
+Account and the city notified by RBI for NEFT transaction clearings; (b) for RTGS, on 
+the date of the instruction as per the RBI clearing timings at the location of the branch 
+where the Customer holds the Account; (c) for IMPS, on the date of the instruction. d) 
+for ECS, on the date mentioned in the file subject to Customer providing the transaction 
+file to the bank at least 7 days in advance and the requested settlement date being 
+available for transaction processing at the clearing house; e) for NACH, on the date of 
+the instruction as per the settlement cycles of NPCI.
+4.11.3 The Customer ensures and confirms that the account to be credited, in accordance with 
+these instructions, is not an account on which there are restrictions, as per Law 
+or Regulation, on crediting monies. Further, the Customer agrees and understands that 
+any request for NEFT/RGS/IMPS/ECS/NACH transaction may be rejected or cancelled 
+in case the instructions and or /any information provided by the Customer does 
+not meet the security procedures of the Bank / RBI / the beneficiary bank. The 
+Customer also understands that the transaction may also be cancelled/ rejected due 
+to any of the following reasons like the designated account of the beneficiary not 
+being maintained by the beneficiary bank, an attachment order having been passed 
+in respect of the designated beneficiary account by a competent authority/court, in case 
+of any of the details pertaining to the beneficiary/beneficiary account details recorded 
+with the beneficiary bank or branch not being part of the clearing system or any other 
+reasons beyond the control of the Bank and/or the beneficiary bank.
+4.11.4 The Customer acknowledges and understands that the completion of transactions 
+for transfer of funds based on the Customer’s instruction shall involve various counterparties. The Customer confirms that the Bank shall not be held liable or 
+responsible for any delays/deficiencies in settlement of a transaction due to system 
+constraints, actions of other parties or any other circumstances outside the control of 
+the Bank. Without prejudice to the generality of the foregoing, the Customer agrees and 
+accepts its responsibility to compensate/ reimburse the Bank for any losses, claims 
+or actions and to save, keep harmless and keep protected the Bank against any 
+improper/ fraudulent instructions purporting to be received from the Customer and/or 
+for furnishing incomplete information.
+4.11.5 The Bank shall be entitled to charge such fees and charges as it determines 
+to be adequate for provision of the IMPS/NEFT/RTGS/ECS/NACH and as specified in 
+Schedule of Charges.
+4.11.6 The Customer understands that the provisions of IMPS/NEFT/ RTGS/ECS/NACH 
+are subject to the guidelines and regulations issued by RBI from time to time in this 
+behalf. RBI and/ or any other agency/company appointed by RBI in this regard 
+shall be an intermediary/a service provider in the process of settlement of a transaction 
+initiated using any of NEFT/RTGS and, subject to the availability of sufficient funds 
+in the Account, a transaction should be deemed to be complete in all respects (a) in 
+case of RTGS, upon settlement of the transaction by the central system of RBI, (b) in 
+case of NEFT, if the transaction message is not returned unaffected by the Bank 
+within a reasonable time (decision of the Bank as regards reasonable time shall 
+be final). RTGS and NEFT transactions shall be deemed to be settled at the time 
+when the Account has been debited and the account of the beneficiary bank has been 
+credited in the central system of RBI.
+4.11.7 Minimum amount for RTGS: In respect of the RTGS system, the Customer understands 
+and accepts that the RTGS system is primarily for large value transactions. The present 
+minimum amount to be remitted through RTGS is Rs. 2,00,000 (Rupees Two Lakh).
+4.12 Demand Drafts / Pay Orders:
+4.12.1 The Customer may place a request for issue of demand drafts / pay orders 
+(the “Instrument”) by such mode and subject to such terms and conditions as IDFC 
+FIRST Bank may prescribe from time to time. In the eventuality the request for issuance 
+of the Instrument is not received at a branch of IDFC FIRST Bank, the Instrument will 
+be sent to the communication address of the Customer last recorded in IDFC FIRST 
+Bank’s records or to an address specified by the Customer. In such an event, IDFC 
+FIRST Bank shall be at a liberty to recover charges for such posting. IDFC FIRST Bank 
+shall not be responsible on account of non-delivery or delays in delivery or non-receipt 
+of the Instrument.
+4.12.2 In case the Customer request for issuance of the Instrument from the monies 
+lying in the Account, IDFC FIRST Bank shall have the right to reject such request in the 
+event there is insufficient balance in the Account, at any point of time from acceptance 
+of request till dispatch of the Instrument to the Customer. The Customer shall be liable 
+for such charges as may be applicable for issuance of the Instrument and the Customer 
+authorises IDFC FIRST Bank to recover such charges by debiting the Account.
+4.12.3 If the Instrument is lost or has to be cancelled the Customer or his agent shall make 
+a written request to cancel the same, request for cancellation shall be subject to 
+acceptance by IDFC FIRST Bank. Also acceptance of such request shall be subject to 
+the terms and conditions and execution of such documents as may be prescribed by 
+the Bank in this regard.
+4.13 Reversal of Entries: The Bank reserves the right and the Customer hereby authorizes 
+the Bank to reverse any entries erroneously passed, with or without notice to/ from the 
+Customer and to debit/credit the Account to the extent required to correct any erroneous 
+entries that may have been inadvertently made by the Bank.
+4.14 Notices: Any notice, communication or letter addressed to the Customer and sent 
+through post or any other means at the address (which includes the mailing / office / 
+residence / any alternate address) of the Customer as per the Bank’s records shall be 
+considered as duly delivered to the Customer at the time it would be delivered 
+in the ordinary course of post. Any communication from the Customer to the Bank 
+shall be effective upon actual receipt of such communication by the Bank in a form and 
+manner satisfactory to the Bank. The Customer shall notify the Bank without delay, 
+of any change in its name, address or other particulars, filed with the Bank and shall 
+completely indemnify the Bank from all acts performed by the Bank under this Clause 
+in the event the Bank has not received such aforesaid notification of change of name/
+address/other particulars.
+4.15 Dormant Accounts: The Bank shall flag the Account as “Dormant” if the Account 
+remains inoperative for over a consecutive period of 2 (two) years and no 
+transactions are carried therein. If the Account is categorized as Dormant, then 
+in such case the Bank may make reasonable endeavors to inform the Customer 
+(including any joint holder/s) at least 3 (three) months before the Account is classified 
+as a Dormant Account. Further the Bank shall also make reasonable endeavors to 
+inform the Customer (including any joint holder/s) of the procedure to be followed 
+to activate the Account. The Customer agrees that the Bank may place restrictions on 
+the operation of the Account till such time the customer activates the Account 
+through a process specified by the Bank. For the purpose of this clause transaction shall 
+mean any credit or debit transactions to be carried by the Customer as well as third 
+parties in the Account through the following modes:
+(a) Transactions through cheque; 
+(b) Cash or cheque deposit;
+(c) Withdrawal or deposit through ATM/microATM; 
+(d) Transaction through Internet Banking;
+(e) Transaction by standing instruction and Electronic Clearing System; 
+(f) Transactions though Phone Banking / Mobile /Kiosks;
+(g) Transaction through RTGS/NEFT/IMPS/NACH/ECS;
+(h) Such other transactions as may be prescribed as per the Law or Regulation.
+4.16 Stop Payment Orders: The Customer can request the Bank to stop payment 
+on cheques/Standing Instruction/Electronic Clearing System drawn on the Account 
+by notifying the Bank in writing on the Bank’s standard ‘stop payment’ order form or 
+by such other means as may be approved by the Bank from time to time, including 
+on phone banking or through the Website. The Bank shall endeavour to carry out 
+such instructions on a best-effort basis. Charges will be levied for each stop payment 
+instruction in accordance with the Schedule of Charges. In case the Account is a joint 
+account or has joint signatories, if any stop payment instructions are received from any 
+one of the joint account holders or joint signatories or any other debit instruction with 
+regard to the Account, no amount shall be paid from the Account except in accordance 
+with Account operating rules as may be applicable or on the discharge of all the joint 
+holders or joint signatories, as the case may be.
+4.17 Death of a Customer: In case of death of a Customer, the Bank shall have the right to 
+release the money lying to the credit of the Account of the Customer to the nominee 
+appointed by the Customer or the legal heirs of the Customer, as the case may be. 
+The Bank may retain any and all funds in the Account until it establishes the identity 
+and credentials of the successor(s) to its sole satisfaction, and the Bank reserves 
+the right to demand and inspect requisite documentation in this regard, including 
+a succession certificate/probate of a will of the deceased Customer. In case the 
+Account is a joint account where the account is opened with the survivorship 
+clause (“either or survivor” or “anyone or survivor” or “former or survivor” or “latter or 
+survivor”), the Customer agrees that in the event of death, insolvency or withdrawal of 
+any one or more of the Account holders, the balance in the Joint Account shall 
+be paid to the surviving Joint Account holder(s) and in the event there are no surviving 
+Joint Account holder(s) to the nominee(s) if any, or to the legal heirs of the Joint 
+Account holder(s) subject to the discretion of the Bank, provided there is no dispute 
+among the survivor or survivors or legal heirs or there is no order from the competent 
+court restraining the Bank from making the payment from the Account. Without 
+prejudice to the foregoing, in the event of the death of the Customer, the Bank reserves 
+the right to pursue all courses available to it under law and equity, at its discretion to 
+recover any outstanding from the Customer. Notwithstanding the aforesaid, Customer 
+agree that in case of Term/Fixed Deposit with “Either or Survivor” or “Former 
+or Survivor” mandate, Bank is permitted to allow premature withdrawal of the Term/
+Fixed Deposit by the surviving joint depositor on the death of the other, in case there 
+is a joint mandate from the joint depositors to this effect. For details please refer to the 
+“Deceased Depositors Policy” available on our Website.
+4.18 Nomination: Nomination facility is available for the Account in the names of individuals. 
+Only one nominee is permissible for an Account and the nomination is to be made by 
+the Customer. The Customer is at liberty to change the nominee, through submission of 
+prescribed form to revise the nomination during the currency of the Account with IDFC 
+FIRST Bank.
+4.19 Blocking of an Account and/or any transaction: The Customer consents to the blocking 
+of any Account and/ or payment or transaction with respect to the Account by the Bank 
+where the conduct of the Account and/ or such payment or transaction would result in the 
+Bank or any its Affiliates or their Third Party Service Providers or Payment Infrastructure 
+Providers being in breach of any Law or Regulation and/or to enable Bank or such 
+entities to comply with such requirements. In case of Salary Accounts customer consent 
+to mark hold / reverse the credit of such amount wrongly credited to and remaining 
+in the salary account basis employer / corporate confirmation, only such amounts 
+that have been wrongly credited by IDFC FIRST Bank Ltd on the initial instructions of 
+the Company.
+4.20 Right of Set-Off: The Bank may at any time and without notice to the Customer combine 
+and consolidate all or any of the Customer’s accounts held with the Bank and the 
+Customer hereby authorizes the Bank to set off, adjust or transfer any sum or sums 
+standing to the credit of any or more of such accounts in or towards satisfaction of 
+any of the Customer liabilities to the Bank on any account or in any other respect 
+whether such liability is actual or contingent, past/crystallized or future, primary or 
+collateral and several or joint.
+4.21 Additional Facilities: The Bank may, at its sole discretion, make available to the Customer 
+one or more additional Facilities and/or services in relation to the Account and the 
+Customer agrees that the persons specified by the Customer to avail of or instruct for 
+availing of the Facilities then being offered shall also be entitled to avail all enhanced / 
+additional Facilities, as may in future be made available by the Bank. The Customer 
+agrees and understands that such additional Facilities and/or services may have 
+specific terms and conditions (such as the Mobile Pay Facility Terms and Conditions 
+and the Bill Pay Facility Terms and Conditions) which would apply in the event the 
+Customer opts to avail of the said additional Facilities/services. Such additional terms 
+and conditions would be in addition to these Terms and Conditions. The Bank, shall, 
+in its sole discretion, at any time, with notice to the Customer, be entitled to withdraw, 
+discontinue, cancel, suspend and/or terminate any Facility or services related to it or 
+suspend use of any particular devices and shall not be liable to the Customer for any 
+loss or damage suffered by the Customer resulting in any way for such withdrawal, 
+suspension or termination.
+4.22 Closure of Account: The Bank may at any time, in its sole discretion, without liability, 
+close the Account after giving a prior notice of at least thirty (30) days to the Customer. 
+However, the Bank may also close the Account under certain conditions (including 
+without limitation) the improper conduct of the Account, and/or the Account profile 
+or transactions in the Account not being in line with the Bank’s internal policies or 
+guidelines pertaining to KYC/AML, without giving any prior notice to the Customer. The 
+Bank shall not be liable for any consequences arising out of such closure of an Account. 
+The Customer would be required to make alternate arrangements for cheques already 
+issued and shall desist from issuing fresh cheques on the Account in such a situation. 
+The Bank may at any time at its sole discretion, without liability, refuse to accept any 
+deposit or limit the amount that may be deposited, return all or part of the deposit and 
+discharge all liability The Customer may close the Account at any time if he so chooses 
+by way of providing written communication in this regard to the Bank. In the event of 
+closure of an Account, the Bank will refund the monies (including balance) lying to 
+the credit of the Account to the Customer subject to payment of applicable standard 
+service/ processing charges. Further, the Customer understands that IDFC FIRST 
+Bank may close any of the Customer Accounts at any time in order to comply with 
+any Law or Regulation (whether domestic or foreign). As per notification dated April 
+6, 2018, RBI has advised that, Bank shall not deal in Virtual Currencies (VCs) or provide 
+services for facilitating any person or entity in dealing with or settling VCs. IDFC FIRST 
+Bank does not encourage its customers to use their accounts maintained with us for 
+carrying out transactions involving any kind of virtual/ crypto currencies and hence, we 
+request you to refrain from transactions involving dealing in Bitcoin or any other virtual/ 
+crypto currencies.We also wish to advise you that if transactions relating to any kind of 
+VCs are witnessed in your account, the Bank may be constrained to close your account, 
+as per RBI notification dated April 6, 2018.
+4.23 Closure or shifting of Branch: The Bank will give a prior notice of ninety (90) days in the 
+event of closure of a branch of the Bank where the Account is held.
+4.24 Collection and disclosure of information: The Customer hereby expressly consents and 
+permits the Bank to:
+4.24.1 Collect, store, communicate and process information relating to the Account and all 
+transactions carried out therein by IDFC FIRST Bank, or any of its Affiliates, wherever 
+situated, including sharing, transfer and disclosure between them and to authorities, 
+of any Confidential Information in connection with the provision of any Facility, for 
+business development, data processing, statistical and risk analysis purposes and 
+for compliance with any Law or Regulation or as required by or for the purposes 
+of any court, legal process, audit or investigation of any Authority. Customer’s 
+consent shall be effective notwithstanding any applicable non-disclosure agreement 
+and the Customer acknowledges that Confidential Information may be transferred to 
+jurisdictions which do not have strict data protection or data privacy laws. The Customer 
+represents that they have provided to and secured from any related party, Customer 
+Affiliate, data subject or other person regarding whom the Customer has provided 
+information to IDFC FIRST Bank any notices, consents and waivers necessary to 
+permit IDFC FIRST Bank, its Affiliates, representatives, and its Third Party Service 
+Providers and Payment Infrastructure Providers to carry out the actions described in this 
+paragraph, and that it will provide such notices and secure such necessary consents 
+and waivers in advance of providing similar information to IDFC FIRST Bank in the 
+future.
+4.24.2 Comply with all laws or directives of government agencies or court orders or legal 
+proceedings and/or when necessary to resolve errors or questions the Customer or 
+any other party may have raised and/or in order to satisfy the Bank’s internal data 
+processing requirements;
+4.24.3 Disclose at any time and for any purpose, any information whatsoever relating to the 
+Customer or the Account or transactions or dealings with the Bank, to any branches, 
+subsidiaries, service providers, Affiliates, group companies, third parties whosoever 
+(including employers/family members of the Customer) so far as is deemed to be 
+necessary at the sole discretion of the Bank, or associated corporations or Affiliates of 
+the Bank wherever located or to any authorities in India or elsewhere or any agents or 
+contractors or third parties who have entered into an agreement to perform any service(s) 
+for the Bank’s benefit, and any other person(s) whatsoever (including employers/ family 
+members of the Customer) or where the disclosure is required by law or otherwise and 
+to whom the Bank deems fit at its sole discretion to make such disclosure;
+4.24.4 The Customer agrees to provide to the Bank such information and/or documents as the 
+Bank may require from time to time and shall update that information as required by the 
+Bank from time to time, to enable IDFC FIRST Bank or any of its Affiliates to comply 
+with any Law or Regulation or any other appropriate information/and or documents 
+(including any proof of identification documents and/or photographs) as may be 
+required under the Bank’s/RBI’s guidelines on KYC/ AML /CFT purposes, which the 
+Bank may reasonably request from time to time. Failure to provide these documents/ 
+information timely or the provision of wrong documents / information may result in 
+the Account being blocked for debit / credit transactions or the Account being closed. 
+Further, if at any point of time, the Bank is of the opinion that the profile / nature of 
+the Account or the transactions in the Account are not in line with the Bank’s internal 
+policies or guidelines pertaining to KYC / AML, then the Bank shall have every right to 
+freeze operations in the Account or upon notice to even close the Account;
+4.24.5 Disclose and disseminate to RBI or to a court of law or any other competent authority 
+or to any third person, as the case may be, the credit information of the Customer in its 
+possession, subject to applicable law and guidelines issued by RBI from time to time, 
+with or without any notice by the Bank to the Customer in this regard, at the Bank’s 
+discretion.
+4.24.6 Share Customer Personal Data with any existing or future credit bureaus 
+(including Credit Information Bureau (India) Limited) as determined by the Bank from 
+time to time and as may be required under laws. The Customer acknowledges that the 
+Bank is entitled to share such information and such information may pertain to positive 
+or negative performance/default by the Customer. The Customer hereby expressly 
+authorises the Bank to disclose, exchange, share or part with all any information 
+relating to the Customer’s Account and/or the Customer to all companies / entities / 
+subsidiaries / Affiliates of the Bank / their agents/banks/financial institutions / credit 
+bureaus / agencies / Authorities as may be required and undertake not to hold IDFC 
+FIRST Bank and/or companies/ entities / subsidiaries / Affiliates and/or their agents 
+liable or responsible for use of the aforesaid information.
+4.25 Indemnity:
+4.25.1 In consideration of the Bank providing the Facilities and any other facilities and maintaining 
+the Account, the Customer, at its own expense, hereby agrees to indemnify the 
+Bank and its employees, representatives, agents, as the case may be, at all times, 
+against any and all harm, injury, costs, losses, liabilities, damages, charges, actions, 
+legal proceedings, claims and expenses, including without limitation any costs between 
+attorney and client, whether direct or indirect which the Bank may suffer or sustain or 
+incur at any time as a consequence of or arising out of the Facilities provided to the 
+Customer by the Bank in good faith, or attempting to take or refusing to take or omitting 
+to take action on any instructions of the Customer due to any government order, law, 
+levy, tax, embargo, moratorium, exchange restriction, action of the Customer or any 
+beneficiary or any other third party whosoever or any other cause beyond the Bank’s 
+control. Without prejudice to the generality of the foregoing, the Customer shall 
+indemnify and save, keep harmless and indemnified the Bank against any improper/ 
+fraudulent instructions purporting to be received from the Customer.
+4.25.2 The Customer hereby agrees that the Bank needs to receive clear and written instructions 
+from the Customer to induce the Bank to effect fund transfer activities on behalf of the 
+Customer. The Customer agrees to indemnify the Bank against any improper/
+fraudulent fund transfer instruction purported to be received from the Customer. The 
+Bank shall not be obliged to accept from the Customer any oral or facsimile or 
+non-specific/unclear instructions. In order to, however, induce the Bank to act upon 
+communications and instructions transmitted by manual procedures (facsimile, mail, 
+messenger, telephone), the Customer hereby irrevocably agree that, other than an 
+instance arising from the Bank’s gross negligence, bad faith or wilful misconduct, as 
+long as the Bank acts in compliance with this authorization/instructions, the Customer 
+shall indemnify and hold the Bank harmless from and against any and all 
+responsibility for, and any and all costs, claims, losses or liabilities of any nature (direct 
+or indirect) resulting from any act of omission (or any delay) in response to instructions 
+to the Bank to transfer funds or purchase, sell or otherwise dispose of commodities or 
+securities, together with any and all attendant costs (collectively referred to as “losses”).
+4.26 Fees/Charges: 
+4.26.1 The Bank may charge such fee/service charges for usage / maintenance of the Account, 
+as applicable and any or all of the Facilities provided by the Bank, from time 
+to time, to the Customer and the Customer agrees that the said fees/charges maybe 
+debited by the Bank to the Account. Details of the current applicable fees/charges may 
+be obtained from the Bank, from time to time. The Customer acknowledges its 
+awareness that some ATM/microATM owners or operators of shared networks may 
+impose an additional charge for each use of their ATMs/microATMs/other devices, and 
+any such charge along with other applicable fees/ charges will be debited to the 
+Account. Any government charges, duties or taxes payable as a result of any use of 
+any of the Facilities shall, if imposed upon the Bank (either directly or indirectly), be 
+debited to the Account.
+4.26.2 The Customer also authorizes the Bank to deduct from the Account, any expenses the 
+Bank may incur in collecting money the Customer owes to the Bank in connection with 
+any Facilities (including, without limitation, legal expenses and fees). The charges/fees 
+may be revised by the Bank, at the Bank’s absolute discretion from time to time without 
+giving any prior notice to the Customer. The Bank may debit the Account with the full 
+amount of costs, charges, fees and penalties payable for services rendered by the 
+Bank whether in respect of the Account or otherwise.
+4.27 Recording: The Customer agrees, consents and understands that the Bank, may 
+at its discretion, video tape or record on camera the Customer’s access/ presence/ use 
+of the Bank’s premises/ machines/ equipment or record on tape any oral/ telephonic 
+(by using the Phone Banking facility) instructions or communication with the Customer 
+whether initiated by the Bank or the Customer. All records maintained by the Bank, in 
+electronic or documentary form of transactions pertaining to the Account (including 
+usage of the ATM/Debit Card) and such other details (including, but, not limited to 
+payments made or received), and all camera/video and / or audio recordings made as 
+mentioned above, shall, as against the Customer, be deemed to be conclusive evidence 
+of such instructions and other details. The entries in the Bank’s books (including Website 
+logging/ SMS / Other Mobile responses from the Customer’s designated mobile number/ 
+transaction records stored in tables or as web or application logs) kept in the ordinary 
+course of business of the Bank with regard to all or any of the matters contained herein 
+shall be binding on the Customer.
+4.28 Force Majeure: The Bank shall not be liable for any losses caused by its inability or 
+delay in providing all or any service or Facilities or fulfilling any of the Bank’s obligations 
+hereunder, either wholly or in part, caused by or in connection with any force majeure 
+events including, but not limited to, restrictions on convertibility, transferability, 
+requisitions, involuntary transfers, riot, disturbance, strikes, lock-outs, bandhs, war, 
+civil strife, burglary, theft, dacoity, accident, technical fault including problems related 
+to computers, accessories, software, printers, fax machines, internet, telephone 
+system and such related hardware or software faults beyond the control of the Bank, 
+breach of trust by any authorized persons, flood, fire, earthquake, act of God, act of any 
+government, change in regulation or law and other allied acts of regulatory or statutory 
+nature or if the performance of such obligation or provision of such service would result 
+in the breach of any Law, Regulation or other requirement of any governmental or other 
+authority or on account of any other restriction or requisition or other circumstances or 
+events whatsoever beyond the control of the Bank and the Bank shall not be obliged to 
+provide any service or Facilities or perform any of its obligations hereunder during 
+the period while the Bank’s performance is affected by force majeure conditions. 
+The Bank shall not be responsible for any loss or damage caused to the Customer by 
+reason of any failure to comply with the Customer instructions, when such failure is 
+caused due to reasons beyond the control of the Bank, the opinion of the Bank being 
+final in this regard.
+4.29 Governing Law: The laws of India will govern these Terms and Conditions and the 
+same shall be subject to the exclusive jurisdiction of the courts at the location in India 
+at which the relevant branch of the Bank, which maintains the Account, is located. The 
+Customer agrees that for any suit, action or other proceeding required to be taken in 
+respect of these, the same shall be instituted by it and tried in the courts at the location 
+in India at which the relevant branch of the Bank, which maintains the Account and/or 
+the relationship, it being the intention of parties to select the courts in such location in 
+India, exclusively by exercising their right of forum selection.\
+4.30 Grievance Redressal:
+4.30.1 The Bank enables its customers’ to register complaints through multiple channels. The 
+variouschannels available to customers are as follows:
+- Customer Care: Customers can contact our Banker on Call over the phone for 
+redressal of issues. Customer Service Number are published on our Website.
+- Branch: Customer can speak to the branch officials for resolution of their issues or 
+register their grievances at the branch.
+- Bank’s Website: Customers to whom Internet Banking facility has been extended can 
+log in to online account and register a complaint via a complaints form. A duly registered 
+service request (SR) number would be shared with the Customer via email and sms to 
+acknowledge the receipt of complaint.
+4.30.2 Escalation of complaints: The Bank believes in providing transparent and efficient 
+services to our Customers at all times. However, if a Customer is not satisfied 
+with the timelines of response or the resolution provided through the channels 
+listed above, the Customer can escalate the grievance to the next level, as per the 
+escalation matrix available at the Website.
+- Principal Nodal officer:
+• If the Customer’s issue is not resolved even after contacting various 
+complaint resolution channels, he/she can write to the Nodal Officer. The details of the 
+Nodal Officer are made available at the branches and also on the Bank’s Website.
+- Escalation to the Regulator:
+• In case the Customer is not satisfied with the response from the Bank, 
+Customers will be provided the option of approaching the Banking Ombudsman (BO). 
+The details of BO are made available at the branches and also on the Bank’s Website.
+4.31 Miscellaneous: The Customer unconditionally agrees that:
+(i) The Customer shall not hold the Bank liable on account of the Bank acting in good faith 
+on any instructions given by the Customer or on account of delay or inability on the part 
+of the Bank to act immediately or at all on any of the Customer’s instructions.
+(ii) In following any instructions with regard to any of the Facilities, the Bank will be doing 
+so on a best-effort basis.
+(iii) The Bank may in its discretion and, from time to time, charge for any or all of the Facilities, 
+wholly or in part.
+(iv) In case the Account has joint signatories, each authorised to operate the Account 
+individually, the Bank may act on instructions from either/any one of the signatories, 
+subject to there not being any conflict between the signatories concerning such 
+instructions prior to the Bank acting on the same.
+(v) The Bank may rely on the authority of each Authorised Signatory designated (in 
+a form acceptable to the Bank) by the Customer or on a Customer’s mandate to send 
+communications (as hereinafter defined) until the Bank has received written notice or 
+other notice acceptable to it of any change from a duly authorized person and the Bank 
+has had a reasonable time to act (after which time it may rely on the change). 
+(vi) An Account may be opened on behalf of a Minor by his natural guardian or by a 
+guardian appointed by a court of Competent Jurisdiction. The guardian shall represent 
+the Minor in all transactions of any description in the above Account until the said Minor 
+attains majority. Upon the Minor attaining majority, the right of the guardian to operate 
+the account shall cease. The guardian agrees to indemnify the Bank against the 
+claim of above Minor for any withdrawal/transactions made by him in the Minor’s 
+Account.
+(vii) An Account in the name of a minor shall be converted into a normal individual Account 
+upon the minor attaining the age of majority and the right of the guardian, if any, to 
+operate the Account shall cease forthwith. Minors above the age of 10 years with selfoperated account are not covered under this.
+(viii) The Customer shall provide to the Bank such documentation for this purpose, 
+as may be required by the Bank. At least fifteen (15) days prior to the minor becoming 
+a major (as per the records of the Bank), the Bank shall send a communication seeking 
+documentation to effect conversion of the Account from a minor Account to a normal 
+individual Account. Failure to provide such documentation in a timely manner may 
+result in operations on the Account being blocked until such time that the required 
+documentation is provided to the satisfaction of the Bank.
+(ix) Accounts on which an attachment order or other legal notice from any authority or 
+individual prohibiting operation of the Account is received by the Bank will be blocked 
+and no further operation will be allowed until the prohibition order is removed. The Bank 
+shall endeavor to inform the Customer about any such order or notice, however the 
+Bank shall not be bound to do so.
+(x) The Bank may, at its sole discretion, decide not to carry out any instructions where the 
+Bank has reason to believe (the decision of the Bank shall not be questioned or disputed 
+by the Customer) that the instructions are not genuine or are otherwise improper or 
+unclear or raise a doubt. If the Bank receives any process, summons, order, injunction, 
+execution, distraint, levy, lien, information or notice, which the Bank, in good faith, 
+believes calls into question the Customer’s ability, or the ability of someone purporting 
+to be authorized by the Customer, to transact any business, the Bank may, at the Bank’s 
+option and without liability to the Customer and/or such other person, decline to allow 
+transactions or may take any other steps required by applicable law.
+(xi) Transactions initiated will be completed only if the amount of funds available in the 
+Account is sufficient to meet the transaction amount in full, including any applicable 
+charges/fees, etc. The amount of each completed transaction will be immediately 
+deducted from the Account. The Customer will not hold the Bank liable in 
+case of improper/fraudulent/unauthorized/ duplicate/erroneous use of the confidential 
+codes and/ or the materials supplied by the Bank to the Customer.
+(xii) Nothing contained herein shall require the Bank to violate any Law or Regulation related 
+to transfer of funds or other transactions.
+(xiii) In the event, the Customer does not want to receive any marketing/solicitation calls from 
+the Bank, the Customer can register themselves in the Bank’s Do Not Call Registry 
+(DNCR), by calling the 24 hour Phone Banking facility or through the Bank’s Website.
+(xiv) The Customer hereby understands:
+(a) Only numbers registered with the Bank shall not be considered for telemarketing offers 
+for products offered by the Bank in India. The Bank shall not be liable or responsible for 
+any calls made on a number not registered with the Bank.
+(b) Any subsequent change in the telephone numbers would need re-registration with the 
+Bank. 
+(c) Registration with the Bank shall not limit calls from the Bank on account of 
+Account/Card maintenances, Alerts on transactions, Recovery calls etc.
+(d) It will take thirty (30) Working Days for any registration of any mobile number with the 
+Bank.
+(e) Notwithstanding any registration on a Do Not Disturb Registry, the Customer hereby 
+understands and agrees that the Bank and all such third parties as duly authorised by 
+the Bank shall be authorised to contact/get in touch with the Customer for purposes of 
+administering or servicing (other than marketing/sale) of any of the Bank’s products/ 
+services availed of by the Customer.
+(f) The Customer is fully aware that the bank sends SMS alerts to customers on all account 
+/ card related transactions promptly on the mobile number shared at the time of account 
+opening / updated subsequently and any failure to update contact information with the 
+bank may result in any financial loss in case of misuse of cards.”
+5. PHONE BANKING
+5.1 The Customer confirms that, at the Customer’s request, the Bank has agreed to 
+additionally provide the Customer with the facility of carrying out banking transactions 
+by giving telephonic instructions (if applicable to particular product) which may be 
+accepted either manually or by an automated system (“Phone Banking Facility”). 
+The Customer further understands and accepts that these Terms and Conditions 
+are in addition to any and all such specific terms and conditions as may be applicable 
+to the Phone Banking Facility (including applicable payment methods/charges). The 
+Customer understands and agrees that the availment of the Phone Banking Facility 
+will be deemed acceptance of the said terms and conditions and the Customer agrees 
+to be unconditionally bound by the same.
+5.2 The Customer is aware that in connection with the Phone Banking Facility, 
+the Bank shall allocate to the Customer, or the authorized representative/ signatory 
+of the Customer, as the case may be, a confidential telephone personal identification 
+number which may thereafter be changed, if so desired by the Customer/authorized 
+representative (“T-PIN”). The Customer understands and confirms that the T-PIN is a 
+confidential code and the Customer is solely liable to ensure that it is not disclosed or 
+misused.
+5.3 The Customer is required to provide to the Bank over the telephone the Account details 
+and T- PIN prior to carrying out any transactions on the Account that may be permitted 
+under the Phone Banking Facility. In the event the Customer is not able to avail of 
+the Phone Facility using the T-PIN, the Bank may allow usage of the said Facility on 
+a case-to-case basis by way of a reference check. The Customer understands and 
+acknowledges that the Customer shall not be otherwise be required to divulge, either 
+orally or in writing, the Customer’s T-PIN and would only be required to key the same 
+only while accessing the Phone Banking Facility. The Customer may link any and all of 
+the Customer’s Accounts held with the Bank to the Phone Banking Facility.
+5.4 The Customer understands and accepts that the telephonic instructions given 
+through the Phone Banking Facility may also include instructions to change the 
+Customer’s demographic details such as residence and/or mailing address, residence 
+and or office telephone number, mobile phone number, e-mail address or any other 
+personal details of the Customer as decided by the Bank from time to time, subject to 
+the submission of such documents of proof, as may be stipulated by the Bank in this 
+regard.
+5.5 Account Representative of the Customer
+5.5.1 Any Customer, who is not an individual, may nominate persons, who may or may 
+not be Authorized Signatory(ies), as an account representative(s) of the Account 
+(the “Account Representative(s)”). Each Account Representative would be given a 
+recognition Card with a unique 16-digit number (the “Recognition Card”) in addition 
+to a T-PIN to access the Account through the Phone Banking Facility. The Account 
+Representative can also access the Account through the Internet Banking facility by 
+way of an Internet Personal Identification Number(“IPIN”) created by the Customer 
+on the Web-site. The Customer understands that eachAccount Representative 
+would be required to utilize the Recognition Card provided in conjunction with 
+the corresponding T-PIN/IPIN to perform any transactions on the Account. The limit for 
+transactions which each Account Representative may undertake will be in accordance 
+with the specific form for that purpose executed by the Customer. The Customer 
+understands and acknowledges that the Account Representative will not be able to 
+perform transactions through any channel other than the Phone Banking Facility and/or 
+Internet Banking facility. The Customer is aware that any of the Account Representatives 
+may initiate a transaction over the telephone and/or the Internet in accordance with the 
+authorization for the same provided to the Bank through written instructions. The 
+Customer hereby confirms that the Account Representative is fully conversant with 
+the procedures, as explained to the Customer, which are required to be complied with 
+and further confirms that the Customer and each Account Representative shall comply 
+with the same.
+5.5.2 In the event of a debit instruction being initiated by an Account Representative/
+Authorized Signatory that, as per the authorization provided to the Bank requires 
+confirmation of another/other Account Representative(s)/Authorized Signatory(ies), the 
+funds will go into debit status and cannot be withdrawn or transacted upon in any way 
+through any channel till such instruction is cancelled by any of the required Account 
+Representatives. The Customer understands that if the Bank does not receive the 
+required authorizations for any transaction initiated within 2 (two) days of the first 
+call/login, the transaction shall stand automatically cancelled and the funds which 
+have been previously marked for debit will be available in the Account. In case of debit 
+instructions, where there are not enough funds in the Account, any funds lying in multideposit(s) linked to the Account, shall be utilized. Failing the required authorization 
+within 2 (two) days, the amount will flow back into the Account, but will not be reinstated 
+as a multi-deposit unless express instructions for the same are received by the Bank. 
+The Bank shall not be liable nor responsible for any dishonour of cheques or any other 
+loss caused in any manner whatsoever, due to non-availability of funds, while such 
+funds have been marked for debit pending confirmation and authorization 
+by the other Account Representative(s)/Authorized Signatory.
+5.5.3 On receipt of instructions from the Account Representative/ Authorized Signatory, the 
+Bank shall have no responsibility except to verify the Recognition Card and match the 
+same with the individual T-PIN/IPIN respectively. In the event of any mismatch or unclear 
+instructions, the Bank shall not be obliged to act upon the instructions nor inform the 
+Customer or the Account Representative/Authorized Signatory of the same.
+5.5.4 The Customer understands that the Bank shall only take on record any change/removal 
+or suspension of any Account Representative/Authorized Signatory, upon receipt 
+of written instructions from the Customer in such form as is acceptable to the Bank and 
+shall provide to the Bank such other documents as may be required by the Bank for the 
+purposes of recording such change. The Customer is aware that such change would 
+be effective after 4 (four) Working Days after receipt of such written instructions by the 
+Bank.
+5.5.5 The Customer understands that the Recognition Card, T-PINs and IPINs are confidential 
+and that each person to whom such PIN has been assigned shall at all times keeps 
+the same confidential and the Customer shall be solely responsible and liable for any 
+and all losses that may be suffered/incurred by the Customer.
+6. INTERNET BANKING
+6.1 The terms Internet Banking and Internet Banking facility will be used interchangeably 
+as the context may require. The Customer accepts that, at the request of the Customer, 
+the Bank may, at its sole discretion, agree to provide the Internet Banking facility through 
+the Website and/or as per written instructions given/to be given to the Bank by the 
+Customer. 
+6.2 The Bank may also make additions / deletions to the services offered through Internet 
+Banking facility at its sole discretion. The availability / non-availability of a particular 
+service may be advised / notified through e-mail or SMS or Web-site or through 
+such other mode of communication as the Bank at its sole discretion deem fit.
+6.3 In case of Joint Accounts and Accounts with two or more signatories, the Bank will offer 
+such services as restricted by the terms and conditions governing the operation of such 
+Accounts.
+6.4 In case of Minor Accounts, the natural guardian undertakes to give all instructions 
+relating to the operation of the account and further undertakes not to reveal the customer 
+identification number and IPIN to the Minor.
+6.5 The list of services which the Bank will offer will include account related information, 
+product holdings and other request based transactions (both financial and non-
+financial in nature). Some of the services will include Account, Debit Cards, loans 
+related and any such Facilities introduced by the Bank from time to time. Customer here 
+refers to any person who having a Bank Account / Loan Account and are authorised to 
+avail the same.
+6.6 User ID is a Customer created unique identifier selected by each Customer. Customer 
+will also select / set his own Internet Banking Password (“IPIN”). Both the above will only 
+be known to the Customer. IPIN is the Password that the Customer needs to use along 
+with the User ID in order to do his Internet Banking transactions.
+6.7 Internet Banking facility will be available to the Customers upon opening of Account 
+with the Bank without requiring completion of any formalities for activation of such 
+service. However, the Bank in its sole discretion reserves a right to not make available 
+the Internet Banking facility in relation to some of the Accounts. The Customer further 
+understands and accepts that these Terms and Conditions are in addition to any and 
+all such specific terms and conditions as may be applicable to the Internet Banking 
+facility (including applicable payment methods/charges). Further, the Customer also 
+authorize the Bank to recover all charges related to Internet Banking as determined 
+by the Bank from time to time by debiting his Account and confirm that the Schedule of 
+Charges would be applicable as mentioned on the website.
+6.8 User ID and IPIN:
+6.8.1 The Customer is aware of the confidential nature of the IPIN and confirms that neither 
+the Customer nor any Authorized Signatory/Account Representative of the Customer 
+shall disclose the IPIN to any person.
+6.8.2 The Customer shall select a User ID and IPIN which are at least 6 characters long and 
+shall commit them to memory and not write / reveal the same in any form or manner.
+6.8.3 The Bank shall not be required to verify or judge the correctness of any instructions 
+received by it, so long as it satisfies itself of the correctness of the I-PIN used to transact on 
+the Internet Banking service. The Customer acknowledges that any instruction received 
+by the Bank shall be irrevocable. Should any instruction issued by the Customer, be 
+capable of being executed by the Bank in more ways than one, the Bank may execute 
+the said instruction in any one of the said ways at the Bank’s sole discretion.
+6.9 Internet Banking Transactions:
+6.9.1 All financial transactions are instantaneous and straight through in nature and shall 
+be processed immediately unless stated otherwise. For specific financial transaction 
+requests like demand draft, pay order etc., the transaction will be effected immediately 
+and the request will be processed on the next Working Day from a delivery point of 
+view. For transactions and requests like Term/Fixed Deposits etc., the transaction 
+will be effected immediately and depending on the time of the transaction, the credit 
+shall be effected in the account. 
+6.9.2 All transactions will be carried out on First In First Out basis. It is the Customer’s 
+responsibility to ensure sufficient and clear funds are available in the Account. 
+In case instructions for effecting any transactions are received on a day other than 
+Working Day, they shall be effected on the immediately succeeding Working Day.
+6.10 Transaction Errors:
+6.10.1 The transactions, which may require, transfer of the funds or issue of demand draft 
+or similar such services may not fructify in case the details of the beneficiary are not 
+entered correctly by the Customer. Hence it may not reach the intended beneficiary.
+6.10.2 In the event of any inaccuracy in this regard, the funds could be transferred to 
+incorrect accounts or the demand draft maybe incorrectly issued or sent to a wrong 
+address and there is no guarantee of recovery of the same thereafter. Thus, it is the 
+Customer’s responsibility to ensure that the information given to the Bank is error free, 
+accurate, proper and complete at all points of time.
+6.11 Internet Banking Risks: In case sensitive Customer Personal Data is available to a 
+third person/ party either by the Customer sharing the details, writing down the 
+same, using Internet Banking from a shared computer/network/ cyber café terminal, 
+the said third person / party could carry out Account related instructions including funds 
+transfer and other such transactions which can result in an un-authorised debit from the 
+Customer’s Account. The Customer shall take sufficient precautions to avoid any 
+spillage of Customer Personal Data, Confidential Information, User ID or password. 
+The Bank shall not be responsible for damages to the Customer due to such 
+incidence.
+6.12 Internet Banking limits: The Bank from time to time may introduce / impose 
+maximum and minimum limits including daily limits on transfer of funds that may be 
+transferred or amount of the demand draft that can be issued by the Customer through 
+Internet Banking. The Bank will display appropriate message on the relevant screens/
+Website, which the Customer shall take note and adhere with terms mentioned there.
+6.13 Internet Banking – Customer obligations
+6.13.1 The Customer shall not be discharged by transmission over the Internet of 
+any notice, instruction or request which, as per the terms hereof or any other specific 
+terms and conditions, require the Customer to send the same in writing. The Customer 
+acknowledges and confirms that all records of instructions received from the Customer 
+maintained by the Bank, in electronic or documentary form (including without limitation 
+logs of Internet Banking facility transactions and SMS/Mobile transactions), and such 
+other details (including but not limited to payments made or received) shall, as against 
+the Customer, be deemed to be conclusive.
+6.13.2 The Customer shall not interfere with, alter, amend, tamper with or misuse in 
+any manner whatsoever (the opinion of the Bank being conclusive in this respect), the 
+Internet Banking facility.
+6.13.3 In the event of any alleged improper or fraudulent use of the Account through the 
+Internet, the Customer agrees that the Customer shall be solely and exclusively 
+responsible for all loss caused thereby and shall not hold the Bank liable for any loss 
+caused thereby.
+6.13.4 The Customer understands and accepts that the instructions given through the Internet 
+Banking may also include instructions to change the Customer’s demographic details 
+such as residence and or mailing address, residence and or office telephone number, 
+mobile phone number, e- mail address or any other personal details of the Customer as 
+decided by the Bank from time to time.
+6.13.5 While it will be the Bank’s endeavour to provide Internet Banking facility at all times 
+on a 24 x7 basis, the Customer confirms and agrees that they shall not hold the Bank 
+responsible or liable for any failure to provide the Internet Banking facility by reason of 
+the services being temporarily unavailable or there being an overload on the server or 
+for any other technical or other reason, whatsoever.
+6.13.6 Proprietary Rights: The Customer acknowledge that the software and hardware 
+underlying the Internet Banking facility as well as other Internet related software 
+which are required for accessing Internet Banking are the legal property of the Bank 
+or Third Party Service Provider. The permission given by the Bank to access Internet 
+Banking will not convey any proprietary or ownership rights in the above software 
+/ hardware. The Customer also agree that he shall not attempt to modify, translate, 
+disassemble, decompile or reverse engineer the software / hardware underlying Internet 
+Banking facility or create any derivative product based on the software / hardware. 
+The copyright, trademarks, logos, slogans and service marks displayed on the Website are registered and unregistered intellectual property rights of Bank or of 
+respective intellectual property right owners. Nothing contained on the Web-site 
+should be construed as granting, by implication, estoppels, or otherwise, any license 
+or right to use any intellectual property displayed on the Web-site without the written 
+permission of Bank or such third party that may own the intellectual property displayed 
+on the Web-site. The Bank grants the right to access the Web-site to the user of Internet 
+Banking facility and use the Internet Banking facility in accordance with these Terms & 
+Conditions mentioned herein. The user of Internet Banking facility acknowledges that 
+the services including, but not limited to, text, content, photographs, video, audio 
+and/or graphics, are either the property of, or used with permission by, Bank and/or by 
+the content providers and may be protected by applicable copyrights, trademarks, 
+service marks, international treaties and/or other proprietary rights and laws of India and 
+other countries, and the applicable terms & conditions.
+6.13.7 The user of Internet Facility agrees and understands that everything he/she views or 
+reads on the Web-site (collectively referred to as “content”) is copyrighted/ protected 
+by intellectual property laws unless otherwise provided and may not be used, except 
+as provided in these Terms & Conditions, without the prior written permission of 
+Bank or the relevant copyright owner. Any breach of the restrictions on use provided in 
+these Terms & Conditions is expressly prohibited by Law or Regulation, and may result 
+in severe civil and criminal penalties. Bank shall be entitled to obtain equitable relief 
+(including all damage, direct, indirect, consequential and exemplary) over and above all 
+other remedies available to it, to protect its interests therein.
+6.14 The Website may provide hyperlinks to websites not controlled by the Bank and such 
+hyperlinks do not imply any endorsement, agreement on, or support of the content, 
+products and /or services of such websites. The Bank doesn’t editorially control the 
+content, products and /or services on such websites and shall not be liable, in any 
+nature whatsoever, for the access to, or the inability to access to, or the use, inability to 
+use or content available on or through such websites.
+6.15 The Bank has adopted the mode of authentication of the user of Internet Banking 
+facility by means of verification of the User ID and or through verification of password 
+or through any other mode of verification as may be stipulated at the discretion of the 
+Bank. The user of Internet Banking facility hereby agrees/consents for the mode of 
+verification adopted by the Bank. The user of Internet Banking facility agrees that the 
+transactions carried out or put through by the aforesaid mode shall be valid, binding 
+and enforceable against him/them and shall not be entitled to raise any dispute 
+questioning the transactions.
+6.16 Anti-Virus Update: The user of Internet Banking facility needs to get his PCs/laptops 
+scanned on a regular basis and be updated with the latest antivirus software available. 
+The Bank shall not be responsible in case of any data loss or theft due to the virus 
+transmitted in the system through the usage of Internet Banking facility.
+6.17 The Bank shall not be liable for delay in performing or failure to perform any of its 
+obligations under these Terms & Conditions which is caused by circumstances beyond 
+its reasonable control, including, but not limited to, the failure, malfunction or 
+unavailability of telecommunications, data communications and computer systems 
+and services, natural calamities, war, civil unrest, government action, strikes, lock-outs 
+or other industrial action or trade disputes (whether involving the Bank’s employees or 
+those of a third party). Any delay or failure of this kind will not be deemed to be a breach 
+of these Terms & Conditions and the time for performance of the affected obligation will 
+be extended by a period which is reasonable in the circumstances.
+6.18 Termination of Internet Banking facility: The Customer can request for termination 
+of the Internet Banking facility any time by giving a written notice of at least 15 days to 
+the Bank. The Customer agree that he will remain responsible for any transactions made 
+on his Account(s) through Internet Banking facility prior to the time of such cancellation 
+of the Internet Banking facility. The Customer also understands that closure of all 
+his Accounts will automatically terminate the Internet Banking facility. The Bank may 
+at its sole discretion, at any time without giving notice or reasons suspend or terminate 
+all or any of the Internet Banking facility offered by the Bank or there use for reasons 
+such as (a) Breach of these Terms & Conditions by the user of Internet Banking facility 
+(b) Knowledge or information about the death, bankruptcy or legal incapacity of the user 
+of Internet Banking facility.
+7. INDEMNITY
+7.1 The Customer in consideration of the Bank providing Internet Banking/Phone Banking 
+Facility, agrees to indemnify and hold the Bank, its Affiliates, directors, employees, 
+representatives, agents against all losses and expenses on full indemnity basis which 
+the Bank, its Affiliates, directors, employees, representatives, agents may incur, sustain, 
+suffer or are likely to suffer in connection with execution of the Customer’s instructions 
+and against all actions, claims, demands, proceedings, losses, damages, costs, 
+charges and expenses as a consequence or by reason of providing service through 
+Internet Banking / Phone Banking Facility for any action taken or omitted to be taken 
+by the Bank, its Affiliates, directors, employees, representatives, agents on Customer’s 
+instructions.
+7.2 The Customer agrees, at its own expense, to indemnify, defend and hold harmless the 
+Bank, its Affiliates, directors, employees, representatives, agents against any claim, suit, 
+action or other proceeding brought against the Bank, its Affiliates, directors, employees, 
+representatives, agents by third party, to the extent that such claim, suit, action of other 
+proceeding brought against the Bank, its Affiliates, directors, employees, representatives, 
+agents is based on or arises in connection with:
+(i) violation of the Terms and Conditions, breach of any covenant or obligation to be 
+performed by the Customer/ any authorised personnel of the Customer; or
+(ii) any misrepresentation or breach of representation or warranty made by the 
+Customer; or
+(iii) any deletions, additions, insertions or alterations to, or any unauthorized 
+use of, InternetBanking / Phone Banking by the Customer/ any authorised 
+personnel of the Customer; or
+(iv) any loss due to any virus that may enter the Bank’s or any of its Affiliates, subcontractors, agents or service provider’s system; or
+(v) any errors, delays, problems or non-receipt of any instructions / requests / 
+applications claimed to have been sent by the Customer/authorised personnel of 
+the Customer; or
+(vi) any of them acting or refraining to act pursuant to, in accordance with or relying 
+upon, any instructions / requests / applications.
+7.3 The Customer agrees to pay any and all costs, damages and expenses, including, but 
+not limited to, attorneys’ fees and costs awarded against it or otherwise incurred by or 
+in connection with or arising from any such claim, suit, action or proceeding attributable 
+to any such claim.
+7.4 The Customer acknowledges and understands that the internet per se is susceptible 
+to a number of frauds, misuse, hacking and other actions that could adversely affect the 
+Customer’s use of the Bank’s Website. Whilst the Bank shall aim to provide security to 
+prevent the same, there cannot be any guarantee from such internet frauds, hacking and 
+other actions that could affect the use of the Website including result in delay or failure 
+in processing the requests/ applications made herein. The Customer shall separately 
+evaluate all risks arising out of the same and the Bank shall not be responsible for the 
+same.
+8. FEMA DECLARATION
+8.1 The Customer hereby declares that any transaction involving foreign exchange 
+hereunder will not involve, and will not be designed for the purpose of any contravention 
+or evasion of the provisions of the Foreign Exchange Management Act, 1999 or any 
+rule, regulation, notification, direction or order made thereunder.
+8.2 The Customer also agrees and undertakes to give such information/documents as will 
+satisfy the Bank with regard to any foreign exchange transaction in terms of the above 
+declaration. The Customer also understands that if the Customer refuses to 
+comply with any such requirement or makes any unsatisfactory compliance therewith, 
+the Bank shall refuse in writing to undertake any transaction on the Account and 
+shall, if it has reason to believe that any contravention is contemplated by the 
+Customer, report the matter to Reserve Bank of India and/or such other authority as the 
+Bank deems fit.
+9. VARIATION OF TERMS AND CONDITIONS
+9.1 The Bank reserves the right, in its sole discretion, to vary or amend the whole and/or any 
+part of these Terms and Conditions at any time and from time to time without any prior 
+notice to the Customer and the Customer agrees to be bound by such amended/
+modified Terms and Conditions.
+9.2 Notification of any changes may be given by the Bank to the Customer by e-mail, hosting 
+on the Bank’s Website, or by posting it to the Customer’s latest address recorded with 
+the Bank address. The Bank may also give the Customer notice of variation of these 
+terms and conditions by displaying a notice on or within the immediate vicinity of the 
+site of an ATM/ branch or by a press advertisement or by a message in the Customer’s 
+statement of account.
+9.3 The amended terms and conditions shall be binding on the Customer forthwith.
+10. SEVERABILITY
+Each of the provisions of these Terms and Conditions is severable and distinct from the 
+others and, if at any time one or more of such provisions is or becomes illegal, invalid 
+or unenforceable in any respect under law, the legality, validity or enforceability of the 
+remaining provisions shall not be affected in any way.
+11. STANDING INSTRUCTIONS
+11.1 Any Standing Instruction given by the Customer with respect to the Account shall be 
+subject to acceptance by the Bank. Further, execution of the same is at the 
+discretion of the Bank. Notwithstanding any acceptance and or execution by the Bank, 
+such instruction shall be at full risk and responsibility of the Customer. The Bank shall 
+not be liable for any losses that may arise on the Customer pursuant to such instructions 
+or by virtue of its execution.
+11.2 Further, the Customer agree to indemnify the Bank and hold the Bank harmless 
+from and against all claims and demands that the Bank may receive from 
+the beneficiary for non- execution or delay in execution of my/our above standing 
+instructions either on account of non- availability of sufficient funds in my/our Account 
+or delays in the mail/courier service or for any other reason whatsoever or for the Bank 
+being unable to accept the standing instructions for any reason and from all costs, 
+charges and expenses that the Bank may be put to incur in that behalf. The Bank 
+shall be in no way responsible for non-execution or delay in execution of the standing 
+instructions either on account of non-availability of sufficient funds in my/our Account or 
+delays in the mail/courier services or for any other reason whatsoever or for the Bank 
+being unable to accept the standing instructions for any reason.
+12. GENERAL CONDITIONS APPLICABLE FOR ACCOUNTS (i.e. OTHER THAN TERM/
+FIXED DEPOSIT AND RECURRING DEPOSITS ACCOUNTS) ONLY
+12.1 The Bank shall not be liable to pay interest on the credit balance in any Account held 
+as a current account.
+12.2 Unless specifically agreed with the Bank, the Account at any point in time shall 
+not be temporarily overdrawn. The Bank may, at its discretion, allow the Account to be 
+overdrawn to the extent agreed and advised by the Bank in writing, if the Customer has 
+previously made arrangements with the Bank for such overdraft facility. Interest will 
+be charged on any overdrawn Account in accordance with the Bank’s prevailing rate 
+and practice.
+12.3 As per RBI guidelines the Customer is required to declare existing credit facilities with 
+any of the Bank’s branches or any other bank. The details shall be declared in the 
+account opening form provided with such Account. The Customer warrants to obtain the 
+requisite no-objection certificates from such banks.
+12.4 Interest: The Bank shall pay interest on Savings Accounts at rates as per guidelines 
+issued by RBI from time to time. The Bank may inform the Customer of the said rates 
+of interest and the methods of calculation of the same on a periodic basis as may be 
+determined by the Bank.
+12.5 Aadhaar Number Updation for Seeding/ Government Benefit Transfer to Account:
+(i) From a KYC point of view customers Aadhaar number will be updated against 
+Personal Data; 
+(ii) To avail Direct Benefit Transfer, an Aadhaar number may be updated on one 
+Account for the Customer and hence will not be updated if the same Aadhaar 
+number is provided subsequently to be updated in another Account maintained 
+with the Bank;
+(iii) In case of joint account, Aadhaar number of only one holder will be updated for 
+the Account; 
+(iv) Aadhar number updated in the Account will be shared with National Payment 
+Corporation of ndia (NPCI) for receiving Direct Benefit Transfer credits;
+(v) The Bank does not take any responsibility, and will also not be liable, for any 
+claims, if the details provided by the Customer are incorrect/incomplete.
+13. ATM/ DEBIT CARD
+13.1 If The Customer has applied for the issue of an ATM/Debit Card(s) linked to the 
+Account, and the terms and conditions appearing in this section apply to all transactions 
+involving use of the ATM/Debit Card. Terms and Conditions with regard to the Account, 
+not repugnant to these terms and conditions, shall continue to apply and shall not be, 
+in any way, over-ridden, annulled, amended, modified or substituted by the terms and 
+conditions. The Customer understands and agrees that the availment and use of the 
+ATM/Debit Card Facility will be deemed acceptance of relevant and applicable terms 
+and conditions and the Customer agrees to be unconditionally bound by the same.
+13.2 Definitions
+Capitalised terms used in this Section but not defined hereunder shall have the same 
+meanings as assigned to them under the Terms and Conditions generally applicable to 
+the Account. In this Section, unless the context otherwise requires:
+13.2.1 “Account Transactions” shall mean any or all of the following transactions on the 
+Account performed by using the ATM/Debit Card:
+(a) withdrawal of cash from an ATM/microATM;
+(b) obtaining Account information from an ATM/ microATM; 
+(c) changing of the ATM Pin using an ATM/ microATM;
+(d) deposit of cash / cheques or other financial instruments through a Device; and
+(e) transactions at Merchant Establishments subject to available funds in the Account 
+using EDC(s)or online. 
+13.2.2 “PIN” means the confidential personal identification number, allocated to each 
+Holder of an ATM/Debit Card by the Bank or, as subsequently chosen by the Holder of 
+the ATM/Debit Card from time to time, in relation to each ATM/Debit Card.
+13.2.3 “Device(s)” shall mean any and all of the following devices: 
+(a) ATM;
+(b) microATM;
+(c) CASST;
+(d) Depository; 
+(e) EDC;
+(f) POS; and
+(g) Any other devices (whether of the Bank or shared networks of other banks and 
+institutions) as are subsequently intimated to the Customer as being able to 
+support Account Transactions.
+13.2.4 “EDC” means any electronic data capture terminal, whether of the Bank or a shared 
+network, at which, amongst other things, the Customer can use the ATM/Debit Card to 
+access funds in the Account.
+13.2.5 “Holder” shall mean the Holder, for the time being, of the ATM/Debit Card, being the 
+Customer or a person duly authorized in this behalf by the Customer and acceptable to 
+the Bank.
+13.2.6 “Merchant Establishment” shall mean establishments which honour ATM/Debit Cards 
+issued by the Bank and may include among others, stores, shops, restaurants, 
+hotels, airline organizations and mail order advertisers (whether retailers, distributors 
+or manufacturers), e- Commerce sites.
+13.2.7 “POS” means Point of Sale terminals whether in India or overseas, whether of the Bank 
+or a shared network, at which, amongst other things, the Customer can utilise the ATM/
+Debit Card to access funds in the Account.
+13.3 Issue of ATM/Debit Card to Holder(s):
+13.3.1 On the request of the Customer and subject to the these terms and conditions and all of 
+the Terms and Conditions applicable to the Account, the Bank shall, at its sole discretion, 
+issue to each Holder, an ATM/Debit Card. The ATM/Debit Card is not transferable. The 
+Holder may use the ATM/Debit Card to carry out Account Transactions at any Device.
+13.3.2 To enable such use, a Personal Identification Number (PIN) will be issued to each 
+Holder. The Holder may choose to generate his/her own PIN. This PIN shall be 
+pre-encoded on the ATM/Debit Card prior to its delivery to the Customer. The PIN may 
+subsequently be changed by the Holder.
+13.3.3 Customers who do not want ATM/Debit Card will not have access to the channels for 
+which ATM/Debit Card details (including PIN) are required.
+13.3.4 Customers who wish to activate their ATM/Debit Cards for international use accept that 
+the Bank has enabled their cards upon their specific request. International usage of 
+ATM/Debit Card may lead to levy of charges by the Bank and / or the service providers, 
+the Bank shall not be held responsible for any international usage and charges linked 
+to the same.
+13.4 Securing the PIN:
+13.4.1 The security of the PIN is paramount and the Holder needs to keep it confidential and not 
+reveal it to any third party. It is recommended that the Holder memorizes the PIN and 
+then destroys all record of it. The Holder also needs to ensure that the Device is covered 
+to prevent anyone from seeing the PIN that is being entered. Further, the Holder will 
+ensure that he/she: 
+(a) does not disclose the PIN to any person, under any circumstances 
+whatsoever and shall prevent anyone from seeing the PIN being entered 
+into any device and shall take all possible care to prevent its discovery by 
+any person;
+(b) shall not write or indicate the PIN on the ATM/Debit Card or keep a record of the 
+PIN in any manner;
+(c) shall not retain any physical noting of the PIN in any manner such that any person 
+is able to access the same;
+(d) shall observe all precautions as indicated on the cover/letter/ envelope within 
+which the PIN is delivered.
+13.4.2 Neither the Customer nor the Holder shall hold the Bank liable in case 
+of fraudulent/unauthorized use of the PIN through the ATM/Debit Card being misused 
+and / or falling in the hands of any third-party or through the PIN being misused and/ 
+or coming to the knowledge of any third-party. The Customer shall be solely liable for 
+any losses, damages, costs, charges or expenses including those that may be incurred 
+/ suffered by the Bank as a result of such misuse and/or fraudulent/unauthorized 
+use of the ATM/Debit Card and/or the PIN. If Holder fails to observe these security 
+requirements and allows compromise of the PIN, he/she shall be responsible and liable 
+for any consequences arising there from.
+13.5 Cancellation of ATM/Debit Card: The use of the ATM/Debit Card shall automatically 
+stand terminated in case the Account is closed permanently or is temporarily 
+non-operational or services in the Account are withdrawn permanently or temporarily 
+for any reason whatsoever. Without prejudice to the Bank’s right to cancel, suspend or 
+terminate the use of ATM/Debit Card at its own discretion, the Customer may voluntarily 
+request the Bank to cancel the ATM/Debit Card by blocking the ATM/Debit Card, cutting 
+the ATM/Debit Card in half and returning the same to the Bank for cancellation. Upon 
+receipt of advice/instructions from the Holder, the Bank shall cancel the ATM/Debit 
+Card and PIN. After cancellation, the ATM/Debit Card and PIN should not be used 
+again even if subsequently found.
+13.6 Lost or Stolen ATM/Debit Card or Disclosed PIN: The Holder shall inform the Bank as 
+soon as the Holder has reason to apprehend that the ATM/Debit Card has been or may 
+be misused, lost or stolen or that the PIN has become known to anyone. The Bank will 
+not be liable for any loss by the misuse of the Card prior to the Card being reported as 
+lost/stolen by the Holder unless the Holder is deemed eligible by the Bank for the “Lost 
+Card liability” cover based on the terms and conditions published on the Bank’s 
+website from time to time. Upon receipt of advice/instructions from the Holder or the 
+Customer, the Bank shall cancel the ATM/Debit Card and PIN. After cancellation, the 
+ATM/Debit Card and PIN should not be used again even if subsequently found. Provided 
+that, in case of misuse, loss or theft of the ATM/Debit Card or disclosure of the PIN to / 
+access to the ATM/Debit Card and / or PIN by any person, the Customer / Holder 
+must immediately inform the Bank and also file an FIR and send a copy thereafter to 
+the Bank. The Customer shall be liable for all charges incurred on the said 
+ATM/Debit Card / PIN, till the ATM/Debit Card / PIN is reported lost to the Bank by the 
+Customer and usage on the same is suspended as a result of such reporting. The Bank 
+may, without referring or issuing a notice to the Customer/Holder, give the police or other 
+relevant authorities any information about the loss or theft of the ATM/Debit Card / PIN. 
+Further a copy of the written confirmation of the misuse, loss or theft of the ATM/Debit 
+Card or disclosure of the PIN to / access to the PIN by any third-party along with a copy 
+of the police report shall be submitted to the Bank. The Bank shall not be liable for any 
+misuse of the ATM/Debit Card and/or PIN under any circumstances and/or at any time, 
+whatsoever. Any replacement ATM/Debit Card and PIN subsequently issued by the 
+Bank, at application therefore by the Customer, shall be governed by these terms and 
+conditions.
+13.7 Use of ATM/Debit Card and Liability for Misuse:
+13.7.1 All Holder(s) and the Customer, jointly and severally, accept and agree that, at the 
+request and risk of the Customer, the Bank has agreed to provide the Holder(s) the 
+facility of executing Account Transactions by using the ATM/Debit Card. However, the 
+use of ATM/Debit Card is subject to the holding of appropriate credit balance in the 
+Account.
+13.7.2 The facility of cash withdrawal through the ATM/Debit Card is made available by the 
+Bank on the best effort basis and the Customer agrees that he will not hold the Bank 
+responsible or liable in any manner for any consequences whatsoever in case of 
+inability of the Customer to withdraw cash at an ATM on account of malfunction of 
+the ATM or inadequate cash balance at the ATM or closure of an ATM site or otherwise 
+howsoever.
+13.7.3 The Customer hereby irrevocably authorizes the Bank to process any and all 
+Account Transactions whether the same have been performed bonafide or otherwise 
+and by the Holder or by any joint Holder of the Account or any other party whosoever. 
+The Customer undertakes to comply with all applicable laws/ procedures while availing 
+of / utilizing the ATM/Debit Card.
+13.7.4 The Customer accepts full responsibility and liability in all circumstances for 
+Account Transactions performed on any Device through the ATM/Debit Card whether 
+or not such an Account Transaction is processed with the knowledge of the Customer. 
+Any instruction given through utilization / in respect of the ATM/Debit Card shall be 
+irrevocable. The Customer hereby authorizes the Bank to debit the Account with the 
+amount of any withdrawal or transfer or carry out any such instructions that may be 
+received by the use of any ATM/Debit Card in accordance with the Bank’s record of 
+transactions, which the Customer agrees to accept as final and conclusive.
+13.7.5 The Customer understands, agrees and undertake that:
+(a) The Customer shall not hold the Bank liable for acting on and pursuant to 
+Account Transactions with the ATM/Debit Card.
+(b) The Bank shall, in its sole discretion, without assigning any reason whatsoever, 
+be entitled to withdraw, discontinue, cancel, suspend or terminate the 
+facility to use the ATM/Debit Card and/or services related to it and shall not be 
+liable for any loss or damage suffered or claimed by the Customer resulting in 
+any way from such action. Such action may be immediate and without prior 
+notice should the circumstances, in the view of the Bank, warrant the same.
+(c) Without prejudice to the Bank’s inability to monitor the use of, or the 
+nature of Account Transactions performed on the ATM/Debit Card, the Bank 
+may, at its sole discretion but without any obligation, liability or responsibility in 
+this regard, decide not to carry out any such instructions where 
+the Bank has reason to believe that the instructions are not genuine or are 
+such as to raise a doubt or are otherwise improper and cannot be put 
+into effect for any reasons whatsoever.
+(d) The Bank may, at its sole discretion, video tape or record on camera 
+the Customer’s access/presence/ use of the Bank’s facilities at premises/ 
+machines/ equipment of the Bank and/or any shared network and the 
+Customer understands and accepts that the Bank may rely on footage of such 
+clipping as evidence in any proceedings.
+(e) Account Transactions initiated by the Customer will be completed only if the funds 
+are clear and sufficient to meet the transaction amount in full including any applicable 
+charges/fees, etc. The amount of each completed transaction will be immediately debited 
+from the Account.
+(f) If any instruction given by the Customer is capable of being executed by the Bank 
+in more ways than one, the Bank may execute such instruction in any one of such ways, 
+at its sole discretion.
+(g) The Bank shall not be liable for any failure to provide the facility of ATM/Debit Card 
+for any reason whatsoever including, but not limited to, on account of any electronic or 
+other systems or systems related failure, disruption, force majeure or other circumstance 
+outside the control of the Bank. 
+(h) The Holder shall ensure that all Account Transactions initiated by the ATM/
+Debit Card are properly terminated so as not to allow any other person to transact on 
+the Account;
+(i) The Holder(s) and the Customer shall be, jointly and severally, responsible to intimate 
+the Bank, in the manner prescribed in the terms and conditions, if the ATM/Debit Card 
+and/or the PIN has/have been or is/are likely to be fraudulently used, or misused.
+(j) The Customer specifically agrees, acknowledges and understands that any offers 
+(schemes, gifts, discounts, etc.) of any nature whatsoever are subject to the terms and 
+conditions of that specific offer.
+(k) The Customer further agrees and acknowledges that the Bank shall not, in any 
+manner, be held liable or responsible for any loss, damage or injury whatsoever 
+suffered by the Customer/ Holder, directly or indirectly, by use or non-use of products/ 
+services under the offer. Without prejudice to the foregoing, an offer may be terminated/
+withdrawn/amended by the Bank without any prior notice. The Bank shall not be under 
+any obligation to continue the offer after the offer termination date as notified by the 
+Merchant Establishment or as subsequently changed by the Bank, as the case may be. 
+Further, the Bank reserves the right, at any time during an offer, with prior notice, to add/
+alter/change/modify the terms and conditions of an offer or to replace, wholly or in part, 
+an offer with another offer, similar or otherwise.
+(l) The Bank shall send alerts for all successful ATM / Debit Card transactions, 
+irrespective of the amount, on the mobile number of the Customer / Holder registered 
+with the Bank. The alerts will not be sent for any unsuccessful / declined transaction.
+13.8 Limitation on Use
+The Bank reserves the right to limit the minimum and / or maximum aggregate amount 
+of the Account Transactions per day and such limits being further subject to availability 
+of clear funds in the Account. The Customer acknowledges and understands that daily 
+minimum and / or maximum transaction limits apply to all Devices (within India and 
+outside India) and may vary between different Devices belonging to different shared 
+networks. The Holder will also be allowed to set his/her own limits to the overall 
+maximum limits set by the Bank. The Bank shall not be liable or responsible for any loss 
+or inconvenience the Customer may suffer due to lack of uniformity in these limits for 
+transactions through different ATMs/microATMs/networks.
+13.9 Reward Scheme
+The Bank may offer the Customer various Reward Schemes on the usage of a ATM/
+Debit Card. The Customer understands and acknowledges that specific terms and 
+conditions will apply to any such Reward Scheme as may be determined by the Bank 
+in its sole discretion and as may be notified to the Customer. The Bank shall have the 
+final discretion in choosing merchants and/or products where the Customer may earn 
+Reward Points using the ATM/Debit Card.
+13.10 Processing and Conversion Fee or Charges
+(a) Use of the ATM/Debit Card at any Device may entail a service charge and/or 
+ transaction fee and or processing and/ or conversion fee and an annual fee being levied 
+on the Account, as may be prescribed by the Bank from time to time. Any charges/fees/
+conversions charges levied for transactions on the ATM/Debit Card shall be debited 
+to the Account and the Customer shall be solely liable for payment of the same. Any 
+change in such charges/fees would be intimated through Bank’s Website from time to 
+time.
+(b) Any government charges, duty or debits or tax payable as a result of the use of the 
+ATM/Debit Card shall be the responsibility and liability of the Customer. The Customer 
+hereby authorizes the Bank to debit such charge, duty or tax against the Account if the 
+same is imposed upon the Bank (either directly or indirectly). 
+13.11 Maintenance
+While advance notice of maintenance work likely to affect the usage of the ATM/Debit 
+Card may be given on a best efforts basis, the Bank reserves the right to suspend 
+access to any Device or the provision of all or any of the services relating to the ATM/
+Debit Card, at any time, if the Bank deems it necessary to do so.
+13.12 Replacement of ATM/Debit Card
+The Bank may, in its sole discretion, at the request of the Customer, issue a 
+replacement ATM/Debit Card with a new PIN for any lost or stolen ATM/Debit Card or a 
+new or same PIN on such terms and conditions as the Bank may deem fit. In any 
+event, unless otherwise specified by the Bank in writing, any replacement ATM/Debit 
+Card and PIN issued by the Bank shall be governed by the Terms and Conditions.
+13.13 International Usage Of ATM/Debit Card
+(a) The Bank at any point of time may, at its sole discretion, discontinue International 
+usage of the ATM/Debit Card with prior intimation. the Holder(s) shall use the ATM/Debit 
+Card for foreign currency withdrawals and transactions only for private visit abroad 
+under the provisions of FEMA, 1999 or such amended scheme of the RBI as may be 
+made applicable from time to time, and not for any other reasons and hereby agree and 
+confirm that usage outside India would be subject to regulatory and legal restrictions 
+and exchange control laws and limitations as may be applicable from time to time in 
+both the country where the transaction is performed as also in India. The Customer 
+understands and acknowledges that any and all other limits and/or restrictions imposed 
+on the Account, the Facilities and ATM/Debit Card shall apply in addition to and not in 
+derogation of the limit imposed for foreign currency withdrawals and transactions 
+towards private visit abroad.
+(b) The utilisation of the Card shall be in strict accordance with the Exchange Control 
+Regulations of the Reserve Bank of India (RBI) issued from time to time. In the event 
+of non-compliance by Cardholder with the same, the Cardholder shall be liable for 
+action under the FEMA, 1999 and any other law and/or regulation in force from time 
+to time relating to foreign exchange. The Cardholder may be debarred from holding 
+the internationally valid Debit Card, either at the instance of the Bank or the RBI. The 
+Card is valid for use both in India as well as outside India but would carry the inscription 
+“Not valid for payment in foreign exchange in Nepal and Bhutan. In case the Card is 
+cancelled, whether on account of non-compliance with Exchange Control regulations 
+or otherwise, the Bank will not be responsible for any attempted usage of the Card, 
+whether in India or abroad, resulting in the Card being dishonoured.
+(c) The Card cannot be used for effecting remittances for which the release of exchange 
+is not permissible under the extant guidelines.
+(d) The Holder and the Customer shall compensate/reimburse and hold harmless the 
+Bank from any and all consequences arising from non-compliance of the Exchange 
+Control Regulations of the RBI and the applicable laws. Non-resident Indians will be 
+eligible to international use of ATM/Debit Card issued in India.
+(e) The Holder(s) and the Customer recognize that foreign currency withdrawal will 
+attract a service fee. Such service fee shall be subject to revision at the sole discretion 
+of the Bank.
+13.14 Debit Card PIN Reset/Unlock
+Have you entered an incorrect PIN? Oops!! Have you entered an incorrect PIN thrice? 
+Now you can reset your Debit PIN in case your debit card is locked out. It’s very easy. 
+You can either go online or call our toll free Number. 
+Follow the steps below: 
+Method 1 - Go online at https://my.idfcbank.com/start
+1. Click on the generate debit card PIN tab
+2. Enter the below details & proceed further
+ a. Your customer ID
+ b. Your registered Mobile Number
+ c. The CAPTCHA
+3. Subsequently, enter the below debit card details
+ a. Debit card Number
+ b. Expiry in MM/YYYY
+ c. CVV Number
+4. Subsequently, enter the OTP received on your registered mobile Number
+5. Having verified the OTP, unlock your debit card by assigning a NEW PIN
+Method 2 - Go online at https://my.idfcbank.com/start
+1. Enter your User ID and PWD
+2. On the left TAB click on “PIN/Password Management” & choose “Change Debit 
+Card PIN” tab
+3. Select the Debit card you wish to unlock & enter the below details
+ a. Expiry in MM/YYYY
+ b CVV Number
+4. Subsequently, enter the OTP received on your registered mobile Number
+5. Having verified the OTP, unlock your debit card by assigning a NEW PIN
+Method 3 – IVR
+1. Call our toll free 1800 419 4332
+2. Choose option 1 for Debit card PIN generation
+3. Subsequently, Choose option 1 for the desired language
+4. Enter the 16 digit debit card Number followed by a # key
+5. Enter date of birth
+6. Enter the OTP sent to you on your registered mobile Number
+7. Enter new PIN, confirm new PIN and unlock your debit card.
+Method 4 – Mobile
+1. Download the IDFC FIRST Bank - Mobile banking app from Android/IOS Play 
+Store
+2. Enter your User ID and PWD
+3. On the left TAB click on “PIN/Password Management” & choose “Change Debit 
+Card PIN” tab
+4. Select the Debit card you wish to unlock & enter the below details
+ a. Expiry in MM/YYYY
+ b. CVV Number
+5. Subsequently, enter the OTP received on your registered mobile Number
+6. Having verified the OTP, unlock your debit card by assigning a NEW PIN
+13.15 Contactless Cards or SafePay :
+Contactless (SafePay) transactions refers to transactions which are performed by 
+simply waiving or tapping your card / mobile on the contactless enabled terminal and 
+pay without entering a pin. The contactless transactions can be performed for cards with 
+Contactless( )symbol or with IDFC FIRST Mobile app.
+“Contactless transaction done via SafePay process can be done by without login to 
+IDFC FIRST Mobile App after unlocking and tapping their phone at Contactless enabled 
+terminal.”
+13.15.1 As per the RBI directive, under CONTACTLESS feature (i.e. waving or tapping the EMV 
+enabled Card on a contactless enabled EMV compliant POS terminal for the purpose 
+of making a payment) and/or SafePay service, a Card Holder is entitled to make a 
+purchase not exceeding INR 2,000/- (Rupees Two Thousand Only) at a merchant POS 
+using a CONTACTLESS of payment, depending on the available credit limit on their 
+card.
+13.15.2 CONTACTLESS and/or SafePay service of payment is only applicable for purchases at 
+a merchant POS and not for ATM withdrawals.
+13.15.3 The Cards having CONTACTLESS feature and/or SafePay service shall be issued to 
+the undermentioned customers of IDFC FIRST Bank Limited :
+a. New to Bank
+b. In case of Renewal of existing cards
+c. In case of Add-on card,
+d. In case of re-issuance of Cards due to lost/stolen/damaged card etc.,
+e. In case of blocked and have been reinstated, and
+f. On request of the customers
+13.15.4 IDFC FIRST Bank reserves the right to, without risks and liability or prejudice to 
+any of its other rights, at any time, without previous notice and from time to time, 
+withdraw/suspend/amend/cancel or disable CONTACTLESS feature and/or SafePay 
+service, without assigning any reasons thereof.
+13.15.5 The Card Holder should abide and adhere to the terms and conditions prescribed and 
+notified by the Bank in its website at www.idfcfirstbank.com time to time relating to 
+CONTACTLESS featured cards and/or SafePay service. The initiation of a transaction 
+through Contactless Cards or SafePay feature shall be deemed that the Card Holder 
+has read, understood and unconditionally accepted the said Terms & Conditions.
+13.15.6 Card Holder shall not hold IDFC FIRST Bank Limited, its group entities or affiliates, their 
+respective directors, officers, employees, agents, vendors, responsible for or liable for 
+any actions, claims, demands, losses, damages, costs, charges and expenses which 
+the Card Holder claims to have suffered, sustained or incurred or claims to suffer, 
+sustain or incur, by way of and/or on account of using contactless cards and/or SafePay 
+Service including but not limited to any delays, loss of business, profit, revenue or 
+goodwill, anticipated savings, damages, fees costs, expense, etc. or for any indirect 
+or consequential, special or exemplary damages or loss arising in connection with 
+CONTACTLESS featured Cards or SafePay Service or otherwise.
+13.15.7 The Card Holder should not use CONTACTLESS featured Card or SafePay service for 
+any purpose that might be construed as contrary or repugnant to any applicable law, 
+regulation, guidelines, bank policy or for any purpose that might negatively prejudice the 
+goodwill of IDFC FIRST Bank Limited.
+13.15.8 IDFC FIRST Bank shall not responsible and liable for any dispute with or complaint against 
+any Merchant Establishment and same must be directly resolved by the Customer with 
+the Merchant Establishment. IDFC FIRST Bank shall not be responsible or liable for any 
+deficiency in goods and/or services purchased using said CONTACTLESS Featured 
+Card or SafePay Service.
+13.15.9 The Card Holder shall be solely responsible for the confidentiality, safety and security of 
+transactions done through the CONTACTLESS featured card and/or SafePay Service 
+at all times.
+13.15.10 No charges will be recovered from the customer for availing this service.
+14. TERMS AND CONDITION APPLICABLE TO TERM/FIXED DEPOSIT AND 
+RECURRING DEPOSITS ACCOUNTS ONLY
+14.1 “Traditional Term/Fixed Deposits” are Term/Fixed Deposits where interest is paid at 
+regular intervals, i.e., Quarterly or Monthly, as requested by the Customer/s at the time 
+of creating the Term/Fixed Deposits.
+14.2 “Cumulative Term/Fixed Deposits” are Term/Fixed Deposits where interest is 
+compounded quarterly and reinvested with principal amount.
+14.3 “Maturity Value” shall mean the amount payable to the Customer at the end of the term 
+of the Term/Fixed Deposit subject to deduction of any tax as may be applicable.
+14.4 The Customer is required to specifically apply for deposit related products in accordance 
+with specific terms and conditions as mentioned in the Deposit Application form 
+applicable to the same from time to time and subject to directives laid down by the RBI 
+from time to time and all other applicable laws.
+14.5 The Customer agrees that in case of a joint account having mode of operation as anyone 
+or survivor, anyone of the account holders, may create a Term/Fixed deposit/ recurring 
+deposit by placing a request through branches, ATM, phone banking, Internet Banking 
+or mobile banking channel’s as made available by IDFC FIRST Bank from time to time. 
+The Customer agrees that such a Term/Fixed deposit/recurring deposit shall be created 
+in the name of all the account holders with mode of operation as anyone or survivor and 
+the Customer shall be bound by the terms and conditions applicable to such Term/
+Fixed deposit/recurring deposit or to a Term/Fixed Deposit created by renewing / 
+auto-renewing a Term/Fixed Deposit. The Customer also understands that for availing 
+a loan against such Term/Fixed Deposit or for premature termination of such a Term/
+Fixed Deposit/recurring deposit or any Term/Fixed Deposit created by renewing / 
+auto-renewing a Term/Fixed Deposit, consent of all the Term/Fixed Deposit/
+recurring deposit holders would be required in the manner specified by the Bank either 
+at the time of making request for the loan or terminating the deposit or through a onetime consent. The Customer shall not raise any dispute / claim against the Bank for 
+creating/closing a Term/Fixed Deposit/recurring deposit in the manner specified above 
+and shall keep the Bank indemnified against any loss / harm suffered by the Bank with 
+respect to any dispute / claim raised by the Customer or any third party.
+14.6 Recurring Deposit (RD) - Recurring Deposit is a special type of term deposit which 
+enables a depositor, particularly in a fixed income group, to save by paying into the 
+account an agreed fixed amount monthly over a stipulated period.
+14.7 Period of RD - Recurring Deposit accounts can be opened for a minimum period of 6 
+months and in multiples of 3 months thereafter, up to a maximum of 120 months.
+14.8 Interest Payment / TDS Liability on RD
+(a) The interest on Recurring Deposits will be calculated by the Bank in accordance 
+with the policy of the Bank and as per Law or Regulation.
+(b) Interest on Recurring Deposit is applied on a quarterly compounding basis
+(c) It is important to note that the Finance Act 2015 has expanded the definition of Term 
+deposits to include Recurring Deposits as well and modified the interest exemption limit 
+of Rs. 10,000/- per Branch to read as Rs.10,000/- per “Bank” wef 01/06/15. TDS 
+liability would now be determined based on the total interest accrued for all deposits 
+tagged to the Customers’ Unique Customer Identification ID (CIF ID), if the exemption 
+limits of some customers are breached (despite submission of the Forms 15G/ H), 
+would be liable for deduction of tax. Recently, the Finance Act 2019 has modified the 
+aforesaid interest exemption limit from Rs. 10,000/- to Rs50,000/- for senior citizens and 
+Rs 40,000/- for other customers.
+14.9 Payment of instalments
+(a) The instalment amount once fixed cannot be altered at any later date, except as 
+provided in the product offering;
+(b) If more than one instalment is overdue at the time of payment, the paid 
+instalment, if sufficient to cover only that one instalment will be appropriated 
+towards the first or earliest instalment overdue;
+(c) Partial payment of instalments will not be permitted, unless provided in the 
+product offering and agreed in writing by the Bank.
+14.10 Lock in Period
+(a) The Recurring Deposit account has a minimum lock-in period of one month or as 
+provided in the product offering and agreed in writing by the Bank;
+(b) In the case of premature closure within a month, no interest shall be paid to the 
+depositor and only his principal amount shall be returned, unless provided in the 
+product offering and agreed in writing by the Bank.
+14.11 Maturity
+(a) Interest is paid only on maturity;
+(b) When all the stipulated instalments are paid by the Customer, the 
+accumulated amount is repayable together with accrued interest on the date of 
+the maturity;
+(c) However, where the last instalment is received by the Bank after the due date, the 
+accumulated amount together with interest will become repayable one month 
+after the date of receipt of such instalment irrespective of the maturity date 
+of the deposit;
+(d) The maturity amount mentioned on the Recurring deposit confirmation advice is 
+subject to the payment of all instalments on time; and
+(e) The terms herein will be subject to the terms of the product offering and as 
+agreed in writing by the Bank.
+14.12 Premature Withdrawal and Penalty
+(a) Grace period of 5 days to pay instalment will be available to Customer. After 3 
+non-payments, Recurring Deposit will be closed and proceeds credited to 
+Savings Account;
+(b) Premature withdrawal of Recurring Deposit is allowed and penalty, if any, on the 
+rate applicable on the date of the deposit for the period for which the deposit has 
+run.
+14.13 80 C Term/ Term/Fixed Deposits
+(a) Single holder type deposits -- The single holder type deposit receipt shall 
+be issued to an individual for himself or in the capacity of the Karta of the 
+Hindu undivided family;
+(b) Joint holder type deposits -- The joint holder type deposit receipt may be issued 
+jointly to two adults or jointly to an adult and a minor, and payable to either of the 
+holders or to the survivor: Provided that in the case of joint holder type deposit, 
+the deduction from income under section 80C of the Income Tax 
+Act, 1961 (the “Act”) shall be available only to the first holder of the 
+deposit.
+(c) The minimum amount of Deposit which can be placed with the Bank shall be 
+Rs.10,000 and the maximum amount of Deposit which can be placed shall be 
+Rs.1,50,000 in multiples of Rs.1
+(d) Only individuals and HUF – Indian residents are eligible for applying for the Deposit.
+(e) The maturity period of a Deposit receipt of any denomination shall be five years 
+commencing from the date of the receipt. There shall be no auto renewal facility 
+for the Deposit.
+(f) No Deposit shall be encashed before the expiry of five years from the date of the 
+respective receipt.
+(g) Conversion of any other Term/Fixed Deposits/s placed by the Deposit holder with 
+the Bank to the Deposit is not permissible.
+(h) Permanent Account Number (PAN) is mandatory to open a 80 C Term/Fixed Deposit. 
+(i) The Deposit shall not be pledged to secure any loan or as security to any other 
+ asset. 
+14.14 Payment of Interest on Term/Fixed Deposit
+(a) Interest on Term/Fixed Deposits is reckoned/ paid at quarterly / monthly intervals 
+and at the rate/s applicable as on the value date of opening of Term/Fixed Deposits, as 
+the case may be, in accordance with the rate fixed by the Bank from time to time as also 
+directives issued by RBI.
+(b) The interest may be paid either in a lump sum at the time of maturity or it may 
+be paid every quarter or every month in accordance with the regulatory payments for 
+payment of interest on the Term/Fixed Deposit. Where the interest is to be paid by the 
+Bank in lump sum at the time of maturity, the Term/Fixed Deposit shall bear the yearly 
+rate of interest on the Term/Fixed Deposit.
+(c) The Bank may announce special rates for senior citizens and staff. (d) Methodology 
+of interest calculation
+(e) Interest rates are money market (i.e. simple interest) rates for tenors upto 6 
+months and quarterly compounded rates for tenors of 6 months and above. However, 
+in case of Traditional Term/Fixed Deposits interest rates are money market (i.e. simple 
+interest) rates irrespective of the tenor.
+14.15 The method of calculation on interest on a Term/Fixed Deposit, both Traditional and 
+Cumulative deposits is as under:
+14.16 For Traditional Term/Fixed Deposits with quarterly payouts interest is calculated 
+based on annual rates (simple interest). However, in case of monthly payouts, 
+interest is paid at a discounted value. For Traditional Term/Fixed Deposits with 
+quarterly/monthly / on maturity payout, interest is calculated on the principal amount 
+for actual number of completed days.
+14.17 For Cumulative Term/Fixed Deposits, interest is compounded quarterly on completion 
+of exact quarters. For the broken period beyond completed quarters, simple interest is 
+calculated on the cumulated deposit amount for remaining number of days.
+14.18 In case of premature withdrawal the interest is calculated on the principal amount for 
+completed quarters and then for the balance period, interest is calculated for completed 
+months and further for incomplete month on actual number of days
+14.19 For the purpose of interest calculation financial year is taken to consist of 365 days, 
+except in a leap year when it is taken to consist of 366 days.
+14.20 Renewal: In the absence of any special instructions, the deposit will be renewed on 
+maturity for a like term at the then applicable interest rates.
+14.21 Tax Deduction at Source: Tax is deducted at source on interest on Term/Fixed Deposit 
+held by the resident if the interest paid or payable by the branch for the financial year 
+exceeds the threshold limit specified by Income Tax Act, 1961. Currently, the threshold 
+limit for this purpose is Rs. 40,000 p.a. for non-senior citizens and Rs. 50,000 p.a for 
+senior citizens
+14.22 For Traditional FD (with quarterly / monthly interest payment), tax is deducted on each 
+interest payment and on interest accrued on March 31st of every year. For 
+Cumulative FD, tax is deducted on interest accrued on March 31st of every year and 
+on maturity. The TDS amount calculated on the accrued interest is remitted to the tax 
+authorities on behalf of the customer by the Bank. The interest on the TDS amount from 
+April 1st till maturity of the deposit is adjusted from the interest payable to the client.
+14.23 As per provisions of Finance Act 2009, w.e.f April 01, 2010, valid PAN is required 
+to be submitted by all customers whose tax needs to be deducted. In the absence of a 
+valid PAN, tax will be deducted at the prevailing rate or 20% whichever is higher. Also, 
+Form 15G/H shall not be treated as valid unless PAN is mentioned in such forms.
+14.24 In case the deposit holder does not want the Tax to be deducted at source, they may 
+submit Form 15G / 15H (other than company, firm or co-operative society)/ Exemption 
+Certificate under Section 197 (in case of all holders)/ or any other Tax Exemption 
+Certificate with the Bank. Such form or tax exemption certificate has to be submitted 
+every financial year for each fixed / recurring deposit held and on each renewal of 
+the deposit.
+14.25 In case of non-resident FD holders tax shall be deducted at source as per the provisions 
+of section 195 of Income Tax Act, 1961.
+14.26 Date of Term/Fixed Deposit
+(a) The effective date of Term/Fixed deposit shall be the date on which the amounts 
+of deposit placed are realized by / credited to the Bank. No Term/Fixed deposit receipt / 
+advise will be issued in anticipation of realisation of cheque/s in relation to any deposit 
+and will be issued only on actual receipt of payment / deposit monies.
+(b) In case requests for opening Term/Fixed deposits are received on a Sunday or 
+holiday through electronic channels like Internet Banking, phone banking, ATM or any 
+other electronic channel, the Term/Fixed Deposit will be opened with the value on the 
+next Working Day.
+(c) In case requests for opening Term/Fixed Deposits are received on Sunday from 
+customers walking into a branch working on Sunday, the Term/Fixed Deposit will be 
+opened on the next Working Day with the value.
+14.27 Term/Fixed Deposit Advice: At the time of placing the Term/Fixed Deposit an Advice shall 
+be issued by IDFC FIRST Bank. In cases where Auto Renewal or Auto Closure option 
+is selected by the Customer, an electronic Term/Fixed Deposit Advice shall be sent to 
+the Customer on his registered email ID updated with the Bank. If the email ID of the 
+Customer is not registered with IDFC FIRST Bank then physical Term/Fixed Deposit 
+Advice shall be issued to the Customer.
+14.28 Premature/partial closure of Term/Fixed Deposits
+(a) In the event of the Term/Fixed Deposit being closed before completing the original 
+term of such deposit, interest will be paid at the rate applicable on the date of deposit 
+for the period for which the deposit has remained with the Bank. The deposit may be 
+subject to penal rate of interest as prescribed by the Bank on the date of deposit.
+(b) For the deposit amount remaining after the part withdrawal, interest rate remains 
+the same i.e. the rate at which the FD was originally booked.
+(c) In case of premature closure of the Term/Fixed Deposit, interest will be paid basis 
+interest rate applicable at the time of booking the term/fixed deposit, for the corresponding 
+period for which deposit has remained with the bank. Additionally, term/fixed deposit 
+if prematurely closed, would be subject to ‘Premature Closure Penalty’ as prescribed 
+by the Bank on the date of deposit. The Interest thereon will be paid for the period for 
+which the deposit has remained with the bank, after application of penalty. Term/Fixed 
+Deposits of Senior Citizens and premature closure of Term/Fixed Deposit effected due 
+to death of account holder/s are exempted from the 
+said Premature Closure Penalty. The said Premature Closure Penalty shall be applicable 
+and imposed on all Term/Fixed Deposits booked and/or renewed on or after 2nd May 
+2019
+14.29 Nomination
+(a) The single holder or the joint holders of the Deposit may, by filing in necessary 
+particulars in the prescribed form at the time of making the Deposit, nominate any 
+person who, in the event of death of the single or both the joint holders as the case may 
+be shall become entitled to the Deposit and the payment thereon.
+(b) If such nomination is not made at the time of making the Deposit, it may be made 
+by the single holder, the joint holders or the surviving joint holder, as the case may be, 
+at any time after the Deposit receipt is issued but before its maturity, by means of an 
+application in the prescribed form to the officer in charge of the branch of the Bank from 
+which the term Deposit is issued.
+(c In the event of death of the Deposit holder in respect of which a nomination is 
+in force, the nominee shall be entitled at any time before or after the maturity of the 
+Deposit to encash the Deposit. For the aforesaid purpose, the nominee shall make 
+an application to the branch manager of the Bank, supported by proof of death of the 
+Deposit holder.
+(d) If a Deposit holder dies and there is no nomination in force at the time of his / her 
+death, the Bank shall pay the sum due to the deceased, to his / her legal heirs.
+14.30 Other terms
+(a) At the discretion of the Bank, loan against the Term/Fixed Deposit may be 
+given to the depositors, in whose name the deposit has been opened and who are 
+authorised to withdraw the deposit, as per original mandate.
+(b) In addition, the Bank Term Deposit Scheme, 2006 issued by the Central Government 
+shall also apply to the Deposit.
+(c) For Bulk Deposits, please contact your Relationship Manager

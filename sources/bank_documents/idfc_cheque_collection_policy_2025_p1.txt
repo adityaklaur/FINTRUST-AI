@@ -1,0 +1,281 @@
+## IDFC FIRST Bank Limited
+
+| | Cheque Collection Policy |
+| --- | --- |
+| Version | : 1.7 |
+| Version Date | : July,2025 |
+
+Contents
+
+A. Background ... 3 
+B. Brief description of the Policy ... 3 
+C. Regulatory Requirements ... 3 
+D. Risk type ... 3 
+E. Impact Assessment ... 3 
+F. Risk Management & Controls ... 3 
+G. Delegation of Power ... 3 
+H. Responsibility Matrix ... 4 
+I. Review ... 4 
+Annexure A ... 5 
+1. Arrangements for collection: ... 5 
+2. Clearing for Non – CTS cheques: ... Error! Bookmark not defined. 
+3. Compensation for delay in clearance of Local Cheques: ... 6 
+4. Payment of Interest for delayed Collection of Outstation Cheques: ... 7 
+5. Interest for delayed collection shall be paid at the following rates: ... 7 
+6. Compensation for loss of Cheques / Instruments in transit ... 8 
+7. Payment of Cheques after Stop Payment Instructions ... 8 
+8. Payment of "at par" Cheques issued by other Banks ... 9 
+9. Immediate credit of local/outstation cheques/instruments ... 9 
+10. Cheques payable in Foreign Countries ... 10 
+11. Delay in re-presentation of technical return cheques and levy of charges for such returns ... 11 
+12. Customers' responsibility ... 11 
+13. Disclaimer clause ... 12 
+14. Force Majeure ... 12 
+15. Redressal of Grievances and Complaints: ... 12 
+
+Internal Document Confidential
+
+| | Cheque Collection Policy |
+| --- | --- |
+| A. Background | IDFC FIRST Bank Limited has received an in-principal approval from RBI on April 9, |
+| | 2014 for establishing a new bank in the private sector. As per extant guidelines of RBI on Master Circular on Customer Service in Banks issued on July 01, 2015, Banks should formulate a comprehensive and transparent policy taking into account their technological capabilities, systems and processes adopted for clearing arrangements and other internal arrangements for collection through correspondents. The policy should cover the following three aspects: • Immediate Credit for Local / Outstation cheques • Time frame for Collection of Local / Outstation Instruments • Interest payment for delayed collection |
+| B. Brief description | The policy framework lays down requirements related to aspects of collection of |
+| of the Policy | local/outstation cheques, compensation for delay in clearance and for loss of |
+| | cheques in transit, redressal of grievances and complaints and other related issues to facilitate clearance of cheque. |
+| C. Regulatory | As per the Reserve Bank of India, Master Circular No. DBR No. Leg. BC. |
+| Requirements | 21/09.07.006/2015-16, dated July 1, 2015 on Customer Service in Banks, Bank |
+| | should have a Board approved policy for Cheque Collection Policy. |
+| D. Risk type | The policy intends to manage/mitigate Legal & Reputational Risk, Compliance and Operational Risk. |
+| E. Impact | The policy stipulates the requirements related to operations of immediate credit for |
+| Assessment | local / outstation cheques , time frame for collection of local / outstation |
+| | instruments, interest payment for delayed collection |
+| F. Risk Management | The respective business units of Consumer/Wholesale/Retail Banking and other |
+| & Controls | Groups of the Bank will liaise with the Governance, Compliance, Information |
+| | Security, Risk, Operations and other departments of the Bank for Monitoring the manner in which the policy is implemented at the ground level. The detailed policy guidelines are provided as Annexure A with this note. |
+| G. Delegation of | The Board shall be on an annual basis updated on the review of cheque collection |
+| Power | policy of the preceding year and the final cheque collection policy of the ensuing |
+| | year. |
+
+H. Responsibility Matrix
+
+| | The respective business units of Consumer/Wholesale/Retail Banking and other Groups of the Bank will be responsible in implementing the policy requirements at a bank-wide level. |
+| --- | --- |
+| I. Review | The Policy shall be reviewed at least on an annual basis or at earlier intervals, if there any regulatory changes necessitating such interim reviews. |
+
+Annexure A
+
+IDFC FIRST Bank Cheque Collection Policy  Preamble:
+
+IDFC FIRST Bank endeavours to provide the most efficient services to its customers through effective utilisation of available digital / non digital channels in cheque collection, payment and settlement systems. We hope to leverage on our technology infrastructure to ensure that we do not compromise on the quality of our operational systems, processes and safety of our customers’ assets.
+
+Reserve Bank of India and BCSBI codes have been issuing guidelines from time to time with a view of improving the level of customer experience and empowering the banks to promote efficient service. Accordingly, our cheque collection policy has been defined keeping customer’s interests at the forefront.
+
+ Objective:
+
+The objective of ‘’IDFC FIRST Bank Cheque Collection Policy (Banking Services)’’ (hereinafter called ‘The Policy’) is to establish a system whereby IDFC FIRST Bank (hereby referred as ‘The Bank’) enlists detailed procedures to collect and manage cheques issued by customers.
+
+### 1. Arrangements for collection:
+
+a. Local Cheques – CTS
+
+All cheques and other negotiable instruments payable locally would be presented through the CTS clearing system prevailing at the respective grid . Cheques deposited at branch counters and in collection boxes within the branch premises before the specified cut-off time will be presented for CTS clearing on the same day.
+
+Cheques deposited after the cut-off time and in collection boxes outside the branch premises including off-site Automated Teller Machines will be presented in the next CTS clearing cycle.
+
+As a policy, Bank would give credit to the customer account on the same day the clearing settlement takes place. Withdrawal of amounts so credited would be permitted as per the cheque return schedule of the clearing house. Bank would prohibit crediting proceeds to Third Party Account in case Collection of Account Payee Cheque.
+
+Bank branches situated at centres where no clearing house exists, would present local cheques on drawee banks across the counter and it would be the Bank’s endeavour to credit the proceeds at the earliest. Account payee cheques for any person other than the payee constituent shall not be collected. Bank shall collect account payee cheques drawn for an amount not exceeding rupees fifty thousand to the account of co-operative credit societies held with us, provided the payees of such cheques are the constituents of such co-operative credit societies. Timing for acceptance:
+
+Cheques would be accepted during business hours of the Bank branch. Alternately, cheques can be deposited at ATM drop box round the clock.
+
+Collection timings for local cheques drawn on other banks (local clearing):
+
+The cut-off time for sending cheques for collection would be worked out for each location/ branch based on cut-off time afforded by clearing house at each location. The cut off timings would be displayed at branches for customers.
+
+Collection timings for local cheques drawn on own branches of bank (Transfer cheques):
+
+| | | 1 | Cheques deposited across the Counter | Same working day | |
+| --- | --- | --- | --- | --- | --- |
+| | | 2 | Cheque deposited in branch | Cut off time will be displayed on drop box | |
+| | | | drop box | for same working day | |
+| | | 3 | Cheque deposited in ATM drop box | Next day ( based on transit time between | |
+
+ATM and branch/service)
+
+Same working day
+
+4 Cheque collected by doorstep banking agency from customer’s location
+
+### 2. Compensation for delay in clearance of Local Cheques:
+
+• The compensation to the customers is payable in case of delay in clearance of local cheques beyond stipulated period. Such compensation shall be paid without any demand from customers in all types of accounts at Savings Bank interest rate with applicable taxes. 
+• Bank shall also permit usage of the shadow credit afforded to the customers' account immediately after closure of relative return clearing and withdrawal may be allowed on the day of affording shadow credit or maximum within an hour of the commencement of business on the next working day, subject to usual safeguards. 
+
+b. Outstation Cheques – CTS
+
+Banks as a part of their normal banking operations undertake collection of cheques deposited by their customers, some of which could be drawn on non-local banks. Such cheques are called outstation cheques. Cheques drawn on other banks at outstation centres will normally be collected through bank’s branches at those centres through CTS Clearing. Where the Bank does not have a branch of its own and the other bank does not participate in CTS Clearing, the instrument would be directly sent for collection to the drawee bank or collected through a correspondent bank.
+
+Cheques drawn on bank’s own branches at outstation centres will be collected using the inter-branch arrangements. Branches, which are connected through a centralised, processing arrangement and are offering anywhere banking services to its customers will provide same day credit to its customers in
+
+respect of outstation instruments drawn on any of its branches in the Core Banking Solution network. Bank would prohibit crediting proceeds to Third Party Account in case Collection of Account Payee Cheque.
+
+The definition of outstation cheques excludes demand drafts, banker cheques, interest warrants, dividend warrants drawn on Bank itself.
+
+| Particulars | IDFC FIRST Bank Branches | | Branches of Other Banks |
+| --- | --- | --- | --- |
+| a) Collections between Metropolitan Class Cities (Mumbai, Chennai, Ahmedabad, Bangalore & Hyderabad) | Centres/ Major ‘A' 6 days Kolkata, New Delhi, | | 7 days |
+| b) Collections between places | at (a) above and State 8 days | | 10 days |
+| Capitals, excluding above (other than North Eastern | States | | |
+| & Sikkim) and Area I Cities i.e. Pune, Nagpur, Kanpur, Surat, | | | |
+| Vishakhapatnam, Vadodara, | Kochi, Indore, Ludhiana, | | |
+| Coimbatore, Agra, Madurai and Varanasi | | | |
+| c) Collections between all other Centres | 10 days | | 14 days |
+
+Collection arrangement
+
+The credit timelines and process of all types of cheque would vary in case of Cash Management arrangements and the same would be applicable as per the agreed arrangement.
+
+### 3. Payment of Interest for delayed Collection of Outstation Cheques:
+
+As part of the compensation policy of the Bank, the Bank will pay interest to its customers on the amount of collection instruments in case there is delay in giving credit beyond the time period specified in Bank's Cheque collection policy, which is as under. Such interest shall be paid without any demand from customers in all types of accounts. There shall be no distinction between instruments drawn on the Bank's own branches or on other banks for the purpose of payment of interest on delayed collection.
+
+### 4. Interest for delayed collection shall be paid at the following rates:
+
+a) Saving Bank rate for the period of delay beyond 7/10/14 days, as the case may be, in collection of 
+outstation cheques, i.e. from 8th /11th /15th day, the interest with applicable taxes will be payable. 
+b) Where the delay is beyond 14 days, interest will be paid at the rate applicable for term deposit for the 
+corresponding period or Saving Bank rate, whichever is higher. 
+c) In case of extraordinary delay, i.e. delays exceeding 90 days, interest will be paid at the rate of 2% above 
+the corresponding Term Deposit rate. 
+d) In the event the proceeds of cheque under collection, to be credited to an overdraft / loan account of 
+the customer, interest will be paid at the rate applicable to the loan account. For extraordinary delays, 
+i.e. delays exceeding 90 days, interest will be paid at the rate of 2% above the rate applicable to the 
+loan account. 
+
+e) Interest as above shall be payable with a minimum of Rs. 25/-.
+
+### 5. Compensation for loss of Cheques / Instruments in transit
+
+• In the event a cheque or an instrument accepted for collection is lost in transit or in clearing process or lost by the Service Provider, the Bank shall immediately, on coming to know of the loss of instrument, bring the same to the notice of the account holder so that the account holder can inform the drawer to record stop payment and also take care that cheques, if any, issued by him/her are not dishonoured due to non-credit of the amount of the lost cheque/instrument. 
+
+• The Bank would provide all assistance to the customer to obtain a duplicate instrument from the drawer of the cheque.
+
+• In case intimation regarding loss of instrument is conveyed to the customer beyond the time limit stipulated for collection, as per the Cheque Collection Policy of the Bank, (7/10/14 days as the case may be) interest will be paid for the period beyond the stipulated collection period at the rates specified in point 5 above 
+• Bank will pay interest with applicable taxes on the amount of the cheque for a further period of 15 days at Savings Bank rate to provide for possible further delay in obtaining duplicate cheque /instrument and collection thereof. 
+• The Bank would also compensate the customer for any reasonable charges which he/she incurs in getting duplicate cheque/instrument upon production of receipt, in the event the instrument is to be obtained from a Bank/institution who would charge a fee for issue of duplicate instrument, subject to a maximum of Rs. 250/-. 
+• For cheques lost prior to receipt by the correspondent, the Bank will bear the stop payment charges on customer producing the relevant document. Compensation for foreign currency cheques would be applicable only if the Bank or its correspondent bank loses the cheque. 
+
+• The bank would also compensate for any possible loss due to adverse movement of foreign exchange rate in case of foreign currency cheques.
+
+6. Payment of Cheques after Stop Payment Instructions • The instruction for Stop Payment of cheque will be accepted at all Branches / through Contact Centre / through Internet Banking and through other channel available by bank.
+
+• In case a cheque has been paid after acknowledgement of its stop payment instruction after such a request has been acknowledged by the Bank, Bank shall reverse the debit on account of stopped cheque with value dated credit within two working days of the customer, intimating the transaction to the Bank, and also compensate the customer with Rs.100/-. 
+
+• However, no compensation will be paid if cheque has been paid prior to acknowledgment of instructions for stop payment of cheque
+
+### 7. Payment of "at par" Cheques issued by other Banks
+
+• Bank will not pay any compensation, to the cheque holder, for dishonour of "at par" cheques issued by other banks, including co- operative banks, in the absence of adequate funds in the account on which cheques are issued even though the amount of the cheque may have been paid to the bank, which had issued the "at par" cheque. 
+• RBI instructions stipulate that banks will not honour cheques drawn on current accounts maintained by other banks with it, unless arrangements are made for funding cheques issued. Issuing bank shall be responsible to compensate the cheque holder for non-payment of cheques in the absence of adequate funding arrangement. 
+
+### 8. Immediate credit of local/outstation cheques/instruments
+
+• Branches/extension counters of the Bank will grant immediate credit for outstation cheques/instruments up to the aggregate value of Rs 15000 tendered for collection by individual account holders subject to satisfactory conduct of such accounts. The facility of immediate credit would also be made available in respect of local cheques at centres where no formal clearing house exists. 
+
+• Under this policy, value received instruments like Demand Drafts; Interest/Dividend warrants shall be treated at par with cheques.
+
+• In the event of dishonour of cheque against which immediate credit was provided, interest shall be recoverable from the customer for the period the Bank remained out of funds at the rate applicable for clean overdraft limits sanctioned for individual customers. 
+
+• This immediate credit facility shall be subject to the account fulfilling the following criteria:
+
+a) Operating accounts of individuals (NRO (savings), NRE (savings) accounts, Minor accountsshall not eligible)
+
+b) The account should be in Indian Rupees
+
+c) The cheque/DD should be drawn on a scheduled commercial bank, payable in India (excluding a co-operative bank)
+
+d) The facility shall be extended to a customer at his/her base branch only e) The account should have been opened more than one year back.
+
+f) Cheques shall not be post-dated/out of date/nearing out of date (to avoid risk of return in clearing). The cheque must be deposited at least 7 working days from the date of expiry of the cheque
+
+g) The account shall not have been charged for non-maintenance of Quarterly/Monthly Average Balance in last three months / one quarter
+
+h) The account shall not be "inactive" or "dormant" i) The account shall not have had any cheque return charges - both for Inward & outward clearing in last three months preceding the immediate credit request
+
+j) The amount of immediate credit, whether for a single or multiple cheques/DDs, shall not exceed Rs 15000 in an eligible account, at any point in time
+
+k) There should be no partial immediate credit of a cheque/DD l) The cheque shall not be the customer's own cheque from another account i.e. not a self-drawn cheque
+
+m) This limit of Rs 15000 for immediate credit is exclusive of the normal powers delegated to the Branch Head for cheque purchase
+
+n) Immediate credit will be provided against such collection instruments to customers on deposition of cheques.
+
+o) The facility of immediate credit will be offered on savings bank/current/cash credit accounts of the customers. Operating accounts of individuals (Non-Resident Ordinary (savings), Non- Resident External (savings) accounts, minor accounts shall not be eligible).
+
+p) Where the Bank has not experienced any difficulty in recovery of any amount advanced in the past including cheques returned after giving immediate credit.
+
+• The Bank shall levy normal collection charges and out of pocket expenses with applicable taxes while providing immediate credit against outstation instruments tendered for collection. Exchange charges applicable for cheque purchase will not, however be charged. 
+
+### 9. Cheques payable in Foreign Countries
+
+Cheques payable at foreign locations, where the Bank has Correspondent banking arrangements, will be collected through correspondent banks. Cheques drawn on foreign banks at centres where the Bank or its correspondents do not have direct presence will be sent directly to the drawee bank with instructions to credit proceeds to the respective Nostro Account of the bank maintained with one of the correspondent banks.
+
+Customer shall be liable to repay the amount with all expenses which the bank may incur, if the cheque tendered for collection is returned unpaid. Instances in which returned cheques are lost in transit; correspondent bank charges shall be debited to the customer's account on the basis of the non-payment advice received from the correspondent bank.
+
+Cooling period of some of the major currencies are mentioned below:
+
+Currency Normal Cooling Period (Working days) 
+USD 6 days for New York Clearing from value date of cheques 
+14 days for Non New York Clearing from value date of cheques 
+GBP 8 days from value date of cheques 
+EUR 8 days from value date of cheques 
+AED 8 days from value date of cheques 
+SGD 21 days from value date of cheques 
+CAD 21 days from value date of cheques 
+• Value date is the date of credit to our Nostro account 
+• Cooling period is the time up to which banks wait after receiving provisional credit for the amount of cheque in their Nostro account for possible return of the cheque under provisions of the laws of USA by the drawee bank, before giving credit to the customers. 
+
+Fee and Service charges as defined in the applicable Schedule of charges as amended from time to time would be levied. The conversion rate applicable would be the applicable card rate/forex rate provided by treasury as on the date of credit to the customer account.
+
+10. Delay in re-presentation of technical return cheques and levy of charges for such returns i. Cheque return charges shall be levied only in cases where the customer is at fault and is responsible for such returns. The illustrative, but not exhaustive, list of returns, where the customers are not at fault are indicated in the Annexure 1.
+
+ii. Cheques that need to be re-presented without any recourse to the payee, shall be made in the immediate next presentation clearing not later than 24 hours(excluding holidays) with due notification to the customers of such re-presentation through SMS alert, email etc
+
+### 11. Customers' responsibility
+
+• Bank will not be responsible for the loss to the customers due to customer's carelessness in keeping the Cheque book, passbook, cards, PIN or other security information and not following "Do's and Dont’s issued by the Bank, until the Bank has been notified by the customer. 
+
+• Customer acts fraudulently and/or acts without reasonable care which has resulted in loss to him/her.
+
+• Bank will also not be responsible for the losses arising out of misuse of confidential information, until the time the Bank has been notified of such loss/compromise and has taken steps to prevent its misuse
+
+### 12. Disclaimer clause
+
+Notwithstanding anything contained here above, the Bank shall not pay any compensation in the following cases:-
+
+i) Dishonour of ‘at par’ payment agreement with other banks, due to non- funding and security compliance.
+
+ii) Delays on account of non-functioning of business due to factors beyond the control of the bank the period covered by such events shall be omitted for calculation of delay etc.
+
+iii) Where the issues are sub-judice and pending before Courts, Ombudsman, arbitrator, Government and matter put on hold due to stay.
+
+### 13. Force Majeure
+
+The Bank shall not be liable to compensate customers if some unforeseen event (including but not limited to civil commotion, sabotage, lockout, strike or other labour disturbances, accident, fires, natural disasters or other “Acts of God”, war, damage to the Bank’s facilities or of its correspondent bank(s), absence of the usual means of communication or all types of transportation, etc beyond the control of the bank prevents it from performing its obligations within the specified service delivery parameters.
+
+### 14. Redressal of Grievances and Complaints:
+
+• Depositors having any complaint/grievance with regard to services rendered by the bank have the right to approach authority(ies) designated by the Bank for handling customer complaint/grievances.
+
+• The details of the internal set up for redressal of complaints/grievances will be displayed in the branch premises and other access channels including but not limited to website and mobile banking. The branch officials shall provide all required information regarding procedure for lodging the complaint. In case the depositor does not get response from the Bank within one month from date of complaint or he is not satisfied with the response received from the Bank, he/she has a right to approach Banking Ombudsman appointed by the RBI. 
+
+Policy Revision
+
+The Policy shall be reviewed at least on an annual basis or at earlier intervals, if there any regulatory changes necessitating such interim reviews.
+
+Annexure 1
+
+Illustrative but not exhaustive list of objections where customers are not at fault (Applicable for Instrument and Image-based Cheque Clearing to Uniform Regulations and Rules for Bankers' Clearing Houses)
+
+S. No. Reason for Return 1 Instrument mutilated; requires bank's guarantee 2 Clearing House stamp / date required 3 Wrongly delivered / not drawn on us 4 Present in proper zone 5 Instrument contains extraneous matter 6 Image not clear; present again with paper 7 Present with document 8 Item listed twice 9 Paper not received 10 Crossed to two banks 11 Crossing stamp not cancelled 12 Clearing stamp not cancelled 13 Instrument specially crossed to another bank 14 Payee’s endorsement irregular / requires collecting bank's confirmation 15 Endorsement by mark / thumb impression requires attestation by Magistrate with seal 16 Advice not received 17 Amount / Name differs on advice 18 Drawee bank's fund with sponsor bank insufficient (applicable to sub-members) 19 Payee's separate discharge to bank required 20 Not payable till 1stproximo 21 Pay order requires counter signature 22 Required information not legible / correct 23 Bank's certificate ambiguous / incomplete / required 24 Draft lost by issuing office; confirmation required from issuing office 25 Bank / Branch blocked 26 Digital Certificate validation failure 27 Other reasons-connectivity failure 28 ‘Payee's a/c Credited' - Stamp required 29 Bank excluded 30 Lost in Transit 31 Other Reasons
+

@@ -1,0 +1,51 @@
+Title: Online Dispute Resolution (ODR) System for Digital Payments
+Source URL: https://www.rbi.org.in/commonman/English/Scripts/Notification.aspx?Id=3194
+Date: 06/08/2020
+RBI reference: RBI/2020-21/21 DPSS.CO.PD No.116/02.12.004/2020-21
+Source type: RBI notification clean text extract
+
+Purpose for FinTrust AI:
+Use this source for app-based digital payment grievance flows, UPI dispute lodging, ODR reference numbers, failed transaction dispute handling, and the role of payment system operators / participants.
+
+Key regulatory text:
+
+The RBI advised authorised Payment System Operators (PSOs), banks, non-banks, and participants to put in place Online Dispute Resolution (ODR) systems for resolving customer disputes and grievances pertaining to digital payments through a system-driven, rule-based mechanism with zero or minimal manual intervention.
+
+To begin with, authorised PSOs were required to implement ODR systems for disputes and grievances related to failed transactions in their respective payment systems. The ODR arrangement may later be extended to cover disputes and grievances other than failed transactions.
+
+If the grievance remains unresolved up to one month, the customer may approach the Reserve Bank Integrated Ombudsman Scheme.
+
+Minimum requirements of the ODR system:
+
+1. Applicability
+- Applies to authorised Payment System Operators (PSOs), banks, non-banks, and participating Payment System Participants (PSPs).
+
+2. Concept
+- The ODR system should be transparent, rule-based, system-driven, user-friendly, and unbiased.
+- It should resolve customer disputes and grievances with zero or minimal manual intervention.
+
+3. Structure
+- Each PSO shall make available an ODR system for resolving disputes and grievances arising out of failed transactions.
+- Participating PSPs must have access to the system.
+- PSOs and PSPs shall provide customers access to lodge disputes and grievances for on-us and off-us transactions.
+
+4. Transaction scope
+- Initially covers failed transactions.
+- Includes transaction types mentioned in the RBI TAT circular on failed transactions and compensation.
+- TAT and compensation requirements must be followed while resolving disputes through ODR.
+
+5. Lodging and tracking
+- Customers should be provided channels such as web form, paper form, IVR, mobile application, call centre, SMS, branches, or offices.
+- For mobile phone-based systems such as UPI, Third Party App Providers (TPAPs) should provide customers a facility to lodge disputes and grievances through the same mobile app used for making payments.
+- The process should be simple and require only necessary minimum details.
+- The ODR system should be capable of automatically fetching full details based on the information provided by the customer.
+- Data confidentiality must be considered while designing the system.
+- Once a customer lodges the dispute or grievance, a unique reference number shall be allocated.
+- Customers should be able to track status using this reference number.
+
+Implementation notes:
+- This source supports a "where should I complain first?" workflow.
+- The assistant should ask whether the transaction was made through UPI/app/card/PPI and whether a dispute was raised in the same app.
+- The assistant should explain that UPI apps/TPAPs should provide dispute lodging through the same mobile app used for payment.
+- The assistant should capture and display complaint reference number / UTR / transaction ID in the UI.
+- This source should be linked with the TAT source for compensation and reversal timelines.

@@ -1,0 +1,931 @@
+CANARA HSBC ORIENTAL BANK OF COMMERCE LIFE INSURANCE
+A Non-Linked Non-Participating Individual Pure Risk Premium Life Insurance Plan
+Saral Jeevan
+Bima
+LIFE INSURANCE AT
+AFFORDABLE PRICE
+MULTIPLE PREMIUM 
+PAYMENT OPTIONS
+EASY TO
+UNDERSTAND 
+KEY FEATURES
+SECURING YOUR LOVED ONES' FUTURE IS NOW EASIER AND
+ MORE AFFORDABLE THAN EVER WITH OUR SARAL JEEVAN BIMA
+ LIFE INSURANCE COMPANY OF THE YEAR 2020*
+UIN:136N075V01 MISCNJSJBCHOJAN21 ENG
+Trade Logo of Canara HSBC Oriental Bank of Commerce Life Insurance Company Limited (Insurer) is used under license with Canara Bank, HSBC Group Management Services Limited and Oriental Bank of 
+Commerce. The Insurance products are offered and underwritten by Insurer (IRDAI Regn. No. 136) having its head office at 2nd Floor, Orchid Business Park, Sector-48, Sohna Road, Gurugram - 122018, Haryana (India). 
+For more details on risk factors, terms and conditions, please read the sales brochure carefully before concluding a sale. Corporate Identity No.: U66010DL2007PLC248825. Website: www.canarahsbclife.com. Call: 
+1800-103-0003/1800-180-0003 (BSNL/MTNL). Give a missed call to: 0124-6156600. SMS: 9779030003. Email: customerservice@canarahsbclife.in
+BEWARE OF SPURIOUS/FRAUD PHONE CALLS !
+• IRDAI is not involved in activities like selling insurance policies, announcing bonus or investment of premiums. Public receiving such phone calls are 
+ requested to lodge a police complaint.
+*In March 2020 Canara HSBC Oriental Bank of Commerce Life Insurance has been conferred with "Life Insurance Company of the Year" at India Insurance Summit and Awards 2020.** T&C apply.
+11 ,1 Sabse Pehle W Life Insurance 
+EEPING YOU 
+PROMISES 
+HAS NEVER BEEN EASIER. 
+~ 
+~~ 
+~ Canara HSBC ID 
+~ OBC 
+Life Insurance 
+----
+CANARA HSBC ORIENTAL BANK OF COMMERCE LIFE INSURANCE COMPANY LIMITED
+REGISTRATION NUMBER : 136
+CANARA HSBC ORIENTAL BANK OF COMMERCE LIFE INSURANCE SARAL JEEVAN BIMA (UIN: 136N075V01)
+A Non-Linked Non-Participating Individual Pure Risk Premium Life Insurance Plan
+DATE:
+PART A
+WELCOME LETTER
+{{OWNER_NAME}}
+{{FATHERS_NAME/HUSBAND NAME}}
+{{PO_M_ADD_1}}
+{{PO_M_ADD_2}}
+{{PO_M_ADD_3}}
+{{PO_M_ADD_CITY}} -
+{{PO_M_ADD_STATE}}{{PO_M_ADD_PINCODE}}
+{{PO_M_ADD_COUNTRY}}
+Contact No.: {{OWNER_CONTACT}}
+Client ID.
+Policy No.
+Proposal No.
+Your Policy Details: Your Representative Details:
+{{OWNER_CLIENT_ID}}
+{{POLICY_NUMBER}}
+{{PROPOSAL_NUMBER}}
+Name
+Code
+Contact No.
+{{AGENT_NAME}}
+{{AGENT_CODE}}
+{{AGENT_CONTACT}}
+Dear {{Owner_name}},
+Welcome to the Canara HSBC Oriental Bank of Commerce Life Insurance family. We would like to 
+congratulate You on purchasing Canara HSBC Oriental Bank of Commerce Life Insurance Saral Jeevan 
+Bima.
+This document is Your Policy Document and We recommend that You read it to ascertain if the details are 
+accurate. If You wish to rectify any of the details provided by You, please get in touch with our Resolution 
+center: 1800-103–0003 / 1800-180-0003 (BSNL/MTNL users) or your representative. You can also SMS Us 
+at 9779030003 or write to Us at customerservice@canarahsbclife.in and our representative will contact You 
+at your convenience.
+In case the Policy terms and conditions are not agreeable to You then You can opt for a cancellation of the 
+Policy by sending back this Policy Document along with the reason for non-acceptance to the Company 
+within 15 days (30 days in case the Policy is sourced through distance marketing mode i.e. any means of 
+communication other than in person) from the date of receipt of this Policy Document. In case You opt for 
+cancellation within the said period, We shall refund the Premium received by Us subject only to deduction 
+of the proportionate risk Premium for the period of life cover, stamp duty and medical expenses (if any). 
+This facility can be availed only on receipt of the original Policy Document and not on receipt of duplicate 
+Policy Document(s) issued by the Company on your request.
+This Policy will cover death due to accident only during the Waiting Period of 45 days from the date of 
+commencement of risk.
+In case of death of the Life Assured other than due to Accident during the Waiting Period, an amount 
+equal to 100% of Total Premiums Paid shall be paid and the Sum Assured shall not be paid. 
+We also offer an easy-to-navigate online system to manage Your Policy. Log on to our website 
+www.canarahsbclife.com and register to start using this service.
+In case of any claim related or other matters, You or the Claimant may contact Us at Canara HSBC Oriental 
+Bank of Commerce Life Insurance Company Limited, 2nd Floor, Orchid Business Park, Sector-48, Sohna Road, 
+Gurugram 122018, Haryana, India. You can also get in touch with Us on 1800-103-0003 /1800-180-0003 
+(BSNL/MTNL) or SMS Us at 9779030003 or write to Us at customerservice@canarahsbclife.in
+We request You to pay Your Premiums on due dates to enjoy uninterrupted benefits under the Policy. Thank 
+You for giving Us the opportunity to service Your insurance needs and We will ensure We are here to fulfill 
+all Your Policy servicing needs.
+Yours Sincerely,
+CHIEF OPERATING OFFICER
+CANARA HSBC ORIENTAL BANK OF COMMERCE LIFE INSURANCE COMPANY LIMITED
+The Company shall pay benefits upon occurrence of one or more events mentioned in this Policy on receipt 
+of proof that is satisfactory to the Company.
+* These figures are assuming happening of event at policy inception. 
+1
+Goods and Services Tax or any other levy by whatever name called under Goods and Services Tax Scheme 
+as applicable from time to time, will be charged over and above this Premium and will be borne by the 
+Policyholder.
+Canara HSBC Oriental Bank of Commerce Life Insurance Saral Jeevan Bima is a Non-Linked 
+Non-Participating Individual Pure Risk Premium Life Insurance Plan
+POLICY SCHEDULE
+POLICY SCHEDULE DETAILS
+Benefit Coverage Details
+Name
+Date of Birth
+Age
+Gender
+Working Status
+Life Assured Details Policyholder Details
+{{ASSURED_NAME}}
+{{ASSURED_BIRTH_DATE}}
+{{ASSURED_AGE}}
+{{ASSURED_GENDER}}
+ -
+{{PROPOSER_NAME}}
+{{ PROPOSER _BIRTH_DATE}
+{{ PROPOSER _AGE}}
+{{ PROPOSER _GENDER}}
+Policy Number
+Plan Name
+Plan Type
+Policy Term (Years)
+Premium Payment Term (Years)
+Instalment Premium1
+/ Single Premium1
+Age Admitted (Life Assured)
+Risk Commencement Date
+Policy Commencement Date
+Maturity Date
+Premium Payment Mode
+Next Premium Due Date
+Last Premium Due Date
+{{POLICY_NUMBER}}
+{{PLAN NAME}}
+Life/Individual/ Non-Linked/ Non-Par/Pure Risk
+{{POLICY_TERM}}
+{{PREMIUM_PAYMENT_TERM}}
+{{INSTALMENT_PREMIUM}}
+{{AGE_ADMITTED (LIFE ASSURED)}}
+{{SAME AS POLICY_COMMENCEMENT_DATE}}
+{{POLICY_COMMENCEMENT_DATE}}
+{{MATURITY_DATE}}
+{{POLICY_PAYMENT_FREQUENCY}}
+{{NEXT_PREMIUM_DUE_DATE}}
+{{LAST_PREMIUM_DUE_DATE}}
+Sum Assured (Rs.)
+Death Benefit* (Rs.)
+Life Assured 
+ 
+ 
+"On Examination of the Policy, if the Policyholder notices any mistake, the Policy Document is to be 
+returned for correction to the Company; for electronic policies, the process as prescribed by applicable 
+laws to be followed".
+Canara HSBC Oriental Bank of Commerce Life Insurance Company Limited. IRDAI Registration no: 136 
+Registered Office: Unit No. 208, 2nd Floor, Kanchenjunga Building, 18 Barakhamba Road, New Delhi-110001. India
+Corporate Office: 2nd Floor, Orchid Business Park, Sector-48, Sohna Road, Gurugram 122018, Haryana, India
+NOMINEE DETAILS*
+{{NOMINEE_NAME_1}}
+{{NOMINEE_NAME_2}}
+Name Gender Age Percentage Relationship with
+Life Assured
+{{NOMINEE_GENDER_1}}
+{{NOMINEE_GENDER_2}}
+{{AGE IN YEARS}}
+{{AGE IN YEARS}}
+{{R’SHIP}}
+{{R’SHIP }}
+*Nominee details under Section 39 of Insurance Act, 1938.
+Appointee Name (in case Nominee is minor) {{APPOINTEE_NAME}}
+Appointee Gender {{APPOINTEE_GENDER}}
+Appointee Relationship with Life Assured {{APPOINTEE_RELATIONSHIP}}
+Total Amount Payable for the Policy is equal to sum of Base Premium Payable, underwriting extra Premium 
+if any and applicable Goods and Services Tax or any other levy by whatever name called under Goods and 
+Services Tax Scheme. You may be entitled to tax benefits under Section 80C as per the Income Tax Act, 
+1961. Tax benefits under the Policy will be as per the prevailing Income Tax laws and are subject to 
+amendments from time to time. For tax related queries, please contact Your independent tax advisor.
+The excess amount, if any, indicated as Balance Amount above will not earn any interest and will be 
+adjusted towards future Premiums on the due date subject to applicable laws. Advance premiums paid, if 
+any, will be appropriated towards Premium on the respective due dates.
+Receipt Number:
+FIRST PREMIUM RECEIPT
+Name of the Company
+Hub Address
+Goods and Services Tax Identification Number
+HSN Code
+Plan Name
+Policy Number
+Policyholder Name
+Policyholder Current Residential Address
+Policyholder State/ Union Territory & Code
+Goods and Services Tax Identification Number
+Life Assured Name
+Premium Payment Mode
+Sum Assured 
+{{NAME OF THE COMPANY}}
+{{HUB ADDRESS}}
+{{GOODS AND SERVICES TAX IDENTIFICATION NUMBER OF HUB}}
+{{ACCOUNTING SERVICE CODE}}
+{{PLAN_NAME}}
+{{POLICY_NUMBER}}
+{{Name of the Policyholder}}
+{{POLICY HOLDER CURRENT RESIDENTIAL ADDRESS}
+{{POLICY HOLDER STATE & CODE}}
+{{GOODS AND SERVICES TAX IDENTIFICATION NUMBER}}
+{{Name of Life Assured}}
+{{Premium payment frequency}}
+{{Sum Assured }}
+Date of Issue:
+Payment Related Information
+Base Premium Payable (`)
+Underwriting Extra Premiums, if any (`)
+Goods and Services Tax * (`)
+Total Amount Payable (`)
+Total Amount Received (`)
+Balance Amount (`)
+Next Premium Due Date
+*Break-up of Goods and Services Tax on Base
+Premium and Underwriting Extra Premiums, If any
+Central Goods and Services Tax
+State Goods and Services Tax/ Union Territory
+Goods and Services Tax
+Integrated Goods and Services Tax
+Cess (es)/Other levy
+(%) Rate (`) Amount
+Permanent Account Number AADCC1881F.
+"Goods and Services Tax as above is not payable on reverse charge basis" 
+"Address of Delivery is same as that of place of supply’"
+The commencement of risk under the Policy is subject to realization of Premium by the Company.
+ 
+Chief Operating Officer
+ENDORSEMENTS
+Total Stamp Value (Rs.) / {{STAMP_DUTY}}
+“The appropriate stamp duty towards this Policy is paid vide < >"
+Preamble: This Policy evidences a contract between the Policyholder and the Company which has been issued on 
+the basis of Your statements and declarations in the Proposal Form and other documents evidencing insurability 
+of the Life Assured. This is an individual, non-linked, non-par, pure risk premium, life insurance plan which enables 
+the Claimant to receive benefits subject to the terms and conditions stated herein. This Policy Document is divided 
+into numbered clauses for ease of reference and reading. The Clause headings do not limit the Policy or its 
+interpretation in any way. Reference to any legislation, Act, regulation, guideline, etc includes subsequent changes 
+or amendments to the same. The terms ‘You’, ‘Your’ used in this document refer to the Policyholder and ‘We’, ‘Us’, 
+‘Company’, ‘Our’ refer to Canara HSBC Oriental Bank of Commerce Life Insurance Company Limited. 
+Absolute amount assured to be paid on death of the Life Assured is the Sum Assured chosen by the 
+Policyholder at the inception of the Policy.
+Accident means sudden, unforeseen and involuntary event caused by external, violent and visible means 
+which occurs after the risk commencement date of the Policy and before the termination of the Policy.
+Accidental Death means death of the Life Assured which results directly and solely from an Accident and 
+independently of any other causes.
+Age is the age of the Life Assured on the last birthday at the time of commencement of the Policy.
+Annualized Premium is the total amount of premium payable in a Policy Year excluding taxes, rider 
+premiums, underwriting extra premiums and loadings for modal premiums, if any.
+Appointee is the person to whom the proceeds/benefits secured under the Policy are payable if the benefits 
+becomes payable to the nominee and nominee is minor as on the date of claim payment.
+Assignee is the person to whom the rights and benefits are transferred by virtue of an Assignment.
+Assignment is the process of transferring the rights and benefits to an “Assignee,” in accordance with the 
+provisions of Section 38 of Insurance Act, 1938, as amended from time to time.
+Assignor means the person who transfers the rights of the life insurance policy to the Assignee.
+Base Policy is that part of the Policy referring to basic benefit (benefits referred to in this Policy Document 
+excluding benefits covered under Rider(s), if opted for).
+Sum Assured means the amount specified in the Schedule as opted by the Policyholder at the time of taking 
+the policy.
+Beneficiary/Claimant means the person who is entitled to receive benefits under this Policy. The Beneficiary 
+may be Life Assured or Policyholder or his Assignee or Nominees or proved Executors or Administrators or 
+the other Legal Representatives as the case may be.
+Business Day or Working Day means the day on which the offices of the Company remain open for 
+transactions with the public at the place where the concerned transaction is to be carried out.
+Company or Corporation means Canara HSBC Oriental Bank of Commerce Life Insurance Company Limited
+Date of commencement of Policy is the start date of this Policy
+Date of commencement of risk is the date on which the Company accepts the risk for insurance (cover) as 
+evidenced in the Schedule of the Policy.
+Date of issuance of Policy means the date as specified in the Policy Schedule.
+Date of Maturity means the date specified in the Schedule on which the Policy Term is completed.
+Death Benefit means the benefit, agreed at the commencement of the contract, and means the amount as 
+specified in the Policy Bond and is payable on death of Life Assured as per the terms and conditions of the 
+Policy.
+Discharge form/ Claim intimation form is the form to be filled by Policyholder/Claimant to claim the death 
+benefit/refund under the Policy.
+Due Date (applicable in case of Regular Premium / Limited Premium Payment) means a fixed date on which 
+the Policy Premium is due and payable by the Policyholder.
+Endorsement means conditions attached/ affixed to this Policy incorporating any amendments or 
+modifications agreed to or issued by the Company.
+Free Look Period is the period of 15 days (30 days if the Policy is an electronic policy or is purchased through 
+Distance Marketing where distance marketing means through any means of communication other than in 
+person) from the date of receipt of the Policy Document by the Policyholder to review the terms and 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+PART B – DEFINITIONS:
+The definitions of terms/words used in the Policy Document are as under:
+conditions of this policy and where the Policyholder disagrees to any of those terms and conditions, he/she 
+has the option to return this Policy as detailed in Condition 2 of Part D of this Policy Document.
+Grace Period is the time granted by the insurer from the due date for the payment of Premium, without any 
+penalty/late fee, during which time the Policy is considered to be inforce with the insurance cover without 
+any interruption as per the terms of the Policy.
+Inforce Policy means a Policy in which all the due Premiums have been paid and the Premiums are not 
+outstanding.
+IRDAI / Authority means Insurance Regulatory and Development Authority of India.
+Lapse is the status of the Policy when due Premium is not paid within the Grace Period and the benefits 
+under the Policy will cease from the date of such unpaid Premium.
+Life Assured is the person on whose life the insurance cover has been accepted.
+Material information is the information already known to the Life Assured at the time of applying for Life 
+Insurance, which has a bearing on underwriting of the proposal /Policy submitted.
+Nomination is the process of nominating a person(s) in accordance with provisions of Section 39 of the 
+Insurance Act, 1938 as amended from time to time.
+Nominee(s) means the person(s) nominated by the Policyholder (who is also the Life Assured) under this 
+Policy who is(are) authorised to receive the claim benefit payable under this Policy.
+Non-Participating means the Policy is not eligible for share of profit depending upon the Company’s 
+experience.
+Policy Anniversary means one year from the Date of Commencement of the Policy and the same date falling 
+each year thereafter, till the Date of Maturity.
+Policy Cancellation means complete withdrawal or termination of the entire Policy before the stipulated 
+Date of Maturity.
+Policy Cancellation Value means an amount, if any, that becomes payable in case of cancellation in 
+accordance with the terms and conditions of this Policy.
+Policy/ Policy Document means this document along with endorsements, if any, issued by the Company 
+which evidences the contract of Insurance between the Policyholder and the Company.
+Policyholder is the legal owner of this Policy.
+Policy Term is the period, in years, as chosen by the Policyholder and mentioned in the Schedule, 
+commencing from the Date of Commencement of Policy to the Date of Maturity.
+Policy year is the period between two consecutive Policy Anniversaries. This period includes the first day and 
+excludes the next Policy Anniversary day.
+Premium is the contractual amount payable by the Policyholder at specified times periodically as mentioned 
+in the Schedule of this Policy Document to secure the benefits under the Policy. The Premium payable will 
+be “Total Single / Instalment Premium” which includes single/instalment Premium for Base Policy and 
+instalment Premium for Rider(s), if rider(s) has/have been opted for. The term “Premium” used anywhere in 
+this Policy Document does not include any taxes which are payable separately.
+Premium Paying Term means the period, in years, during which Premium is payable.
+Proof of continued insurability is the information that may be sought from the Policyholder to decide Revival 
+of the Policy. This includes Form of declaration of Good Health, Medical Reports, Special Reports and any 
+such document as may be called for by the Company, in accordance with the Board Approved Underwriting 
+Policy of the Company.
+Proposer is a person who proposes the life insurance proposal.
+Revival of a Policy means restoration of a lapsed Policy which was discontinued due to the non-payment of 
+Premium, by the insurer with all the benefits mentioned in the Policy Document, with or without rider 
+benefits if any, upon the receipt of all the Premiums due and other charges/late fee, if any, as per the terms 
+and conditions of the Policy, upon being satisfied as to the continued insurability of the Insured/Policyholder 
+on the basis of the information, documents and reports furnished by the Policyholder, in accordance with 
+the then existing Board Approved Underwriting Policy of the Company.
+Revival Period means the period of five consecutive years from the due date of first unpaid Premium or as is 
+allowed under applicable Product Regulations, during which period the Policyholder is entitled to revive the 
+Policy which was discontinued due to the non-payment of Premium.
+Schedule is the part of Policy Document that gives the specific details of Your Policy.
+Single Premium is the total amount of Premium payable at outset, excluding the corresponding taxes, rider 
+premiums and underwriting extra premiums, if any.
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+Sum Assured on Death is the life insurance cover opted by the Proposer and is the absolute amount of 
+benefit which is guaranteed to become payable on death of the Life Assured in accordance with the terms 
+and conditions of the Policy, as mentioned in Condition 1 (a) of Part C of this Policy Document.
+Surrender means complete withdrawal / termination of the entire Policy before maturity.
+Surrender value means an amount, if any, that becomes payable in case of Surrender in accordance with the 
+terms and conditions of this Policy.
+Total Premiums Paid means total of all the premiums received, excluding rider premiums and taxes.
+Underwriting is the term used to describe the process of assessing risk and ensuring that the cost of the 
+cover is proportionate to the risks faced by the individual concerned. Based on underwriting, a decision on 
+acceptance or rejection of cover as well as applicability of suitable premium or modified terms, if any, is 
+taken.
+UIN means the Unique Identification Number allotted to this plan by the IRDAI.
+Waiting Period means a period of 45 (forty five) days from the Date of Commencement of Risk. In case of 
+revival of Policy, the Waiting Period shall not be applicable.
+48
+49
+50
+51
+52
+53
+54
+The following are the benefits under the policy:
+a) Death Benefit:
+ i) On death of the Life Assured during the Waiting Period and provided the Policy is in force, the Death 
+ Benefit amount payable as a lump sum is:
+ (1) In case of Accidental Death, for Regular Premium or Limited Premium Payment Policy, equal to 
+ Sum Assured on Death which is the highest of:
+ (a) 10 times the Annualized Premium, or
+ (b) 105% of Total Premiums paid as on the date of death, or
+ (c) Absolute amount assured to be paid on death.
+ (2) In case of Accidental Death, for Single Premium Policy, equal to Sum Assured on Death which is 
+ the higher of:
+ (a) 125% of Single Premium or
+ (b) Absolute amount assured to be paid on death.
+ (3) In case of death due to other than Accident, the Death Benefit is equal to 100% of Total 
+ Premiums paid as on the date of death.
+ ii) On death of the Life Assured after the expiry of Waiting Period but before the stipulated date of 
+ maturity and provided the Policy is in force, the Death Benefit amount payable as a lump sum is:
+ (1) For Regular Premium or Limited Premium Payment Policy, “Sum Assured on Death” which is the 
+ highest of:
+ (a) 10 times of Annualized Premium; or
+ (b) 105% of Total Premiums Paid as on the date of death; or
+ (c) Absolute amount assured to be paid on death.
+ (2) For Single Premium policy, “Sum Assured on Death” which is the higher of:
+ (a) 125% of Single Premium or
+ (b) Absolute amount assured to be paid on death.
+Absolute amount assured to be paid on death shall be an amount equal to Sum Assured.
+b) Maturity Benefit: 
+No Maturity Benefit shall be payable on the Life Assured surviving the stipulated Date of Maturity.
+c) Rider Benefits: 
+There are no riders available under this product.
+Payment of Premiums (Applicable in case of Limited and Regular Premium payment policies only):
+a) The Policyholder has to pay the Premium on or before the Due Dates as specified in the Schedule of this 
+Policy Document along with applicable taxes, if any.
+b) In case of death of Life Assured under an inforce Policy wherein all the Premiums due till the date of 
+death have been paid and where the mode of payment of premium is other than yearly, balance 
+Premium(s), if any, falling due from the date of death and before the next Policy Anniversary shall be 
+deducted from the claim amount.
+c) If Regular Premium or Limited premium payment variants are chosen under the said product, the 
+premium payment modes allowed are Annual, Half-Yearly and Monthly. For administrative purposes, in 
+case of monthly mode policies, the Company may accept/collect three months’ premiums in advance at 
+Policy inception within the same financial year for the Premium due in that financial year. However, where 
+the Premium due in one financial year is being collected in advance in earlier financial year, the Company 
+may collect the same for a maximum period of three months in advance of the due date of the Premium. 
+The Premium so collected in advance shall only be adjusted on the due date of the Premium.
+The Company does not have any obligation to issue a notice that Premium is due or for the amount that is 
+due.
+1)
+2)
+PART C – BENEFITS:
+Grace Period (Applicable in case of Limited and Regular Premium Payment policies only):
+A Grace Period of 30 days where the mode of payment of Premium is yearly or half yearly and 15 days in 
+case of monthly, is allowed for the payment of each renewal Premium. If the Premium is not paid before 
+the expiry of the days of grace, the Policy lapses.
+If the death of the Life Assured occurs within the grace period but before the payment of the Premium 
+then due, the Policy will still be valid and the benefits shall be paid after deductions of the said unpaid 
+Premium as also the balance Premium(s), if any, falling due from the date of death and before the next 
+Policy Anniversary.
+3)
+PART D: CONDITIONS RELATED TO SERVICING ASPECTS 
+Proof of Age:
+The premiums under the Policy are calculated based on the age of the Life Assured as declared in the 
+Proposal.
+If the Age of the Life Assured has been misstated and if the correct Age of the Life Assured makes the Life 
+Assured ineligible for this Policy, the Company may offer a suitable plan as per the then existing 
+underwriting norms. If the Life Assured does not wish to opt for the alternative plan or if it is not possible 
+for the Company to grant any other plan, then the Policy shall be cancelled and the Premiums paid shall be 
+refunded without interest, subject to deduction of stamp duty paid and the cost of medicals, if any. The 
+Policy will terminate on the said payment.
+If the correct Age of the Life Assured makes the Life Assured eligible for this Policy, revised Premium 
+depending upon the Correct Age will be payable. Difference of Premium from inception will be collected 
+with interest, if age declared is higher and excess Premium collected will be refunded without interest, if 
+age is found to be lower.
+The provisions of Section 45 of the Insurance Act, 1938 as amended from time to time shall be applicable.
+Free Look Period:
+ a) This is an option to review the Policy following receipt of Policy Document. The Policyholder has a 
+ Free Look Period of 15 days (30 days in case of electronic policies and policies obtained through 
+ distance mode) from the date of receipt of the Policy Document, to review the terms and conditions of 
+ the Policy and where the Policyholder disagrees to any of those terms and conditions, the Policyholder 
+ has the option to return the Policy to the Company for cancellation, stating the reasons for his 
+ objection, then the policyholder shall be entitled to a refund of the Premium paid subject only to the 
+ deduction of a proportionate risk Premium for the period of cover and expenses incurred by the 
+ Company on medical examination of the proposer and stamp duty charges.
+ b) A request received by the Company for free look cancellation of the Policy shall be processed and 
+ Premium refunded within 15 days of receipt of the request, as stated vide (a) above.
+ c) The Policy shall terminate on payment of this amount and all rights, benefits and interests under this 
+ Policy will stand extinguished.
+Forfeiture provisions: 
+ a) In case of Regular Premium policies, if the Premium has not been paid in respect of this Policy and any 
+subsequent Premium be not duly paid, all the benefits shall cease after the expiry of Grace Period from 
+the date of first unpaid Premium and nothing shall be payable, and the Premiums paid till then are also 
+not refundable.
+ b) In case of Limited Premium policies, if the Premium has not been paid for at least two (2) consecutive 
+policy years in full in respect of this Policy and any subsequent Premium be not duly paid, all the benefits 
+shall cease after the expiry of Grace Period from the date of first unpaid Premium and nothing shall be 
+payable, and the Premiums paid till then are also not refundable.
+ c) Forfeiture in Certain Other Events: In case any condition herein contained or endorsed hereon be 
+ contravened or in case it is found that any untrue or incorrect statement is contained in the proposal, 
+ personal statement, declaration and connected documents or any material information is withheld, 
+ then and in every such case this Policy shall be void and all claims to any benefit by virtue hereof shall 
+ be subject to the provisions of Section 45 of the Insurance Act, 1938, as amended from time to time.
+Revival of lapsed Policies (Applicable for Regular and Limited Premium policies): 
+ a) If the Policy has lapsed due to non-payment of due Premium within the days of grace, it may be 
+revived during the life time of the Life Assured, but within the Revival Period and before the Date of 
+Maturity, as the case may be, on payment of all the arrears of Premium(s) together with interest at a rate 
+which shall be determined as the average of the daily rates of 10-Year G-Sec rate over the last five
+1)
+2)
+3)
+4)
+ b) In addition to the arrears of Premium with interest, proof of continued insurability may be required 
+ for revival of the discontinued Policy. The Company, however, reserves the right to accept at original 
+ terms, accept with modified terms or decline the revival of a discontinued Policy. The revival of the 
+ discontinued Policy shall take effect only after the same is approved by the Company and is specifically 
+ communicated to the Policyholder.
+ c) If a lapsed Policy is not revived within the Revival Period but before the Date of Maturity, the Policy 
+ will automatically terminate. In case of Regular Premium policies, nothing shall be payable. However, in 
+ case of Limited Premium Payment policies, the amount as payable in case of Policy Cancellation shall 
+ be refunded and the Policy will terminate.
+Surrender: Surrender value is not applicable under this Policy.
+Policy Cancellation Value: 
+Policy Cancellation Value shall be payable:
+ a) upon the Policyholder applying for the same before the stipulated date of maturity in case of Single 
+ Premium Policy; or
+ b) upon the Policyholder applying for the same before the stipulated date of maturity or at the end of / 
+ during the Revival Period if the Policy is not revived, in case of Limited Premium Payment Policies.
+ c) The amount payable shall be as follows:
+ i) Single Premium Policies:
+ The Policy Cancellation Value acquires immediately after receipt of Single Premium and is 
+ calculated as follows:
+ ii) Limited Premium Payment Term: 5 years or 10 years:
+ The Policy Cancellation Value acquires if at least two (2) consecutive full years’ Premiums are paid 
+ and is calculated as follows:
+ d) No Policy Cancellation Value shall be payable in respect of Regular Premium Policies.
+Policy Loan: No loan will be available under this Policy.
+Termination of Policy:
+The Policy shall immediately and automatically terminate on the earliest occurrence of any of the following 
+events:
+ a) The date on which Death Benefit becomes payable; or
+ b) The date on which refund, if applicable, is settled, in case of cancellation of Policy; or
+ c) The Date of Maturity; or
+ d) On expiry of Revival Period, if the Policy has not been revived; or
+ e) On payment of free look cancellation amount.
+5)
+6)
+7)
+8)
+Unexpired Policy Term
+Original Policy Term =70% x Single Premium Paid
+=70% x Total Premiums paid
+Unexpired Policy Term
+Original Policy Term
+ calendar years ending 31st December every year rounded to the nearest 50 bps plus a margin of 200 bps. 
+The applicable interest rate for the financial year 2020-21 is 8.50% (simple interest) per annum. The 
+Company undertakes the review of the interest rates for revivals on 31st December every year. Any 
+changes resulting from the review shall be effective from 1st of April of the following year. Any change 
+in the basis of determination of interest rate shall be done only after prior approval of the Authority.
+Single Premium shall be inclusive of underwriting extra premium, if any.
+PART E:
+Not applicable
+PART F: OTHER TERMS AND CONDITIONS
+Assignment: Assignmentis allowed underthis plan as per section 38 of the Insurance Act, 1938, as amended 
+from time to time. The current provisions of Section 38 are contained in Annexure-1 of this Policy 
+Document. The notice of assignment should be submitted for registration to the office of the Company, 
+where the policy is serviced.
+Nomination: Nomination by the holder of a policy of life assurance on his/her own life is allowed as per 
+Section 39 of the Insurance Act, 1938, as amended from time to time. The current provisions of Section 39 
+are contained in Annexure-2 of this Policy Document. The notice of nomination or change of nomination 
+should be submitted for registration to the office of the Company, where the policy is serviced. In 
+registering nomination the Company does not accept any responsibility or express any opinion as to its 
+validity or legal effect.
+Section 45 of the Insurance Act 1938:
+The provisions of Section 45 of the Insurance Act 1938, as amended from time to time,shall be applicable. 
+The current provisions are contained in Annexure-3 of this policy document.
+Suicide Exclusion:
+ a) Under Regular/Limited Premium Policy:
+ This Policy shall be void if the Life Assured commits suicide at any time within 12 months from the Date 
+ of Commencement of Risk, provided the Policy is inforce or within 12 months from the date of Revival 
+ and the Company will not entertain any claim except for 80% of the Total Premiums Paid till the date of 
+ death.
+ b) Under Single Premium Policy:
+ This Policy shall be void if the Life Assured commits suicide at any time within 12 months from the Date 
+ of Commencement of Risk and the Company will not entertain any claim except 90 % of the Single
+ Premium paid (including underwriting extra premium, if any).
+Tax:
+Statutory Taxes, if any, imposed on such insurance plans by the Government of India or any other 
+constitutional tax Authority of India shall be as per the Tax laws and the rate of tax as applicable from time 
+to time.
+The amount of applicable taxes as per the prevailing rates, shall be payable by the Policyholder on 
+Premiums including extra amount if charged under the Policy due to underwriting decisions, which shall be 
+collected separately over and above in addition to the Premiums payable by the Policyholder.
+The amount of tax paid shall not be considered for the calculation of benefits payable under the plan.
+The tax benefits, if any, would be as per the prevailing provisions of the tax laws in India. The Policyholder 
+or the Nominee shall be liable for compliance of applicable tax provisions.
+Normal requirements for a claim:
+ a) Death Claim: The normal documents which the claimant shall submit while lodging the claim in case 
+ of death of the Life Assured shall be claim forms, as prescribed by the Company, accompanied with 
+ original Policy Document, NEFT mandate from the claimant for direct credit of the claim amount to the 
+ bank account, proof of title/death certificate, proof of death, medical treatment prior to the death (if 
+ any), school/ college/ employer's certificate, KYC of Claimant whichever is applicable, to the satisfaction 
+ of the Company. If the age is not admitted under the Policy, the proof of age of the Life Assured 
+ shall also be submitted.
+ In case of unnatural death or death on account of or arising from an Accident, the Company may call for 
+ the copies of First Information Report (FIR), Panchnama and Post Mortem report. The Company may also 
+ call for additional documents as may be required by them.
+ Within 90 days from the date of death, intimation of death along with death certificate must be notified 
+ in writing to the office of the Company where the Policy is serviced. However, delay in intimation of the 
+ genuine claim by the claimant, may be condoned by the Company, on merit, and where delay is proved 
+ to be for the reasons beyond his/her control.
+1)
+2)
+3)
+4)
+5)
+6)
+ b) Policy Cancellation: In case of cancellation of the Policy, the Policyholder shall submit the discharge 
+ form along with the original Policy Document, NEFT mandate from the claimant for direct credit of the 
+ claim amount to the bank account.
+In addition to above, any requirement mandated under any statutory provision or as may be required as 
+per law shall also be required to be submitted.
+Issuance of duplicate Policy:
+ a) The Policyholder can make an application for duplicate Policy on payment of 0 upon loss of Policy 
+ Document along with other requirements as may be prescribed by the Company. 
+Jurisdiction: 
+The Policy shall be governed by the laws of India and the Indian Courts shall have jurisdiction to settle any 
+disputes arising under the Policy.
+Legislative Changes:
+The Terms and Conditions including the premiums and benefits payable under this Policy are subject to 
+variation in accordance with the applicable laws and regulations.
+7)
+8)
+9)
+ 
+Grievance Redressal Mechanism:
+In case You wish to register a complaint with Us, You may visit our website, approach our resolution centre 
+or Grievance Officers at Hub locations or may write to Us at the following address. We will respond to You 
+within two weeks from the date of our receiving Your complaint. Kindly note that in case We do not receive 
+a revert from You within eight weeks from the date of Your receipt of our response, We will treat Your 
+complaint as closed. 
+Complaint Redressal Unit: Canara HSBC Oriental Bank of Commerce Life Insurance Company Limited; 2nd 
+Floor, Orchid Business Park, Sector-48, Sohna Road, Gurugram 122018, Haryana, India Toll Free: 
+1800-103-0003 / 1800-180-0003 (BSNL/MTNL) Email: cru@canarahsbclife.in
+If You do not receive a satisfactory response from Us within the above timelines, You may write to our 
+Grievance Redressal Officer at: Grievance Redressal Officer: Canara HSBC Oriental Bank of Commerce Life 
+Insurance Company Limited; 2nd Floor, Orchid Business Park, Sector-48, Sohna Road, Gurugram 122018, 
+Haryana, India Toll Free: 1800-103-0003 / 1800-180-0003 (BSNL/MTNL) Email: gro@canarahsbclife.in
+Grievance Redressal Mechanism of IRDAI:
+In case the policyholder is not satisfied with the response or does not receive a response from the Company 
+within 15 days, then the customer may approach the Grievance Cell of the IRDAI through any of the 
+following modes:
+ • Calling Toll Free Number 155255 / 18004254732 (i.e. IRDAI Grievance Call Centre)
+ • Sending an email to complaints@irdai.gov.in
+ • Register the complaint online at http://www.igms.irda.gov.in
+ • Address for sending the complaint through courier / letter:
+Consumer Affairs Department, Insurance Regulatory and Development Authority of India, Survey 
+No.115/1, Financial District, Nanakramguda, Gachibowli, Hyderabad – 500032, Telangana.
+Ombudsman:
+For redressal of Claims related grievances, claimants can also approach Insurance Ombudsman who 
+provides for low cost, speedy arbitration to customers.
+The Ombudsman, as per Insurance Ombudsman Rules, 2017, can receive and consider complaints or 
+disputes relating to the matters such as:
+ (a) Delay in settlement of claims, beyond the time specified in the regulations, framed under the 
+ Insurance Regulatory and Development Authority of India Act,1999;
+ (b) Any partial or total repudiation of claims by the life insurer, General insurer or the health insurer;
+ (c) Disputes over premium paid or payable in terms of insurance policy;
+ (d) Misrepresentation of policy terms and conditions at any time in the policy document or policy 
+ contract;
+ (e) Legal construction of insurance policies insofar as the dispute relates to claim;
+ (f) Policy servicing related grievances against insurers and their agents and intermediaries;
+ (g) Issuance of life insurance policy, general insurance policy including health insurance policy which is 
+ not in conformity with the proposal form submitted by the proposer;
+ (h) Non-issuance of insurance policy after receipt of premium in life insurance and general insurance 
+ including health insurance; and
+ (i) Any other matter resulting from the violation of provisions of the Insurance Act, 1938, as amended 
+ from time to time, or the regulations, circulars , guidelines or instructions issued by IRDAI from time to 
+ time or the terms and conditions of the policy contract, in so far as they relate to issues mentioned at 
+ clauses (a) to (f).
+1)
+PART G: Grievance Redressal Mechanism
+ 
+LIST OF INSURANCE OMBUDSMAN*
+Ahmedabad: Office of the Insurance Ombudsman, Jeevan Prakash Building, 6th floor, Tilak Marg, Relief 
+Road, Ahmedabad – 380 001. Tel.: 079 - 25501201/02/05/06 Email: bimalokpal.ahmedabad@ecoi.co.in 
+Jurisdiction: Gujarat, Dadra & Nagar Haveli, Daman and Diu
+Bengaluru: Office of the Insurance Ombudsman, Jeevan Soudha Building, PID No. 57 – 27 – N – 19, Ground 
+Floor, 19/19, 24th Main Road, JP Nagar, Ist Phase, Bengaluru - 560 078. Tel.: 080 - 26652049 / 26652048 
+Email: bimalokpal.bengaluru@ecoi.co.in Jurisdiction: Karnataka.
+Bhopal: Office of the Insurance Ombudsman, Janak Vihar Complex,2nd Floor, 6, Malviya Nagar, Opp. Airtel 
+Office, Near New Market, Bhopal (M.P.)-462 003. Tel.: 0755-2769201 / 2769202 Fax: 0755-2769203 Email: 
+bimalokpal.bhopal@ecoi.co.in Jurisdiction: Madhya Pradesh & Chhattisgarh.
+Bhubaneshwar: Office of the Insurance Ombudsman, 62, Forest Park, Bhubaneshwar-751 009. Tel.: 
+0674-2596461/2596455 Fax: 0674- 2596429 Email: bimalokpal.bhubaneswar@ecoi.co.in Jurisdiction: 
+Odisha
+Chandigarh: Office of the Insurance Ombudsman, S.C.O. No.101, 102,103, 2nd Floor, Batra Building, Sector 
+17-D, Chandigarh-160 017. Tel.: 0172- 2706196/2706468 Fax: 0172-2708274 Email: 
+bimalokpal.chandigarh@ecoi.co.in Jurisdiction: Punjab, Haryana, Himachal Pradesh, Jammu & Kashmir, 
+Chandigarh.
+Chennai: Office of the Insurance Ombudsman, Fathima Akhtar Court, 4th Floor, 453, Anna Salai, 
+Teynampet, Chennai-600 018. Tel.: 044- 24333668/24335284 Fax : 044-24333664 Email: 
+bimalokpal.chennai@ecoi.co.in Jurisdiction: Tamil Nadu, Pondicherry Town and Karaikal (which are part of 
+Pondicherry)
+New Delhi: Office of the Insurance Ombudsman, 2/2 A, Universal Insurance Building, Asaf Ali Road, New 
+Delhi-110002. Tel.: 011-23232481 / 23213504 Email: bimalokpal.delhi@ecoi.co.in Jurisdiction: Delhi
+Guwahati: Office of the Insurance Ombudsman, “Jeevan Nivesh”, 5th Floor, Near Panbazar Overbridge, S.S. 
+Road, Guwahati-781 001(Assam). Tel.: 0361-2632204/2602205 Email: bimalokpal.guwahati@ecoi.co.in 
+Jurisdiction: Assam, Meghalaya, Manipur, Mizoram, Arunachal Pradesh, Nagaland and Tripura
+Hyderabad: Office of the Insurance Ombudsman, 6-2-46, 1st floor, "Moin Court", Lane Opp. Saleem 
+Function Palace, A. C. Guards, Lakdi- Ka-Pool, Hyderabad - 500 004. Tel.: 040 - 67504123 / 23312122 Fax: 
+040 - 23376599 Email: bimalokpal.hyderabad@ecoi.co.in Jurisdiction: Andhra Pradesh, Telangana, Yanam 
+and part of Territory of Pondicherry
+Jaipur: Office of the Insurance Ombudsman, Jeevan Nidhi – II Bldg., Gr. Floor, Bhawani Singh Marg, Jaipur - 
+302 005. Tel.: 0141 - 2740363 Email: bimalokpal.jaipur@ecoi.co.in . Jurisdiction: Rajasthan
+Ernakulam: Office of the Insurance Ombudsman, 2nd Floor, Pulinat Bldg., Opp. Cochin Shipyard, M.G. Road, 
+Ernakulam-682 015. Tel: 0484- 2358759/2359338 Fax: 0484-2359336 Email: 
+bimalokpal.ernakulam@ecoi.co.in Jurisdiction: Kerala, Lakshadweep, Mahe – a part of Pondicherry
+Kolkata: Office of the Insurance Ombudsman, 4th Floor, Hindusthan Bldg. Annexe, 4, C.R. Avenue, Kolkata 
+– 700 072. Tel: 033 22124339/22124340 Fax: 033 22124341 Email: bimalokpal.kolkata@ecoi.co.in 
+Jurisdiction: West Bengal, Sikkim, Andaman & Nicobar Islands
+Lucknow: Office of the Insurance Ombudsman, Jeevan Bhawan, Phase-II, 6th Floor, Nawal Kishore Road, 
+Hazaratganj, Lucknow-226 001. Tel: 0522 -2231330/2231331 Fax: 0522-2231310 Email: 
+bimalokpal.lucknow@ecoi.co.in Jurisdiction: Districts of Uttar Pradesh: Laitpur, Jhansi, Mahoba, Hamirpur, 
+Banda, Chitrakoot, Allahabad, Mirzapur, Sonbhabdra, Fatehpur, Pratapgarh, Jaunpur, Varanasi, Gazipur, 
+Jalaun, Kanpur, Lucknow, Unnao, Sitapur, Lakhimpur, Bahraich, Barabanki, Raebareli, Sravasti, Gonda,
+1)
+2)
+3)
+4)
+5)
+6)
+7)
+8)
+9)
+10)
+11)
+12)
+13)
+ 
+Faizabad, Amethi, Kaushambi, Balrampur, Basti, Ambedkarnagar, Sultanpur, Maharajgang, Santkabirnagar, 
+Azamgarh, Kushinagar, Gorkhpur, Deoria, Mau, Ghazipur, Chandauli, Ballia, Sidharathnagar.
+Mumbai: Office of the Insurance Ombudsman, 3rd Floor, Jeevan Seva Annexe, S.V. Road, Santacruz(W), 
+Mumbai-400 054. Tel: 022- 26106552/26106960 Fax: 022-26106052 Email: bimalokpal.mumbai@ecoi.co.in 
+Jurisdiction: Goa, Mumbai Metropolitan Region excluding Navi Mumbai & Thane
+Pune: Office of the Insurance Ombudsman, Jeevan Darshan Bldg., 3rd Floor, C.T.S. No.s. 195 to 198, N.C. 
+Kelkar Road, Narayan Peth, Pune 411 030. Tel.:020 – 41312555; Email: bimalokpal.pune@ecoi.co.in 
+Jurisdiction: Maharashtra, Area of Navi Mumbai and Thane excluding Mumbai Metropolitan Region.
+Noida: Insurance Ombudsman, Bhagwan Sahai Palace, 4th Floor, Main Road, Naya Bans, Sector 15, Distt: 
+G.B. Nagar, UP - 201 301 Tel.: 0120- 2514250/52/53 Email: bimalokpal.noida@ecoi.co.in Jurisdiction: State 
+of Uttaranchal and the following Districts of Uttar Pradesh: Agra, Aligarh, Bagpat, Bareilly, Bijnor, Budaun, 
+Bulandshehar, Etah, Kanooj, Mainpuri, Mathura, Meerut, Moradabad, Muzaffarnagar, Oraiyya, Pilibhit, 
+Etawah, Farrukhabad, Firozbad, Gautambodhanagar, Ghaziabad, Hardoi, Shahjahanpur, Hapur, Shamli, 
+Rampur, Kashganj, Sambhal, Amroha, Hathras, Kanshiramnagar, Saharanpur
+Patna: Office of the Insurance Ombudsman, 1st Floor, Kalpana Arcade Building, Bazar Samiti Road, 
+Bahadurpur, Patna 800 006. Tel.: 0612- 2680952 Email: bimalokpal.patna@ecoi.co.in Jurisdiction: Bihar, 
+Jharkhand
+*For updated list of Ombudsman please refer to the GBIC website at http://www.ecoi.co.in/ombudsman.html
+Note: In case of dispute in respect of interpretation of these terms and conditions and special 
+provisions/conditions the English version shall stand valid.
+YOU ARE REQUESTED TO EXAMINE THIS POLICY DOCUMENT, AND IF ANY MISTAKE BE FOUND THEREIN, 
+RETURN IT IMMEDIATELY FOR CORRECTION.
+14)
+15)
+16)
+17)
+ 
+Section 38 “Assignment and Transfer of Insurance Policies” is reproduced below
+38. 1. A transfer or assignment of a policy of insurance, wholly or in part, whether with or without 
+consideration, may be made only by an endorsement upon the policy itself or by a separate instrument, 
+signed in either case by the transferor or by the assignor or his duly authorised agent and attested by at 
+least one witness, specifically setting forth the fact of transfer or assignment and the reasons thereof, the 
+antecedents of the assignee and the terms on which the assignment is made. 2. An insurer may, accept the 
+transfer or assignment, or decline to act upon any endorsement made under sub-section (1), where it has 
+sufficient reason to believe that such transfer or assignment is not bona fide or is not in the interest of the 
+policy-holder or in public interest or is for the purpose of trading of insurance policy. 3. The insurer shall, 
+before refusing to act upon the endorsement, record in writing the reasons for such refusal and 
+communicate the same to the policy-holder not later than thirty days from the date of the policy-holder 
+giving notice of such transfer or assignment. 4. Any person aggrieved by the decision of an insurer to 
+decline to act upon such transfer or assignment may within a period of thirty days from the date of receipt 
+of the communication from the insurer containing reasons for such refusal, prefer a claim to the Authority. 
+5. Subject to the provisions in sub-section (2), the transfer or assignment shall be complete and effectual 
+upon the execution of such endorsement or instrument duly attested but except, where the transfer or 
+assignment is in favour of the insurer, shall not be operative as against an insurer, and shall not confer upon 
+the transferee or assignee, or his legal representative, any right to sue for the amount of such policy or the 
+moneys secured thereby until a notice in writing of the transfer or assignment and either the said 
+endorsement or instrument itself or a copy thereof certified to be correct by both transferor and transferee 
+or their duly authorised agents have been delivered to the insurer: Provided that where the insurer 
+maintains one or more places of business in India, such notice shall be delivered only at the place where 
+the policy is being serviced. 6. The date on which the notice referred to in sub-section (5) is delivered to the 
+insurer shall regulate the priority of all claims under a transfer or assignment as between persons 
+interested in the policy; and where there is more than one instrument of transfer or assignment the priority 
+of the claims under such instruments shall be governed by the order in which the notices referred to in 
+sub-section (5) are delivered: Provided that if any dispute as to priority of payment arises as between 
+assignees, the dispute shall be referred to the Authority. 7. Upon the receipt of the notice referred to in 
+sub-section (5), the insurer shall record the fact of such transfer or assignment together with the date 
+thereof and the name of the transferee or the assignee and shall, on the request of the person by whom 
+the notice was given, or of the transferee or assignee, on payment of such fee as may be specified by 
+regulations, grant a written acknowledgement of the receipt of such notice; and any such 
+acknowledgement shall be conclusive evidence against the insurer that he has duly received the notice to 
+which such acknowledgment relates. 8. Subject to the terms and conditions of the transfer or assignment, 
+the insurer shall, from the date of the receipt of the notice referred to in sub-section (5), recognize the 
+transferee or assignee named in the notice as the absolute transferee or assignee entitled to benefit under 
+the policy, and such person shall be subject to all liabilities and equities to which the transferor or assignor 
+was subject at the date of the transfer or assignment and may institute any proceedings in relation to the 
+policy, obtain a loan under the policy or surrender the policy without obtaining the consent of the 
+transferor or assignor or making him a party to such proceedings. Explanation.— Except where the 
+endorsement referred to in sub-section (1) expressly indicates that the assignment or transfer is conditional 
+in terms of sub- section (10) hereunder, every assignment or transfer shall be deemed to be an absolute 
+assignment or transfer and the assignee or transferee, as the case may be, shall be deemed to be the 
+absolute assignee or transferee respectively. 9. Any rights and remedies of an assignee or transferee of a 
+policy of life insurance under an assignment or transfer effected prior to the commencement of the 
+Insurance Laws (Amendment) Act, 2015 shall not be affected by the provisions of this section. 10. 
+Notwithstanding any law or custom having the force of law to the contrary, an assignment in favour of a 
+person made upon the condition that — (a) the proceeds under the policy shall become payable to the 
+policy-holder or the nominee or nominees in the event of either the assignee/or transferee predeceasing 
+the insured; or (b) the insured surviving the term of the policy, shall be valid: Provided that a conditional 
+assignee shall not be entitled to obtain a loan on the policy or surrender a policy. 11. In the case of the 
+partial assignment or transfer of a policy of insurance under sub-section (1), the liability of the insurer shall 
+be limited to the amount secured by partial assignment or transfer and such policy-holder shall not be 
+entitled to further assign or transfer the residual amount payable under the same policy.
+Annexure 1 to Policy Bond
+ 
+Section 39 “Nomination by Policyholder” is reproduced below
+39. 1. The holder of a policy of life insurance on his own life may, when effecting the policy or at any time 
+before the policy matures for payment, nominate the person or persons to whom the money secured by 
+the policy shall be paid in the event of his death: Provided that, where any nominee is a minor, it shall be 
+lawful for the policy-holder to appoint any person in the manner laid down by the insurer, to receive the 
+money secured by the policy in the event of his death during the minority of the nominee. 2. Any such 
+nomination in order to be effectual shall, unless it is incorporated in the text of the policy itself, be made by 
+an endorsement on the policy communicated to the insurer and registered by him in the records relating to 
+the policy and any such nomination may at any time before the policy matures for payment be cancelled or 
+changed by an endorsement or a further endorsement or a will, as the case may be, but unless notice in 
+writing of any such cancellation or change has been delivered to the insurer, the insurer shall not be liable 
+for any payment under the policy made bona fide by him to a nominee mentioned in the text of the policy 
+or registered in records of the insurer. 3. The insurer shall furnish to the policyholder a written 
+acknowledgment of having registered a nomination or a cancellation or change thereof, and may charge 
+such fee as may be specified by regulations for registering such cancellation or change. 4. A transfer or 
+assignment of a policy made in accordance with section 38 shall automatically cancel a nomination: 
+Provided that the assignment of a policy to the insurer who bears the risk on the policy at the time of the 
+assignment, in consideration of a loan granted by that insurer on the security of the policy within its 
+surrender value, or its re-assignment on repayment of the loan shall not cancel a nomination, but shall 
+affect the rights of the nominee only to the extent of the insurer’s interest in the policy: Provided further 
+that the transfer or assignment of a policy, whether wholly or in part, in consideration of a loan advanced 
+by the transferee or assignee to the policy-holder, shall not cancel the nomination but shall affect the rights 
+of the nominee only to the extent of the interest of the transferee or assignee, as the case may be, in the 
+policy: Provided also that the nomination, which has been automatically cancelled consequent upon the 
+transfer or assignment, the same nomination shall stand automatically revived when the policy is 
+reassigned by the assignee or retransferred by the transferee in favour of the policy-holder on repayment 
+of loan other than on a security of policy to the insurer. 5. Where the policy matures for payment during the 
+lifetime of the person whose life is insured or where the nominee or, if there are more nominees than one, 
+all the nominees die before the policy matures for payment, the amount secured by the policy shall be 
+payable to the policy-holder or his heirs or legal representatives or the holder of a succession certificate, as 
+the case may be. 6. Where the nominee or if there are more nominees than one, a nominee or nominees 
+survive the person whose life is insured, the amount secured by the policy shall be payable to such survivor 
+or survivors. 7. Subject to the other provisions of this section, where the holder of a policy of insurance on 
+his own life nominates his parents, or his spouse, or his children, or his spouse and children, or any of them, 
+the nominee or nominees shall be beneficially entitled to the amount payable by the insurer to him or them 
+under sub-section (6) unless it is proved that the holder of the policy, having regard to the nature of his title 
+to the policy, could not have conferred any such beneficial title on the nominee. 8. Subject as aforesaid, 
+where the nominee, or if there are more nominees than one, a nominee or nominees, to whom sub-section 
+(7) applies, die after the person whose life is insured but before the amount secured by the policy is paid, 
+the amount secured by the policy, or so much of the amount secured by the policy as represents the share 
+of the nominee or nominees so dying (as the case may be), shall be payable to the heirs or legal 
+representatives of the nominee or nominees or the holder of a succession certificate, as the case may be, 
+and they shall be beneficially entitled to such amount. 9. Nothing in sub-sections (7) and (8) shall operate 
+to destroy or impede the right of any creditor to be paid out of the proceeds of any policy of life insurance. 
+10. The provisions of sub-sections (7) and (8) shall apply to all policies of life insurance maturing for 
+payment after the commencement of the Insurance Laws (Amendment) Act, 2015. 11. Where a 
+policy-holder dies after the maturity of the policy but the proceeds and benefit of his policy has not been 
+made to him because of his death, in such a case, his nominee shall be entitled to the proceeds and benefit 
+of his policy. 12. The provisions of this section shall not apply to any policy of life insurance to which section 
+6 of the Married Women’s Property Act, 1874, applies or has at any time applied: Provided that where a 
+nomination made whether before or after the commencement of the Insurance Laws (Amendment) Act, 
+2015, in favour of the wife of the person who has insured his life or of his wife and children or any of them 
+is expressed, whether or not on the face of the policy, as being made under this section, the said section 6 
+shall be deemed not to apply or not to have applied to the policy.
+Annexure 2 to the Policy Bond
+ 
+Section 45 “Policy not to be called in question on ground of misstatement after three years” is 
+reproduced below1. No policy of life insurance shall be called in question on any ground whatsoever after the expiry of three 
+years from the date of the policy, i.e., from the date of issuance of the policy or the date of commencement 
+of risk or the date of Revival of the policy or the date of the rider to the policy, whichever is later. 2. A policy 
+of life insurance may be called in question at any time within three years from the date of issuance of the 
+policy or the date of commencement of risk or the date of Revival of the policy or the date of the rider to 
+the policy, whichever is later, on the ground of fraud: Provided that the insurer shall have to communicate 
+in writing to the insured or the legal representatives or nominees or assignees of the insured the grounds 
+and materials on which such decision is based. Explanation I- For the purposes of this sub-section, the 
+expression “fraud” means any of the following acts committed by the insured or by his agent, with the 
+intent to deceive the insurer or to induce the insurer to issue a life insurance policy: a. the suggestion, as a 
+fact of that which is not true and which the insured does not believe to be true; b. the active concealment 
+of a fact by the insured having knowledge or belief of the fact; c. any other act fitted to deceive; and d. any 
+such act or omission as the law specifically declares to be fraudulent. Explanation II- Mere silence as to facts 
+likely to affect the assessment of the risk by the insurer is not fraud, unless the circumstances of the case 
+are such that regard being had to them, it is the duty of the insured or his agent, keeping silence to speak, 
+or unless his silence is , in itself, equivalent to speak. 3. Notwithstanding anything contained in sub-section 
+(2), no insurer shall repudiate a life insurance policy on the ground of fraud if the insured can prove that the 
+mis-statement of a or suppression of a material fact was true to the best of his knowledge and belief or that 
+there was no deliberate intention to suppress the fact or that such mis-statement of or suppression of a 
+material fact are within the knowledge of the insurer: Provided that in case of fraud, the onus of disproving 
+lies upon the beneficiaries, in case the policyholder is not alive. Explanation –A person who solicits and 
+negotiates a contract of insurance shall be deemed for the purpose of the formation of the contract, to be 
+the agent of the insurer. 4. A policy of life insurance may be called in question at any time within three years 
+from the date of issuance of the policy or the date of commencement of risk or the date of Revival of the 
+policy or the date of the rider to the policy, whichever is later, on the ground that any statement of or 
+suppression of a fact material to the expectancy of the life of the insured was incorrectly made in the 
+proposal or other document on the basis of which the policy was issued or revived or rider issued: Provided 
+that the insurer shall have to communicate in writing to the insured or the legal representatives or 
+nominees or assignees of the insured the grounds and materials on which such decision to repudiate the 
+policy of life insurance is based: Provided further that in case of repudiation of the policy on the ground of 
+misstatement or suppression of a material fact, and not on ground of fraud, the premiums collected on the 
+policy till the date of repudiation shall be paid to the insured or the legal representatives or nominees or 
+assignees of the insured within a period of ninety days from the date of such repudiation. Explanation- For 
+the purposes of this sub-section, the mis-statement of or suppression of fact shall not be considered 
+material unless it has a direct bearing on the risk undertaken by the insurer, the onus is on the insurer to 
+show that had the insurer been aware of the said fact no life insurance policy would have been issued to 
+the insured. 5. Nothing in this sections shall prevent the insurer from calling for proof of age at any time if 
+he is entitled to do so, and no policy shall be deemed to be called in question merely because the terms of 
+the policy are adjusted on subsequent proof that the age of the life assured was incorrectly stated in the 
+proposal.
+Endorsement(s)
+No riders are available under this policy.
+Annexure 3 to Policy Bond

@@ -1,0 +1,18 @@
+[
+  {
+    "file": "regulatory_rbi/rbi_grievance_redress_financial_literacy.pdf",
+    "url": "https://www.rbi.org.in/commonman/Upload/english/Content/PDFs/Grievance%20Redress.pdf",
+    "ok": false,
+    "returncode": 0,
+    "bytes": 627,
+    "stderr": "  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n100   627  100   627    0     0    783      0 --:--:-- --:--:-- --:--:--   783\n"
+  },
+  {
+    "file": "regulatory_rbi/rbi_failed_transactions_tat_compensation_2019.pdf",
+    "url": "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/CIRCULAR677EC931A7A65E4D99AA957D8E85BC0A2A.PDF",
+    "ok": false,
+    "returncode": 0,
+    "bytes": 627,
+    "stderr": "  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n100   627  100   627    0     0    991      0 --:--:-- --:--:-- --:--:--   990\n100   627  100   627    0     0    990      0 --:--:-- --:--:-- --:--:--   990\n"
+  }
+]

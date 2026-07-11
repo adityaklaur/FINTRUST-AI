@@ -1,0 +1,2292 @@
+Archive
+[Skip to main content](javascript:;)
+/
+[A+](javascript:;)[A-](javascript:;)[A](javascript:;)
+[![National Payments Corporation of India (NPCI)](https://www.npci.org.in/images/npci/new-logo1.png)](https://www.npci.org.in/)[![National Payments Corporation of India (NPCI)](https://www.npci.org.in/images/npci/har-payment-digital-logo.png)](https://www.npci.org.in/)
+[![](https://www.npci.org.in/images/npci/search.png)](javascript:;)
+[GO](javascript:;)
+# Chargeback Archive
+![](https://www.npci.org.in/images/npci/about-us/banner.jpg)
+* [Home](https://www.npci.org.in/)
+* /
+* What We Do
+* /
+* UPI
+* /
+* [Chargeback](https://www.npci.org.in/what-we-do/upi/chargeback)
+* /
+* Archive
+#### UPI
+* [Product Overview](https://www.npci.org.in/what-we-do/upi/product-overview)
+* [BHIM UPI Brand Guidelines](https://www.npci.org.in/PDF/npci/upi/BHIM-UPI-Guidelines.pdf)
+* [Live Members](https://www.npci.org.in/what-we-do/upi/live-members)
+* [PPI Apps](https://www.npci.org.in/what-we-do/upi/ppi-apps)
+* [3rd Party Apps](https://www.npci.org.in/what-we-do/upi/3rd-party-apps)
+* [Roles & Responsibilities](https://www.npci.org.in/what-we-do/upi/roles-responsibilities)
+* [Dispute Redressal Mechanism](https://www.npci.org.in/what-we-do/upi/dispute-redressal-mechanism)
+* [UPI & Services Steering Committee](https://www.npci.org.in/what-we-do/upi/steering-committee)
+* [Product Statistics](https://www.npci.org.in/what-we-do/upi/product-statistics)
+* [UPI Ecosystem Statistics](https://www.npci.org.in/what-we-do/upi/upi-ecosystem-statistics)
+* [UPI uptime](https://www.npci.org.in/what-we-do/upi/uptime-upi-month-wise)
+* [Circulars](https://www.npci.org.in/what-we-do/upi/circular)
+* [upichalega.com](https://www.upichalega.com/)
+* [Chargeback](https://www.npci.org.in/what-we-do/upi/chargeback)
+##### **Filter:**
+Mar 2021Apr 2021May 2021Jun 2021Jul 2021Aug 2021Sep 2021Oct 2021Nov 2021Dec 2021Year
+|S No.|Code|Beneficiary Bank|Total Txns during the month|CB Ratio|Chargebacks Received during the month|Re-presentment Raised during the month|Chargebacks Accepted during the month|
+1|JUN|The Junagadh Commercial Co-Operative Bank Ltd|1,125|0.000%|-|-|-|
+2|AAC|Akhand Anand Co-op Bank Ltd|5,597|0.000%|-|-|-|
+3|ACB|ABHYUDAYA CO-OP. BANK LTD|1,655,310|0.001%|19|15|4|
+4|ACU|The Adarsh Co-operative Urban Bank Ltd.|215,773|0.000%|-|-|-|
+5|ADB|Adarsh Co-operative Bank Limited|80,731|0.000%|-|-|-|
+6|AGU|The Agrasen Co-Operative Urban Bank Ltd|418|0.000%|-|-|-|
+7|AHD|THE AHMEDABAD DISTRICT COOP BANK LTD|314,706|0.000%|1|1|-|
+8|AHM|Ahmednagar Merchant's Co Operative Bank Ltd|142,240|0.001%|1|1|-|
+9|AJM|Amreli Jilla Madhyastha Sahakari Bank Ltd|5,744|0.000%|-|-|-|
+10|AJN|AJANTHA URBAN CO OP BANK LTD|419|0.000%|-|-|-|
+11|AKA|The Akola District Central Co-oP.Bank Ltd|49,576|0.000%|-|-|-|
+12|AMB|Ambajogai Peoples Co-Operative Bank Ltd|35,303|0.000%|-|-|-|
+13|AME|The Ahmedabad Mercantile Cooperative Bank Ltd|76,683|0.000%|-|-|-|
+14|AMG|Assam Gramin Vikash Bank|199,137|0.002%|3|1|2|
+15|AMO|The Anand Mercantile Co-operative Bank Ltd|3,557|0.028%|1|1|-|
+16|ANB|Andhra Bank|72,385|0.035%|25|24|1|
+17|AND|Andhra Pragathi Grameena Bank|4,122,872|0.000%|16|15|1|
+18|APM|A P Mahesh Bank|250,097|0.000%|-|-|-|
+19|APN|Apna Sahakari Bank Ltd.|861,528|0.000%|-|-|-|
+20|APV|Andhra Pradesh Grameena Vikas Bank|6,240,380|0.000%|9|9|-|
+21|ARL|Airtel Payments Bank|48,991,871|0.001%|428|395|33|
+22|ASB|The Andhra Pradesh State Co-operative Bank Ltd.|61,125|0.000%|-|-|-|
+23|AUS|AU small Finance Bank|9,092,815|0.001%|55|54|1|
+24|AXB|Axis Bank Ltd.|366,143,275|0.002%|8,532|6,366|2,166|
+25|BCC|Bassein Catholic Co-operative Bank|662,888|0.003%|17|15|2|
+26|BDB|The Baroda Central Co-op Bank Ltd.|34,265|0.000%|-|-|-|
+27|BDN|Bandhan Bank|12,910,022|0.000%|1|1|-|
+28|BDR|Bhadradri Co-Operative Urban Bank Ltd|18,346|0.000%|-|-|-|
+29|BGI|Baroda Gujarat Gramin Bank|389,420|0.000%|1|1|-|
+30|BHB|Bharat Co-Operative Bank (Mumbai) Ltd.|1,158,816|0.001%|8|8|-|
+31|BHY|The Bhagyodaya Co-Operative Bank Ltd|3,018|0.000%|-|-|-|
+32|BKD|Banaskantha District Central Coop Bank|140,855|0.000%|-|-|-|
+33|BKG|Baroda Rajasthan Kshetriya Gramin Bank|3,360,089|0.001%|39|39|-|
+34|BKM|The Banaskantha Mercantile Co-Operative Bank Ltd|34,153|0.000%|-|-|-|
+35|BNS|Bhagini Nivedita Sahakari Bank|108,442|0.001%|1|1|-|
+36|BOA|Bank Of America|4,436|0.023%|1|1|-|
+37|BOB|Bank of Baroda|160,553,435|0.000%|292|255|37|
+38|BOI|Bank of India|98,960,031|0.000%|264|263|1|
+39|BOM|Bank of Maharashtra|30,438,336|0.000%|94|92|2|
+40|BRM|The Baramati Sahakari Bank Ltd|305,537|0.000%|-|-|-|
+41|BSB|Sri Basaveshwar Bank|12,958|0.000%|-|-|-|
+42|BUB|Baroda UP Gramin Bank|2,855,196|0.000%|6|6|-|
+43|BWB|Bhilwara Urban Co-operative Bank Ltd|8,025|0.000%|-|-|-|
+44|CBI|Central Bank Of India|53,850,006|0.001%|381|381|-|
+45|CBM|The Co-op Bank of Mehsana Ltd|1,223|0.082%|1|-|1|
+46|CGG|Chaitanya Godavari Grameena Bank|1,240,203|0.000%|2|2|-|
+47|CGR|Chhattisgarh Rajya Sahakari Bank Mydt|6,512|0.000%|-|-|-|
+48|CHB|CHATISGARH R G BANK|1,090,006|0.002%|21|17|4|
+49|CHN|The Chartered Sahakari Bank|12,069|0.008%|1|-|1|
+50|CIT|CITI|8,492,179|0.007%|553|533|20|
+51|CLB|COASTAL AREA LOCAL BANK|197,509|0.000%|-|-|-|
+52|CNB|Canara Bank|124,531,173|0.000%|32|32|-|
+53|COB|Cosmos Bank|1,857,185|0.000%|4|4|-|
+54|COL|Colour Merchants Co-operative Bank Ltd|99|0.000%|-|-|-|
+55|CPF|Capital Small Finance Bank Ltd|174,494|0.003%|5|5|-|
+56|CSB|CSB Bank Ltd|2,017,929|0.001%|15|15|-|
+57|CTB|Citibank|2,662,950|0.000%|-|-|-|
+58|CUB|City Union Bank|9,740,278|0.000%|21|21|-|
+59|CZN|The Citizen Coop Bank Ltd|15,446|0.000%|-|-|-|
+60|CZS|Citizens Co-Operative Bank Ltd|6,310|0.000%|-|-|-|
+61|DAM|THE DAHOD MERCANTILE CO-OP BANK LTD|3,115|0.032%|1|-|1|
+62|DBA|Deutsche Bank|61,587|0.000%|-|-|-|
+63|DBS|DBS Bank India Limited|6,247,535|0.000%|13|13|-|
+64|DCB|DCB Bank Ltd|1,346,998|0.000%|4|3|1|
+65|DEO|Deogiri Nagari Sahakari Bank Ltd|123,103|0.000%|-|-|-|
+66|DEU|Deutsche Bank Corp|6,190|0.404%|25|23|2|
+67|DHU|The Dahod Urban Co-operative Bank Ltd|11,219|0.036%|4|-|4|
+68|DLB|Dhanlaxmi Bank Ltd|1,649,088|0.000%|2|-|2|
+69|DMC|Dhanera Mercantile Co-op Bank Ltd|11,538|0.000%|-|-|-|
+70|DSB|Dombivali Nagri Sahakari Bank|757,860|0.000%|-|-|-|
+71|DSM|Darussalam Co-Operative Urban Bank Ltd.|71,938|0.000%|-|-|-|
+72|DTY|Dattatraya Maharaj Kalambe Jaoli Sahakari Bank Ltd|20,605|0.000%|-|-|-|
+73|EAF|ESAF Small Finance Bank Ltd.|4,195,557|0.000%|5|5|-|
+74|EQT|Equitas Bank|6,814,112|0.001%|41|34|7|
+75|EUB|The Eenadu Co-oP.Urban Bank Ltd|26,299|0.004%|1|-|1|
+76|EZE|DCB Bank Ezetap|6|0.000%|-|-|-|
+77|FBL|Federal Bank|92,349,873|0.001%|914|910|4|
+78|FIN|Fino Payments Bank|8,471,143|0.000%|2|2|-|
+79|FNG|Fingrowth Cooperative Bank Ltd|17,775|0.000%|-|-|-|
+80|FSF|Fincare Small Finance Bank Ltd|1,381,130|0.001%|8|-|8|
+81|GBB|The Greater Bombay Co-operative Bank|19,613|0.020%|4|-|4|
+82|GDH|The Godhra Urban Cooperative Bank Ltd|3,306|0.000%|-|-|-|
+83|GHD|The Gadchiroli District Central Co-Op. Bank Ltd.|23,491|0.000%|-|-|-|
+84|GNC|The Gandhinagar Nagarik Co-operative Bank Ltd|3,273|0.000%|-|-|-|
+85|GPB|GP PARSIK BANK|1,136,043|0.000%|-|-|-|
+86|GSC|The Gujarat State Cooperative Bank|136,606|0.001%|2|1|1|
+87|GYB|Gayatri Bank|680,569|0.000%|-|-|-|
+88|HDF|HDFC BANK LTD|247,039,734|0.003%|7,186|3,902|3,284|
+89|HGB|Himachal Pradesh Gramin Bank|381,178|0.013%|49|45|4|
+90|HPB|The Himachal Pradesh State Co-Op. Bank Ltd|152,785|0.005%|8|7|1|
+91|HSB|HSBC|2,604,976|0.004%|109|109|-|
+92|HSW|Hutatma Sahakari Bank Ltd|49,068|0.002%|1|1|-|
+93|HTI|The Hasti Co-operative Bank Ltd|195,220|0.000%|-|-|-|
+94|ICI|ICICI Bank|389,514,162|0.003%|11,752|7,549|4,203|
+95|ICP|Phone Pe ICICI|3|0.000%|-|-|-|
+96|IDB|IDBI Bank Limited|39,486,045|0.000%|67|67|-|
+97|IDF|IDFC FIRST Bank|17,742,070|0.003%|590|585|5|
+98|IIB|INDUSIND BANK|47,737,520|0.004%|2,132|1,387|745|
+99|IKT|Irinjalakuda Town Co|11,171|0.000%|-|-|-|
+100|INB|Indian Bank|62,207,146|0.002%|1,098|1,098|-|
+101|IOB|Indian Overseas Bank|33,948,400|0.000%|52|51|1|
+102|IPB|India Post Payment Bank|19,764,726|0.000%|26|26|-|
+103|IPP|ICICI Bank Pockets|29,237|0.000%|-|-|-|
+104|IPS|Indore Paraspar Sahakari bank Ltd. Indore|3,358|0.000%|-|-|-|
+105|JAB|THE JALGAON PEOPLES CO.OP.BANK LTD|174,638|0.000%|-|-|-|
+106|JIO|Jio Payments Bank|492,865|0.005%|23|15|8|
+107|JJS|Jalgaon Janata Sahkari Bank Ltd Jalgaon|413,878|0.000%|1|1|-|
+108|JKB|Jammu and Kashmir Bank|4,176,524|0.000%|11|11|-|
+109|JKG|J&amp;K Grameen Bank|156,803|0.000%|-|-|-|
+110|JKS|Janakalyan Sahakari Bank Ltd|99,258|0.001%|1|1|-|
+111|JMS|JIJAMATA MAHILA SAHAKARI BANK LTD|4,723|0.000%|-|-|-|
+112|JNC|Jalna Merchant Cooperative Bank Ltd|40,589|0.002%|1|1|-|
+113|JNS|Janaseva Sahakari|273,042|0.000%|-|-|-|
+114|JSB|Janata Sahakari Bank Ltd. Pune|1,461,411|0.000%|5|3|2|
+115|JSF|Jana Small Finance Bank Ltd|1,020,239|0.000%|1|1|-|
+116|JUB|The Jamkhandi Urban Co-Operative Bank Ltd|3,472|0.086%|3|3|-|
+117|JVN|Jivan Commercial Co-Operative Bank Ltd|2,830|0.000%|-|-|-|
+118|KAI|The Kaira District Central Coop Bank|62,898|0.002%|1|-|1|
+119|KAN|Kanaka Mahalakshmi Co-Operative Bank Ltd.|51,217|0.000%|-|-|-|
+120|KDK|Kolhapur Dist. Central Co-Op. Bank Ltd.|38,321|0.000%|-|-|-|
+121|KGG|Kashi Gomati Samyut Grameen Bank|95,544|0.000%|-|-|-|
+122|KHM|The Khamgaon Urban Co-Operative Bank Ltd|15,753|0.000%|-|-|-|
+123|KIB|KAIJSB- Ichalkaranji|209,852|0.000%|-|-|-|
+124|KJB|The Kalyan Janata Sahakari Bank Ltd.|618,812|0.001%|4|4|-|
+125|KKN|Kokan Mercantile Coop Bank Ltd|109,172|0.002%|2|2|-|
+126|KLB|The Kalupur Commercial Co-operative Bank Ltd|393,670|0.000%|1|1|-|
+127|KLG|Kerala Gramin Bank|4,785,673|0.001%|34|34|-|
+128|KLM|Kolhapur Mahila Sahakari Bank Ltd. Kolhapur|5,098|0.000%|-|-|-|
+129|KMB|Kotak Mahindra Bank|94,927,077|0.001%|1,205|1,082|123|
+130|KMC|Karnataka Mahila Sahakara Bank Niyamitha|2,199|0.000%|-|-|-|
+131|KNK|Kankaria Maninagar Nagarik Sahakari Bank Ltd|4,258|0.000%|-|-|-|
+132|KRI|Krishna Bhima Samruddhi Local Area Bank|61,444|0.000%|-|-|-|
+133|KSA|The Karnataka State Co-operative Apex Bank Ltd|50,560|0.000%|-|-|-|
+134|KTB|Karnataka Bank|24,712,688|0.002%|581|580|1|
+135|KTK|THE KAKATIYA CO-OPERATIVE URBAN BANK LTD|3,204|0.031%|1|-|1|
+136|KUB|The Kolhapur Urban Co-op Bank Ltd|33,511|0.000%|-|-|-|
+137|KVB|Karur Vysya Bank|19,385,651|0.000%|42|41|1|
+138|KVG|Karnataka Vikas Grameena Bank|3,031,821|0.004%|126|126|-|
+139|LSB|Lonavala Sahakari Bank Ltd|21,385|0.000%|-|-|-|
+140|LVB|Lakshmi Vilas Bank|3,012,328|0.000%|3|3|-|
+141|MAI|Manvi Pattana Souharda Sahakari Bank Ni.|21,489|0.000%|-|-|-|
+142|MBB|Dakshin Bihar Gramin Bank|1,956,254|0.002%|37|37|-|
+143|MBH|Maharashtra State Co-op Bank Ltd|41,587|0.000%|-|-|-|
+144|MCL|Maratha Cooperative Bank Ltd|11,987|0.008%|1|-|1|
+145|MDM|Mann Deshi Mahila Sahakari Bank. Ltd.|17,036|0.012%|2|2|-|
+146|MDN|The Mandvi Nagrik Sahakari Bank Ltd|490|0.000%|-|-|-|
+147|MGB|Maharashtra Gramin Bank|5,203,801|0.000%|10|9|1|
+148|MHN|Mahanagar Nagrik Sahakari Bank Maryadit|2,114|0.047%|1|-|1|
+149|MHS|Mahesh Sahakari Bank Ltd|18,011|0.000%|-|-|-|
+150|MNB|GS Mahanagar Coop bank|560,172|0.000%|-|-|-|
+151|MNR|Manipur Rural Bank|33,143|0.000%|-|-|-|
+152|MNS|The Modasa Nagarik Sahakari Bank Limited|1,845|0.000%|-|-|-|
+153|MOC|Model Co-Op. Bank Ltd.|82,323|0.002%|2|2|-|
+154|MRB|Meghalaya Rural Bank|60,002|0.000%|-|-|-|
+155|MRS|MADHYA PRADESH RAJYA SAHAKARI BANK MARYADIT|8,304|0.000%|-|-|-|
+156|MSB|The Malad Sahakari Bank Ltd.|41,533|0.000%|-|-|-|
+157|MSL|The Muslim Cooperative Bank Ltd|87,317|0.000%|-|-|-|
+158|MSS|The Merchants Souharda Sahakara Bank Ni.|4,306|0.000%|-|-|-|
+159|MUC|The Mehsana Urban Co-Operative Bank Ltd.|313,756|0.000%|1|1|-|
+160|MUN|The Municipal Co-op Bank Ltd|121,210|0.000%|-|-|-|
+161|MVY|Malviya Urban Co-operative Bank Ltd.|8,993|0.000%|-|-|-|
+162|MZR|Mizoram Rural Bank|520,063|0.001%|3|-|3|
+163|NBT|The Navnirman Co-Operative Bank Ltd|4,141|0.000%|-|-|-|
+164|NCB|The National Co bank|3,730|0.000%|-|-|-|
+165|NES|North East Small Finance Bank Ltd|192,383|0.001%|1|1|-|
+166|NGB|NKGSB Bank|564,712|0.000%|1|-|1|
+167|NMB|Navi Mumbai Co-operative Bank Ltd|14,551|0.000%|-|-|-|
+168|NMV|Nagarik Sahakari Bank Maryadit|4,281|0.000%|-|-|-|
+169|NNI|Nutan Nagrik Sahakari Bank|26,482|0.000%|-|-|-|
+170|NSD|NSDL Payments Bank|325,320|0.002%|8|8|-|
+171|NSG|Nagrik Sahakari Maryadit Gwalior|1,421|0.000%|-|-|-|
+172|NTB|Nainital Bank|428,726|0.007%|28|24|4|
+173|NUN|The Nandura Urban Co-op Bank Ltd. Nandura|4,059|0.000%|-|-|-|
+174|NUR|The New Urban Co-operative Bank Ltd Rampur|7,435|0.000%|-|-|-|
+175|PBG|PASCHIM BANGA GRAMIN BANK|121,443|0.003%|4|4|-|
+176|PCB|The Prime Cooperative Bank Ltd|44,438|0.000%|-|-|-|
+177|PCS|Pune Cantonment Sahakari bank Ltd|33,427|0.000%|-|-|-|
+178|PGB|Punjab Gramin Bank|449,403|0.008%|36|36|-|
+179|PKB|Pragathi Krishna Gramin Bank|6,162,537|0.000%|7|7|-|
+180|PLB|Pali Urban Co-Operative Bank Limited|7,277|0.000%|-|-|-|
+181|PNB|Punjab National Bank|117,285,822|0.000%|542|539|3|
+182|PPB|Pochampally Co Bank|123,480|0.000%|-|-|-|
+183|PRY|The Priyadarshini Nagari Sahakari Bank|140,841|0.000%|-|-|-|
+184|PSB|Punjab and Sind Bank|4,800,728|0.004%|174|174|-|
+185|PTM|Paytm Payments Bank|926,174,702|0.001%|8,782|8,279|503|
+186|PTN|PATAN NAGARIK SAHAKARI BANK LTD|4,734|0.000%|-|-|-|
+187|PTP|The Pratap Co-operative Bank Ltd|5,858|0.000%|-|-|-|
+188|PUR|Purvanchal Bank|1,782,723|0.003%|51|51|-|
+189|RJH|Rajarshi Shahu Sahakari Bank Ltd|35,794|0.000%|-|-|-|
+190|RJT|The Rajkot Commercial Co-operative Bank|429|0.000%|-|-|-|
+191|RKN|Rajkot Nagrik Sahakari Bank Ltd.|204,497|0.000%|-|-|-|
+192|RKT|RAJKOT DISTRICT CENTRAL COOP BANK|27,984|0.000%|-|-|-|
+193|RMG|Rajasthan Marudhara Gramin Bank|4,034,518|0.001%|47|47|-|
+194|RNB|RBL|4,531,426|0.003%|154|141|13|
+195|RNI|Rani Channamma mahila Sahakari Bank Niyamit|5,444|0.000%|-|-|-|
+196|RNS|Rajgurunagar Sahakar|90,381|0.000%|-|-|-|
+197|SAC|SHRI ARIHANT CO-OP BANK LTD|30,967|0.003%|1|1|-|
+198|SAG|Saurashtra Gramin Bank|224,467|0.001%|2|2|-|
+199|SAR|SBPP CO-OPERATIVE BANK LIMITED|6,333|0.016%|1|1|-|
+200|SBG|Sarva Haryana Gramin Bank|3,392,197|0.001%|34|34|-|
+201|SBI|State Bank Of India|664,887,683|0.001%|4,753|2,726|2,027|
+202|SBL|SBM Bank India Ltd.|83,194|0.001%|1|-|1|
+203|SBN|SAIBABA NAGARI SAHAKARI BANK MARYADIT SAILU|32,937|0.000%|-|-|-|
+204|SCB|Standard Chartered|3,300,758|0.001%|32|31|1|
+205|SDH|Shree Dharati Co-Operative Bank Ltd|1,939|0.000%|-|-|-|
+206|SDM|Samarth Sahakari Bank Ltd. Solapur|181,175|0.000%|-|-|-|
+207|SDR|Sandur Pattana Souharda Sahakari Bank|8,612|0.000%|-|-|-|
+208|SDS|Sadhana Sahakari Bank Ltd|57,277|0.000%|-|-|-|
+209|SDU|Sri Sudha Co-operative Bank Ltd|2,593|0.347%|9|-|9|
+210|SHB|Shivalik Mercantile Co-operative Bank Ltd|144,719|0.000%|-|-|-|
+211|SHK|SHREE KADI NAGARIK SAHAKARI BANK LTD|77,598|0.000%|-|-|-|
+212|SHR|Sri Rama Co-Operative Bank Limited|1,136|0.088%|1|-|1|
+213|SIB|South Indian Bank|14,105,439|0.000%|48|20|28|
+214|SID|THE SINDHUDURG DCC BANK LTD|96,793|0.001%|1|1|-|
+215|SIN|State bank of India - NETS|5|0.000%|-|-|-|
+216|SJS|SHRI JANATA SAHAKARI BANK LTD.HALOL|1,812|0.055%|1|-|1|
+217|SKD|Sabarkantha District Central Cooperative Bank Ltd|141,761|0.000%|-|-|-|
+218|SLB|Sterling Urban Cooperative Bank Ltd|32,157|0.000%|-|-|-|
+219|SMB|SHREE MAHAVIR SAHAKARI BANK LTD|6,501|0.000%|-|-|-|
+220|SMR|Samruddhi Co-Operative Bank Ltd. Nagpur|4,129|0.024%|1|1|-|
+221|SMW|Shri Mahila Sewa Sahakari Bank Ltd.|7,642|0.000%|-|-|-|
+222|SNB|Smriti Nagrik Sahakari Bank Maryadit Mandsaur|34,182|0.000%|-|-|-|
+223|SNC|Surat National Co-Operative Bank Ltd|18,645|0.000%|-|-|-|
+224|SND|Sunderlal Sawji Urban Co-Op Bank Ltd Jintur|4,888|0.000%|-|-|-|
+225|SNS|Saraspur Nagarik Co-Op Bank Ltd|16,347|0.000%|-|-|-|
+226|SPB|Surat People Cooperative Bank|119,084|0.001%|1|1|-|
+227|SPN|Shree Panchganga Nagari Sahakari Bank Ltd|10,502|0.000%|-|-|-|
+228|SRC|Saraswat Bank|5,013,877|0.000%|3|3|-|
+229|SRE|SREE CHARAN SOUHARDHA CO-OPERATIVE BANK LTD|3,849|0.000%|-|-|-|
+230|SRS|Shri Chhatrapati Rajarshi Shahu Urban Co-Op. Bank Ltd. Beed|191,970|0.000%|-|-|-|
+231|SRT|The Surat Mercantile Co-op Bank Ltd|2,224|0.000%|-|-|-|
+232|SRV|The Sarvodaya Nagarik Sahakari Bank Ltd|4,931|0.000%|-|-|-|
+233|SSF|Suryoday Small Finance Bank Ltd.|523,172|0.000%|2|2|-|
+234|SSK|SUCO SOUHARDA SAHAKARI BANK LTD|300,974|0.000%|-|-|-|
+235|SSL|The Satara Sahakari Bank Ltd|2,746|0.000%|-|-|-|
+236|STA|The Satara District Central Coop Bank Ltd|338,248|0.001%|3|2|1|
+237|STB|The Saurashtra Co-Operative Bank Ltd|2,103|0.000%|-|-|-|
+238|SUB|Sarva UP Gramin Bank|1,405,647|0.002%|32|32|-|
+239|SUJ|Shri Bharat Urban Co-Operative Bank Ltd Jaysingpur|3,420|0.058%|2|-|2|
+240|SUX|The Sutex Co.op.Bank Ltd.|63,084|0.000%|-|-|-|
+241|SVB|Shri Veershaiv Co-Op Bank Ltd.|68,038|0.003%|2|-|2|
+242|SVC|Svc co-operative bank ltd|1,521,672|0.001%|12|12|-|
+243|SVS|Sardar Vallabhbhai Sahakari Bank Ltd|5,672|0.000%|-|-|-|
+244|SVY|SARVODAYA COMMERCIAL CO OP BANK LTD|25,451|0.000%|-|-|-|
+245|SYG|Suvarnayug Sahakari Bank Ltd|195,685|0.000%|-|-|-|
+246|TAS|Associate Co.op. Bank Ltd.|15,934|0.000%|-|-|-|
+247|TBS|Thane Bharat Sahakari Bank Ltd|278,853|0.000%|-|-|-|
+248|TEL|Telangana State Co Op Apex Bank|338,481|0.001%|2|2|-|
+249|TGB|Telangana Grameena bank|2,741,003|0.000%|9|9|-|
+250|TIR|Tripura Gramin Bank|90,849|0.000%|-|-|-|
+251|TKR|The Kranthi Co-Operative Urban Bank Ltd|6,608|0.030%|2|-|2|
+252|TMB|Tamilnad Mercantile Bank|7,068,088|0.002%|155|155|-|
+253|TNF|The Surat District Cooperative Bank|152,336|0.001%|2|2|-|
+254|TSB|TJSB Sahakari Bank Ltd|2,387,273|0.001%|28|28|-|
+255|TSS|The SSK Co-operative Bank Ltd.|13,390|0.007%|1|-|1|
+256|TTB|Textile Traders Co-operative Bank Limited|789|0.000%|-|-|-|
+257|TUP|Tirupati Urban Co-Operative Bank Ltd|10,947|0.009%|1|1|-|
+258|UBD|THE URBAN CO OP BANK LTD DHARANGAON|19,687|0.000%|-|-|-|
+259|UCO|UCO Bank|28,675,258|0.000%|125|125|-|
+260|UIJ|Ujjivan Small Finance Bank|7,098,642|0.001%|44|44|-|
+261|UKG|Uttarakhand Gramin Bank|729,329|0.009%|68|68|-|
+262|UMB|The Udaipur Mahila Urban Co-Operative Bank Ltd.|18,933|0.000%|-|-|-|
+263|UMS|The Udaipur Mahila Samridhi Urban Co-operative Bank Ltd.|9,808|0.000%|-|-|-|
+264|UOB|Union Bank of India|158,919,488|0.000%|176|176|-|
+265|USF|UTKARSH SMALL FINANCE BANK LIMITED|471,710|0.000%|-|-|-|
+266|UUB|The Udaipur Urban Co-Operative Bank Ltd.|13,247|0.000%|-|-|-|
+267|VAR|The Varachha Co-Op Bank Ltd|217,453|0.000%|-|-|-|
+268|VBM|Vaishya Sahakari Bank Ltd|1,930|0.000%|-|-|-|
+269|VES|Veerashaiva Sahakari Bank Ltd|1,516|0.132%|2|-|2|
+270|VGB|Jharkhand Rajya Gramin Bank|860,616|0.001%|5|5|-|
+271|VIK|Vikas Souharda Co-operative Bank Ltd|82,957|0.000%|-|-|-|
+272|VIR|VIKRAMADITYA NAGRIK SAHAKARI BANK|476|0.000%|-|-|-|
+273|VJC|The Vijay Cooperative Bank Ltd.|31,767|0.003%|1|-|1|
+274|VKH|The Visakhapatnam Cooperative Bank Ltd|127,234|0.000%|-|-|-|
+275|VNP|Vaishya Nagari Sahakari Bank Ltd|37,836|0.005%|2|-|2|
+276|VSI|The Vishweshwar Sahakari Bank Ltd. Pune (Multi-State)|269,076|0.000%|1|1|-|
+277|VSM|Sri Vasavamba Co-Op. Bank Ltd.|10,759|0.000%|-|-|-|
+278|VVB|The Vallabh Vidyanagar Commercial Co-Operative Bank Ltd.|2,675|0.000%|-|-|-|
+279|VVS|Vasai Vikas Sahakari Bank Ltd|261,905|0.001%|3|2|1|
+280|YBL|Yes Bank Ltd|486,440,368|0.002%|9,093|7,508|1,585|
+281|YJU|JUSPAY Technologies Pvt Ltd|83,237,256|0.001%|1,086|1,085|1|
+282|YLN|Yadagiri Co-op Bank|34,784|0.000%|-|-|-|
+283|ARS|Arvind Sahakari Bank Ltd|150|0.000%|-|-|-|
+284|BEB|The Business Co Operative Bank Ltd|607|0.000%|-|-|-|
+285|DAP|Dapoli Urban Cooperative Bank Ltd|232|0.000%|-|-|-|
+286|DNS|Deendayal Nagri Sahakari Bank Ltd|493|0.000%|-|-|-|
+287|HMT|Himatnagar Nagarik Sahakari Bank Ltd|318|0.000%|-|-|-|
+288|PNE|Pune Urban Co-op Bank Ltd|1,092|0.000%|-|-|-|
+289|PWN|Poornawdi Nagrik Sahakari Bank Ltd|1,758|0.000%|-|-|-|
+290|TDC|The Thane Dist Central Co op. Bank Ltd|3,746|0.000%|-|-|-|
+|S No.|Code|Beneficiary Bank|Total Txns during the month|CB Ratio|Chargebacks Received during the month|Re-presentment Raised during the month|Chargebacks Accepted during the month|
+1|AAC|Akhand Anand Co-op Bank Ltd|3,865|0.000%|-|-|-|
+2|ACB|ABHYUDAYA CO-OP. BANK LTD|1,523,982|0.001%|10|10|-|
+3|ACU|The Adarsh Co-operative Urban Bank Ltd.|185,377|0.000%|-|-|-|
+4|ADB|Adarsh Co-operative Bank Limited|72,830|0.000%|-|-|-|
+5|AGU|The Agrasen Co-Operative Urban Bank Ltd|37|0.000%|-|-|-|
+6|AHD|THE AHMEDABAD DISTRICT COOP BANK LTD|284,661|0.000%|-|-|-|
+7|AHM|Ahmednagar Merchant's Co Operative Bank Ltd|131,237|0.000%|-|-|-|
+8|AJM|Amreli Jilla Madhyastha Sahakari Bank Ltd|4,573|0.000%|-|-|-|
+9|AJN|AJANTHA URBAN CO OP BANK LTD|27|0.000%|-|-|-|
+10|AKA|The Akola District Central Co-oP.Bank Ltd|38,993|0.000%|-|-|-|
+11|AMB|Ambajogai Peoples Co-Operative Bank Ltd|28,085|0.000%|-|-|-|
+12|AME|The Ahmedabad Mercantile Cooperative Bank Ltd|68,889|0.000%|-|-|-|
+13|AMG|Assam Gramin Vikash Bank|164,496|0.000%|-|-|-|
+14|AMO|The Anand Mercantile Co-operative Bank Ltd|3,104|0.000%|-|-|-|
+15|ANB|Andhra Bank|55,167|0.011%|6|2|4|
+16|AND|Andhra Pragathi Grameena Bank|3,515,854|0.000%|8|7|1|
+17|APM|A P Mahesh Bank|225,425|0.000%|-|-|-|
+18|APN|Apna Sahakari Bank Ltd.|805,813|0.000%|-|-|-|
+19|AXB|Axis Bank Ltd.|331,518,698|0.003%|11,331|8,471|2,860|
+20|APV|Andhra Pradesh Grameena Vikas Bank|5,733,283|0.000%|6|6|-|
+21|ARL|Airtel Payments Bank|50,471,180|0.001%|505|481|24|
+22|ASB|The Andhra Pradesh State Co-operative Bank Ltd.|52,536|0.000%|-|-|-|
+23|AUS|AU small Finance Bank|8,273,772|0.001%|60|53|7|
+24|BCC|Bassein Catholic Co-operative Bank|619,503|0.001%|8|7|1|
+25|BDB|The Baroda Central Co-op Bank Ltd.|30,953|0.000%|-|-|-|
+26|BDN|Bandhan Bank|11,886,766|0.000%|3|3|-|
+27|BDR|Bhadradri Co-Operative Urban Bank Ltd|15,108|0.000%|-|-|-|
+28|BGI|Baroda Gujarat Gramin Bank|349,546|0.001%|2|2|-|
+29|BHB|Bharat Co-Operative Bank (Mumbai) Ltd.|1,071,065|0.000%|2|2|-|
+30|BHY|The Bhagyodaya Co-Operative Bank Ltd|2,779|0.000%|-|-|-|
+31|BKD|Banaskantha District Central Coop Bank|121,262|0.000%|-|-|-|
+32|BKG|Baroda Rajasthan Kshetriya Gramin Bank|2,960,434|0.000%|14|14|-|
+33|BKM|The Banaskantha Mercantile Co-Operative Bank Ltd|33,228|0.000%|-|-|-|
+34|BNS|Bhagini Nivedita Sahakari Bank|95,389|0.000%|-|-|-|
+35|BOA|Bank Of America|3,825|0.000%|-|-|-|
+36|BOB|Bank of Baroda|144,707,183|0.000%|678|617|61|
+37|BOI|Bank of India|90,054,990|0.000%|89|89|-|
+38|BOM|Bank of Maharashtra|27,610,403|0.000%|77|77|-|
+39|BRM|The Baramati Sahakari Bank Ltd|269,957|0.000%|-|-|-|
+40|BSB|Sri Basaveshwar Bank|11,744|0.000%|-|-|-|
+41|BUB|Baroda UP Gramin Bank|1,834,803|0.000%|7|7|-|
+42|BWB|Bhilwara Urban Co-operative Bank Ltd|8,659|0.000%|-|-|-|
+43|CBI|Central Bank Of India|49,936,442|0.000%|192|192|-|
+44|CBM|The Co-op Bank of Mehsana Ltd|1,049|0.000%|-|-|-|
+45|CGG|Chaitanya Godavari Grameena Bank|1,080,546|0.000%|-|-|-|
+46|CGR|Chhattisgarh Rajya Sahakari Bank Mydt|5,710|0.000%|-|-|-|
+47|CHB|CHATISGARH R G BANK|953,229|0.002%|18|18|-|
+48|CHN|The Chartered Sahakari Bank|11,327|0.009%|1|-|1|
+49|CIT|CITI|7,124,756|0.004%|288|287|1|
+50|CLB|COASTAL AREA LOCAL BANK|169,669|0.000%|-|-|-|
+51|CNB|Canara Bank|111,264,453|0.000%|24|23|1|
+52|COB|Cosmos Bank|1,629,780|0.000%|1|1|-|
+53|COL|Colour Merchants Co-operative Bank Ltd|72|0.000%|-|-|-|
+54|CPF|Capital Small Finance Bank Ltd|152,216|0.001%|2|2|-|
+55|CSB|CSB Bank Ltd|1,824,968|0.001%|11|11|-|
+56|CTB|Citibank|2,410,686|0.000%|-|-|-|
+57|CUB|City Union Bank|8,486,002|0.001%|48|28|20|
+58|CZN|The Citizen Coop Bank Ltd|13,831|0.000%|-|-|-|
+59|CZS|Citizens Co-Operative Bank Ltd|5,376|0.000%|-|-|-|
+60|DAM|THE DAHOD MERCANTILE CO-OP BANK LTD|2,030|0.000%|-|-|-|
+61|DBA|Deutsche Bank|54,900|0.000%|-|-|-|
+62|DBS|DBS Bank India Limited|5,731,060|0.000%|13|11|2|
+63|DCB|DCB Bank Ltd|1,284,586|0.002%|21|3|18|
+64|DEO|Deogiri Nagari Sahakari Bank Ltd|98,808|0.000%|-|-|-|
+65|DEU|Deutsche Bank Corp|5,676|1.216%|69|66|3|
+66|DGB|Dena Gujarat Gramin Bank|3,380|0.000%|-|-|-|
+67|DHU|The Dahod Urban Co-operative Bank Ltd|10,174|0.079%|8|-|8|
+68|DLB|Dhanlaxmi Bank Ltd|1,416,077|0.000%|2|1|1|
+69|DMC|Dhanera Mercantile Co-op Bank Ltd|6,166|0.000%|-|-|-|
+70|DSB|Dombivali Nagri Sahakari Bank|714,870|0.000%|-|-|-|
+71|DSM|Darussalam Co-Operative Urban Bank Ltd.|61,112|0.000%|-|-|-|
+72|DTY|Dattatraya Maharaj Kalambe Jaoli Sahakari Bank Ltd|11,011|0.000%|-|-|-|
+73|EAF|ESAF Small Finance Bank Ltd.|3,700,160|0.000%|2|2|-|
+74|EQT|Equitas Bank|6,317,255|0.001%|47|43|4|
+75|EUB|The Eenadu Co-oP.Urban Bank Ltd|18,210|0.000%|-|-|-|
+76|FBL|Federal Bank|82,590,460|0.001%|558|558|-|
+77|FIN|Fino Payments Bank|7,358,568|0.000%|-|-|-|
+78|FNG|Fingrowth Cooperative Bank Ltd|15,376|0.000%|-|-|-|
+79|FSF|Fincare Small Finance Bank Ltd|1,240,066|0.000%|2|1|1|
+80|GBB|The Greater Bombay Co-operative Bank|1,982|0.000%|-|-|-|
+81|GDH|The Godhra Urban Cooperative Bank Ltd|2,852|0.000%|-|-|-|
+82|GHD|The Gadchiroli District Central Co-Op. Bank Ltd.|20,096|0.000%|-|-|-|
+83|GNC|The Gandhinagar Nagarik Co-operative Bank Ltd|2,633|0.000%|-|-|-|
+84|GPB|GP PARSIK BANK|1,069,679|0.000%|-|-|-|
+85|GSC|The Gujarat State Cooperative Bank|123,326|0.000%|-|-|-|
+86|GYB|Gayatri Bank|574,976|0.000%|-|-|-|
+87|HDF|HDFC BANK LTD|227,659,888|0.003%|7,330|3,906|3,424|
+88|HGB|Himachal Pradesh Gramin Bank|351,384|0.007%|26|26|-|
+89|HPB|The Himachal Pradesh State Co-Op. Bank Ltd|125,661|0.006%|7|7|-|
+90|HSB|HSBC|2,124,654|0.007%|140|140|-|
+91|HSW|Hutatma Sahakari Bank Ltd|45,704|0.002%|1|-|1|
+92|HTI|The Hasti Co-operative Bank Ltd|185,350|0.001%|1|1|-|
+93|ICI|ICICI Bank|366,715,653|0.004%|15,310|11,770|3,540|
+94|ICP|Phone Pe ICICI|1|0.000%|-|-|-|
+95|IDB|IDBI Bank Limited|36,408,346|0.000%|58|58|-|
+96|IDF|IDFC FIRST Bank|15,578,138|0.003%|536|519|17|
+97|IIB|INDUSIND BANK|41,876,374|0.006%|2,714|1,360|1,354|
+98|IKT|Irinjalakuda Town Co|5,715|0.000%|-|-|-|
+99|INB|Indian Bank|53,835,278|0.002%|977|977|-|
+100|IOB|Indian Overseas Bank|29,983,435|0.000%|32|3|29|
+101|IPB|India Post Payment Bank|15,588,492|0.000%|67|67|-|
+102|IPP|ICICI Bank Pockets|29,328|0.000%|-|-|-|
+103|IPS|Indore Paraspar Sahakari bank Ltd. Indore|3,191|0.000%|-|-|-|
+104|JAB|THE JALGAON PEOPLES CO.OP.BANK LTD|149,154|0.000%|-|-|-|
+105|JIO|Jio Payments Bank|499,473|0.002%|9|8|1|
+106|JJS|Jalgaon Janata Sahkari Bank Ltd Jalgaon|408,633|0.000%|1|1|-|
+107|JKB|Jammu and Kashmir Bank|3,665,179|0.000%|2|2|-|
+108|JKG|J&K Grameen Bank|131,757|0.003%|4|-|4|
+109|JKS|Janakalyan Sahakari Bank Ltd|91,056|0.002%|2|2|-|
+110|JMS|JIJAMATA MAHILA SAHAKARI BANK LTD|1,850|0.000%|-|-|-|
+111|JNC|Jalna Merchant Cooperative Bank Ltd|36,252|0.000%|-|-|-|
+112|JNS|Janaseva Sahakari|232,745|0.000%|-|-|-|
+113|JSB|Janata Sahakari Bank Ltd. Pune|1,314,353|0.000%|1|-|1|
+114|JSF|Jana Small Finance Bank Ltd|902,989|0.001%|5|5|-|
+115|JUB|The Jamkhandi Urban Co-Operative Bank Ltd|2,078|0.000%|-|-|-|
+116|JUN|The Junagadh Commercial Co-Operative Bank Ltd|236|0.000%|-|-|-|
+117|JVN|Jivan Commercial Co-Operative Bank Ltd|2,416|0.000%|-|-|-|
+118|KAI|The Kaira District Central Coop Bank|56,414|0.000%|-|-|-|
+119|KAN|Kanaka Mahalakshmi Co-Operative Bank Ltd.|46,420|0.000%|-|-|-|
+120|KDK|Kolhapur Dist. Central Co-Op. Bank Ltd.|31,673|0.000%|-|-|-|
+121|KGG|Kashi Gomati Samyut Grameen Bank|116,234|0.000%|-|-|-|
+122|KHM|The Khamgaon Urban Co-Operative Bank Ltd|12,587|0.008%|1|1|-|
+123|KIB|KAIJSB- Ichalkaranji|194,895|0.000%|-|-|-|
+124|KJB|The Kalyan Janata Sahakari Bank Ltd.|569,130|0.000%|2|2|-|
+125|KKN|Kokan Mercantile Coop Bank Ltd|96,276|0.000%|-|-|-|
+126|KLB|The Kalupur Commercial Co-operative Bank Ltd|348,888|0.000%|1|1|-|
+127|KLG|Kerala Gramin Bank|4,231,369|0.001%|32|30|2|
+128|KLM|Kolhapur Mahila Sahakari Bank Ltd. Kolhapur|4,514|0.000%|-|-|-|
+129|KMB|Kotak Mahindra Bank|93,074,114|0.001%|626|431|195|
+130|KMC|Karnataka Mahila Sahakara Bank Niyamitha|1,268|0.000%|-|-|-|
+131|KNK|Kankaria Maninagar Nagarik Sahakari Bank Ltd|3,801|0.000%|-|-|-|
+132|KRI|Krishna Bhima Samruddhi Local Area Bank|54,436|0.000%|-|-|-|
+133|KSA|The Karnataka State Co-operative Apex Bank Ltd|35,409|0.000%|-|-|-|
+134|KTB|Karnataka Bank|22,205,070|0.002%|420|420|-|
+135|KTK|THE KAKATIYA CO-OPERATIVE URBAN BANK LTD|1,959|0.000%|-|-|-|
+136|KUB|The Kolhapur Urban Co-op Bank Ltd|26,213|0.000%|-|-|-|
+137|KVB|Karur Vysya Bank|17,372,767|0.000%|8|8|-|
+138|KVG|Karnataka Vikas Grameena Bank|2,726,066|0.001%|17|9|8|
+139|LSB|Lonavala Sahakari Bank Ltd|16,531|0.000%|-|-|-|
+140|LVB|Lakshmi Vilas Bank|2,659,639|0.000%|4|4|-|
+141|MAI|Manvi Pattana Souharda Sahakari Bank Ni.|18,494|0.000%|-|-|-|
+142|MBB|Dakshin Bihar Gramin Bank|1,879,378|0.002%|30|30|-|
+143|MBH|Maharashtra State Co-op Bank Ltd|41,492|0.000%|-|-|-|
+144|MCL|Maratha Cooperative Bank Ltd|10,967|0.000%|-|-|-|
+145|MDM|Mann Deshi Mahila Sahakari Bank. Ltd.|12,314|0.016%|2|-|2|
+146|MDN|The Mandvi Nagrik Sahakari Bank Ltd|367|0.000%|-|-|-|
+147|MGB|Maharashtra Gramin Bank|4,730,353|0.000%|2|2|-|
+148|MHN|Mahanagar Nagrik Sahakari Bank Maryadit|1,597|0.000%|-|-|-|
+149|MHS|Mahesh Sahakari Bank Ltd|13,657|0.000%|-|-|-|
+150|MNB|GS Mahanagar Coop bank|500,959|0.000%|1|-|1|
+151|MNR|Manipur Rural Bank|29,162|0.000%|-|-|-|
+152|MNS|The Modasa Nagarik Sahakari Bank Limited|1,853|0.000%|-|-|-|
+153|MOC|Model Co-Op. Bank Ltd.|72,110|0.003%|2|2|-|
+154|MRB|Meghalaya Rural Bank|49,185|0.000%|-|-|-|
+155|MRS|MADHYA PRADESH RAJYA SAHAKARI BANK MARYADIT|7,613|0.000%|-|-|-|
+156|MSB|The Malad Sahakari Bank Ltd.|37,209|0.000%|-|-|-|
+157|MSL|The Muslim Cooperative Bank Ltd|80,899|0.000%|-|-|-|
+158|MSS|The Merchants Souharda Sahakara Bank Ni.|3,125|0.000%|-|-|-|
+159|MUC|The Mehsana Urban Co-Operative Bank Ltd.|289,875|0.000%|1|1|-|
+160|MUN|The Municipal Co-op Bank Ltd|110,066|0.000%|-|-|-|
+161|MVY|Malviya Urban Co-operative Bank Ltd.|7,441|0.000%|-|-|-|
+162|MZR|Mizoram Rural Bank|472,864|0.000%|-|-|-|
+163|NBT|The Navnirman Co-Operative Bank Ltd|4,229|0.000%|-|-|-|
+164|NCB|The National Co bank|478|0.000%|-|-|-|
+165|NES|North East Small Finance Bank Ltd|153,759|0.000%|-|-|-|
+166|NGB|NKGSB Bank|514,552|0.001%|3|1|2|
+167|NMB|Navi Mumbai Co-operative Bank Ltd|12,387|0.000%|-|-|-|
+168|NMV|Nagarik Sahakari Bank Maryadit|4,229|0.000%|-|-|-|
+169|NNI|Nutan Nagrik Sahakari Bank|24,217|0.000%|-|-|-|
+170|NSD|NSDL Payments Bank|305,979|0.001%|3|3|-|
+171|NSG|Nagrik Sahakari Maryadit Gwalior|829|0.000%|-|-|-|
+172|NTB|Nainital Bank|388,934|0.002%|7|7|-|
+173|NUN|The Nandura Urban Co-op Bank Ltd. Nandura|540|0.000%|-|-|-|
+174|NUR|The New Urban Co-operative Bank Ltd Rampur|6,183|0.000%|-|-|-|
+175|PBG|PASCHIM BANGA GRAMIN BANK|114,381|0.003%|4|4|-|
+176|PCB|The Prime Cooperative Bank Ltd|37,187|0.000%|-|-|-|
+177|PCS|Pune Cantonment Sahakari bank Ltd|29,683|0.010%|3|1|2|
+178|PGB|Punjab Gramin Bank|437,049|0.001%|6|6|-|
+179|PKB|Pragathi Krishna Gramin Bank|5,440,634|0.000%|11|11|-|
+180|PLB|Pali Urban Co-Operative Bank Limited|6,357|0.000%|-|-|-|
+181|PNB|Punjab National Bank|109,332,095|0.000%|188|186|2|
+182|PPB|Pochampally Co Bank|104,432|0.000%|-|-|-|
+183|PRY|The Priyadarshini Nagari Sahakari Bank|126,111|0.001%|1|-|1|
+184|PSB|Punjab and Sind Bank|4,132,779|0.006%|244|244|-|
+185|PTM|Paytm Payments Bank|797,693,635|0.001%|9,144|8,768|376|
+186|PTN|PATAN NAGARIK SAHAKARI BANK LTD|4,141|0.024%|1|-|1|
+187|PTP|The Pratap Co-operative Bank Ltd|2,448|0.000%|-|-|-|
+188|PUR|Purvanchal Bank|2,909,122|0.002%|50|50|-|
+189|RJH|Rajarshi Shahu Sahakari Bank Ltd|24,787|0.000%|-|-|-|
+190|RJT|The Rajkot Commercial Co-operative Bank|360|0.000%|-|-|-|
+191|RKN|Rajkot Nagrik Sahakari Bank Ltd.|178,621|0.000%|-|-|-|
+192|RKT|RAJKOT DISTRICT CENTRAL COOP BANK|23,828|0.000%|-|-|-|
+193|RMG|Rajasthan Marudhara Gramin Bank|3,663,304|0.000%|12|12|-|
+194|RNB|RBL|4,043,630|0.002%|87|83|4|
+195|RNI|Rani Channamma mahila Sahakari Bank Niyamit|4,167|0.000%|-|-|-|
+196|RNS|Rajgurunagar Sahakar|75,656|0.000%|-|-|-|
+197|SAC|SHRI ARIHANT CO-OP BANK LTD|31,060|0.003%|1|1|-|
+198|SAG|Saurashtra Gramin Bank|202,697|0.000%|1|1|-|
+199|SAR|SBPP CO-OPERATIVE BANK LIMITED|5,270|0.019%|1|1|-|
+200|SBG|Sarva Haryana Gramin Bank|3,414,108|0.001%|18|18|-|
+201|SBI|State Bank Of India|595,018,165|0.001%|3,468|2,346|1,122|
+202|SBL|SBM Bank India Ltd.|28,570|0.000%|-|-|-|
+203|SBN|SAIBABA NAGARI SAHAKARI BANK MARYADIT SAILU|28,509|0.004%|1|1|-|
+204|SCB|Standard Chartered|3,052,206|0.002%|69|59|10|
+205|SDH|Shree Dharati Co-Operative Bank Ltd|1,730|0.000%|-|-|-|
+206|SDM|Samarth Sahakari Bank Ltd. Solapur|148,328|0.001%|1|1|-|
+207|SDR|Sandur Pattana Souharda Sahakari Bank|8,822|0.000%|-|-|-|
+208|SDS|Sadhana Sahakari Bank Ltd|47,419|0.002%|1|-|1|
+209|SDU|Sri Sudha Co-operative Bank Ltd|824|0.121%|1|-|1|
+210|SHB|Shivalik Mercantile Co-operative Bank Ltd|125,081|0.000%|-|-|-|
+211|SHK|SHREE KADI NAGARIK SAHAKARI BANK LTD|69,982|0.001%|1|-|1|
+212|SHR|Sri Rama Co-Operative Bank Limited|946|0.000%|-|-|-|
+213|SIB|South Indian Bank|12,626,640|0.000%|17|11|6|
+214|SID|THE SINDHUDURG DCC BANK LTD|81,305|0.001%|1|-|1|
+215|SIN|State bank of India - NETS|14|0.000%|-|-|-|
+216|SJS|SHRI JANATA SAHAKARI BANK LTD.HALOL|1,748|0.000%|-|-|-|
+217|SKD|Sabarkantha District Central Cooperative Bank Ltd|130,274|0.001%|1|1|-|
+218|SLB|Sterling Urban Cooperative Bank Ltd|28,739|0.000%|-|-|-|
+219|SMB|SHREE MAHAVIR SAHAKARI BANK LTD|4,914|0.000%|-|-|-|
+220|SMR|Samruddhi Co-Operative Bank Ltd. Nagpur|4,236|0.000%|-|-|-|
+221|SMW|Shri Mahila Sewa Sahakari Bank Ltd.|6,734|0.000%|-|-|-|
+222|SNB|Smriti Nagrik Sahakari Bank Maryadit Mandsaur|27,280|0.000%|-|-|-|
+223|SNC|Surat National Co-Operative Bank Ltd|15,804|0.000%|-|-|-|
+224|SND|Sunderlal Sawji Urban Co-Op Bank Ltd Jintur|1,526|0.000%|-|-|-|
+225|SNS|Saraspur Nagarik Co-Op Bank Ltd|12,435|0.000%|-|-|-|
+226|SPB|Surat People Cooperative Bank|110,943|0.002%|2|1|1|
+227|SPN|Shree Panchganga Nagari Sahakari Bank Ltd|8,495|0.000%|-|-|-|
+228|SRC|Saraswat Bank|4,551,904|0.000%|10|10|-|
+229|SRE|SREE CHARAN SOUHARDHA CO-OPERATIVE BANK LTD|2,477|0.000%|-|-|-|
+230|SRS|Shri Chhatrapati Rajarshi Shahu Urban Co-Op. Bank Ltd. Beed|168,569|0.001%|2|1|1|
+231|SRT|The Surat Mercantile Co-op Bank Ltd|1,684|0.059%|1|-|1|
+232|SRV|The Sarvodaya Nagarik Sahakari Bank Ltd|4,416|0.000%|-|-|-|
+233|SSF|Suryoday Small Finance Bank Ltd.|442,553|0.001%|3|3|-|
+234|SSK|SUCO SOUHARDA SAHAKARI BANK LTD|276,440|0.000%|1|-|1|
+235|STA|The Satara District Central Coop Bank Ltd|289,626|0.000%|-|-|-|
+236|STB|The Saurashtra Co-Operative Bank Ltd|2,049|0.000%|-|-|-|
+237|SUB|Sarva UP Gramin Bank|1,315,624|0.002%|21|21|-|
+238|SUJ|Shri Bharat Urban Co-Operative Bank Ltd Jaysingpur|1,345|0.000%|-|-|-|
+239|SUX|The Sutex Co.op.Bank Ltd.|55,693|0.000%|-|-|-|
+240|SVB|Shri Veershaiv Co-Op Bank Ltd.|58,905|0.007%|4|3|1|
+241|SVC|Svc co-operative bank ltd|1,368,089|0.001%|7|7|-|
+242|SVS|Sardar Vallabhbhai Sahakari Bank Ltd|4,428|0.000%|-|-|-|
+243|SVY|SARVODAYA COMMERCIAL CO OP BANK LTD|22,600|0.000%|-|-|-|
+244|SYG|Suvarnayug Sahakari Bank Ltd|174,830|0.001%|2|2|-|
+245|TAS|Associate Co.op. Bank Ltd.|13,291|0.000%|-|-|-|
+246|TBS|Thane Bharat Sahakari Bank Ltd|260,921|0.000%|1|1|-|
+247|TEL|Telangana State Co Op Apex Bank|297,967|0.000%|1|1|-|
+248|TGB|Telangana Grameena bank|2,437,986|0.000%|5|5|-|
+249|TIR|Tripura Gramin Bank|88,136|0.002%|2|1|1|
+250|TKR|The Kranthi Co-Operative Urban Bank Ltd|2,033|0.049%|1|-|1|
+251|TMB|Tamilnad Mercantile Bank|6,075,702|0.001%|86|86|-|
+252|TNF|The Surat District Cooperative Bank|136,034|0.000%|-|-|-|
+253|TSB|TJSB Sahakari Bank Ltd|2,159,706|0.000%|10|10|-|
+254|TSS|The SSK Co-operative Bank Ltd.|13,037|0.015%|2|-|2|
+255|TTB|Textile Traders Co-operative Bank Limited|436|0.000%|-|-|-|
+256|TUP|Tirupati Urban Co-Operative Bank Ltd|8,010|0.000%|-|-|-|
+257|UBD|THE URBAN CO OP BANK LTD DHARANGAON|20,131|0.000%|-|-|-|
+258|UCO|UCO Bank|26,567,318|0.000%|85|85|-|
+259|UIJ|Ujjivan Small Finance Bank|6,459,778|0.000%|12|12|-|
+260|UKG|Uttarakhand Gramin Bank|728,642|0.002%|12|12|-|
+261|UMB|The Udaipur Mahila Urban Co-Operative Bank Ltd.|18,071|0.000%|-|-|-|
+262|UMS|The Udaipur Mahila Samridhi Urban Co-operative Bank Ltd.|9,534|0.000%|-|-|-|
+263|UOB|Union Bank of India|142,582,931|0.000%|177|177|-|
+264|USF|UTKARSH SMALL FINANCE BANK LIMITED|393,251|0.000%|-|-|-|
+265|UUB|The Udaipur Urban Co-Operative Bank Ltd.|12,686|0.000%|-|-|-|
+266|VAR|The Varachha Co-Op Bank Ltd|202,279|0.000%|-|-|-|
+267|VBM|Vaishya Sahakari Bank Ltd|954|0.000%|-|-|-|
+268|VES|Veerashaiva Sahakari Bank Ltd|991|0.000%|-|-|-|
+269|VGB|Jharkhand Rajya Gramin Bank|760,406|0.001%|4|4|-|
+270|VIK|Vikas Souharda Co-operative Bank Ltd|70,421|0.000%|-|-|-|
+271|VIR|VIKRAMADITYA NAGRIK SAHAKARI BANK|493|0.000%|-|-|-|
+272|VJC|The Vijay Cooperative Bank Ltd.|27,008|0.000%|-|-|-|
+273|VKH|The Visakhapatnam Cooperative Bank Ltd|110,260|0.000%|-|-|-|
+274|VNP|Vaishya Nagari Sahakari Bank Ltd|30,041|0.000%|-|-|-|
+275|VSI|The Vishweshwar Sahakari Bank Ltd. Pune (Multi-State)|233,933|0.000%|1|1|-|
+276|VSM|Sri Vasavamba Co-Op. Bank Ltd.|8,106|0.000%|-|-|-|
+277|VVB|The Vallabh Vidyanagar Commercial Co-Operative Bank Ltd.|2,112|0.000%|-|-|-|
+278|VVS|Vasai Vikas Sahakari Bank Ltd|245,000|0.000%|1|1|-|
+279|WHD|HDFC BANK LTD|1|0.000%|-|-|-|
+280|YBL|Yes Bank Ltd|556,720,399|0.002%|9,064|7,863|1,201|
+281|YLN|Yadagiri Co-op Bank|31,296|0.000%|-|-|-|
+282|AGC||17|0.000%|-|-|-|
+|S No.|Code|Beneficiary Bank|Total Txns during the month|CB Ratio|Chargebacks Received during the month|Re-presentment Raised during the month|Chargebacks Accepted during the month|
+1|ACB|ABHYUDAYA CO-OP. BANK LTD|1,577,905|0.001%|10|10|-|
+2|ACU|The Adarsh Co-operative Urban Bank Ltd.|171,981|0.001%|1|-|1|
+3|ADB|Adarsh Co-operative Bank Limited|71,808|0.000%|-|-|-|
+4|AHD|THE AHMEDABAD DISTRICT COOP BANK LTD|322,513|0.002%|5|5|-|
+5|AHM|Ahmednagar Merchant's Co Operative Bank Ltd|144,248|0.000%|-|-|-|
+6|AKA|The Akola District Central Co-oP.Bank Ltd|32,808|0.003%|1|-|1|
+7|AMG|Assam Gramin Vikash Bank|146,232|0.003%|4|-|4|
+8|AMO|The Anand Mercantile Co-operative Bank Ltd|3,511|0.000%|-|-|-|
+9|APV|Andhra Pradesh Grameena Vikas Bank|5,794,919|0.000%|5|5|-|
+10|AXB|Axis Bank Ltd.|333,107,340|0.004%|13,188|10,395|2,793|
+11|BHB|THE BHARAT CO OPERATIVE BANK MUMBAI LTD|1,071,313|0.000%|3|3|-|
+12|BKD|Banaskantha District Central Coop Bank|121,979|0.001%|1|1|-|
+13|BNS|Bhagini Nivedita Sahakari Bank|101,353|0.000%|-|-|-|
+14|BOB|Bank of Baroda|147,472,777|0.000%|347|208|139|
+15|BOM|Bank of Maharashtra|27,969,597|0.000%|95|95|-|
+16|BRM|The Baramati Sahakari Bank Limited|283,305|0.000%|-|-|-|
+17|CGG|Chaitanya Godavari Grameena Bank|1,077,274|0.000%|-|-|-|
+18|CNB|Canara Bank|110,727,866|0.000%|17|17|-|
+19|COB|Cosmos Bank|1,717,122|0.000%|2|2|-|
+20|CPF|Capital Small Finance Bank Ltd|144,883|0.000%|-|-|-|
+21|CZN|The Citizen Coop Bank Ltd|15,061|0.000%|-|-|-|
+22|DEO|Deogiri Nagari Sahakari Bank Ltd|86,248|0.001%|1|1|-|
+23|DEU|Deutsche Bank Corp|6,130|0.538%|33|26|7|
+24|DGB|Dena Gujarat Gramin Bank|8,281|0.000%|-|-|-|
+25|DLB|Dhanlaxmi Bank Ltd|1,366,524|0.000%|1|1|-|
+26|DSB|Dombivali Nagri Sahakari Bank|750,296|0.000%|1|-|1|
+27|EAF|ESAF Small Finance Bank Ltd.|3,511,087|0.000%|-|-|-|
+28|FIN|Fino Payments Bank|7,030,939|0.000%|2|2|-|
+29|FNG|Fingrowth Cooperative Bank Ltd|17,318|0.006%|1|1|-|
+30|GDH|The Godhra Urban Cooperative Bank Ltd|2,812|0.000%|-|-|-|
+31|GHD|The Gadchiroli District Central Co-Op. Bank Ltd.|19,189|0.005%|1|1|-|
+32|GPB|GP PARSIK BANK|1,098,552|0.000%|1|1|-|
+33|GSC|The Gujarat State Cooperative Bank|133,716|0.000%|-|-|-|
+34|HGB|Himachal Pradesh Gramin Bank|317,291|0.000%|1|1|-|
+35|HPB|The Himachal Pradesh State Co-Op. Bank Ltd|118,230|0.003%|4|4|-|
+36|HTI|The Hasti Co-operative Bank Ltd|172,663|0.000%|-|-|-|
+37|ICP|Phone Pe ICICI|3|0.000%|-|-|-|
+38|IDF|IDFC Bank|15,897,069|0.002%|308|303|5|
+39|IIB|INDUSIND BANK|41,264,228|0.004%|1,649|1,139|510|
+40|IKT|Irinjalakuda Town Co|3,331|0.000%|-|-|-|
+41|INB|Indian Bank|52,954,759|0.001%|705|705|-|
+42|IOB|Indian Overseas Bank|30,399,880|0.000%|25|20|5|
+43|IPS|Indore Paraspar Sahakari bank Ltd. Indore|3,086|0.000%|-|-|-|
+44|JAB|THE JALGAON PEOPLES CO.OP.BANK LTD|130,105|0.000%|-|-|-|
+45|JJS|Jalgaon Janata Sahkari Bank Ltd Jalgaon|405,815|0.001%|4|4|-|
+46|JNC|Jalna Merchant Cooperative Bank Ltd|37,043|0.000%|-|-|-|
+47|JSB|Janata Sahakari Bank Ltd. Pune|1,409,156|0.000%|1|1|-|
+48|JSF|Jana Small Finance Bank Ltd|917,583|0.000%|2|2|-|
+49|KGG|Kashi Gomati Samyut Grameen Bank|97,122|0.000%|-|-|-|
+50|KIB|KAIJSB- Ichalkaranji|198,394|0.000%|-|-|-|
+51|KJB|The Kalyan Janata Sahakari Bank Ltd.|599,723|0.001%|3|2|1|
+52|KLM|Kolhapur Mahila Sahakari Bank Ltd. Kolhapur|3,943|0.000%|-|-|-|
+53|KMB|Kotak Mahindra Bank|97,005,277|0.001%|824|673|151|
+54|KSA|The Karnataka State Co-operative Apex Bank Ltd|27,335|0.022%|6|-|6|
+55|KVG|Karnataka Vikas Grameena Bank|2,730,483|0.001%|16|11|5|
+56|LSB|Lonavala Sahakari Bank Ltd|14,874|0.000%|-|-|-|
+57|MCL|Maratha Cooperative Bank Ltd|11,291|0.000%|-|-|-|
+58|MDM|Mann Deshi Mahila Sahakari Bank. Ltd.|17,337|0.006%|1|-|1|
+59|MGB|Maharashtra Gramin Bank|4,528,336|0.000%|2|2|-|
+60|MOC|Model Co-Op. Bank Ltd.|68,716|0.003%|2|2|-|
+61|MRB|Meghalaya Rural Bank|43,706|0.000%|-|-|-|
+62|MRS|MADHYA PRADESH RAJYA SAHAKARI BANK MARYADIT|7,606|0.000%|-|-|-|
+63|MSB|The Malad Sahakari Bank Ltd.|37,760|0.005%|2|2|-|
+64|MUC|The Mehsana Urban Co-Operative Bank Ltd.|315,850|0.000%|-|-|-|
+65|NES|North East Small Finance Bank Ltd|125,950|0.000%|-|-|-|
+66|NGB|NKGSB Bank|546,400|0.001%|3|3|-|
+67|NMB|Navi Mumbai Co-operative Bank Ltd|12,016|0.000%|-|-|-|
+68|NNI|Nutan Nagrik Sahakari Bank|26,537|0.000%|-|-|-|
+69|NTB|Nainital Bank|388,220|0.001%|4|2|2|
+70|NUR|The New Urban Co-operative Bank Ltd Rampur|4,971|0.020%|1|-|1|
+71|PBG|PASCHIM BANGA GRAMIN BANK|152,574|0.001%|2|2|-|
+72|PCB|The Prime Cooperative Bank Ltd|40,681|0.000%|-|-|-|
+73|PLB|Pali Urban Co-Operative Bank Limited|5,670|0.000%|-|-|-|
+74|PPB|Pochampally Co Bank|106,321|0.000%|-|-|-|
+75|PSB|Punjab and Sind Bank|4,482,928|0.002%|90|90|-|
+76|PTN|Patan nagarik Sahakari Bank Ltd.|3,960|0.025%|1|-|1|
+77|RKN|Rajkot Nagrik Sahakari Bank Ltd.|186,773|0.001%|2|2|-|
+78|RKT|RAJKOT DISTRICT CENTRAL COOP BANK|23,552|0.004%|1|1|-|
+79|RNI|Rani Channamma mahila Sahakari Bank Niyamit|3,923|0.000%|-|-|-|
+80|RNS|Rajgurunagar Sahakar|66,640|0.000%|-|-|-|
+81|SBN|SAIBABA NAGARI SAHAKARI BANK MARYADIT SAILU|24,730|0.000%|-|-|-|
+82|SCB|Standard Chartered|3,242,066|0.003%|113|60|53|
+83|SDS|Sadhana Sahakari Bank Ltd|42,077|0.000%|-|-|-|
+84|SHB|Shivalik Mercantile Co-operative Bank Ltd|115,491|0.000%|-|-|-|
+85|SHK|SHREE KADI NAGARIK SAHAKARI BANK LTD|76,857|0.000%|-|-|-|
+86|SJS|SHRI JANATA SAHAKARI BANK LTD.HALOL|1,734|0.000%|-|-|-|
+87|SKD|Sabarkantha District Central Cooperative Bank Ltd|131,855|0.001%|1|-|1|
+88|SLB|Sterling Urban Cooperative Bank Ltd|29,450|0.000%|-|-|-|
+89|SMB|SHREE MAHAVIR SAHAKARI BANK LTD|4,833|0.000%|-|-|-|
+90|SMW|Shri Mahila Sewa Sahakari Bank Ltd.|6,818|0.000%|-|-|-|
+91|SNB|Smriti Nagrik Sahakari Bank Maryadit Mandsaur|24,589|0.004%|1|-|1|
+92|SNC|Surat National Co-Operative Bank Ltd|15,124|0.000%|-|-|-|
+93|SPB|Surat People Cooperative Bank|123,531|0.002%|3|1|2|
+94|SPN|Shree Panchganga Nagari Sahakari Bank Ltd|5,992|0.000%|-|-|-|
+95|SRC|Saraswat Bank|4,855,095|0.000%|5|5|-|
+96|SRE|SREE CHARAN SOUHARDHA CO-OPERATIVE BANK LTD|2,038|0.000%|-|-|-|
+97|SRV|The Sarvodaya Nagarik Sahakari Bank Ltd|3,878|0.000%|-|-|-|
+98|SSF|Suryoday Small Finance Bank Ltd.|442,527|0.001%|3|3|-|
+99|SUB|Sarva UP Gramin Bank|1,186,242|0.001%|16|15|1|
+100|SVB|Shri Veershaiv Co-Op Bank Ltd.|56,773|0.004%|2|1|1|
+101|SVC|Svc co-operative bank ltd|1,450,194|0.000%|5|5|-|
+102|SVY|SARVODAYA COMMERCIAL CO OP BANK LTD|24,836|0.000%|-|-|-|
+103|TBS|Thane Bharat Sahakari Bank Ltd|270,760|0.000%|-|-|-|
+104|TEL|Telangana State Co Op Apex Bank|304,898|0.000%|-|-|-|
+105|TIR|Tripura Gramin Bank|77,103|0.001%|1|-|1|
+106|TMB|Tamilnad Mercantile Bank|6,615,467|0.001%|94|94|-|
+107|TNF|The Surat District Cooperative Bank|135,790|0.000%|-|-|-|
+108|UBD|THE URBAN CO OP BANK LTD DHARANGAON|18,210|0.000%|-|-|-|
+109|UCO|UCO Bank|26,355,994|0.000%|81|81|-|
+110|UIJ|Ujjivan Small Finance Bank|6,436,012|0.001%|33|30|3|
+111|UMB|The Udaipur Mahila Urban Co-Operative Bank Ltd.|18,804|0.000%|-|-|-|
+112|UMS|The Udaipur Mahila Samridhi Urban Co-operative Bank Ltd.|9,716|0.000%|-|-|-|
+113|UOB|Union Bank of India|140,798,276|0.000%|164|164|-|
+114|USF|UTKARSH SMALL FINANCE BANK LIMITED|350,138|0.000%|-|-|-|
+115|UUB|The Udaipur Urban Co-Operative Bank Ltd.|11,403|0.000%|-|-|-|
+116|VAR|The Varachha Co-Op Bank Ltd|246,117|0.000%|-|-|-|
+117|VGB|Jharkhand Rajya Gramin Bank|747,041|0.001%|11|9|2|
+118|VIK|Vikas Souharda Co-operative Bank Ltd|73,740|0.000%|-|-|-|
+119|VKH|The Visakhapatnam Cooperative Bank Ltd|102,605|0.000%|-|-|-|
+120|VVB|The Vallabh Vidyanagar Commercial Co-Operative Bank Ltd.|2,092|0.000%|-|-|-|
+121|VVS|Vasai Vikas Sahakari Bank Ltd|253,276|0.000%|-|-|-|
+122|YJU|JUSPAY Technologies Pvt Ltd|66,785,928|0.001%|338|338|-|
+123|AJM|Amreli Jilla Madhyastha Sahakari Bank Ltd|3,441|0.000%|-|-|-|
+124|AMB|Ambajogai Peoples Co-Operative Bank Ltd|22,623|0.000%|-|-|-|
+125|AME|The Ahmedabad Mercantile Cooperative Bank Ltd|79,453|0.000%|-|-|-|
+126|ANB|Andhra Bank|56,432|0.048%|27|27|-|
+127|AND|Andhra Pragathi Grameena Bank|3,540,617|0.000%|2|2|-|
+128|APM|A P Mahesh Bank|241,843|0.000%|-|-|-|
+129|APN|Apna Sahakari Bank Ltd.|824,560|0.000%|2|2|-|
+130|ARL|Airtel Payments Bank|48,236,124|0.002%|762|643|119|
+131|ASB|The Andhra Pradesh State Co-operative Bank Ltd.|47,148|0.000%|-|-|-|
+132|AUS|AU small Finance Bank|8,128,773|0.001%|78|59|19|
+133|BCC|Bassein Catholic Co-operative Bank|629,028|0.003%|16|1|15|
+134|BDB|THE BARODA CENTRAL COOP BANK LTD|34,020|0.000%|-|-|-|
+135|BDN|Bandhan Bank|12,052,666|0.000%|11|11|-|
+136|BDR|Bhadradri Co-Operative Urban Bank Ltd|12,629|0.000%|-|-|-|
+137|BGI|Baroda Gujarat Gramin Bank|363,435|0.000%|-|-|-|
+138|BKG|Baroda Rajasthan Kshetriya Gramin Bank|3,017,176|0.001%|27|27|-|
+139|BKM|The Banaskantha Mercantile Co-Operative Bank Ltd|34,754|0.000%|-|-|-|
+140|BOA|Bank Of America|3,397|0.000%|-|-|-|
+141|BOI|Bank of India|90,080,401|0.000%|193|192|1|
+142|BSB|Sri Basaveshwar Bank|10,984|0.000%|-|-|-|
+143|BUB|Baroda UP Gramin Bank|1,808,669|0.002%|37|37|-|
+144|BWB|Bhilwara Urban Co-operative Bank Ltd|9,405|0.000%|-|-|-|
+145|CBI|Central Bank Of India|51,197,728|0.000%|181|180|1|
+146|CGR|Chhattisgarh Rajya Sahakari Bank Mydt|4,842|0.000%|-|-|-|
+147|CHB|CHATISGARH R G BANK|921,705|0.001%|13|13|-|
+148|CHN|The Chartered Sahakari Bank|11,992|0.000%|-|-|-|
+149|CIT|CITI|6,716,156|0.011%|720|719|1|
+150|CSB|CSB Bank Ltd|1,733,535|0.000%|4|2|2|
+151|CTB|Citibank|2,688,060|0.000%|-|-|-|
+152|CUB|City Union Bank|8,803,359|0.000%|7|7|-|
+153|CZS|Citizens Co-Operative Bank Ltd|5,353|0.037%|2|-|2|
+154|DBA|Deutsche Bank|58,037|0.000%|-|-|-|
+155|DBS|DBS Bank India Limited|6,172,265|0.000%|9|8|1|
+156|DCB|DCB Bank Ltd|1,297,554|0.000%|2|2|-|
+157|DHU|The Dahod Urban Co-operative Bank Ltd|8,890|0.067%|6|-|6|
+158|DSM|Darussalam Co-Operative Urban Bank Ltd.|55,109|0.000%|-|-|-|
+159|EQT|Equitas Bank|6,127,202|0.001%|51|50|1|
+160|EUB|The Eenadu Co-oP.Urban Bank Ltd|14,914|0.000%|-|-|-|
+161|FBL|Federal Bank|79,814,275|0.001%|442|440|2|
+162|FSF|Fincare Small Finance Bank Ltd|1,189,174|0.000%|4|4|-|
+163|GYB|The Gayatri Co-operative Urban Bank Ltd.|551,841|0.000%|-|-|-|
+164|HDF|HDFC BANK LTD|241,539,923|0.004%|10,073|4,935|5,138|
+165|HSB|HSBC|2,496,497|0.006%|155|155|-|
+166|HSW|Hutatma Sahakari Bank Ltd|45,730|0.000%|-|-|-|
+167|ICI|ICICI Bank|374,227,002|0.004%|14,359|11,345|3,014|
+168|IDB|IDBI Bank Limited|37,358,361|0.000%|69|67|2|
+169|IPB|India Post Payment Bank|15,228,390|0.002%|271|271|-|
+170|IPP|ICICI Bank Pockets|29,211|0.003%|1|1|-|
+171|JIO|Jio Payments Bank|571,182|0.001%|7|6|1|
+172|JKB|Jammu and Kashmir Bank|3,526,661|0.000%|5|5|-|
+173|JKG|J&K Grameen Bank|120,252|0.001%|1|-|1|
+174|JKS|Janakalyan Sahakari Bank Ltd|90,815|0.000%|-|-|-|
+175|JNS|Janaseva Sahakari|245,393|0.000%|1|1|-|
+176|JUB|The Jamkhandi Urban Co-Operative Bank Ltd|1,808|0.000%|-|-|-|
+177|JVN|Jivan Commercial Co-Operative Bank Ltd|2,401|0.000%|-|-|-|
+178|KAI|The Kaira District Central Coop Bank|57,924|0.000%|-|-|-|
+179|KAN|Kanaka Mahalakshmi Co-Operative Bank Ltd.|43,903|0.000%|-|-|-|
+180|KDK|Kolhapur Dist. Central Co-Op. Bank Ltd.|29,743|0.000%|-|-|-|
+181|KKN|Kokan Mercantile Coop Bank Ltd|90,591|0.000%|-|-|-|
+182|KLB|The Kalupur Commercial Co-operative Bank Ltd|389,574|0.000%|1|1|-|
+183|KLG|Kerala Gramin Bank|3,952,222|0.001%|46|41|5|
+184|KRI|Krishna Bhima Samruddhi Local Area Bank|50,487|0.000%|-|-|-|
+185|KTB|Karnataka Bank|22,393,294|0.001%|143|142|1|
+186|KVB|Karur Vysya Bank|17,793,930|0.000%|32|31|1|
+187|LVB|Lakshmi Vilas Bank|2,842,034|0.000%|3|3|-|
+188|MAI|Manvi Pattana Souharda Sahakari Bank Ni.|18,757|0.000%|-|-|-|
+189|MBB|Dakshin Bihar Gramin Bank|1,785,507|0.002%|37|37|-|
+190|MBH|Maharashtra State Co-op Bank Ltd|43,146|0.000%|-|-|-|
+191|MNB|GS Mahanagar Coop bank|537,489|0.000%|-|-|-|
+192|MNR|Manipur Rural Bank|27,668|0.000%|-|-|-|
+193|MNS|The Modasa Nagarik Sahakari Bank Limited|1,678|0.000%|-|-|-|
+194|MSL|The Muslim Cooperative Bank Ltd|88,931|0.003%|3|-|3|
+195|MSS|The Merchants Souharda Sahakara Bank Ni.|2,652|0.000%|-|-|-|
+196|MUN|The Municipal Co-op Bank Ltd|115,507|0.000%|-|-|-|
+197|MVY|Malviya Urban Co-operative Bank Ltd.|7,910|0.000%|-|-|-|
+198|MZR|Mizoram Rural Bank|459,148|0.000%|-|-|-|
+199|NMV|Nagarik Sahakari Bank Maryadit|4,163|0.000%|-|-|-|
+200|NSD|NSDL Payments Bank|274,261|0.000%|1|1|-|
+201|PCS|Pune Cantonment Sahakari bank Ltd|29,965|0.003%|1|-|1|
+202|PGB|Punjab Gramin Bank|388,423|0.002%|8|8|-|
+203|PKB|Pragathi Krishna Gramin Bank|5,529,975|0.001%|36|36|-|
+204|PNB|Punjab National Bank|111,943,960|0.000%|189|188|1|
+205|PRY|Priyadarshani Nagari Sahakari Bank Maryadit|123,908|0.006%|7|7|-|
+206|PTM|Paytm Payments Bank|783,609,008|0.001%|10,565|10,097|468|
+207|PUR|Purvanchal Bank|2,764,515|0.002%|44|42|2|
+208|RMG|Rajasthan Marudhara Gramin Bank|3,524,808|0.001%|27|27|-|
+209|RNB|RBL|4,214,340|0.002%|75|73|2|
+210|SAC|SHRI ARIHANT CO-OP BANK LTD|32,399|0.000%|-|-|-|
+211|SAG|Saurashtra Gramin Bank|215,575|0.001%|3|3|-|
+212|SBG|Sarva Haryana Gramin Bank|3,145,870|0.000%|2|2|-|
+213|SBI|State Bank Of India|596,380,271|0.001%|3,385|2,306|1,079|
+214|SBL|SBM Bank India Ltd.|17,740|0.000%|-|-|-|
+215|SDH|Shree Dharati Co-Operative Bank Ltd|1,631|0.000%|-|-|-|
+216|SDM|Samarth Sahakari Bank Ltd. Solapur|145,656|0.000%|-|-|-|
+217|SDR|Sandur Pattana Souharda Sahakari Bank|9,085|0.000%|-|-|-|
+218|SHR|Sri Rama Co-Operative Bank Limited|825|0.000%|-|-|-|
+219|SIB|South Indian Bank|12,170,626|0.000%|28|13|15|
+220|SID|THE SINDHUDURG DCC BANK LTD|68,342|0.001%|1|1|-|
+221|SIN|State bank of India - NETS|17|0.000%|-|-|-|
+222|SMR|Samruddhi Co-Operative Bank Ltd. Nagpur|4,343|0.000%|-|-|-|
+223|SRS|Shri Chhatrapati Rajarshi Shahu Urban Co-Op. Bank Ltd. Beed|166,575|0.000%|-|-|-|
+224|SSK|SUCO SOUHARDA SAHAKARI BANK LTD|292,122|0.000%|-|-|-|
+225|STA|The Satara District Central Coop Bank Ltd|252,014|0.001%|3|3|-|
+226|STB|The Saurashtra Co-Operative Bank Ltd|2,064|0.000%|-|-|-|
+227|SUX|The Sutex Co.op.Bank Ltd.|61,609|0.000%|-|-|-|
+228|SVS|Sardar Vallabhbhai Sahakari Bank Ltd|4,627|0.000%|-|-|-|
+229|SYG|Suvarnayug Sahakari Bank Ltd|189,681|0.001%|1|1|-|
+230|TAS|Associate Co.op. Bank Ltd.|16,092|0.000%|-|-|-|
+231|TGB|Telangana Grameena bank|2,412,257|0.000%|3|3|-|
+232|TSB|TJSB Sahakari Bank Ltd|2,490,168|0.002%|58|58|-|
+233|TSS|The SSK Co-operative Bank Ltd.|11,476|0.000%|-|-|-|
+234|TUP|Tirupati Urban Co-Operative Bank Ltd|5,773|0.000%|-|-|-|
+235|UKG|Uttarakhand Gramin Bank|689,253|0.000%|3|3|-|
+236|VJC|The Vijay Cooperative Bank Ltd.|31,264|0.000%|-|-|-|
+237|VNP|Vaishya Nagari Sahakari Bank Ltd|20,963|0.010%|2|-|2|
+238|VSI|The Vishweshwar Sahakari Bank Ltd., Pune (Multi-State)|260,467|0.000%|1|1|-|
+239|VSM|Sri Vasavamba Co-Op. Bank Ltd.|7,597|0.000%|-|-|-|
+240|YBL|Yes Bank Ltd|511,291,520|0.002%|9,679|8,886|793|
+241|YLN|Yadagiri Co-op Bank|31,720|0.000%|-|-|-|
+242|BHY||2,273|0.000%|-|-|-|
+243|CBM||475|0.000%|-|-|-|
+244|DAM||1,472|0.068%|1|-|1|
+245|GNC||2,470|0.000%|-|-|-|
+246|JMS||635|0.000%|-|-|-|
+247|MDN||204|0.000%|-|-|-|
+248|RJH||19,046|0.000%|-|-|-|
+249|SAR||4,145|0.000%|-|-|-|
+250|SUJ||378|0.000%|-|-|-|
+251|VBM||664|0.151%|1|-|1|
+252|VES||618|0.324%|2|-|2|
+253|VIR||313|0.000%|-|-|-|
+254|AAC||2,483|0.000%|-|-|-|
+255|CLB||158,565|0.000%|-|-|-|
+256|DMC||2,273|0.000%|-|-|-|
+257|DTY||3,310|0.000%|-|-|-|
+258|EZE||47|0.000%|-|-|-|
+259|KHM||8,686|0.000%|-|-|-|
+260|KMC||832|0.000%|-|-|-|
+261|KNK||3,017|0.000%|-|-|-|
+262|KTK||978|0.000%|-|-|-|
+263|KUB||19,350|0.000%|-|-|-|
+264|MHN||526|0.000%|-|-|-|
+265|MHS||11,034|0.000%|-|-|-|
+266|NBT||962|0.000%|-|-|-|
+267|NSG||516|0.000%|-|-|-|
+268|PTP||216|0.000%|-|-|-|
+269|RJT||143|0.000%|-|-|-|
+270|SDU||470|1.489%|7|-|7|
+271|SNS||11,590|0.000%|-|-|-|
+272|SRT||1,236|0.000%|-|-|-|
+273|TKR||659|0.000%|-|-|-|
+274|TTB||187|0.000%|-|-|-|
+|S No.|Code|Beneficiary Bank|Total Txns during the month|CB Ratio|Chargebacks Received during the month|Re-presentment Raised during the month|Chargebacks Accepted during the month|
+1|ACB|ABHYUDAYA CO-OP. BANK LTD|1,331,135|0.000%|3|3|-|
+2|ACU|The Adarsh Co-operative Urban Bank Ltd.|149,119|0.000%|-|-|-|
+3|ADB|Adarsh Co-operative Bank Limited|62,414|0.002%|1|-|1|
+4|AHD|THE AHMEDABAD DISTRICT COOP BANK LTD|266,918|0.001%|2|-|2|
+5|AHM|Ahmednagar Merchant's Co Operative Bank Ltd|110,747|0.000%|-|-|-|
+6|AKA|The Akola District Central Co-oP.Bank Ltd|26,587|0.000%|-|-|-|
+7|AMG|Assam Gramin Vikash Bank|154,450|0.001%|2|-|2|
+8|AMO|The Anand Mercantile Co-operative Bank Ltd|2,580|0.000%|-|-|-|
+9|APV|Andhra Pradesh Grameena Vikas Bank|5,095,631|0.000%|8|8|-|
+10|AXB|Axis Bank Ltd.|291,078,267|0.003%|9,503|7,511|1,992|
+11|BHB|THE BHARAT CO OPERATIVE BANK MUMBAI LTD|916,410|0.000%|2|2|-|
+12|BKD|Banaskantha District Central Coop Bank|112,746|0.002%|2|-|2|
+13|BNS|Bhagini Nivedita Sahakari Bank|82,952|0.001%|1|1|-|
+14|BOB|Bank of Baroda|128,634,683|0.000%|205|152|53|
+15|BOM|Bank of Maharashtra|24,556,535|0.000%|61|60|1|
+16|BRM|The Baramati Sahakari Bank Limited|244,922|0.000%|-|-|-|
+17|CGG|Chaitanya Godavari Grameena Bank|972,744|0.000%|-|-|-|
+18|CNB|Canara Bank|98,697,046|0.000%|42|41|1|
+19|COB|Cosmos Bank|1,472,616|0.000%|4|4|-|
+20|CPF|Capital Small Finance Bank Ltd|130,749|0.001%|1|1|-|
+21|CZN|The Citizen Coop Bank Ltd|14,399|0.000%|-|-|-|
+22|DEO|Deogiri Nagari Sahakari Bank Ltd|60,322|0.000%|-|-|-|
+23|DEU|Deutsche Bank Corp|6,082|0.000%|-|-|-|
+24|DGB|Dena Gujarat Gramin Bank|8,066|0.000%|-|-|-|
+25|DLB|Dhanlaxmi Bank Ltd|1,212,280|0.000%|1|1|-|
+26|DSB|Dombivali Nagri Sahakari Bank|639,561|0.001%|5|5|-|
+27|EAF|ESAF Small Finance Bank Ltd.|3,000,662|0.000%|1|1|-|
+28|FIN|Fino Payments Bank|5,899,236|0.000%|1|1|-|
+29|FNG|Fingrowth Cooperative Bank Ltd|15,066|0.000%|-|-|-|
+30|GDH|The Godhra Urban Cooperative Bank Ltd|2,437|0.000%|-|-|-|
+31|GHD|The Gadchiroli District Central Co-Op. Bank Ltd.|16,306|0.006%|1|1|-|
+32|GPB|GP PARSIK BANK|938,296|0.000%|2|2|-|
+33|GSC|The Gujarat State Cooperative Bank|114,981|0.000%|-|-|-|
+34|HGB|Himachal Pradesh Gramin Bank|271,930|0.001%|2|2|-|
+35|HPB|The Himachal Pradesh State Co-Op. Bank Ltd|93,569|0.000%|-|-|-|
+36|HTI|The Hasti Co-operative Bank Ltd|139,729|0.000%|-|-|-|
+37|ICP|Phone Pe ICICI|5|0.000%|-|-|-|
+38|IDF|IDFC Bank|13,411,808|0.002%|211|199|12|
+39|IIB|INDUSIND BANK|37,292,092|0.002%|923|563|360|
+40|IKT|Irinjalakuda Town Co|2,535|0.000%|-|-|-|
+41|INB|Indian Bank|47,914,091|0.001%|333|332|1|
+42|IOB|Indian Overseas Bank|27,057,789|0.000%|56|54|2|
+43|IPS|Indore Paraspar Sahakari bank Ltd. Indore|2,412|0.000%|-|-|-|
+44|JAB|THE JALGAON PEOPLES CO.OP.BANK LTD|92,638|0.000%|-|-|-|
+45|JJS|Jalgaon Janata Sahkari Bank Ltd Jalgaon|344,885|0.000%|1|1|-|
+46|JNC|Jalna Merchant Cooperative Bank Ltd|30,357|0.000%|-|-|-|
+47|JSB|Janata Sahakari Bank Ltd. Pune|1,228,199|0.000%|-|-|-|
+48|JSF|Jana Small Finance Bank Ltd|835,762|0.000%|2|2|-|
+49|KGG|Kashi Gomati Samyut Grameen Bank|104,376|0.000%|-|-|-|
+50|KIB|KAIJSB- Ichalkaranji|168,896|0.000%|-|-|-|
+51|KJB|The Kalyan Janata Sahakari Bank Ltd.|516,027|0.000%|1|1|-|
+52|KLM|Kolhapur Mahila Sahakari Bank Ltd. Kolhapur|2,688|0.000%|-|-|-|
+53|KMB|Kotak Mahindra Bank|79,235,252|0.001%|632|430|202|
+54|KSA|The Karnataka State Co-operative Apex Bank Ltd|15,111|0.093%|14|-|14|
+55|KVG|Karnataka Vikas Grameena Bank|2,421,092|0.000%|2|1|1|
+56|LSB|Lonavala Sahakari Bank Ltd|10,178|0.010%|1|-|1|
+57|MCL|Maratha Cooperative Bank Ltd|9,319|0.000%|-|-|-|
+58|MDM|Mann Deshi Mahila Sahakari Bank. Ltd.|15,645|0.006%|1|-|1|
+59|MGB|Maharashtra Gramin Bank|3,899,152|0.000%|5|5|-|
+60|MOC|Model Co-Op. Bank Ltd.|58,226|0.002%|1|1|-|
+61|MRB|Meghalaya Rural Bank|37,276|0.000%|-|-|-|
+62|MRS|MADHYA PRADESH RAJYA SAHAKARI BANK MARYADIT|5,804|0.000%|-|-|-|
+63|MSB|The Malad Sahakari Bank Ltd.|30,554|0.000%|-|-|-|
+64|MUC|The Mehsana Urban Co-Operative Bank Ltd.|271,841|0.000%|-|-|-|
+65|NES|North East Small Finance Bank Ltd|93,219|0.000%|-|-|-|
+66|NGB|NKGSB Bank|484,217|0.000%|2|-|2|
+67|NMB|Navi Mumbai Co-operative Bank Ltd|9,030|0.000%|-|-|-|
+68|NNI|Nutan Nagrik Sahakari Bank|21,871|0.000%|-|-|-|
+69|NTB|Nainital Bank|328,705|0.001%|4|2|2|
+70|NUR|The New Urban Co-operative Bank Ltd Rampur|3,747|0.000%|-|-|-|
+71|PBG|PASCHIM BANGA GRAMIN BANK|98,208|0.000%|-|-|-|
+72|PCB|The Prime Cooperative Bank Ltd|32,766|0.000%|-|-|-|
+73|PLB|Pali Urban Co-Operative Bank Limited|4,379|0.000%|-|-|-|
+74|PPB|Pochampally Co Bank|89,121|0.000%|-|-|-|
+75|PSB|Punjab and Sind Bank|4,000,639|0.001%|46|46|-|
+76|PTN|Patan nagarik Sahakari Bank Ltd.|3,368|0.000%|-|-|-|
+77|RKN|Rajkot Nagrik Sahakari Bank Ltd.|152,915|0.000%|-|-|-|
+78|RKT|RAJKOT DISTRICT CENTRAL COOP BANK|19,086|0.000%|-|-|-|
+79|RNI|Rani Channamma mahila Sahakari Bank Niyamit|3,865|0.000%|-|-|-|
+80|RNS|Rajgurunagar Sahakar|53,959|0.000%|-|-|-|
+81|SBN|SAIBABA NAGARI SAHAKARI BANK MARYADIT SAILU|19,139|0.010%|2|2|-|
+82|SCB|Standard Chartered|2,920,519|0.001%|27|15|12|
+83|SDS|Sadhana Sahakari Bank Ltd|32,111|0.000%|-|-|-|
+84|SHB|Shivalik Mercantile Co-operative Bank Ltd|90,247|0.000%|-|-|-|
+85|SHK|SHREE KADI NAGARIK SAHAKARI BANK LTD|64,776|0.000%|-|-|-|
+86|SJS|SHRI JANATA SAHAKARI BANK LTD.HALOL|1,498|0.000%|-|-|-|
+87|SKD|Sabarkantha District Central Cooperative Bank Ltd|109,209|0.000%|-|-|-|
+88|SLB|Sterling Urban Cooperative Bank Ltd|26,859|0.000%|-|-|-|
+89|SMB|SHREE MAHAVIR SAHAKARI BANK LTD|3,861|0.000%|-|-|-|
+90|SMW|Shri Mahila Sewa Sahakari Bank Ltd.|5,321|0.000%|-|-|-|
+91|SNB|Smriti Nagrik Sahakari Bank Maryadit Mandsaur|21,124|0.005%|1|-|1|
+92|SNC|Surat National Co-Operative Bank Ltd|9,389|0.011%|1|-|1|
+93|SPB|Surat People Cooperative Bank|99,883|0.000%|-|-|-|
+94|SPN|Shree Panchganga Nagari Sahakari Bank Ltd|3,519|0.028%|1|-|1|
+95|SRC|Saraswat Bank|4,224,205|0.000%|2|2|-|
+96|SRE|SREE CHARAN SOUHARDHA CO-OPERATIVE BANK LTD|982|0.000%|-|-|-|
+97|SRV|The Sarvodaya Nagarik Sahakari Bank Ltd|2,232|0.000%|-|-|-|
+98|SSF|Suryoday Small Finance Bank Ltd.|378,522|0.000%|1|1|-|
+99|SUB|Sarva UP Gramin Bank|1,026,091|0.000%|5|5|-|
+100|SVB|Shri Veershaiv Co-Op Bank Ltd.|48,140|0.004%|2|1|1|
+101|SVC|Svc co-operative bank ltd|1,201,325|0.001%|10|10|-|
+102|SVY|SARVODAYA COMMERCIAL CO OP BANK LTD|21,111|0.000%|-|-|-|
+103|TBS|Thane Bharat Sahakari Bank Ltd|232,174|0.000%|-|-|-|
+104|TEL|Telangana State Co Op Apex Bank|280,367|0.000%|-|-|-|
+105|TIR|Tripura Gramin Bank|65,843|0.000%|-|-|-|
+106|TMB|Tamilnad Mercantile Bank|5,910,416|0.000%|26|24|2|
+107|TNF|The Surat District Cooperative Bank|109,186|0.000%|-|-|-|
+108|UBD|THE URBAN CO OP BANK LTD DHARANGAON|14,908|0.000%|-|-|-|
+109|UCO|UCO Bank|22,692,786|0.000%|70|70|-|
+110|UIJ|Ujjivan Small Finance Bank|5,826,752|0.000%|12|5|7|
+111|UMB|The Udaipur Mahila Urban Co-Operative Bank Ltd.|16,127|0.000%|-|-|-|
+112|UMS|The Udaipur Mahila Samridhi Urban Co-operative Bank Ltd.|8,338|0.000%|-|-|-|
+113|UOB|Union Bank of India|107,014,240|0.000%|170|169|1|
+114|USF|UTKARSH SMALL FINANCE BANK LIMITED|285,002|0.000%|-|-|-|
+115|UUB|The Udaipur Urban Co-Operative Bank Ltd.|8,636|0.000%|-|-|-|
+116|VAR|The Varachha Co-Op Bank Ltd|196,033|0.001%|1|-|1|
+117|VGB|Jharkhand Rajya Gramin Bank|630,919|0.000%|1|1|-|
+118|VIK|Vikas Souharda Co-operative Bank Ltd|68,475|0.000%|-|-|-|
+119|VKH|The Visakhapatnam Cooperative Bank Ltd|89,121|0.000%|-|-|-|
+120|VVB|The Vallabh Vidyanagar Commercial Co-Operative Bank Ltd.|1,922|0.000%|-|-|-|
+121|VVS|Vasai Vikas Sahakari Bank Ltd|215,962|0.000%|-|-|-|
+122|WAL|PNB Walnut|1|0.000%|-|-|-|
+123|YJU|JUSPAY Technologies Pvt Ltd|16,230,211|0.000%|30|30|-|
+124|AJM|Amreli Jilla Madhyastha Sahakari Bank Ltd|1,283|0.000%|-|-|-|
+125|AMB|Ambajogai Peoples Co-Operative Bank Ltd|12,986|0.000%|-|-|-|
+126|AME|The Ahmedabad Mercantile Cooperative Bank Ltd|64,399|0.000%|-|-|-|
+127|ANB|Andhra Bank|18,108,776|0.000%|46|43|3|
+128|AND|Andhra Pragathi Grameena Bank|3,135,064|0.000%|-|-|-|
+129|APM|A P Mahesh Bank|241,053|0.000%|-|-|-|
+130|APN|Apna Sahakari Bank Ltd.|705,876|0.000%|-|-|-|
+131|ARL|Airtel Payments Bank|41,398,957|0.003%|1,068|995|73|
+132|ASB|The Andhra Pradesh State Co-operative Bank Ltd.|40,746|0.000%|-|-|-|
+133|AUS|AU small Finance Bank|6,818,108|0.001%|83|50|33|
+134|BCC|Bassein Catholic Co-operative Bank|536,565|0.002%|11|-|11|
+135|BDB|THE BARODA CENTRAL COOP BANK LTD|28,436|0.000%|-|-|-|
+136|BDN|Bandhan Bank|11,010,424|0.000%|26|26|-|
+137|BDR|Bhadradri Co-Operative Urban Bank Ltd|9,463|0.000%|-|-|-|
+138|BGI|Baroda Gujarat Gramin Bank|294,367|0.000%|-|-|-|
+139|BKG|Baroda Rajasthan Kshetriya Gramin Bank|2,633,961|0.000%|4|4|-|
+140|BKM|The Banaskantha Mercantile Co-Operative Bank Ltd|28,448|0.000%|-|-|-|
+141|BOA|Bank Of America|3,286|0.000%|-|-|-|
+142|BOI|Bank of India|79,804,985|0.000%|120|120|-|
+143|BSB|Sri Basaveshwar Bank|8,803|0.000%|-|-|-|
+144|BUB|Baroda UP Gramin Bank|1,497,201|0.000%|-|-|-|
+145|BWB|Bhilwara Urban Co-operative Bank Ltd|7,972|0.013%|1|-|1|
+146|CBI|Central Bank Of India|45,296,672|0.000%|111|111|-|
+147|CGR|Chhattisgarh Rajya Sahakari Bank Mydt|3,528|0.000%|-|-|-|
+148|CHB|CHATISGARH R G BANK|784,608|0.001%|5|3|2|
+149|CHN|The Chartered Sahakari Bank|9,304|0.000%|-|-|-|
+150|CIT|CITI|6,449,899|0.013%|848|845|3|
+151|CSB|CSB Bank Ltd|1,602,388|0.000%|5|4|1|
+152|CST|Coastal Local Area Bank Ltd|62,416|0.000%|-|-|-|
+153|CTB|Citibank|2,181,816|0.000%|3|-|3|
+154|CUB|City Union Bank|7,871,298|0.000%|12|12|-|
+155|CZS|Citizens Co-Operative Bank Ltd|4,047|0.000%|-|-|-|
+156|DBA|Deutsche Bank|50,506|0.000%|-|-|-|
+157|DBS|DBS Bank India Limited|5,714,620|0.000%|14|13|1|
+158|DCB|DCB Bank Ltd|1,147,092|0.001%|6|6|-|
+159|DHU|The Dahod Urban Co-operative Bank Ltd|5,223|0.019%|1|-|1|
+160|DSM|Darussalam Co-Operative Urban Bank Ltd.|46,799|0.000%|-|-|-|
+161|EQT|Equitas Bank|4,979,599|0.001%|68|68|-|
+162|EUB|The Eenadu Co-oP.Urban Bank Ltd|11,064|0.000%|-|-|-|
+163|FBL|Federal Bank|69,143,921|0.000%|268|262|6|
+164|FSF|Fincare Small Finance Bank Ltd|1,076,387|0.001%|6|5|1|
+165|GYB|The Gayatri Co-operative Urban Bank Ltd.|482,156|0.000%|-|-|-|
+166|HDF|HDFC BANK LTD|202,308,410|0.005%|9,628|3,980|5,648|
+167|HSB|HSBC|2,235,947|0.007%|149|149|-|
+168|HSW|Hutatma Sahakari Bank Ltd|38,096|0.003%|1|1|-|
+169|ICI|ICICI Bank|333,107,072|0.004%|13,269|9,659|3,610|
+170|IDB|IDBI Bank Limited|32,884,502|0.000%|18|18|-|
+171|IPB|India Post Payment Bank|13,458,675|0.000%|3|3|-|
+172|IPP|ICICI Bank Pockets|28,971|0.000%|-|-|-|
+173|JIO|Jio Payments Bank|447,221|0.002%|7|5|2|
+174|JKB|Jammu and Kashmir Bank|2,852,710|0.000%|9|9|-|
+175|JKG|J&K Grameen Bank|100,311|0.000%|-|-|-|
+176|JKS|Janakalyan Sahakari Bank Ltd|71,442|0.001%|1|1|-|
+177|JNS|Janaseva Sahakari|206,671|0.000%|1|1|-|
+178|JUB|The Jamkhandi Urban Co-Operative Bank Ltd|655|0.000%|-|-|-|
+179|JVN|Jivan Commercial Co-Operative Bank Ltd|1,723|0.000%|-|-|-|
+180|KAI|The Kaira District Central Coop Bank|44,580|0.000%|-|-|-|
+181|KAN|Kanaka Mahalakshmi Co-Operative Bank Ltd.|38,757|0.000%|-|-|-|
+182|KDK|Kolhapur Dist. Central Co-Op. Bank Ltd.|24,522|0.008%|2|-|2|
+183|KKN|Kokan Mercantile Coop Bank Ltd|71,363|0.001%|1|1|-|
+184|KLB|The Kalupur Commercial Co-operative Bank Ltd|324,935|0.000%|-|-|-|
+185|KLG|Kerala Gramin Bank|3,522,437|0.002%|73|63|10|
+186|KRI|Krishna Bhima Samruddhi Local Area Bank|44,877|0.000%|-|-|-|
+187|KTB|Karnataka Bank|19,995,771|0.001%|126|126|-|
+188|KVB|Karur Vysya Bank|16,065,131|0.000%|5|5|-|
+189|LVB|Lakshmi Vilas Bank|2,658,767|0.000%|2|2|-|
+190|MAI|Manvi Pattana Souharda Sahakari Bank Ni.|15,303|0.000%|-|-|-|
+191|MBB|Dakshin Bihar Gramin Bank|1,674,257|0.001%|10|5|5|
+192|MBH|Maharashtra State Co-op Bank Ltd|37,416|0.000%|-|-|-|
+193|MNB|GS Mahanagar Coop bank|463,564|0.000%|2|2|-|
+194|MNR|Manipur Rural Bank|26,075|0.000%|-|-|-|
+195|MNS|The Modasa Nagarik Sahakari Bank Limited|1,208|0.000%|-|-|-|
+196|MSL|The Muslim Cooperative Bank Ltd|76,990|0.000%|-|-|-|
+197|MSS|The Merchants Souharda Sahakara Bank Ni.|1,697|0.000%|-|-|-|
+198|MUN|The Municipal Co-op Bank Ltd|101,379|0.000%|-|-|-|
+199|MVY|Malviya Urban Co-operative Bank Ltd.|6,973|0.000%|-|-|-|
+200|MZR|Mizoram Rural Bank|399,662|0.000%|-|-|-|
+201|NMV|Nagarik Sahakari Bank Maryadit|3,381|0.030%|1|-|1|
+202|NSD|NSDL Payments Bank|276,223|0.000%|1|1|-|
+203|PCS|Pune Cantonment Sahakari bank Ltd|25,757|0.000%|-|-|-|
+204|PGB|Punjab Gramin Bank|354,974|0.001%|4|3|1|
+205|PKB|Pragathi Krishna Gramin Bank|5,037,318|0.000%|5|5|-|
+206|PNB|Punjab National Bank|96,959,882|0.001%|542|542|-|
+207|PRY|Priyadarshani Nagari Sahakari Bank Maryadit|105,833|0.005%|5|5|-|
+208|PTM|Paytm Payments Bank|666,336,929|0.001%|8,215|7,675|540|
+209|PUR|Purvanchal Bank|2,379,337|0.001%|13|12|1|
+210|RMG|Rajasthan Marudhara Gramin Bank|3,090,140|0.000%|6|6|-|
+211|RNB|RBL|3,657,771|0.004%|159|159|-|
+212|SAC|SHRI ARIHANT CO-OP BANK LTD|27,232|0.000%|-|-|-|
+213|SAG|Saurashtra Gramin Bank|184,167|0.000%|-|-|-|
+214|SBG|Sarva Haryana Gramin Bank|2,664,973|0.000%|4|4|-|
+215|SBI|State Bank Of India|526,999,856|0.001%|3,268|1,982|1,286|
+216|SBL|SBM Bank India Ltd.|15,939|0.000%|-|-|-|
+217|SDH|Shree Dharati Co-Operative Bank Ltd|1,159|0.000%|-|-|-|
+218|SDM|Samarth Sahakari Bank Ltd. Solapur|126,267|0.000%|-|-|-|
+219|SDR|Sandur Pattana Souharda Sahakari Bank|7,694|0.000%|-|-|-|
+220|SHR|Sri Rama Co-Operative Bank Limited|407|0.000%|-|-|-|
+221|SIB|South Indian Bank|10,838,800|0.000%|10|6|4|
+222|SID|THE SINDHUDURG DCC BANK LTD|58,744|0.002%|1|-|1|
+223|SIN|State bank of India - NETS|10|0.000%|-|-|-|
+224|SMR|Samruddhi Co-Operative Bank Ltd. Nagpur|3,908|0.000%|-|-|-|
+225|SRS|Shri Chhatrapati Rajarshi Shahu Urban Co-Op. Bank Ltd. Beed|134,610|0.000%|-|-|-|
+226|SSK|SUCO SOUHARDA SAHAKARI BANK LTD|256,489|0.000%|-|-|-|
+227|STA|The Satara District Central Coop Bank Ltd|202,854|0.000%|-|-|-|
+228|STB|The Saurashtra Co-Operative Bank Ltd|1,396|0.000%|-|-|-|
+229|SUX|The Sutex Co.op.Bank Ltd.|50,479|0.000%|-|-|-|
+230|SVS|Sardar Vallabhbhai Sahakari Bank Ltd|3,226|0.000%|-|-|-|
+231|SYG|Suvarnayug Sahakari Bank Ltd|161,028|0.001%|1|1|-|
+232|TAS|Associate Co.op. Bank Ltd.|12,435|0.000%|-|-|-|
+233|TGB|Telangana Grameena bank|2,084,897|0.000%|1|1|-|
+234|TSB|TJSB Sahakari Bank Ltd|2,080,693|0.001%|27|27|-|
+235|TSS|The SSK Co-operative Bank Ltd.|9,251|0.000%|-|-|-|
+236|TUP|Tirupati Urban Co-Operative Bank Ltd|2,910|0.000%|-|-|-|
+237|UKG|Uttarakhand Gramin Bank|595,783|0.000%|-|-|-|
+238|VJC|The Vijay Cooperative Bank Ltd.|26,545|0.000%|-|-|-|
+239|VNP|Vaishya Nagari Sahakari Bank Ltd|11,129|0.054%|6|-|6|
+240|VSI|The Vishweshwar Sahakari Bank Ltd., Pune (Multi-State)|222,129|0.000%|-|-|-|
+241|VSM|Sri Vasavamba Co-Op. Bank Ltd.|6,227|0.000%|-|-|-|
+242|YBL|Yes Bank Ltd|476,000,678|0.002%|9,163|8,540|623|
+243|YLN|Yadagiri Co-op Bank|27,479|0.000%|-|-|-|
+244|BHY||1,544|0.000%|-|-|-|
+245|CBM||88|0.000%|-|-|-|
+246|DAM||197|0.000%|-|-|-|
+247|GNC||956|0.000%|-|-|-|
+248|JMS||49|0.000%|-|-|-|
+249|MDN||58|0.000%|-|-|-|
+250|RJH||7,182|0.000%|-|-|-|
+251|SAR||1,799|0.000%|-|-|-|
+252|VBM||112|0.000%|-|-|-|
+253|VES||312|0.000%|-|-|-|
+254|VIR||132|0.000%|-|-|-|
+255|AAC||373|0.000%|-|-|-|
+256|CLB||66,700|0.000%|-|-|-|
+257|KHM||3,211|0.000%|-|-|-|
+258|KMC||422|0.000%|-|-|-|
+259|KNK||493|0.000%|-|-|-|
+260|KTK||382|0.000%|-|-|-|
+261|KUB||8,726|0.000%|-|-|-|
+262|MHS||5,569|0.000%|-|-|-|
+263|NSG||59|0.000%|-|-|-|
+264|SDU||249|0.402%|1|-|1|
+265|SNS||4,059|0.000%|-|-|-|
+266|SRT||202|0.000%|-|-|-|
+267|TKR||522|0.000%|-|-|-|
+|S No.|Code|Beneficiary Bank|Total Txns during the month|CB Ratio|Chargebacks Received during the month|Re-presentment Raised during the month|Chargebacks Accepted during the month|
+1|ACB|ABHYUDAYA CO-OP. BANK LTD|1,340,921|0.000%|-|-|-|
+2|AHD|THE AHMEDABAD DISTRICT COOP BANK LTD|268,447|0.000%|-|-|-|
+3|AHM|Ahmednagar Merchant's Co Operative Bank Ltd|104,593|0.001%|1|1|-|
+4|AMG|Assam Gramin Vikash Bank|270,391|0.001%|2|1|1|
+5|ANB|Andhra Bank|22,539,321|0.001%|202|202|-|
+6|AND|Andhra Pragathi Grameena Bank|3,463,458|0.000%|4|3|1|
+7|APV|Andhra Pradesh Grameena Vikas Bank|5,125,827|0.000%|6|6|-|
+8|ARL|Airtel Payments Bank|43,102,787|0.002%|679|596|83|
+9|AUS|AU small Finance Bank|6,304,154|0.001%|55|51|4|
+10|AXB|Axis Bank Ltd.|292,538,909|0.004%|12,523|10,363|2,160|
+11|BCC|Bassein Catholic Co-operative Bank|536,559|0.001%|3|-|3|
+12|BDN|Bandhan Bank|10,263,921|0.000%|36|36|-|
+13|BKG|Baroda Rajasthan Kshetriya Gramin Bank|2,618,558|0.001%|14|14|-|
+14|BOA|Bank Of America|3,103|0.000%|-|-|-|
+15|BOB|Bank of Baroda|124,496,245|0.000%|254|170|84|
+16|BOI|Bank of India|77,820,956|0.000%|133|133|-|
+17|BOM|Bank of Maharashtra|24,200,668|0.000%|29|29|-|
+18|CBI|Central Bank Of India|44,431,251|0.000%|113|112|1|
+19|CHB|CHATISGARH R G BANK|733,760|0.001%|8|8|-|
+20|CHN|The Chartered Sahakari Bank|8,071|0.000%|-|-|-|
+21|CIT|CITI|6,282,764|0.013%|813|809|4|
+22|CNB|Canara Bank|95,002,779|0.000%|68|68|-|
+23|COB|Cosmos Bank|1,464,568|0.000%|1|1|-|
+24|CPF|Capital Small Finance Bank Ltd|115,375|0.001%|1|-|1|
+25|CSB|CSB Bank Ltd|1,479,193|0.000%|1|1|-|
+26|CTB|Citibank|2,515,369|0.000%|-|-|-|
+27|CUB|City Union Bank|7,678,660|0.000%|10|10|-|
+28|DBS|DBS Bank India Limited|5,840,660|0.000%|10|10|-|
+29|DCB|DCB Bank Ltd|1,128,929|0.000%|-|-|-|
+30|EAF|ESAF Small Finance Bank Ltd.|2,662,095|0.000%|1|1|-|
+31|EQT|Equitas Bank|4,442,194|0.001%|34|33|1|
+32|FBL|Federal Bank|70,291,093|0.001%|352|350|2|
+33|FIN|Fino Payments Bank|5,317,727|0.000%|5|4|1|
+34|FSF|Fincare Small Finance Bank Ltd|1,058,505|0.000%|-|-|-|
+35|HDF|HDFC BANK LTD|199,418,363|0.004%|7,648|3,772|3,876|
+36|HPB|The Himachal Pradesh State Co-Op. Bank Ltd|80,002|0.002%|2|1|1|
+37|HSB|HSBC|2,414,966|0.005%|130|130|-|
+38|ICI|ICICI Bank|323,978,595|0.003%|10,176|7,033|3,143|
+39|IDB|IDBI Bank Limited|32,240,477|0.000%|18|17|1|
+40|IDF|IDFC Bank|12,361,578|0.002%|199|194|5|
+41|IIB|INDUSIND BANK|38,564,882|0.004%|1,415|941|474|
+42|INB|Indian Bank|44,944,142|0.001%|315|314|1|
+43|IOB|Indian Overseas Bank|26,266,146|0.000%|31|23|8|
+44|IPB|India Post Payment Bank|11,849,353|0.000%|4|3|1|
+45|IPS|Indore Paraspar Sahakari bank Ltd. Indore|1,987|0.050%|1|-|1|
+46|JAB|THE JALGAON PEOPLES CO.OP.BANK LTD|70,324|0.000%|-|-|-|
+47|JIO|Jio Payments Bank|461,676|0.002%|11|8|3|
+48|JJS|Jalgaon Janata Sahkari Bank Ltd Jalgaon|327,552|0.000%|1|1|-|
+49|JKB|Jammu and Kashmir Bank|2,855,288|0.000%|4|4|-|
+50|JKG|J&K Grameen Bank|88,616|0.000%|-|-|-|
+51|JSB|Janata Sahakari Bank Ltd. Pune|1,230,523|0.000%|2|2|-|
+52|JSF|Jana Small Finance Bank Ltd|795,457|0.001%|4|4|-|
+53|JVN|Jivan Commercial Co-Operative Bank Ltd|1,704|0.000%|-|-|-|
+54|KAI|The Kaira District Central Coop Bank|39,586|0.003%|1|1|-|
+55|KJB|The Kalyan Janata Sahakari Bank Ltd.|514,796|0.000%|1|1|-|
+56|KLB|The Kalupur Commercial Co-operative Bank Ltd|324,055|0.000%|1|1|-|
+57|KLG|Kerala Gramin Bank|3,217,591|0.001%|35|13|22|
+58|KMB|Kotak Mahindra Bank|76,741,340|0.001%|796|552|244|
+59|KTB|Karnataka Bank|20,022,175|0.000%|78|77|1|
+60|KVB|Karur Vysya Bank|15,740,658|0.000%|3|3|-|
+61|KVG|Karnataka Vikas Grameena Bank|2,178,134|0.000%|7|6|1|
+62|LVB|Lakshmi Vilas Bank|2,599,730|0.000%|2|2|-|
+63|MGB|Maharashtra Gramin Bank|3,740,661|0.000%|16|16|-|
+64|MSS|The Merchants Souharda Sahakara Bank Ni.|1,284|0.000%|-|-|-|
+65|MZR|Mizoram Rural Bank|356,757|0.000%|-|-|-|
+66|NGB|NKGSB Bank|498,965|0.001%|3|3|-|
+67|NSD|NSDL Payments Bank|280,635|0.000%|-|-|-|
+68|NTB|Nainital Bank|291,125|0.000%|1|1|-|
+69|PBG|PASCHIM BANGA GRAMIN BANK|101,490|0.002%|2|2|-|
+70|PGB|Punjab Gramin Bank|322,167|0.001%|2|1|1|
+71|PKB|Pragathi Krishna Gramin Bank|4,570,646|0.000%|2|2|-|
+72|PNB|Punjab National Bank|93,261,571|0.000%|408|402|6|
+73|PSB|Punjab and Sind Bank|4,221,232|0.000%|12|12|-|
+74|PTM|Paytm Payments Bank|642,432,591|0.001%|7,422|6,844|578|
+75|PUR|Purvanchal Bank|2,218,791|0.001%|12|11|1|
+76|RMG|Rajasthan Marudhara Gramin Bank|3,067,779|0.000%|12|12|-|
+77|RNB|RBL|3,498,348|0.001%|43|43|-|
+78|SAC|SHRI ARIHANT CO-OP BANK LTD|26,506|0.000%|-|-|-|
+79|SAG|Saurashtra Gramin Bank|197,924|0.001%|1|1|-|
+80|SBG|Sarva Haryana Gramin Bank|2,602,317|0.000%|5|5|-|
+81|SBI|State Bank Of India|535,438,471|0.001%|2,798|2,036|762|
+82|SBN|SAIBABA NAGARI SAHAKARI BANK MARYADIT SAILU|15,789|0.006%|1|1|-|
+83|SCB|Standard Chartered|2,985,640|0.000%|13|11|2|
+84|SIB|South Indian Bank|10,615,261|0.000%|26|18|8|
+85|SMB|SHREE MAHAVIR SAHAKARI BANK LTD|3,434|0.000%|-|-|-|
+86|SNB|Smriti Nagrik Sahakari Bank Maryadit Mandsaur|22,725|0.000%|-|-|-|
+87|SPB|Surat People Cooperative Bank|100,192|0.001%|1|1|-|
+88|SRC|Saraswat Bank|4,262,087|0.000%|1|1|-|
+89|SVB|Shri Veershaiv Co-Op Bank Ltd.|43,270|0.000%|-|-|-|
+90|SVC|Svc co-operative bank ltd|1,192,755|0.000%|3|3|-|
+91|SVS|Sardar Vallabhbhai Sahakari Bank Ltd|2,052|0.000%|-|-|-|
+92|TAS|Associate Co.op. Bank Ltd.|11,055|0.000%|-|-|-|
+93|TEL|Telangana State Co Op Apex Bank|279,052|0.000%|-|-|-|
+94|TGB|Telangana Grameena bank|2,073,711|0.000%|-|-|-|
+95|TIR|Tripura Gramin Bank|54,870|0.033%|18|-|18|
+96|TMB|Tamilnad Mercantile Bank|5,881,720|0.000%|26|26|-|
+97|TSB|TJSB Sahakari Bank Ltd|2,093,025|0.002%|40|38|2|
+98|UCO|UCO Bank|22,960,023|0.001%|130|125|5|
+99|UIJ|Ujjivan Small Finance Bank|5,619,022|0.000%|6|6|-|
+100|UKG|Uttarakhand Gramin Bank|566,885|0.001%|4|4|-|
+101|UMB|The Udaipur Mahila Urban Co-Operative Bank Ltd.|15,837|0.000%|-|-|-|
+102|UOB|Union Bank of India|96,436,699|0.000%|182|182|-|
+103|VGB|Jharkhand Rajya Gramin Bank|580,203|0.000%|-|-|-|
+104|VIK|Vikas Souharda Co-operative Bank Ltd|65,044|0.000%|-|-|-|
+105|YBL|Yes Bank Ltd|450,538,000|0.001%|6,860|6,365|495|
+106|BDB|THE BARODA CENTRAL COOP BANK LTD|27,517|0.001%|2|1|1|
+107|BHB|THE BHARAT CO OPERATIVE BANK MUMBAI LTD|897,980|0.001%|5|5|-|
+108|BRM|The Baramati Sahakari Bank Limited|234,599|0.001%|1|-|1|
+109|GYB|The Gayatri Co-operative Urban Bank Ltd.|469,252|0.001%|1|-|1|
+110|KSA|The Karnataka State Co-operative Apex Bank Ltd|3,818|0.001%|1|-|1|
+111|PRY|Priyadarshani Nagari Sahakari Bank Maryadit|97,810|0.001%|2|2|-|
+112|PTN|Patan nagarik Sahakari Bank Ltd.|3,323|0.001%|2|-|2|
+113|SNC|Surat National Co-Operative Bank Ltd|6,628|0.001%|1|-|1|
+114|SRS|Shri Chhatrapati Rajarshi Shahu Urban Co-Op. Bank Ltd. Beed|115,221|0.001%|1|1|-|
+115|VNP|Vaishya Nagari Sahakari Bank Ltd|8,407|0.001%|2|-|2|
+116|MBB|Dakshin Bihar Gramin Bank|1,556,470|0.001%|2|2|-|
+117|MDM|Mann Deshi Mahila Sahakari Bank. Ltd.|11,723|0.001%|1|-|1|
+118|MRB|Meghalaya Rural Bank|32,898|0.001%|1|1|-|
+119|MUC|The Mehsana Urban Co-Operative Bank Ltd.|265,665|0.001%|3|2|1|
+120|SDM|Samarth Sahakari Bank Ltd. Solapur|121,547|0.001%|2|2|-|
+121|SSF|Suryoday Small Finance Bank Ltd.|352,248|0.001%|2|2|-|
+122|STA|The Satara District Central Coop Bank Ltd|177,623|0.001%|1|1|-|
+123|SUB|Sarva UP Gramin Bank|989,142|0.001%|1|1|-|
+124|SYG|Suvarnayug Sahakari Bank Ltd|163,867|0.001%|2|2|-|
+125|UUB|The Udaipur Urban Co-Operative Bank Ltd.|8,180|0.001%|1|-|1|
+126|VAR|The Varachha Co-Op Bank Ltd|200,031|0.001%|1|1|-|
+127|VSI|The Vishweshwar Sahakari Bank Ltd., Pune (Multi-State)|223,228|0.001%|1|1|-|
+128|BKD|Banaskantha District Central Coop Bank|90,582|0.001%|1|-|1|
+129|BNS|Bhagini Nivedita Sahakari Bank|77,462|0.001%|4|4|-|
+130|BUB|Baroda UP Gramin Bank|1,375,494|0.001%|1|1|-|
+131|EZC|ICICIBank EazyPay|-|0.001%|7|6|1|
+132|HSW|Hutatma Sahakari Bank Ltd|35,360|0.001%|1|1|-|
+133|HTI|The Hasti Co-operative Bank Ltd|132,913|0.001%|1|1|-|
+134|KLM|Kolhapur Mahila Sahakari Bank Ltd. Kolhapur|1,615|0.001%|1|-|1|
+|S No.|Code|Beneficiary Bank|Total Txns during the month|CB Ratio|Chargebacks Received during the month|Re-presentment Raised during the month|Chargebacks Accepted during the month|
+1|APM|A P Mahesh Bank|2,36,193|0.0000%|-|-|-|
+2|ACB|ABHYUDAYA CO-OP. BANK LTD|12,18,990|0.0005%|6|1|5|
+3|AHB|Adarsh Co-operative Bank Limited|54,816|0.0000%|-|-|-|
+4|AHM|Ahmednagar Merchant's Co Operative Bank Ltd|87,552|0.0011%|1|1|-|
+5|ARL|Airtel Payments Bank|3,86,75,959|0.0013%|484|414|70|
+6|ANB|Andhra Bank|2,44,58,198|0.0004%|89|89|-|
+7|APV|Andhra Pradesh Grameena Vikas Bank|51,38,298|0.0004%|21|17|4|
+8|AND|Andhra Pragathi Grameena Bank|34,18,975|0.0002%|8|5|3|
+9|APN|Apna Sahakari Bank Ltd.|6,30,443|0.0000%|-|-|-|
+10|AMG|Assam Gramin Vikash Bank|2,13,713|0.0023%|5|-|5|
+11|TAS|Associate Co.op. Bank Ltd.|9,928|0.0101%|1|-|1|
+12|AUS|AU small Finance Bank|55,80,897|0.0018%|103|101|2|
+13|AXB|Axis Bank Ltd.|26,91,34,660|0.0043%|11,657|9,383|2,274|
+14|BKD|Banaskantha District Central Coop Bank|79,379|0.0000%|-|-|-|
+15|BDN|Bandhan Bank|92,49,716|0.0011%|104|86|18|
+16|BOA|Bank Of America|2,930|0.0341%|1|1|-|
+17|BOB|Bank of Baroda|11,12,40,996|0.0003%|340|229|111|
+18|BOI|Bank of India|7,04,57,314|0.0001%|101|100|1|
+19|BOM|Bank of Maharashtra|2,20,55,537|0.0001%|31|30|1|
+20|BGI|Baroda Gujarat Gramin Bank|2,44,616|0.0000%|-|-|-|
+21|BKG|Baroda Rajasthan Kshetriya Gramin Bank|22,90,180|0.0002%|5|5|-|
+22|BUB|Baroda UP Gramin Bank|11,58,912|0.0000%|-|-|-|
+23|BCC|Bassein Catholic Co-operative Bank|4,91,303|0.0004%|2|-|2|
+24|BDR|Bhadradri Co-Operative Urban Bank Ltd|687|0.0000%|-|-|-|
+25|BNS|Bhagini Nivedita Sahakari Bank|70,944|0.0000%|-|-|-|
+26|BHB|Bharat Co-Operative Bank (Mumbai) Ltd.|7,93,980|0.0000%|-|-|-|
+27|BWB|Bhilwara Urban Co-operative Bank Ltd|6,911|0.0000%|-|-|-|
+28|CNB|Canara Bank|8,73,94,427|0.0001%|48|47|1|
+29|CPF|Capital Small Finance Bank Ltd|1,04,671|0.0010%|1|1|-|
+30|CBI|Central Bank Of India|4,08,39,589|0.0001%|45|39|6|
+31|CGG|Chaitanya Godavari Grameena Bank|9,05,088|0.0000%|-|-|-|
+32|CHB|CHATISGARH R G BANK|6,27,004|0.0014%|9|6|3|
+33|CGR|Chhattisgarh Rajya Sahakari Bank Mydt|2,000|0.0000%|-|-|-|
+34|CIT|CITI|66,90,866|0.0051%|339|336|3|
+35|CTB|Citibank|24,22,570|0.0001%|2|-|2|
+36|CZS|Citizens Co-Operative Bank Ltd|3,282|0.0000%|-|-|-|
+37|CUB|City Union Bank|70,66,267|0.0000%|3|3|-|
+38|CST|Coastal Local Area Bank Ltd|1,59,709|0.0000%|-|-|-|
+39|COB|Cosmos Bank|13,35,132|0.0001%|1|1|-|
+40|CSB|CSB Bank Ltd|12,89,365|0.0002%|2|2|-|
+41|BHM|Dakshin Bihar Gramin Bank|12,69,497|0.0001%|1|1|-|
+42|DSM|Darussalam Co-Operative Urban Bank Ltd.|35,864|0.0000%|-|-|-|
+43|DBS|DBS Bank India Limited|57,14,093|0.0002%|14|13|1|
+44|EZE|DCB Bank Ezetap|52|0.0000%|-|-|-|
+45|DCB|DCB Bank Ltd|10,50,034|0.0002%|2|2|-|
+46|DGB|Dena Gujarat Gramin Bank|9,637|0.0000%|-|-|-|
+47|DEO|Deogiri Nagari Sahakari Bank Ltd|6,085|0.0000%|-|-|-|
+48|DBA|Deutsche Bank|46,632|0.0000%|-|-|-|
+49|DEU|Deutsche Bank Corp|5,189|0.0000%|-|-|-|
+50|DLB|Dhanlaxmi Bank Ltd|10,09,309|0.0000%|-|-|-|
+51|DSB|Dombivali Nagri Sahakari Bank|5,94,321|0.0000%|-|-|-|
+52|EQT|Equitas Bank|35,33,873|0.0008%|28|23|5|
+53|EAF|ESAF Small Finance Bank Ltd.|21,85,908|0.0002%|4|4|-|
+54|FBL|Federal Bank|6,54,64,435|0.0006%|402|402|-|
+55|FSF|Fincare Small Finance Bank Ltd|9,93,805|0.0001%|1|-|1|
+56|FNG|Fingrowth Cooperative Bank Ltd|12,589|0.0000%|-|-|-|
+57|FIN|Fino Payments Bank|45,01,020|0.0002%|9|9|-|
+58|GYB|Gayatri Bank|4,35,618|0.0000%|-|-|-|
+59|GPB|GP PARSIK BANK|8,69,763|0.0000%|-|-|-|
+60|MNB|GS Mahanagar Coop bank|4,25,730|0.0000%|-|-|-|
+61|HDF|HDFC BANK LTD|18,84,06,519|0.0027%|5,106|3,104|2,002|
+62|HGB|Himachal Pradesh Gramin Bank|2,29,964|0.0000%|-|-|-|
+63|HSB|HSBC|20,57,136|0.0046%|94|94|-|
+64|HSW|Hutatma Sahakari Bank Ltd|29,790|0.0000%|-|-|-|
+65|ICI|ICICI Bank|31,09,98,996|0.0028%|8,773|6,213|2,560|
+66|IPP|ICICI Bank Pockets|20,484|0.0000%|-|-|-|
+67|IDB|IDBI Bank Limited|2,97,67,663|0.0001%|20|17|3|
+68|IDF|IDFC Bank|1,11,21,895|0.0016%|182|161|21|
+69|IPB|India Post Payment Bank|94,99,688|0.0001%|7|6|1|
+70|INB|Indian Bank|3,85,20,929|0.0010%|394|382|12|
+71|IOB|Indian Overseas Bank|2,40,63,801|0.0002%|43|26|17|
+72|IPS|Indore Paraspar Sahakari bank Ltd. Indore|1,785|0.0560%|1|-|1|
+73|IIB|INDUSIND BANK|3,10,13,818|0.0031%|961|747|214|
+74|IKT|Irinjalakuda Town Co|959|0.0000%|-|-|-|
+75|JKG|J&K Grameen Bank|78,038|0.0026%|2|2|-|
+76|JJS|Jalgaon Janata Sahkari Bank Ltd Jalgaon|2,95,214|0.0007%|2|2|-|
+77|JNC|Jalna Merchant Cooperative Bank Ltd|24,259|0.0000%|-|-|-|
+78|JKB|Jammu and Kashmir Bank|26,56,341|0.0001%|2|2|-|
+79|JSF|Jana Small Finance Bank Ltd|7,19,106|0.0001%|1|1|-|
+80|JKS|Janakalyan Sahakari Bank Ltd|54,717|0.0000%|-|-|-|
+81|JNS|Janaseva Sahakari|1,70,810|0.0000%|-|-|-|
+82|JSB|Janata Sahakari Bank Ltd. Pune|11,41,077|0.0003%|3|3|-|
+83|VGB|Jharkhand Rajya Gramin Bank|4,97,277|0.0008%|4|4|-|
+84|JIO|Jio Payments Bank|4,39,635|0.0005%|2|1|1|
+85|JVN|Jivan Commercial Co-Operative Bank Ltd|1,433|0.2094%|3|-|3|
+86|YJU|JUSPAY Technologies Pvt Ltd|2,35,910|0.0000%|-|-|-|
+87|KIB|KAIJSB- Ichalkaranji|1,51,089|0.0000%|-|-|-|
+88|KAN|Kanaka Mahalakshmi Co-Operative Bank Ltd.|34,660|0.0000%|-|-|-|
+89|KTB|Karnataka Bank|1,77,44,473|0.0006%|105|104|1|
+90|KVG|Karnataka Vikas Grameena Bank|21,89,543|0.0003%|6|4|2|
+91|KVB|Karur Vysya Bank|1,45,46,572|0.0001%|18|18|-|
+92|KGG|Kashi Gomati Samyut Grameen Bank|97,107|0.0000%|-|-|-|
+93|KLG|Kerala Gramin Bank|31,64,810|0.0012%|37|37|-|
+94|KKN|Kokan Mercantile Coop Bank Ltd|52,776|0.0000%|-|-|-|
+95|KDK|Kolhapur Dist. Central Co-Op. Bank Ltd.|18,738|0.0000%|-|-|-|
+96|KLM|Kolhapur Mahila Sahakari Bank Ltd. Kolhapur|874|0.0000%|-|-|-|
+97|KMB|Kotak Mahindra Bank|6,91,37,782|0.0007%|511|128|383|
+98|KRI|Krishna Bhima Samruddhi Local Area Bank|36,392|0.0000%|-|-|-|
+99|LVB|Lakshmi Vilas Bank|24,07,026|0.0002%|4|4|-|
+100|LSB|Lonavala Sahakari Bank Ltd|2,848|0.0000%|-|-|-|
+101|MRS|MADHYA PRADESH RAJYA SAHAKARI BANK MARYADIT|4,437|0.0000%|-|-|-|
+102|MGB|Maharashtra Gramin Bank|34,06,143|0.0004%|12|12|-|
+103|MBH|Maharashtra State Co-op Bank Ltd|31,146|0.0000%|-|-|-|
+104|MVY|Malviya Urban Co-operative Bank Ltd.|5,549|0.0000%|-|-|-|
+105|MNR|Manipur Rural Bank|20,086|0.0000%|-|-|-|
+106|MDM|Mann Deshi Mahila Sahakari Bank. Ltd.|8,799|0.0000%|-|-|-|
+107|MAI|Manvi Pattana Souharda Sahakari Bank Ni.|12,359|0.0000%|-|-|-|
+108|MCL|Maratha Cooperative Bank Ltd|8,338|0.0000%|-|-|-|
+109|MRB|Meghalaya Rural Bank|31,080|0.0000%|-|-|-|
+110|MZR|Mizoram Rural Bank|2,99,064|0.0007%|2|2|-|
+111|MOC|Model Co-Op. Bank Ltd.|41,462|0.0000%|-|-|-|
+112|NMV|Nagarik Sahakari Bank Maryadit|2,690|0.0000%|-|-|-|
+113|NTB|Nainital Bank|2,54,815|0.0020%|5|5|-|
+114|NMB|Navi Mumbai Co-operative Bank Ltd|5,641|0.0000%|-|-|-|
+115|NGB|NKGSB Bank|4,60,517|0.0011%|5|1|4|
+116|NES|North East Small Finance Bank Ltd|50,379|0.0000%|-|-|-|
+117|NSD|NSDL Payments Bank|2,70,733|0.0011%|3|3|-|
+118|NNI|Nutan Nagrik Sahakari Bank|20,709|0.0000%|-|-|-|
+119|PLB|Pali Urban Co-Operative Bank Limited|3,196|0.0000%|-|-|-|
+120|PBG|PASCHIM BANGA GRAMIN BANK|88,488|0.0023%|2|2|-|
+121|PTN|PATAN NAGARIK SAHAKARI BANK LTD|2,701|0.0000%|-|-|-|
+122|PTM|Paytm Payments Bank|56,45,53,651|0.0013%|7,253|6,937|316|
+123|ICP|Phone Pe ICICI|1|0.0000%|-|-|-|
+124|PPB|Pochampally Co Bank|89,657|0.0000%|-|-|-|
+125|PKB|Pragathi Krishna Gramin Bank|41,38,854|0.0000%|2|2|-|
+126|PCS|Pune Cantonment Sahakari bank Ltd|21,151|0.0000%|-|-|-|
+127|PSB|Punjab and Sind Bank|37,67,789|0.0001%|4|4|-|
+128|PGB|Punjab Gramin Bank|2,88,585|0.0003%|1|1|-|
+129|PNB|Punjab National Bank|8,61,73,514|0.0109%|9,405|9,386|19|
+130|PUR|Purvanchal Bank|19,61,122|0.0011%|21|20|1|
+131|RMG|Rajasthan Marudhara Gramin Bank|27,84,123|0.0007%|20|20|-|
+132|RNS|Rajgurunagar Sahakar|35,567|0.0000%|-|-|-|
+133|RKT|RAJKOT DISTRICT CENTRAL COOP BANK|16,477|0.0000%|-|-|-|
+134|RKN|Rajkot Nagrik Sahakari Bank Ltd.|1,40,340|0.0000%|-|-|-|
+135|RNI|Rani Channamma mahila Sahakari Bank Niyamit|4,019|0.0000%|-|-|-|
+136|RNB|RBL|29,65,960|0.0010%|29|29|-|
+137|SKD|Sabarkantha District Central Cooperative Bank Ltd|86,613|0.0000%|-|-|-|
+138|SDS|Sadhana Sahakari Bank Ltd|15,176|0.0000%|-|-|-|
+139|SBN|SAIBABA NAGARI SAHAKARI BANK MARYADIT SAILU|10,797|0.0093%|1|1|-|
+140|SDM|Samarth Sahakari Bank Ltd. Solapur|1,05,442|0.0000%|-|-|-|
+141|SMR|Samruddhi Co-Operative Bank Ltd. Nagpur|3,423|0.0000%|-|-|-|
+142|SDR|Sandur Pattana Souharda Sahakari Bank|6,312|0.0000%|-|-|-|
+143|SRC|Saraswat Bank|38,92,886|0.0001%|3|3|-|
+144|SVS|Sardar Vallabhbhai Sahakari Bank Ltd|682|0.5865%|4|-|4|
+145|SBG|Sarva Haryana Gramin Bank|23,71,860|0.0001%|2|-|2|
+146|SUB|Sarva UP Gramin Bank|8,05,284|0.0000%|-|-|-|
+147|SVY|SARVODAYA COMMERCIAL CO OP BANK LTD|19,646|0.0000%|-|-|-|
+148|SAG|Saurashtra Gramin Bank|1,82,388|0.0022%|4|4|-|
+149|SBL|SBM Bank India Ltd.|6,571|0.0000%|-|-|-|
+150|SHB|Shivalik Mercantile Co-operative Bank Ltd|60,361|0.0000%|-|-|-|
+151|SDH|Shree Dharati Co-Operative Bank Ltd|964|0.0000%|-|-|-|
+152|SHK|SHREE KADI NAGARIK SAHAKARI BANK LTD|57,703|0.0000%|-|-|-|
+153|SMB|SHREE MAHAVIR SAHAKARI BANK LTD|2,506|0.0399%|1|1|-|
+154|SPN|Shree Panchganga Nagari Sahakari Bank Ltd|358|0.0000%|-|-|-|
+155|SAC|SHRI ARIHANT CO-OP BANK LTD|24,031|0.0042%|1|1|-|
+156|SRS|Shri Chhatrapati Rajarshi Shahu Urban Co-Op. Bank Ltd. Beed|84,697|0.0000%|-|-|-|
+157|SJS|SHRI JANATA SAHAKARI BANK LTD.HALOL|154|0.0000%|-|-|-|
+158|SMW|Shri Mahila Sewa Sahakari Bank Ltd.|3,984|0.0000%|-|-|-|
+159|SVB|Shri Veershaiv Co-Op Bank Ltd.|34,929|0.0029%|1|1|-|
+160|SNB|Smriti Nagrik Sahakari Bank Maryadit Mandsaur|20,363|0.0098%|2|-|2|
+161|SIB|South Indian Bank|92,38,789|0.0001%|12|8|4|
+162|BSB|Sri Basaveshwar Bank|7,026|0.0000%|-|-|-|
+163|SHR|Sri Rama Co-Operative Bank Limited|273|0.0000%|-|-|-|
+164|VSM|Sri Vasavamba Co-Op. Bank Ltd.|4,927|0.0000%|-|-|-|
+165|SCB|Standard Chartered|27,29,111|0.0004%|11|4|7|
+166|SBI|State Bank Of India|48,74,57,728|0.0004%|2,045|1,449|596|
+167|SIN|State bank of India - NETS|14|0.0000%|-|-|-|
+168|SLB|Sterling Urban Cooperative Bank Ltd|23,194|0.0000%|-|-|-|
+169|SSK|SUCO SOUHARDA SAHAKARI BANK LTD|2,28,874|0.0000%|-|-|-|
+170|SNC|Surat National Co-Operative Bank Ltd|1,241|0.0000%|-|-|-|
+171|SPB|Surat People Cooperative Bank|93,985|0.0011%|1|1|-|
+172|SSF|Suryoday Small Finance Bank Ltd.|3,16,789|0.0000%|-|-|-|
+173|SYG|Suvarnayug Sahakari Bank Ltd|1,45,411|0.0000%|-|-|-|
+174|SVC|Svc co-operative bank ltd|10,74,595|0.0007%|7|7|-|
+175|TMB|Tamilnad Mercantile Bank|54,47,632|0.0002%|13|13|-|
+176|TGB|Telangana Grameena bank|20,52,227|0.0002%|5|4|1|
+177|TEL|Telangana State Co Op Apex Bank|2,84,586|0.0004%|1|1|-|
+178|TBS|Thane Bharat Sahakari Bank Ltd|2,23,561|0.0000%|-|-|-|
+179|ACU|The Adarsh Co-operative Urban Bank Ltd.|1,22,119|0.0000%|-|-|-|
+180|AHD|THE AHMEDABAD DISTRICT COOP BANK LTD|2,42,686|0.0004%|1|-|1|
+181|AME|The Ahmedabad Mercantile Cooperative Bank Ltd|60,516|0.0000%|-|-|-|
+182|AKA|The Akola District Central Co-oP.Bank Ltd|16,549|0.0000%|-|-|-|
+183|AMO|The Anand Mercantile Co-operative Bank Ltd|2,033|0.0000%|-|-|-|
+184|ASB|The Andhra Pradesh State Co-operative Bank Ltd.|38,313|0.0000%|-|-|-|
+185|BKM|The Banaskantha Mercantile Co-Operative Bank Ltd|22,071|0.0000%|-|-|-|
+186|BRM|The Baramati Sahakari Bank Ltd|2,01,257|0.0000%|-|-|-|
+187|BDB|The Baroda Central Co-op Bank Ltd.|26,503|0.0000%|-|-|-|
+188|CHN|The Chartered Sahakari Bank|6,570|0.0152%|1|1|-|
+189|CZN|The Citizen Coop Bank Ltd|12,023|0.0000%|-|-|-|
+190|DHU|The Dahod Urban Co-operative Bank Ltd|35|0.0000%|-|-|-|
+191|EUB|The Eenadu Co-oP.Urban Bank Ltd|5,754|0.0000%|-|-|-|
+192|GHD|The Gadchiroli District Central Co-Op. Bank Ltd.|12,466|0.0000%|-|-|-|
+193|GDH|The Godhra Urban Cooperative Bank Ltd|3,234|0.0000%|-|-|-|
+194|GSC|The Gujarat State Cooperative Bank|1,08,085|0.0000%|-|-|-|
+195|HTI|The Hasti Co-operative Bank Ltd|1,13,410|0.0000%|-|-|-|
+196|HPB|The Himachal Pradesh State Co-Op. Bank Ltd|67,760|0.0059%|4|1|3|
+197|JAB|THE JALGAON PEOPLES CO.OP.BANK LTD|33,754|0.0030%|1|1|-|
+198|KAI|The Kaira District Central Coop Bank|33,534|0.0030%|1|-|1|
+199|KLB|The Kalupur Commercial Co-operative Bank Ltd|2,99,921|0.0003%|1|1|-|
+200|KJB|The Kalyan Janata Sahakari Bank Ltd.|4,66,423|0.0002%|1|1|-|
+201|MSB|The Malad Sahakari Bank Ltd.|25,505|0.0000%|-|-|-|
+202|MUC|The Mehsana Urban Co-Operative Bank Ltd.|2,43,209|0.0000%|-|-|-|
+203|MSS|The Merchants Souharda Sahakara Bank Ni.|1,030|0.0971%|1|-|1|
+204|MNS|The Modasa Nagarik Sahakari Bank Limited|996|0.0000%|-|-|-|
+205|MUN|The Municipal Co-op Bank Ltd|98,364|0.0000%|-|-|-|
+206|MSL|The Muslim Cooperative Bank Ltd|61,720|0.0000%|-|-|-|
+207|NUR|The New Urban Co-operative Bank Ltd Rampur|2,503|0.0000%|-|-|-|
+208|PCB|The Prime Cooperative Bank Ltd|28,271|0.0000%|-|-|-|
+209|PRY|The Priyadarshini Nagari Sahakari Bank|84,590|0.0000%|-|-|-|
+210|STA|The Satara District Central Coop Bank Ltd|1,47,178|0.0000%|-|-|-|
+211|SID|THE SINDHUDURG DCC BANK LTD|39,897|0.0000%|-|-|-|
+212|TSS|The SSK Co-operative Bank Ltd.|8,377|0.0000%|-|-|-|
+213|TNF|The Surat District Cooperative Bank|87,566|0.0000%|-|-|-|
+214|SUX|The Sutex Co.op.Bank Ltd.|42,979|0.0000%|-|-|-|
+215|UMS|The Udaipur Mahila Samridhi Urban Co-operative Bank Ltd.|7,792|0.0000%|-|-|-|
+216|UMB|The Udaipur Mahila Urban Co-Operative Bank Ltd.|14,368|0.0070%|1|1|-|
+217|UUB|The Udaipur Urban Co-Operative Bank Ltd.|7,632|0.0000%|-|-|-|
+218|UBD|THE URBAN CO OP BANK LTD DHARANGAON|12,182|0.0000%|-|-|-|
+219|VVB|The Vallabh Vidyanagar Commercial Co-Operative Bank Ltd.|1,649|0.0000%|-|-|-|
+220|VAR|The Varachha Co-Op Bank Ltd|1,83,664|0.0000%|-|-|-|
+221|VJC|The Vijay Cooperative Bank Ltd.|25,223|0.0000%|-|-|-|
+222|VKH|The Visakhapatnam Cooperative Bank Ltd|77,620|0.0000%|-|-|-|
+223|VSI|The Vishweshwar Sahakari Bank Ltd. Pune (Multi-State)|1,91,356|0.0000%|-|-|-|
+224|TSB|TJSB Sahakari Bank Ltd|17,96,341|0.0013%|23|23|-|
+225|TIR|Tripura Gramin Bank|1,07,257|0.0028%|3|-|3|
+226|UCO|UCO Bank|2,06,13,109|0.0003%|71|71|-|
+227|UIJ|Ujjivan Small Finance Bank|50,97,361|0.0003%|13|12|1|
+228|UOB|Union Bank of India|8,64,01,512|0.0002%|137|136|1|
+229|USF|UTKARSH SMALL FINANCE BANK LIMITED|1,53,711|0.0000%|-|-|-|
+230|UKG|Uttarakhand Gramin Bank|5,12,024|0.0010%|5|5|-|
+231|VNP|Vaishya Nagari Sahakari Bank Ltd|4,308|0.0000%|-|-|-|
+232|VVS|Vasai Vikas Sahakari Bank Ltd|2,00,384|0.0000%|-|-|-|
+233|VIK|Vikas Souharda Co-operative Bank Ltd|59,577|0.0017%|1|1|-|
+234|YLN|Yadagiri Co-op Bank|21,718|0.0000%|-|-|-|
+235|YBL|Yes Bank Ltd|41,98,62,671|0.0019%|7,797|6,980|817|
+|S No.|Code|Beneficiary Bank|Total Txns during the month|CB Ratio|Chargebacks Received during the month|Re-presentment Raised during the month|Chargebacks Accepted during the month|
+1|APM|A P Mahesh Bank|2,09,158|0.00%|-|-|-|
+2|ACB|ABHYUDAYA CO-OP. BANK LTD|11,05,705|0.00%|5|1|4|
+3|AHB|Adarsh Co-operative Bank Limited|43,976|0.00%|-|-|-|
+4|AHM|Ahmednagar Merchant's Co Operative Bank Ltd|82,384|0.00%|1|1|-|
+5|ARL|Airtel Payments Bank|3,09,48,830|0.00%|361|296|65|
+6|ANB|Andhra Bank|2,47,44,973|0.00%|81|81|-|
+7|APV|Andhra Pradesh Grameena Vikas Bank|48,50,478|0.00%|17|15|2|
+8|AND|Andhra Pragathi Grameena Bank|32,78,939|0.00%|8|5|3|
+9|APN|Apna Sahakari Bank Ltd.|5,63,108|0.00%|-|-|-|
+10|AMG|Assam Gramin Vikash Bank|1,70,614|0.00%|2|-|2|
+11|TAS|Associate Co.op. Bank Ltd.|7,810|0.01%|1|-|1|
+12|AUS|AU small Finance Bank|46,45,542|0.00%|99|98|1|
+13|AXB|Axis Bank Ltd.|22,75,26,239|0.00%|7,696|6,294|1,402|
+14|BKD|Banaskantha District Central Coop Bank|58,653|0.00%|-|-|-|
+15|BDN|Bandhan Bank|81,51,878|0.00%|94|76|18|
+16|BOA|Bank Of America|2,747|0.04%|1|1|-|
+17|BOB|Bank of Baroda|9,44,16,846|0.00%|273|181|92|
+18|BOI|Bank of India|6,19,15,380|0.00%|93|93|-|
+19|BOM|Bank of Maharashtra|1,99,55,674|0.00%|27|27|-|
+20|BGI|Baroda Gujarat Gramin Bank|2,16,605|0.00%|-|-|-|
+21|BKG|Baroda Rajasthan Kshetriya Gramin Bank|19,01,250|0.00%|5|5|-|
+22|BUB|Baroda UP Gramin Bank|9,97,876|0.00%|-|-|-|
+23|BCC|Bassein Catholic Co-operative Bank|4,29,967|0.00%|2|-|2|
+24|BNS|Bhagini Nivedita Sahakari Bank|64,223|0.00%|-|-|-|
+25|BHB|Bharat Co-Operative Bank (Mumbai) Ltd.|6,74,690|0.00%|-|-|-|
+26|BWB|Bhilwara Urban Co-operative Bank Ltd|5,812|0.00%|-|-|-|
+27|CNB|Canara Bank|7,31,71,653|0.00%|40|39|1|
+28|CPF|Capital Small Finance Bank Ltd|89,001|0.00%|1|1|-|
+29|CBI|Central Bank Of India|3,57,34,112|0.00%|44|38|6|
+30|CGG|Chaitanya Godavari Grameena Bank|8,58,442|0.00%|-|-|-|
+31|CHB|CHATISGARH R G BANK|5,57,560|0.00%|7|5|2|
+32|CGR|Chhattisgarh Rajya Sahakari Bank Mydt|1,177|0.00%|-|-|-|
+33|CIT|CITI|58,17,241|0.01%|292|289|3|
+34|CTB|Citibank|21,97,152|0.00%|2|-|2|
+35|CZS|Citizens Co-Operative Bank Ltd|2,866|0.00%|-|-|-|
+36|CUB|City Union Bank|57,02,645|0.00%|3|3|-|
+37|CST|Coastal Local Area Bank Ltd|1,35,797|0.00%|-|-|-|
+38|COB|Cosmos Bank|11,84,589|0.00%|1|1|-|
+39|CSB|CSB Bank Ltd|10,83,187|0.00%|2|2|-|
+40|BHM|Dakshin Bihar Gramin Bank|11,46,370|0.00%|-|-|-|
+41|DSM|Darussalam Co-Operative Urban Bank Ltd.|29,751|0.00%|-|-|-|
+42|DBS|DBS Bank India Limited|51,76,018|0.00%|13|12|1|
+43|DCB|DCB Bank Ltd|9,22,806|0.00%|2|2|-|
+44|DGB|Dena Gujarat Gramin Bank|10,665|0.00%|-|-|-|
+45|DBA|Deutsche Bank|40,674|0.00%|-|-|-|
+46|DEU|Deutsche Bank Corp|4,396|0.00%|-|-|-|
+47|DLB|Dhanlaxmi Bank Ltd|8,13,016|0.00%|-|-|-|
+48|DSB|Dombivali Nagri Sahakari Bank|5,34,417|0.00%|-|-|-|
+49|EQT|Equitas Bank|25,57,468|0.00%|12|11|1|
+50|EAF|ESAF Small Finance Bank Ltd.|17,82,623|0.00%|4|4|-|
+51|FBL|Federal Bank|5,02,78,702|0.00%|358|358|-|
+52|FSF|Fincare Small Finance Bank Ltd|8,94,388|0.00%|1|-|1|
+53|FNG|Fingrowth Cooperative Bank Ltd|9,455|0.00%|-|-|-|
+54|FIN|Fino Payments Bank|38,89,269|0.00%|9|9|-|
+55|GYB|Gayatri Bank|3,98,726|0.00%|-|-|-|
+56|GPB|GP PARSIK BANK|7,92,729|0.00%|-|-|-|
+57|MNB|GS Mahanagar Coop bank|3,87,109|0.00%|-|-|-|
+58|HDF|HDFC BANK LTD|16,18,15,030|0.00%|3,812|2,540|1,272|
+59|HGB|Himachal Pradesh Gramin Bank|1,96,743|0.00%|-|-|-|
+60|HSB|HSBC|18,00,582|0.00%|86|86|-|
+61|HSW|Hutatma Sahakari Bank Ltd|26,248|0.00%|-|-|-|
+62|ICI|ICICI Bank|28,83,06,012|0.00%|6,688|4,940|1,748|
+63|IPP|ICICI Bank Pockets|16,394|0.00%|-|-|-|
+64|IDB|IDBI Bank Limited|2,62,89,007|0.00%|11|9|2|
+65|IDF|IDFC FIRST Bank|95,75,097|0.00%|151|134|17|
+66|IPB|India Post Payment Bank|74,16,920|0.00%|7|6|1|
+67|INB|Indian Bank|3,78,76,320|0.00%|371|359|12|
+68|IOB|Indian Overseas Bank|2,03,99,564|0.00%|33|25|8|
+69|IPS|Indore Paraspar Sahakari bank Ltd. Indore|1,371|0.07%|1|-|1|
+70|IIB|INDUSIND BANK|3,63,81,461|0.00%|745|593|152|
+71|IKT|Irinjalakuda Town Co|318|0.00%|-|-|-|
+72|JKG|J&K Grameen Bank|67,703|0.00%|2|2|-|
+73|JJS|Jalgaon Janata Sahkari Bank Ltd Jalgaon|2,80,295|0.00%|2|2|-|
+74|JNC|Jalna Merchant Cooperative Bank Ltd|20,664|0.00%|-|-|-|
+75|JKB|Jammu and Kashmir Bank|22,04,807|0.00%|2|2|-|
+76|JSF|Jana Small Finance Bank Ltd|5,95,131|0.00%|1|1|-|
+77|JKS|Janakalyan Sahakari Bank Ltd|46,678|0.00%|-|-|-|
+78|JNS|Janaseva Sahakari|1,51,676|0.00%|-|-|-|
+79|JSB|Janata Sahakari Bank Ltd. Pune|10,26,678|0.00%|3|3|-|
+80|VGB|Jharkhand Rajya Gramin Bank|4,43,215|0.00%|4|4|-|
+81|JIO|Jio Payments Bank|3,76,238|0.00%|2|1|1|
+82|JVN|Jivan Commercial Co-Operative Bank Ltd|1,069|0.28%|3|-|3|
+83|YJU|JUSPAY Technologies Pvt Ltd|77|0.00%|-|-|-|
+84|KIB|KAIJSB- Ichalkaranji|1,34,770|0.00%|-|-|-|
+85|KAN|Kanaka Mahalakshmi Co-Operative Bank Ltd.|29,910|0.00%|-|-|-|
+86|KTB|Karnataka Bank|1,59,38,934|0.00%|95|94|1|
+87|KVG|Karnataka Vikas Grameena Bank|18,99,668|0.00%|4|4|-|
+88|KVB|Karur Vysya Bank|1,19,56,829|0.00%|17|17|-|
+89|KGG|Kashi Gomati Samyut Grameen Bank|1,12,480|0.00%|-|-|-|
+90|KLG|Kerala Gramin Bank|21,68,284|0.00%|37|37|-|
+91|KKN|Kokan Mercantile Coop Bank Ltd|42,513|0.00%|-|-|-|
+92|KDK|Kolhapur Dist. Central Co-Op. Bank Ltd.|18,707|0.00%|-|-|-|
+93|KLM|Kolhapur Mahila Sahakari Bank Ltd. Kolhapur|475|0.00%|-|-|-|
+94|KMB|Kotak Mahindra Bank|5,58,18,323|0.00%|299|106|193|
+95|KRI|Krishna Bhima Samruddhi Local Area Bank|32,883|0.00%|-|-|-|
+96|LVB|Lakshmi Vilas Bank|20,57,134|0.00%|4|4|-|
+97|LSB|Lonavala Sahakari Bank Ltd|404|0.00%|-|-|-|
+98|MRS|MADHYA PRADESH RAJYA SAHAKARI BANK MARYADIT|2,738|0.00%|-|-|-|
+99|MGB|Maharashtra Gramin Bank|30,86,381|0.00%|12|12|-|
+100|MBH|Maharashtra State Co-op Bank Ltd|28,975|0.00%|-|-|-|
+101|MVY|Malviya Urban Co-operative Bank Ltd.|3,850|0.00%|-|-|-|
+102|MNR|Manipur Rural Bank|17,039|0.00%|-|-|-|
+103|MDM|Mann Deshi Mahila Sahakari Bank. Ltd.|7,864|0.00%|-|-|-|
+104|MAI|Manvi Pattana Souharda Sahakari Bank Ni.|8,378|0.00%|-|-|-|
+105|MCL|Maratha Cooperative Bank Ltd|6,469|0.00%|-|-|-|
+106|MRB|Meghalaya Rural Bank|26,912|0.00%|-|-|-|
+107|MZR|Mizoram Rural Bank|2,51,534|0.00%|2|2|-|
+108|MOC|Model Co-Op. Bank Ltd.|33,917|0.00%|-|-|-|
+109|NMV|Nagarik Sahakari Bank Maryadit|2,061|0.00%|-|-|-|
+110|NTB|Nainital Bank|2,14,424|0.00%|4|4|-|
+111|NMB|Navi Mumbai Co-operative Bank Ltd|2,478|0.00%|-|-|-|
+112|NGB|NKGSB Bank|4,17,304|0.00%|5|1|4|
+113|NES|North East Small Finance Bank Ltd|35,643|0.00%|-|-|-|
+114|NSD|NSDL Payments Bank|2,03,694|0.00%|3|3|-|
+115|NNI|Nutan Nagrik Sahakari Bank|19,755|0.00%|-|-|-|
+116|PLB|Pali Urban Co-Operative Bank Limited|2,381|0.00%|-|-|-|
+117|PBG|PASCHIM BANGA GRAMIN BANK|68,623|0.00%|2|2|-|
+118|PTN|PATAN NAGARIK SAHAKARI BANK LTD|2,077|0.00%|-|-|-|
+119|PTM|Paytm Payments Bank|44,24,64,180|0.00%|4,759|4,576|183|
+120|ICP|Phone Pe ICICI|5|0.00%|-|-|-|
+121|PPB|Pochampally Co Bank|81,270|0.00%|-|-|-|
+122|PKB|Pragathi Krishna Gramin Bank|35,41,792|0.00%|2|2|-|
+123|PCS|Pune Cantonment Sahakari bank Ltd|20,348|0.00%|-|-|-|
+124|PSB|Punjab and Sind Bank|31,64,833|0.00%|4|4|-|
+125|PGB|Punjab Gramin Bank|2,55,054|0.00%|1|1|-|
+126|PNB|Punjab National Bank|7,80,75,870|0.01%|9,391|9,373|18|
+127|PUR|Purvanchal Bank|16,42,979|0.00%|20|19|1|
+128|RMG|Rajasthan Marudhara Gramin Bank|22,72,524|0.00%|18|18|-|
+129|RNS|Rajgurunagar Sahakar|27,692|0.00%|-|-|-|
+130|RKT|RAJKOT DISTRICT CENTRAL COOP BANK|13,730|0.00%|-|-|-|
+131|RKN|Rajkot Nagrik Sahakari Bank Ltd.|1,20,734|0.00%|-|-|-|
+132|RNI|Rani Channamma mahila Sahakari Bank Niyamit|3,125|0.00%|-|-|-|
+133|RNB|RBL|26,40,493|0.00%|23|23|-|
+134|SKD|Sabarkantha District Central Cooperative Bank Ltd|75,195|0.00%|-|-|-|
+135|SDS|Sadhana Sahakari Bank Ltd|5,109|0.00%|-|-|-|
+136|SBN|SAIBABA NAGARI SAHAKARI BANK MARYADIT SAILU|7,615|0.01%|1|1|-|
+137|SDM|Samarth Sahakari Bank Ltd. Solapur|89,588|0.00%|-|-|-|
+138|SMR|Samruddhi Co-Operative Bank Ltd. Nagpur|2,938|0.00%|-|-|-|
+139|SDR|Sandur Pattana Souharda Sahakari Bank|5,749|0.00%|-|-|-|
+140|SRC|Saraswat Bank|35,20,874|0.00%|3|3|-|
+141|SVS|Sardar Vallabhbhai Sahakari Bank Ltd|409|0.98%|4|-|4|
+142|SBG|Sarva Haryana Gramin Bank|21,09,549|0.00%|2|-|2|
+143|SUB|Sarva UP Gramin Bank|6,69,334|0.00%|-|-|-|
+144|SVY|SARVODAYA COMMERCIAL CO OP BANK LTD|17,312|0.00%|-|-|-|
+145|SAG|Saurashtra Gramin Bank|1,59,143|0.00%|4|4|-|
+146|SBL|SBM Bank India Ltd.|4,661|0.00%|-|-|-|
+147|SHB|Shivalik Mercantile Co-operative Bank Ltd|44,584|0.00%|-|-|-|
+148|SDH|Shree Dharati Co-Operative Bank Ltd|639|0.00%|-|-|-|
+149|SHK|SHREE KADI NAGARIK SAHAKARI BANK LTD|50,254|0.00%|-|-|-|
+150|SMB|SHREE MAHAVIR SAHAKARI BANK LTD|1,811|0.06%|1|1|-|
+151|SAC|SHRI ARIHANT CO-OP BANK LTD|21,838|0.00%|1|1|-|
+152|SRS|Shri Chhatrapati Rajarshi Shahu Urban Co-Op. Bank Ltd. Beed|73,994|0.00%|-|-|-|
+153|SMW|Shri Mahila Sewa Sahakari Bank Ltd.|3,149|0.00%|-|-|-|
+154|SVB|Shri Veershaiv Co-Op Bank Ltd.|30,148|0.00%|1|1|-|
+155|SNB|Smriti Nagrik Sahakari Bank Maryadit Mandsaur|15,524|0.01%|1|-|1|
+156|SIB|South Indian Bank|74,74,542|0.00%|8|6|2|
+157|BSB|Sri Basaveshwar Bank|5,367|0.00%|-|-|-|
+158|SHR|Sri Rama Co-Operative Bank Limited|152|0.00%|-|-|-|
+159|VSM|Sri Vasavamba Co-Op. Bank Ltd.|3,748|0.00%|-|-|-|
+160|SCB|Standard Chartered|24,11,849|0.00%|3|2|1|
+161|SBI|State Bank Of India|43,16,39,679|0.00%|1,643|1,115|528|
+162|SLB|Sterling Urban Cooperative Bank Ltd|19,813|0.00%|-|-|-|
+163|SSK|SUCO SOUHARDA SAHAKARI BANK LTD|1,96,056|0.00%|-|-|-|
+164|SPB|Surat People Cooperative Bank|81,916|0.00%|1|1|-|
+165|SSF|Suryoday Small Finance Bank Ltd.|2,72,992|0.00%|-|-|-|
+166|SYG|Suvarnayug Sahakari Bank Ltd|1,34,210|0.00%|-|-|-|
+167|SVC|Svc co-operative bank ltd|9,43,284|0.00%|7|7|-|
+168|TMB|Tamilnad Mercantile Bank|44,64,014|0.00%|12|12|-|
+169|TGB|Telangana Grameena bank|19,90,760|0.00%|5|4|1|
+170|TEL|Telangana State Co Op Apex Bank|2,45,167|0.00%|1|1|-|
+171|TBS|Thane Bharat Sahakari Bank Ltd|2,08,741|0.00%|-|-|-|
+172|ACU|The Adarsh Co-operative Urban Bank Ltd.|1,07,529|0.00%|-|-|-|
+173|AHD|THE AHMEDABAD DISTRICT COOP BANK LTD|2,14,857|0.00%|1|-|1|
+174|AME|The Ahmedabad Mercantile Cooperative Bank Ltd|53,109|0.00%|-|-|-|
+175|AKA|The Akola District Central Co-oP.Bank Ltd|12,487|0.00%|-|-|-|
+176|AMO|The Anand Mercantile Co-operative Bank Ltd|1,821|0.00%|-|-|-|
+177|ASB|The Andhra Pradesh State Co-operative Bank Ltd.|46,148|0.00%|-|-|-|
+178|BKM|The Banaskantha Mercantile Co-Operative Bank Ltd|17,455|0.00%|-|-|-|
+179|BRM|The Baramati Sahakari Bank Ltd|1,73,741|0.00%|-|-|-|
+180|BDB|The Baroda Central Co-op Bank Ltd.|20,966|0.00%|-|-|-|
+181|CHN|The Chartered Sahakari Bank|4,720|0.02%|1|1|-|
+182|CZN|The Citizen Coop Bank Ltd|10,277|0.00%|-|-|-|
+183|EUB|The Eenadu Co-oP.Urban Bank Ltd|3,764|0.00%|-|-|-|
+184|GHD|The Gadchiroli District Central Co-Op. Bank Ltd.|10,277|0.00%|-|-|-|
+185|GDH|The Godhra Urban Cooperative Bank Ltd|41,954|0.00%|-|-|-|
+186|GSC|The Gujarat State Cooperative Bank|1,22,203|0.00%|-|-|-|
+187|HTI|The Hasti Co-operative Bank Ltd|1,06,360|0.00%|-|-|-|
+188|HPB|The Himachal Pradesh State Co-Op. Bank Ltd|54,872|0.01%|4|1|3|
+189|JAB|THE JALGAON PEOPLES CO.OP.BANK LTD|6,210|0.02%|1|1|-|
+190|KAI|The Kaira District Central Coop Bank|27,150|0.00%|1|-|1|
+191|KLB|The Kalupur Commercial Co-operative Bank Ltd|2,61,070|0.00%|1|1|-|
+192|KJB|The Kalyan Janata Sahakari Bank Ltd.|4,27,709|0.00%|1|1|-|
+193|MSB|The Malad Sahakari Bank Ltd.|22,146|0.00%|-|-|-|
+194|MUC|The Mehsana Urban Co-Operative Bank Ltd.|2,10,907|0.00%|-|-|-|
+195|MSS|The Merchants Souharda Sahakara Bank Ni.|862|0.12%|1|-|1|
+196|MNS|The Modasa Nagarik Sahakari Bank Limited|736|0.00%|-|-|-|
+197|MUN|The Municipal Co-op Bank Ltd|93,799|0.00%|-|-|-|
+198|MSL|The Muslim Cooperative Bank Ltd|53,625|0.00%|-|-|-|
+199|NUR|The New Urban Co-operative Bank Ltd Rampur|2,019|0.00%|-|-|-|
+200|PCB|The Prime Cooperative Bank Ltd|24,208|0.00%|-|-|-|
+201|PRY|The Priyadarshini Nagari Sahakari Bank|71,406|0.00%|-|-|-|
+202|STA|The Satara District Central Coop Bank Ltd|1,30,611|0.00%|-|-|-|
+203|SID|THE SINDHUDURG DCC BANK LTD|35,739|0.00%|-|-|-|
+204|TSS|The SSK Co-operative Bank Ltd.|5,643|0.00%|-|-|-|
+205|TNF|The Surat District Cooperative Bank|72,797|0.00%|-|-|-|
+206|SUX|The Sutex Co.op.Bank Ltd.|38,627|0.00%|-|-|-|
+207|UMS|The Udaipur Mahila Samridhi Urban Co-operative Bank Ltd.|5,712|0.00%|-|-|-|
+208|UMB|The Udaipur Mahila Urban Co-Operative Bank Ltd.|11,839|0.01%|1|1|-|
+209|UUB|The Udaipur Urban Co-Operative Bank Ltd.|5,327|0.00%|-|-|-|
+210|UBD|THE URBAN CO OP BANK LTD DHARANGAON|11,179|0.00%|-|-|-|
+211|VVB|The Vallabh Vidyanagar Commercial Co-Operative Bank Ltd.|1,505|0.00%|-|-|-|
+212|VAR|The Varachha Co-Op Bank Ltd|1,61,772|0.00%|-|-|-|
+213|VJC|The Vijay Cooperative Bank Ltd.|22,129|0.00%|-|-|-|
+214|VKH|The Visakhapatnam Cooperative Bank Ltd|61,102|0.00%|-|-|-|
+215|VSI|The Vishweshwar Sahakari Bank Ltd. Pune (Multi-State)|1,77,067|0.00%|-|-|-|
+216|TSB|TJSB Sahakari Bank Ltd|16,32,432|0.00%|23|23|-|
+217|TIR|Tripura Gramin Bank|94,672|0.00%|2|-|2|
+218|UCO|UCO Bank|1,80,64,388|0.00%|69|69|-|
+219|UIJ|Ujjivan Small Finance Bank|43,44,143|0.00%|13|12|1|
+220|UOB|Union Bank of India|7,54,77,368|0.00%|124|123|1|
+221|USF|UTKARSH SMALL FINANCE BANK LIMITED|1,01,495|0.00%|-|-|-|
+222|UKG|Uttarakhand Gramin Bank|4,34,125|0.00%|4|4|-|
+223|VNP|Vaishya Nagari Sahakari Bank Ltd|944|0.00%|-|-|-|
+224|VVS|Vasai Vikas Sahakari Bank Ltd|1,78,047|0.00%|-|-|-|
+225|VIK|Vikas Souharda Co-operative Bank Ltd|45,995|0.00%|1|1|-|
+226|YLN|Yadagiri Co-op Bank|18,148|0.00%|-|-|-|
+227|YBL|Yes Bank Ltd|37,86,95,846|0.00%|1,818|1,709|109|
+|S No.|Code|Beneficiary Bank|Total Txns during the month|CB Ratio|Chargebacks Received during the month|Re-presentment Raised during the month|Chargebacks Accepted during the month|
+1|APM|A P Mahesh Bank|1,82,818|0.000%|-|-|-|
+2|ACB|ABHYUDAYA CO-OP. BANK LTD|10,35,887|0.001%|15|14|-|
+3|AHB|Adarsh Co-operative Bank Limited|36,655|0.000%|-|-|-|
+4|AHM|Ahmednagar Merchant's Co Operative Bank Ltd|57,267|0.003%|2|2|-|
+5|ARL|Airtel Payments Bank|2,72,07,362|0.002%|436|367|17|
+6|ANB|Andhra Bank|2,62,83,728|0.000%|55|50|-|
+7|APV|Andhra Pradesh Grameena Vikas Bank|43,38,257|0.000%|2|2|-|
+8|AND|Andhra Pragathi Grameena Bank|30,55,255|0.000%|2|2|-|
+9|APN|Apna Sahakari Bank Ltd.|5,11,575|0.000%|-|-|-|
+10|AMG|Assam Gramin Vikash Bank|1,64,045|0.001%|1|1|-|
+11|TAS|Associate Co.op. Bank Ltd.|5,761|0.052%|3|-|1|
+12|AUS|AU small Finance Bank|37,52,201|0.000%|18|12|-|
+13|AXB|Axis Bank Ltd.|20,48,14,835|0.008%|15,672|7,244|2,583|
+14|BKD|Banaskantha District Central Coop Bank|53,352|0.000%|-|-|-|
+15|BDN|Bandhan Bank|70,54,420|0.000%|24|23|1|
+16|BOA|Bank Of America|2,041|0.049%|1|1|-|
+17|BOB|Bank of Baroda|8,27,76,822|0.000%|155|78|34|
+18|BOI|Bank of India|5,53,35,256|0.000%|55|54|-|
+19|BOM|Bank of Maharashtra|1,78,91,682|0.001%|100|81|16|
+20|BGI|Baroda Gujarat Gramin Bank|1,98,819|0.000%|-|-|-|
+21|BKG|Baroda Rajasthan Kshetriya Gramin Bank|16,53,492|0.000%|2|2|-|
+22|BUB|Baroda UP Gramin Bank|9,04,676|0.001%|6|6|-|
+23|BCC|Bassein Catholic Co-operative Bank|3,75,574|0.000%|1|-|-|
+24|BNS|Bhagini Nivedita Sahakari Bank|56,227|0.000%|-|-|-|
+25|BHB|Bharat Co-Operative Bank (Mumbai) Ltd.|5,75,364|0.000%|-|-|-|
+26|BWB|Bhilwara Urban Co-operative Bank Ltd|3,935|0.000%|-|-|-|
+27|CNB|Canara Bank|6,45,15,872|0.000%|177|170|-|
+28|CPF|Capital Small Finance Bank Ltd|72,115|0.000%|-|-|-|
+29|CBI|Central Bank Of India|3,20,61,802|0.000%|44|43|-|
+30|CGG|Chaitanya Godavari Grameena Bank|7,98,947|0.000%|-|-|-|
+31|CHB|CHATISGARH R G BANK|4,80,488|0.001%|3|3|-|
+32|CGR|Chhattisgarh Rajya Sahakari Bank Mydt|712|0.562%|4|-|1|
+33|CIT|CITI|61,88,550|0.005%|302|253|4|
+34|CTB|Citibank|23,31,581|0.000%|-|-|-|
+35|CZS|Citizens Co-Operative Bank Ltd|2,254|0.000%|-|-|-|
+36|CUB|City Union Bank|50,73,065|0.000%|4|4|-|
+37|CST|Coastal Local Area Bank Ltd|1,22,551|0.000%|-|-|-|
+38|COB|Cosmos Bank|10,17,299|0.000%|1|1|-|
+39|CSB|CSB Bank Ltd|8,95,946|0.001%|5|5|-|
+40|BHM|Dakshin Bihar Gramin Bank|10,94,780|0.002%|19|18|-|
+41|DSM|Darussalam Co-Operative Urban Bank Ltd.|21,310|0.000%|-|-|-|
+42|DBS|DBS Bank India Limited|49,69,433|0.001%|27|25|2|
+43|EZE|DCB Bank Ezetap|6|0.000%|-|-|-|
+44|DCB|DCB Bank Ltd|8,08,616|0.000%|2|1|-|
+45|DGB|Dena Gujarat Gramin Bank|15,082|0.000%|-|-|-|
+46|DBA|Deutsche Bank|38,808|0.000%|-|-|-|
+47|DEU|Deutsche Bank Corp|3,478|0.086%|3|3|-|
+48|DLB|Dhanlaxmi Bank Ltd|6,94,229|0.000%|2|2|-|
+49|DSB|Dombivali Nagri Sahakari Bank|4,78,189|0.000%|-|-|-|
+50|EQT|Equitas Bank|19,79,491|0.001%|13|10|3|
+51|EAF|ESAF Small Finance Bank Ltd.|14,78,325|0.000%|4|4|-|
+52|FBL|Federal Bank|4,09,69,725|0.001%|281|225|4|
+53|FSF|Fincare Small Finance Bank Ltd|8,77,193|0.000%|-|-|-|
+54|FNG|Fingrowth Cooperative Bank Ltd|7,189|0.000%|-|-|-|
+55|FIN|Fino Payments Bank|33,70,609|0.000%|11|10|-|
+56|GYB|Gayatri Bank|3,28,058|0.000%|-|-|-|
+57|GPB|GP PARSIK BANK|7,08,250|0.000%|-|-|-|
+58|MNB|GS Mahanagar Coop bank|3,42,166|0.000%|1|1|-|
+59|HDF|HDFC BANK LTD|14,30,67,371|0.004%|6,097|3,197|1,523|
+60|HGB|Himachal Pradesh Gramin Bank|1,75,409|0.000%|-|-|-|
+61|HSB|HSBC|18,89,703|0.008%|149|139|-|
+62|HSW|Hutatma Sahakari Bank Ltd|23,062|0.000%|-|-|-|
+63|ICI|ICICI Bank|28,05,42,304|0.004%|12,566|6,206|2,914|
+64|IPP|ICICI Bank Pockets|12,337|0.008%|1|1|-|
+65|IDB|IDBI Bank Limited|2,35,86,426|0.000%|15|12|-|
+66|IDF|IDFC FIRST Bank|86,47,136|0.001%|121|91|7|
+67|IPB|India Post Payment Bank|64,35,215|0.000%|12|9|-|
+68|INB|Indian Bank|3,25,28,616|0.001%|299|296|-|
+69|IOB|Indian Overseas Bank|1,82,65,749|0.000%|63|53|8|
+70|IPS|Indore Paraspar Sahakari bank Ltd. Indore|1,115|0.000%|-|-|-|
+71|IIB|INDUSIND BANK|3,50,92,910|0.011%|3,735|2,721|421|
+72|IKT|Irinjalakuda Town Co|112|0.000%|-|-|-|
+73|JKG|J&K Grameen Bank|59,799|0.002%|1|1|-|
+74|JJS|Jalgaon Janata Sahkari Bank Ltd Jalgaon|2,37,537|0.002%|4|4|-|
+75|JNC|Jalna Merchant Cooperative Bank Ltd|17,425|0.000%|-|-|-|
+76|JKB|Jammu and Kashmir Bank|19,58,627|0.000%|1|-|-|
+77|JSF|Jana Small Finance Bank Ltd|5,17,018|0.000%|2|2|-|
+78|JKS|Janakalyan Sahakari Bank Ltd|38,890|0.000%|-|-|-|
+79|JNS|Janaseva Sahakari|1,25,994|0.003%|4|4|-|
+80|JSB|Janata Sahakari Bank Ltd. Pune|8,77,408|0.000%|2|2|-|
+81|VGB|Jharkhand Rajya Gramin Bank|4,05,359|0.000%|1|-|1|
+82|JIO|Jio Payments Bank|3,86,156|0.004%|14|7|7|
+83|JVN|Jivan Commercial Co-Operative Bank Ltd|779|0.128%|1|-|-|
+84|YJU|JUSPAY Technologies Pvt Ltd|23,31,659|0.002%|35|35|-|
+85|KIB|KAIJSB- Ichalkaranji|1,18,553|0.003%|3|3|-|
+86|KAN|Kanaka Mahalakshmi Co-Operative Bank Ltd.|24,890|0.000%|-|-|-|
+87|KTB|Karnataka Bank|1,49,50,623|0.000%|25|23|-|
+88|KVG|Karnataka Vikas Grameena Bank|17,26,677|0.000%|6|2|1|
+89|KVB|Karur Vysya Bank|1,04,53,319|0.000%|23|22|-|
+90|KGG|Kashi Gomati Samyut Grameen Bank|2,70,696|0.000%|-|-|-|
+91|KLG|Kerala Gramin Bank|18,39,008|0.000%|4|3|1|
+92|KKN|Kokan Mercantile Coop Bank Ltd|38,412|0.000%|-|-|-|
+93|KDK|Kolhapur Dist. Central Co-Op. Bank Ltd.|16,002|0.000%|-|-|-|
+94|KLM|Kolhapur Mahila Sahakari Bank Ltd. Kolhapur|51|0.000%|-|-|-|
+95|KMB|Kotak Mahindra Bank|5,00,23,287|0.001%|681|253|298|
+96|KRI|Krishna Bhima Samruddhi Local Area Bank|27,126|0.000%|-|-|-|
+97|LVB|Lakshmi Vilas Bank|18,04,343|0.000%|2|2|-|
+98|MRS|MADHYA PRADESH RAJYA SAHAKARI BANK MARYADIT|1,781|0.056%|1|-|1|
+99|MGB|Maharashtra Gramin Bank|28,38,347|0.000%|13|12|-|
+100|MBH|Maharashtra State Co-op Bank Ltd|30,122|0.000%|-|-|-|
+101|MVY|Malviya Urban Co-operative Bank Ltd.|2,592|0.000%|-|-|-|
+102|MNR|Manipur Rural Bank|15,575|0.000%|-|-|-|
+103|MDM|Mann Deshi Mahila Sahakari Bank. Ltd.|5,192|0.000%|-|-|-|
+104|MAI|Manvi Pattana Souharda Sahakari Bank Ni.|6,808|0.000%|-|-|-|
+105|MCL|Maratha Cooperative Bank Ltd|6,090|0.000%|-|-|-|
+106|MRB|Meghalaya Rural Bank|22,717|0.000%|-|-|-|
+107|MZR|Mizoram Rural Bank|1,87,979|0.001%|1|1|-|
+108|MOC|Model Co-Op. Bank Ltd.|26,249|0.000%|-|-|-|
+109|NMV|Nagarik Sahakari Bank Maryadit|1,408|0.000%|-|-|-|
+110|NTB|Nainital Bank|1,74,041|0.003%|5|5|-|
+111|NMB|Navi Mumbai Co-operative Bank Ltd|1,027|0.000%|-|-|-|
+112|NGB|NKGSB Bank|3,75,311|0.001%|2|2|-|
+113|NES|North East Small Finance Bank Ltd|23,973|0.004%|1|1|-|
+114|NSD|NSDL Payments Bank|2,38,624|0.000%|1|1|-|
+115|NNI|Nutan Nagrik Sahakari Bank|17,535|0.000%|-|-|-|
+116|PLB|Pali Urban Co-Operative Bank Limited|1,957|0.000%|-|-|-|
+117|PBG|PASCHIM BANGA GRAMIN BANK|61,630|0.002%|1|1|-|
+118|PTN|PATAN NAGARIK SAHAKARI BANK LTD|1,670|0.000%|-|-|-|
+119|PTM|Paytm Payments Bank|37,11,53,800|0.004%|13,039|11,047|368|
+120|PPB|Pochampally Co Bank|67,846|0.000%|-|-|-|
+121|PKB|Pragathi Krishna Gramin Bank|33,07,285|0.000%|2|2|-|
+122|PCS|Pune Cantonment Sahakari bank Ltd|18,236|0.000%|-|-|-|
+123|PSB|Punjab and Sind Bank|28,10,731|0.000%|14|12|-|
+124|PGB|Punjab Gramin Bank|2,39,397|0.000%|-|-|-|
+125|PNB|Punjab National Bank|7,21,64,676|0.000%|45|35|1|
+126|PUR|Purvanchal Bank|15,51,132|0.000%|2|2|-|
+127|RMG|Rajasthan Marudhara Gramin Bank|19,41,710|0.000%|7|7|-|
+128|RNS|Rajgurunagar Sahakar|15,355|0.000%|-|-|-|
+129|RKT|RAJKOT DISTRICT CENTRAL COOP BANK|13,654|0.000%|-|-|-|
+130|RKN|Rajkot Nagrik Sahakari Bank Ltd.|1,04,455|0.000%|-|-|-|
+131|RNI|Rani Channamma mahila Sahakari Bank Niyamit|2,099|0.000%|-|-|-|
+132|RNB|RBL|25,30,524|0.001%|35|18|-|
+133|SKD|Sabarkantha District Central Cooperative Bank Ltd|69,224|0.000%|-|-|-|
+134|SDS|Sadhana Sahakari Bank Ltd|1,067|0.000%|-|-|-|
+135|SBN|SAIBABA NAGARI SAHAKARI BANK MARYADIT SAILU|4,535|0.000%|-|-|-|
+136|SDM|Samarth Sahakari Bank Ltd. Solapur|68,252|0.001%|1|1|-|
+137|SMR|Samruddhi Co-Operative Bank Ltd. Nagpur|2,444|0.000%|-|-|-|
+138|SDR|Sandur Pattana Souharda Sahakari Bank|4,292|0.000%|-|-|-|
+139|SRC|Saraswat Bank|32,38,006|0.001%|28|27|-|
+140|SBG|Sarva Haryana Gramin Bank|19,24,716|0.000%|2|1|-|
+141|SUB|Sarva UP Gramin Bank|5,94,775|0.000%|2|2|-|
+142|SVY|SARVODAYA COMMERCIAL CO OP BANK LTD|14,293|0.000%|-|-|-|
+143|SAG|Saurashtra Gramin Bank|1,49,188|0.001%|2|1|1|
+144|SBL|SBM Bank India Ltd.|4,988|0.000%|-|-|-|
+145|#N/A|SDS|3,065|0.000%|-|-|-|
+146|SHB|Shivalik Mercantile Co-operative Bank Ltd|29,016|0.000%|-|-|-|
+147|SDH|Shree Dharati Co-Operative Bank Ltd|501|0.000%|-|-|-|
+148|SHK|SHREE KADI NAGARIK SAHAKARI BANK LTD|41,864|0.000%|-|-|-|
+149|SMB|SHREE MAHAVIR SAHAKARI BANK LTD|1,298|0.000%|-|-|-|
+150|SAC|SHRI ARIHANT CO-OP BANK LTD|19,376|0.000%|-|-|-|
+151|SRS|Shri Chhatrapati Rajarshi Shahu Urban Co-Op. Bank Ltd. Beed|60,077|0.003%|2|2|-|
+152|SMW|Shri Mahila Sewa Sahakari Bank Ltd.|2,466|0.000%|-|-|-|
+153|SVB|Shri Veershaiv Co-Op Bank Ltd.|25,455|0.012%|3|2|-|
+154|SNB|Smriti Nagrik Sahakari Bank Maryadit Mandsaur|9,760|0.092%|9|-|1|
+155|SIB|South Indian Bank|63,09,650|0.000%|10|6|-|
+156|BSB|Sri Basaveshwar Bank|4,146|0.000%|-|-|-|
+157|SHR|Sri Rama Co-Operative Bank Limited|187|0.000%|-|-|-|
+158|VSM|Sri Vasavamba Co-Op. Bank Ltd.|2,927|0.000%|-|-|-|
+159|SCB|Standard Chartered|23,30,846|0.001%|16|9|1|
+160|SBI|State Bank Of India|39,15,10,525|0.001%|2,983|1,923|484|
+161|SLB|Sterling Urban Cooperative Bank Ltd|15,809|0.000%|-|-|-|
+162|SSK|SUCO SOUHARDA SAHAKARI BANK LTD|1,72,846|0.001%|1|-|-|
+163|SPB|Surat People Cooperative Bank|72,216|0.001%|1|1|-|
+164|SSF|Suryoday Small Finance Bank Ltd.|2,37,795|0.000%|-|-|-|
+165|SYG|Suvarnayug Sahakari Bank Ltd|1,11,253|0.000%|-|-|-|
+166|SVC|Svc co-operative bank ltd|8,59,561|0.000%|-|-|-|
+167|TMB|Tamilnad Mercantile Bank|39,27,271|0.000%|3|3|-|
+168|TGB|Telangana Grameena bank|17,77,531|0.000%|1|1|-|
+169|TEL|Telangana State Co Op Apex Bank|2,19,343|0.000%|-|-|-|
+170|TBS|Thane Bharat Sahakari Bank Ltd|1,83,128|0.000%|-|-|-|
+171|ACU|The Adarsh Co-operative Urban Bank Ltd.|94,531|0.000%|-|-|-|
+172|AHD|THE AHMEDABAD DISTRICT COOP BANK LTD|1,85,783|0.000%|-|-|-|
+173|AME|The Ahmedabad Mercantile Cooperative Bank Ltd|43,413|0.000%|-|-|-|
+174|AKA|The Akola District Central Co-oP.Bank Ltd|9,429|0.000%|-|-|-|
+175|AMO|The Anand Mercantile Co-operative Bank Ltd|1,261|0.000%|-|-|-|
+176|ASB|The Andhra Pradesh State Co-operative Bank Ltd.|42,600|0.000%|-|-|-|
+177|BKM|The Banaskantha Mercantile Co-Operative Bank Ltd|13,444|0.000%|-|-|-|
+178|BRM|The Baramati Sahakari Bank Ltd|1,31,643|0.000%|-|-|-|
+179|BDB|The Baroda Central Co-op Bank Ltd.|18,851|0.000%|-|-|-|
+180|CHN|The Chartered Sahakari Bank|3,830|0.000%|-|-|-|
+181|CZN|The Citizen Coop Bank Ltd|8,326|0.000%|-|-|-|
+182|EUB|The Eenadu Co-oP.Urban Bank Ltd|1,284|0.000%|-|-|-|
+183|GHD|The Gadchiroli District Central Co-Op. Bank Ltd.|8,723|0.000%|-|-|-|
+184|GSC|The Gujarat State Cooperative Bank|2,45,202|0.000%|-|-|-|
+185|HTI|The Hasti Co-operative Bank Ltd|92,452|0.001%|1|1|-|
+186|HPB|The Himachal Pradesh State Co-Op. Bank Ltd|44,522|0.000%|-|-|-|
+187|JAB|THE JALGAON PEOPLES CO.OP.BANK LTD|1,269|0.000%|-|-|-|
+188|KAI|The Kaira District Central Coop Bank|24,839|0.000%|-|-|-|
+189|KLB|The Kalupur Commercial Co-operative Bank Ltd|2,29,047|0.000%|-|-|-|
+190|KJB|The Kalyan Janata Sahakari Bank Ltd.|3,90,925|0.000%|1|1|-|
+191|MSB|The Malad Sahakari Bank Ltd.|17,998|0.000%|-|-|-|
+192|MUC|The Mehsana Urban Co-Operative Bank Ltd.|1,76,964|0.001%|2|1|1|
+193|MSS|The Merchants Souharda Sahakara Bank Ni.|514|0.000%|-|-|-|
+194|MNS|The Modasa Nagarik Sahakari Bank Limited|645|0.000%|-|-|-|
+195|MUN|The Municipal Co-op Bank Ltd|92,036|0.002%|2|-|-|
+196|MSL|The Muslim Cooperative Bank Ltd|42,151|0.000%|-|-|-|
+197|NUR|The New Urban Co-operative Bank Ltd Rampur|1,591|0.063%|1|-|-|
+198|PCB|The Prime Cooperative Bank Ltd|20,088|0.000%|-|-|-|
+199|PRY|The Priyadarshini Nagari Sahakari Bank|61,842|0.018%|11|10|1|
+200|STA|The Satara District Central Coop Bank Ltd|1,09,270|0.001%|1|1|-|
+201|SID|THE SINDHUDURG DCC BANK LTD|33,674|0.006%|2|2|-|
+202|TSS|The SSK Co-operative Bank Ltd.|4,442|0.000%|-|-|-|
+203|TNF|The Surat District Cooperative Bank|60,599|0.000%|-|-|-|
+204|SUX|The Sutex Co.op.Bank Ltd.|34,330|0.000%|-|-|-|
+205|UMS|The Udaipur Mahila Samridhi Urban Co-operative Bank Ltd.|3,954|0.000%|-|-|-|
+206|UMB|The Udaipur Mahila Urban Co-Operative Bank Ltd.|9,019|0.000%|-|-|-|
+207|UUB|The Udaipur Urban Co-Operative Bank Ltd.|3,755|0.000%|-|-|-|
+208|UBD|THE URBAN CO OP BANK LTD DHARANGAON|9,888|0.000%|-|-|-|
+209|VVB|The Vallabh Vidyanagar Commercial Co-Operative Bank Ltd.|1,132|0.000%|-|-|-|
+210|VAR|The Varachha Co-Op Bank Ltd|1,47,869|0.005%|8|6|-|
+211|VJC|The Vijay Cooperative Bank Ltd.|19,950|0.005%|1|1|-|
+212|VKH|The Visakhapatnam Cooperative Bank Ltd|51,976|0.000%|-|-|-|
+213|VSI|The Vishweshwar Sahakari Bank Ltd. Pune (Multi-State)|1,47,312|0.000%|-|-|-|
+214|TSB|TJSB Sahakari Bank Ltd|14,56,829|0.001%|19|19|-|
+215|TIR|Tripura Gramin Bank|2,48,054|0.001%|3|-|3|
+216|UCO|UCO Bank|1,60,26,537|0.000%|32|28|-|
+217|UIJ|Ujjivan Small Finance Bank|38,57,549|0.000%|7|7|-|
+218|UOB|Union Bank of India|6,63,24,486|0.000%|57|55|-|
+219|USF|UTKARSH SMALL FINANCE BANK LIMITED|42,678|0.000%|-|-|-|
+220|UKG|Uttarakhand Gramin Bank|3,79,924|0.000%|-|-|-|
+221|VVS|Vasai Vikas Sahakari Bank Ltd|1,57,869|0.000%|-|-|-|
+222|VIK|Vikas Souharda Co-operative Bank Ltd|42,904|0.000%|-|-|-|
+223|YLN|Yadagiri Co-op Bank|14,421|0.000%|-|-|-|
+224|YBL|Yes Bank Ltd|36,37,34,379|0.001%|4,620|3,244|260|
+|S No.|Code|Bank Name Corrected|Total Txns during the month|CB Ratio|Chargebacks Received during the month|Re-presentment Raised during the month|Chargebacks Accepted during the month|
+1|ACB|ABHYUDAYA CO-OP. BANK LTD|9,88,084|0.00%|2|2|0|
+2|AHD|THE AHMEDABAD DISTRICT COOP BANK LTD|1,81,312|0.00%|1|1|0|
+3|AMG|Assam Gramin Vikash Bank|2,36,752|0.00%|1|1|0|
+4|ANB|Andhra Bank|2,66,78,360|0.00%|36|36|0|
+5|AND|Andhra Pragathi Grameena Bank|28,83,022|0.00%|2|2|0|
+6|APV|Andhra Pradesh Grameena Vikas Bank|40,19,126|0.00%|6|4|2|
+7|ARL|Airtel Payments Bank|2,74,84,084|0.00%|354|327|27|
+8|AUS|AU Small Finance Bank|40,82,776|0.00%|35|33|2|
+9|AXB|Axis Bank Ltd.|22,18,10,358|0.00%|10665|8635|2030|
+10|BCC|Bassein Catholic Co-operative Bank|3,69,211|0.00%|3|1|2|
+11|BDN|Bandhan Bank|74,86,863|0.00%|2|2|0|
+12|BHB|Bharat Co-Operative Bank (Mumbai) Ltd.|5,62,640|0.00%|1|1|0|
+13|BOB|Bank of Baroda|8,58,71,570|0.00%|182|100|82|
+14|BOI|Bank of India|5,60,73,397|0.00%|29|29|0|
+15|BOM|Bank of Maharashtra|1,72,29,336|0.00%|38|38|0|
+16|BUB|Baroda UP Gramin Bank|9,86,721|0.00%|2|2|0|
+17|CBI|Central Bank Of India|3,26,62,378|0.00%|35|35|0|
+18|CHB|CHATISGARH R G BANK|4,40,775|0.00%|1|1|0|
+19|CIT|CITI|37,54,263|0.01%|246|234|12|
+20|CNB|Canara Bank|6,98,92,504|0.00%|82|82|0|
+21|CSB|CSB Bank Ltd|10,41,461|0.00%|3|3|0|
+22|CUB|City Union Bank|57,05,116|0.00%|6|6|0|
+23|DBS|DBS Bank India Limited|53,32,579|0.00%|9|9|0|
+24|DCB|DCB Bank Ltd|8,33,256|0.00%|1|1|0|
+25|DLB|Dhanlaxmi Bank Ltd|8,00,777|0.00%|2|2|0|
+26|EAF|ESAF Small Finance Bank Ltd.|16,95,453|0.00%|1|1|0|
+27|EQT|Equitas Bank|17,13,965|0.00%|4|4|0|
+28|FBL|Federal Bank|5,59,36,358|0.00%|383|379|4|
+29|HDF|HDFC BANK LTD|15,13,48,400|0.00%|4126|2444|1682|
+30|HPB|The Himachal Pradesh State Co-Op. Bank Ltd|40,149|0.01%|5|3|2|
+31|HSB|HSBC|21,35,158|0.00%|103|103|0|
+32|ICI|ICICI Bank|24,88,43,901|0.00%|8738|6242|2496|
+33|IDB|IDBI Bank Limited|2,46,27,176|0.00%|22|20|2|
+34|IDF|IDFC FIRST Bank|91,78,196|0.00%|148|135|13|
+35|IIB|INDUSIND BANK|3,48,44,822|0.01%|3330|3093|237|
+36|INB|Indian Bank|3,15,40,656|0.00%|325|322|3|
+37|IOB|Indian Overseas Bank|1,97,64,803|0.00%|25|21|4|
+38|IPB|India Post Payment Bank|56,91,873|0.00%|2|2|0|
+39|JIO|Jio Payments Bank|3,39,109|0.00%|9|8|1|
+40|JJS|Jalgaon Janata Sahkari Bank Ltd Jalgaon|2,10,505|0.00%|7|7|0|
+41|JKB|Jammu and Kashmir Bank|19,59,510|0.00%|7|7|0|
+42|JKG|J&K Grameen Bank|57,210|0.00%|1|1|0|
+43|JNC|Jalna Merchant Cooperative Bank Ltd|14,538|0.01%|1|1|0|
+44|JNS|Janaseva Sahakari Bank ltd|114808|0.00%|2|2|0|
+45|JSB|Janata Sahakari Bank Ltd. Pune|8,42,001|0.00%|5|5|0|
+46|JSF|Jana Small Finance Bank Ltd|5,42,805|0.00%|1|1|0|
+47|JVN|Jivan Commercial Co-Operative Bank Ltd|921|0.22%|2|0|2|
+48|KLB|The Kalupur Commercial Co-operative Bank Ltd|2,33,404|0.00%|2|2|0|
+49|KLG|Kerala Gramin Bank|19,82,536|0.00%|6|6|0|
+50|KMB|Kotak Mahindra Bank|5,64,07,622|0.00%|465|187|278|
+51|KTB|Karnataka Bank|1,73,58,510|0.00%|16|16|0|
+52|KVB|Karur Vysya Bank|1,16,00,222|0.00%|19|19|0|
+53|KVG|Karnataka Vikas Grameena Bank|17,92,984|0.00%|32|32|0|
+54|LVB|Lakshmi Vilas Bank|20,04,986|0.00%|4|3|1|
+55|MBB|Dakshin Bihar Gramin Bank|10,94,269|0.00%|4|4|0|
+56|MDM|Mann Deshi Mahila Sahakari Bank. Ltd.|3,209|0.06%|2|2|0|
+57|MGB|Maharashtra Gramin Bank|25,32,448|0.00%|16|16|0|
+58|MNB|GS Mahanagar Coop bank|3,28,520|0.00%|1|1|0|
+59|MUN|The Municipal Co-op Bank Ltd|82,619|0.02%|14|0|14|
+60|NGB|NKGSB Bank|3,76,153|0.00%|1|1|0|
+61|NTB|Nainital Bank|1,80,242|0.00%|1|1|0|
+62|NUR|The New Urban Co-operative Bank Ltd Rampur|1,519|0.07%|1|1|0|
+63|PBG|PASCHIM BANGA GRAMIN BANK|61,918|0.00%|3|3|0|
+64|PGB|Punjab Gramin Bank|2,17,469|0.00%|1|1|0|
+65|PKB|Pragathi Krishna Gramin Bank|33,56,137|0.00%|3|3|0|
+66|PNB|Punjab National Bank|7,50,67,922|0.00%|47|46|1|
+67|PRY|The Priyadarshini Nagari Sahakari Bank|54,512|0.02%|9|7|2|
+68|PSB|Punjab and Sind Bank|26,53,539|0.00%|64|64|0|
+69|PTM|Paytm Payments Bank|43,00,37,221|0.00%|7625|6816|809|
+70|PUR|Purvanchal Bank|15,20,147|0.00%|1|1|0|
+71|RMG|Rajasthan Marudhara Gramin Bank|19,20,117|0.00%|3|3|0|
+72|RNB|RBL|23,54,390|0.00%|21|19|2|
+73|SBG|Sarva Haryana Gramin Bank|17,81,927|0.00%|3|3|0|
+74|SBI|State Bank Of India|39,62,95,212|0.00%|1998|1765|233|
+75|SCB|Standard Chartered|24,95,798|0.00%|12|12|0|
+76|SDM|Samarth Sahakari Bank Ltd. Solapur|57,964|0.01%|3|3|0|
+77|SDR|Sandur Pattana Souharda Sahakari Bank|4,796|0.02%|1|0|1|
+78|SIB|South Indian Bank|74,61,600|0.00%|12|9|3|
+79|SNB|Smriti Nagrik Sahakari Bank Maryadit Mandsaur|10,102|0.12%|12|3|9|
+80|SPB|Surat People Cooperative Bank|73,113|0.00%|1|0|1|
+81|SRC|Saraswat Bank|31,09,133|0.00%|2|2|0|
+82|SSF|Suryoday Small Finance Bank Ltd.|2,44,032|0.00%|5|5|0|
+83|SSK|SUCO SOUHARDA SAHAKARI BANK LTD|2,00,756|0.00%|1|0|1|
+84|SUB|Sarva UP Gramin Bank|6,23,006|0.00%|4|4|0|
+85|SVC|Svc co-operative bank ltd|8,58,008|0.00%|2|2|0|
+86|SYG|Suvarnayug Sahakari Bank Ltd|1,12,391|0.00%|1|1|0|
+87|TGB|Telangana Grameena bank|16,02,686|0.00%|2|2|0|
+88|TMB|Tamilnad Mercantile Bank|43,10,923|0.00%|2|2|0|
+89|TSB|TJSB Sahakari Bank Ltd|13,89,069|0.00%|15|13|2|
+90|UCO|UCO Bank|1,67,33,177|0.00%|34|34|0|
+91|UIJ|Ujjivan Small Finance Bank|40,71,929|0.00%|3|3|0|
+92|UKG|Uttarakhand Gramin Bank|4,07,811|0.00%|1|1|0|
+93|UOB|Union Bank of India|6,56,81,149|0.00%|36|35|1|
+94|VAR|The Varachha Co-Op Bank Ltd|1,46,924|0.00%|2|2|0|
+95|VGB|Jharkhand Rajya Gramin Bank|3,96,745|0.00%|11|1|10|
+96|VIK|Vikas Souharda Co-operative Bank Ltd|47,964|0.01%|6|6|0|
+97|VSI|The Vishweshwar Sahakari Bank Ltd., Pune (Multi-State)|137937|0.00%|1|1|0|
+98|YBL|Yes Bank Ltd|35,97,76,883|0.00%|1878|1617|261|
+|S No.|Code|Bank Name Corrected|Total Txns during the month|CB Ratio|Chargebacks Received during the month|Re-presentment Raised during the month|Chargebacks Accepted during the month|
+1|AXB|Axis Bank Ltd.|23,25,30,187|0.006%|13,838|10,338|3,500|
+2|ICI|ICICI Bank|24,54,24,444|0.004%|10,568|8,117|2,451|
+3|PTM|Paytm Payments Bank|46,98,40,240|0.002%|7,160|6,821|339|
+4|HDF|HDFC BANK LTD|16,07,51,686|0.004%|6,761|4,293|2,468|
+5|YES|Yes Bank Ltd|33,48,73,698|0.002%|5,168|4,932|236|
+6|IIB|INDUSIND BANK|3,74,01,860|0.010%|3,842|3,440|402|
+7|SBI|State Bank Of India|41,33,26,482|0.001%|3,334|2,768|566|
+8|YBL|Yes Bank Ltd|33,48,73,698|0.001%|2,421|2,133|288|
+9|FBL|Federal Bank|6,82,76,229|0.001%|567|563|4|
+10|ARL|Airtel Payments Bank|2,64,18,076|0.002%|436|398|38|
+11|CIT|CITI|47,43,837|0.008%|391|358|33|
+12|KMB|Kotak Mahindra Bank|5,75,95,479|0.001%|317|231|86|
+13|TSB|TJSB Sahakari Bank Ltd|16,01,074|0.011%|169|169|-|
+14|BOB|Bank of Baroda|9,16,01,545|0.000%|166|128|38|
+15|INB|Indian Bank|3,83,78,904|0.000%|165|165|-|
+16|HSB|HSBC|22,06,875|0.006%|132|132|-|
+17|IDF|IDFC FIRST Bank|94,56,851|0.001%|128|127|1|
+18|MGB|Maharashtra Gramin Bank|25,84,996|0.005%|117|115|2|
+19|CNB|Canara Bank|7,28,82,141|0.000%|98|98|-|
+20|UOB|Union Bank of India|6,50,42,627|0.000%|81|80|1|
+21|BOI|Bank of India|5,92,71,935|0.000%|63|63|-|
+22|CBI|Central Bank Of India|3,48,27,616|0.000%|58|58|-|
+23|ANB|Andhra Bank|2,58,00,704|0.000%|55|49|6|
+24|PSB|Punjab and Sind Bank|24,58,356|0.002%|54|52|2|
+25|AUS|AU small Finance Bank|42,45,599|0.001%|38|35|3|
+26|IDB|IDBI Bank Limited|2,60,35,271|0.000%|34|34|-|
+27|DBS|DBS Bank India Limited|54,91,969|0.001%|33|31|2|
+28|BOM|Bank of Maharashtra|1,90,81,089|0.000%|32|32|-|
+29|PNB|Punjab National Bank|7,95,99,462|0.000%|31|30|1|
+30|KLG|Kerala Gramin Bank|20,37,610|0.001%|30|21|9|
+31|UCO|UCO Bank|1,76,52,836|0.000%|28|26|2|
+32|RNB|RBL|25,46,134|0.001%|27|27|-|
+33|KVG|Karnataka Vikas Grameena Bank|17,77,006|0.001%|23|16|7|
+34|SCB|Standard Chartered|26,59,241|0.001%|23|19|4|
+35|RMG|Rajasthan Marudhara Gramin Bank|19,89,613|0.001%|19|19|-|
+36|IOB|Indian Overseas Bank|2,06,01,205|0.000%|18|18|-|
+37|JIO|Jio Payments Bank|3,29,775|0.005%|16|2|14|
+38|KVB|Karur Vysya Bank|1,27,56,752|0.000%|15|13|2|
+39|BDN|Bandhan Bank|76,73,331|0.000%|14|14|-|
+40|KTB|Karnataka Bank|1,84,02,379|0.000%|12|11|1|
+41|SIB|South Indian Bank|79,93,991|0.000%|12|8|4|
+42|EQT|Equitas Bank|17,52,488|0.001%|9|5|4|
+43|LVB|Lakshmi Vilas Bank|20,44,166|0.000%|8|6|2|
+44|PUR|Purvanchal Bank|16,75,393|0.000%|8|8|-|
+45|JKB|Jammu and Kashmir Bank|19,71,543|0.000%|7|6|1|
+46|AND|Andhra Pragathi Grameena Bank|26,48,296|0.000%|6|5|1|
+47|VGB|Jharkhand Rajya Gramin Bank|3,97,647|0.002%|6|5|1|
+48|MBB|Dakshin Bihar Gramin Bank|11,04,028|0.001%|6|4|2|
+49|PRY|The Priyadarshini Nagari Sahakari Bank|53,417|0.011%|6|3|3|
+50|CUB|City Union Bank|62,00,152|0.000%|5|5|-|
+51|BHB|Bharat Co-Operative Bank (Mumbai) Ltd.|6,50,747|0.001%|5|5|-|
+52|APV|Andhra Pradesh Grameena Vikas Bank|38,82,099|0.000%|5|3|2|
+53|NTB|Nainital Bank|1,78,607|0.003%|5|4|1|
+54|IPB|India Post Payment Bank|53,79,363|0.000%|4|4|-|
+55|COB|Cosmos Bank|11,50,139|0.000%|4|4|-|
+56|CSB|CSB Bank Ltd|11,29,464|0.000%|4|3|1|
+57|MUN|The Municipal Co-op Bank Ltd|80,872|0.005%|4|-|4|
+58|SAG|Saurashtra Gramin Bank|1,41,627|0.003%|4|4|-|
+59|SVC|Svc co-operative bank ltd|9,21,792|0.000%|3|3|-|
+60|UIJ|Ujjivan Small Finance Bank|41,68,648|0.000%|3|3|-|
+61|BUB|Baroda UP Gramin Bank|10,09,830|0.000%|3|2|1|
+62|DCB|DCB Bank Ltd|8,96,845|0.000%|3|1|2|
+63|TGB|Telangana Grameena bank|15,63,006|0.000%|3|3|-|
+64|SRS|Shri Chhatrapati Rajarshi Shahu Urban Co-Op. Bank Ltd. Beed|50,220|0.006%|3|3|-|
+65|SNB|Smriti Nagrik Sahakari Bank Maryadit Mandsaur|10,460|0.029%|3|-|3|
+66|PTN|PATAN NAGARIK SAHAKARI BANK LTD|1,933|0.155%|3|-|3|
+67|SRC|Saraswat Bank|34,79,602|0.000%|2|2|-|
+68|TMB|Tamilnad Mercantile Bank|45,24,784|0.000%|2|2|-|
+69|JSB|Janata Sahakari Bank Ltd. Pune|10,33,095|0.000%|2|2|-|
+70|BKG|Baroda Rajasthan Kshetriya Gramin Bank|15,83,372|0.000%|2|2|-|
+71|AHM|Ahmednagar Merchant's Co Operative Bank Ltd|64,047|0.003%|2|2|-|
+72|HPB|The Himachal Pradesh State Co-Op. Bank Ltd|32,672|0.006%|2|1|1|
+73|BNS|Bhagini Nivedita Sahakari Bank|50,869|0.004%|2|2|-|
+74|TSS|The SSK Co-operative Bank Ltd.|6,268|0.032%|2|-|2|
+75|FIN|Fino Payments Bank|33,12,842|0.000%|1|1|-|
+76|NSD|NSDL Payments Bank|2,51,124|0.000%|1|1|-|
+77|ACB|ABHYUDAYA CO-OP. BANK LTD|10,54,352|0.000%|1|1|-|
+78|JSF|Jana Small Finance Bank Ltd|5,87,316|0.000%|1|1|-|
+79|SBG|Sarva Haryana Gramin Bank|17,11,308|0.000%|1|1|-|
+80|BCC|Bassein Catholic Co-operative Bank|4,08,660|0.000%|1|-|1|
+81|KJB|The Kalyan Janata Sahakari Bank Ltd.|3,98,882|0.000%|1|1|-|
+82|AMG|Assam Gramin Vikash Bank|2,40,312|0.000%|1|-|1|
+83|PKB|Pragathi Krishna Gramin Bank|32,16,457|0.000%|1|1|-|
+84|KLB|The Kalupur Commercial Co-operative Bank Ltd|2,36,707|0.000%|1|1|-|
+85|EAF|ESAF Small Finance Bank Ltd.|17,58,062|0.000%|1|1|-|
+86|SUB|Sarva UP Gramin Bank|6,45,680|0.000%|1|1|-|
+87|SID|THE SINDHUDURG DCC BANK LTD|32,945|0.003%|1|1|-|
+88|JKS|Janakalyan Sahakari Bank Ltd|36,215|0.003%|1|1|-|
+89|MNB|GS Mahanagar Coop bank|3,78,570|0.000%|1|-|1|
+90|NGB|NKGSB Bank|4,22,233|0.000%|1|-|1|
+91|PCS|Pune Cantonment Sahakari bank Ltd|20,882|0.005%|1|-|1|
+92|YLN|Yadagiri Co-op Bank|11,547|0.009%|1|1|-|
+93|NUR|The New Urban Co-operative Bank Ltd Rampur|1,417|0.071%|1|-|1|
+94|MOC|Model Co-Op. Bank Ltd.|23,243|0.004%|1|1|-|
+95|HTI|The Hasti Co-operative Bank Ltd|86,107|0.001%|1|1|-|
+96|BGI|Baroda Gujarat Gramin Bank|1,83,637|0.001%|1|1|-|
+97|FSF|Fincare Small Finance Bank Ltd|10,92,475|0.000%|-|-|-|
+98|ALB|Allahabad Bank|-|#DIV/0!|-|-|-|
+99|GPB|GP PARSIK BANK|7,05,081|0.000%|-|-|-|
+100|DSB|Dombivali Nagri Sahakari Bank|4,89,297|0.000%|-|-|-|
+101|RKN|Rajkot Nagrik Sahakari Bank Ltd.|1,05,616|0.000%|-|-|-|
+102|CTB|Citibank|25,51,876|0.000%|-|-|-|
+103|JJS|Jalgaon Janata Sahkari Bank Ltd Jalgaon|2,24,710|0.000%|-|-|-|
+104|SDM|Samarth Sahakari Bank Ltd. Solapur|59,321|0.000%|-|-|-|
+105|TIR|Tripura Gramin Bank|1,61,800|0.000%|-|-|-|
+106|TEL|Telangana State Co Op Apex Bank|2,55,760|0.000%|-|-|-|
+107|BRM|The Baramati Sahakari Bank Ltd|1,47,350|0.000%|-|-|-|
+108|SYB|Syndicate Bank|-|#DIV/0!|-|-|-|
+109|PGB|Punjab Gramin Bank|2,16,387|0.000%|-|-|-|
+110|CPF|Capital Small Finance Bank Ltd|56,708|0.000%|-|-|-|
+111|TNF|The Surat District Cooperative Bank|48,509|0.000%|-|-|-|
+112|APN|Apna Sahakari Bank Ltd.|5,24,477|0.000%|-|-|-|
+113|SPB|Surat People Cooperative Bank|74,045|0.000%|-|-|-|
+114|DBA|Deutsche Bank|42,269|0.000%|-|-|-|
+115|VVS|Vasai Vikas Sahakari Bank Ltd|1,67,813|0.000%|-|-|-|
+116|UBI|United Bank of India|-|#DIV/0!|-|-|-|
+117|VKH|The Visakhapatnam Cooperative Bank Ltd|50,681|0.000%|-|-|-|
+118|UMB|The Udaipur Mahila Urban Co-Operative Bank Ltd.|12,567|0.000%|-|-|-|
+119|SHK|SHREE KADI NAGARIK SAHAKARI BANK LTD|41,055|0.000%|-|-|-|
+120|GYB|Gayatri Bank|2,76,957|0.000%|-|-|-|
+121|DLB|Dhanlaxmi Bank Ltd|8,26,265|0.000%|-|-|-|
+122|CHB|CHATISGARH R G BANK|4,67,824|0.000%|-|-|-|
+123|VAR|The Varachha Co-Op Bank Ltd|1,47,508|0.000%|-|-|-|
+124|UKG|Uttarakhand Gramin Bank|4,10,153|0.000%|-|-|-|
+125|TAS|Associate Co.op. Bank Ltd.|4,440|0.000%|-|-|-|
+126|SSF|Suryoday Small Finance Bank Ltd.|2,62,594|0.000%|-|-|-|
+127|MZR|Mizoram Rural Bank|1,68,332|0.000%|-|-|-|
+128|MCL|Maratha Cooperative Bank Ltd|5,635|0.000%|-|-|-|
+129|JNS|Janaseva Sahakari|1,34,549|0.000%|-|-|-|
+130|ACU|The Adarsh Co-operative Urban Bank Ltd.|76,463|0.000%|-|-|-|
+131|VJC|The Vijay Cooperative Bank Ltd.|20,781|0.000%|-|-|-|
+132|TBS|Thane Bharat Sahakari Bank Ltd|1,85,290|0.000%|-|-|-|
+133|SVB|Shri Veershaiv Co-Op Bank Ltd.|25,039|0.000%|-|-|-|
+134|SAC|SHRI ARIHANT CO-OP BANK LTD|17,581|0.000%|-|-|-|
+135|MUC|The Mehsana Urban Co-Operative Bank Ltd.|1,93,924|0.000%|-|-|-|
+136|MSS|The Merchants Souharda Sahakara Bank Ni.|492|0.000%|-|-|-|
+137|KAN|Kanaka Mahalakshmi Co-Operative Bank Ltd.|20,451|0.000%|-|-|-|
+138|JKG|J&K Grameen Bank|54,347|0.000%|-|-|-|
+139|HGB|Himachal Pradesh Gramin Bank|1,75,824|0.000%|-|-|-|
+140|GHD|The Gadchiroli District Central Co-Op. Bank Ltd.|7,982|0.000%|-|-|-|
+141|CGG|Chaitanya Godavari Grameena Bank|6,89,031|0.000%|-|-|-|
+142|BOA|Bank Of America|2,388|0.000%|-|-|-|
+143|APM|A P Mahesh Bank|2,03,677|0.000%|-|-|-|
+144|AHD|THE AHMEDABAD DISTRICT COOP BANK LTD|1,83,576|0.000%|-|-|-|
+145|VVB|The Vallabh Vidyanagar Commercial Co-Operative Bank Ltd.|894|0.000%|-|-|-|
+146|VSM|Sri Vasavamba Co-Op. Bank Ltd.|2,644|0.000%|-|-|-|
+147|VSI|The Vishweshwar Sahakari Bank Ltd. Pune (Multi-State)|1,77,625|0.000%|-|-|-|
+148|VIK|Vikas Souharda Co-operative Bank Ltd|43,984|0.000%|-|-|-|
+149|UUB|The Udaipur Urban Co-Operative Bank Ltd.|5,338|0.000%|-|-|-|
+150|UMS|The Udaipur Mahila Samridhi Urban Co-operative Bank Ltd.|7,283|0.000%|-|-|-|
+151|UBD|THE URBAN CO OP BANK LTD DHARANGAON|7,592|0.000%|-|-|-|
+152|SYG|Suvarnayug Sahakari Bank Ltd|1,52,079|0.000%|-|-|-|
+153|SVY|SARVODAYA COMMERCIAL CO OP BANK LTD|13,677|0.000%|-|-|-|
+154|SUX|The Sutex Co.op.Bank Ltd.|35,300|0.000%|-|-|-|
+155|STA|The Satara District Central Coop Bank Ltd|99,453|0.000%|-|-|-|
+156|SSK|SUCO SOUHARDA SAHAKARI BANK LTD|1,94,665|0.000%|-|-|-|
+157|SMW|Shri Mahila Sewa Sahakari Bank Ltd.|1,827|0.000%|-|-|-|
+158|SMR|Samruddhi Co-Operative Bank Ltd. Nagpur|3,540|0.000%|-|-|-|
+159|SMB|SHREE MAHAVIR SAHAKARI BANK LTD|153|0.000%|-|-|-|
+160|SLB|Sterling Urban Cooperative Bank Ltd|16,336|0.000%|-|-|-|
+161|SKD|Sabarkantha District Central Cooperative Bank Ltd|57,273|0.000%|-|-|-|
+162|SHB|Shivalik Mercantile Co-operative Bank Ltd|12,831|0.000%|-|-|-|
+163|SDR|Sandur Pattana Souharda Sahakari Bank|4,043|0.000%|-|-|-|
+164|SDH|Shree Dharati Co-Operative Bank Ltd|542|0.000%|-|-|-|
+165|SBN|SAIBABA NAGARI SAHAKARI BANK MARYADIT SAILU|2,877|0.000%|-|-|-|
+166|SBL|SBM Bank India Ltd.|2,097|0.000%|-|-|-|
+167|RNI|Rani Channamma mahila Sahakari Bank Niyamit|2,178|0.000%|-|-|-|
+168|RKT|RAJKOT DISTRICT CENTRAL COOP BANK|11,040|0.000%|-|-|-|
+169|PPB|Pochampally Co Bank|58,085|0.000%|-|-|-|
+170|PLB|Pali Urban Co-Operative Bank Limited|2,281|0.000%|-|-|-|
+171|PCB|The Prime Cooperative Bank Ltd|17,116|0.000%|-|-|-|
+172|PBG|PASCHIM BANGA GRAMIN BANK|66,730|0.000%|-|-|-|
+173|OBC|Oriental Bank of Commerce|-|#DIV/0!|-|-|-|
+174|NNI|Nutan Nagrik Sahakari Bank|18,603|0.000%|-|-|-|
+175|NMV|Nagarik Sahakari Bank Maryadit|1,747|0.000%|-|-|-|
+176|NES|North East Small Finance Bank Ltd|4,229|0.000%|-|-|-|
+177|MVY|Malviya Urban Co-operative Bank Ltd.|3,155|0.000%|-|-|-|
+178|MSL|The Muslim Cooperative Bank Ltd|51,708|0.000%|-|-|-|
+179|MSB|The Malad Sahakari Bank Ltd.|21,304|0.000%|-|-|-|
+180|MRS|MADHYA PRADESH RAJYA SAHAKARI BANK MARYADIT|1,727|0.000%|-|-|-|
+181|MRB|Meghalaya Rural Bank|22,599|0.000%|-|-|-|
+182|MNS|The Modasa Nagarik Sahakari Bank Limited|667|0.000%|-|-|-|
+183|MNR|Manipur Rural Bank|21,619|0.000%|-|-|-|
+184|MDM|Mann Deshi Mahila Sahakari Bank. Ltd.|3,053|0.000%|-|-|-|
+185|MBH|Maharashtra State Co-op Bank Ltd|30,761|0.000%|-|-|-|
+186|KRI|Krishna Bhima Samruddhi Local Area Bank|23,750|0.000%|-|-|-|
+187|KKN|Kokan Mercantile Coop Bank Ltd|31,150|0.000%|-|-|-|
+188|KIB|KAIJSB- Ichalkaranji|1,26,412|0.000%|-|-|-|
+189|KDK|Kolhapur Dist. Central Co-Op. Bank Ltd.|12,795|0.000%|-|-|-|
+190|KAI|The Kaira District Central Coop Bank|18,690|0.000%|-|-|-|
+191|JVN|Jivan Commercial Co-Operative Bank Ltd|879|0.000%|-|-|-|
+192|JNC|Jalna Merchant Cooperative Bank Ltd|13,846|0.000%|-|-|-|
+193|IPS|Indore Paraspar Sahakari bank Ltd. Indore|1,288|0.000%|-|-|-|
+194|IPP|ICICI Bank Pockets|4,125|0.000%|-|-|-|
+195|IKT|Irinjalakuda Town Co|12|0.000%|-|-|-|
+196|HSW|Hutatma Sahakari Bank Ltd|23,487|0.000%|-|-|-|
+197|GSC|The Gujarat State Cooperative Bank|1,21,926|0.000%|-|-|-|
+198|FNG|Fingrowth Cooperative Bank Ltd|9,034|0.000%|-|-|-|
+199|DSM|Darussalam Co-Operative Urban Bank Ltd.|14,984|0.000%|-|-|-|
+200|DNB|Dena Bank|54,253|0.000%|-|-|-|
+201|DEU|Deutsche Bank Corp|3,837|0.000%|-|-|-|
+202|CZS|Citizens Co-Operative Bank Ltd|1,834|0.000%|-|-|-|
+203|CZN|The Citizen Coop Bank Ltd|10,548|0.000%|-|-|-|
+204|CST|Coastal Local Area Bank Ltd|1,20,173|0.000%|-|-|-|
+205|CHN|The Chartered Sahakari Bank|5,486|0.000%|-|-|-|
+206|BWB|Bhilwara Urban Co-operative Bank Ltd|5,418|0.000%|-|-|-|
+207|BSB|Sri Basaveshwar Bank|3,885|0.000%|-|-|-|
+208|BKM|The Banaskantha Mercantile Co-Operative Bank Ltd|13,360|0.000%|-|-|-|
+209|BKD|Banaskantha District Central Coop Bank|44,668|0.000%|-|-|-|
+210|BDB|The Baroda Central Co-op Bank Ltd.|18,308|0.000%|-|-|-|
+211|ASB|The Andhra Pradesh State Co-operative Bank Ltd.|40,767|0.000%|-|-|-|
+212|AMO|The Anand Mercantile Co-operative Bank Ltd|1,236|0.000%|-|-|-|
+213|AME|The Ahmedabad Mercantile Cooperative Bank Ltd|23,272|0.000%|-|-|-|
+214|AMC|THE AHMEDABAD MERCANTILE CO OP BANK LTD|25,532|0.000%|-|-|-|
+215|ADB|Adarsh Co-operative Bank Limited|43,656|0.000%|-|-|-|
+![Scroll to Top](https://www.npci.org.in/images/npci/scroll-top.png)

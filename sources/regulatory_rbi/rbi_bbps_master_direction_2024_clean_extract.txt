@@ -1,0 +1,30 @@
+Title: Master Direction - Reserve Bank of India (Bharat Bill Payment System) Directions, 2024
+Source URL: https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=12616&Mode=0
+Date: 29/02/2024
+RBI reference: RBI/DPSS/2023-24/111 CO.DPSS.POLC.No.S1114/02-27-020/2023-2024
+Source type: RBI notification clean text extract
+
+Purpose for FinTrust AI:
+Use this for BBPS bill-payment complaints, biller/operating-unit responsibility, BBPS reference number, dispute management and grievance redressal.
+
+Key points:
+
+- BBPS is an integrated bill payment platform enabling payment/collection of bills through mobile apps, mobile banking, physical agents, bank branches and multiple payment modes including UPI, internet banking, cards, cash and PPIs.
+- NPCI Bharat BillPay Limited (NBBL) is the authorised BBPCU.
+- BBPOUs may function as biller operating units (BOU), customer operating units (COU), or both.
+- COUs provide customer-facing interfaces for bill payments.
+- BOUs onboard billers to BBPS.
+- NBBL must provide a framework for redressal of consumer disputes.
+- COUs must provide a system for raising disputes.
+- All BBPS transactions must have a BBPS reference number from payment initiation stage.
+- NBBL must put in place a dispute resolution framework for centralized end-to-end complaint management in compliance with RBI's Online Dispute Resolution (ODR) system for digital payments.
+- Participating COUs and BOUs must integrate with the centralized system and enable customers and billers to raise and resolve disputes.
+- The BBPS reference number generated while initiating the transaction must be used for complaint/dispute resolution.
+- COUs and BOUs must ensure failed transactions are handled according to RBI TAT and compensation instructions for failed transactions.
+
+Implementation notes:
+
+- Add classifier category: `bbps_bill_payment_dispute`.
+- Ask for biller name, COU/app/bank used, BBPS reference number, payment date, amount, biller confirmation status, and complaint reference number.
+- Link with ODR and TAT sources.
+- Do not treat BBPS bill-payment disputes exactly like UPI P2P transfers; use BBPS reference number and biller/COU/BOU concepts.

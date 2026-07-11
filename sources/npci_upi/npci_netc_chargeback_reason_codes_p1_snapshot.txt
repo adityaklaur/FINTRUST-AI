@@ -1,0 +1,621 @@
+## NPCI/2025-26/NETC/005 October 28, 2025
+
+## To,
+
+## All Members of NETC
+
+## Subject: Chargeback reason in NETC and guidelines for handling chargebacks.
+
+## 1. Basis feedback from the members in NETC Ecosystem, new reason codes for Debit Adjustment and chargebacks have been introduced in NRCS along with the updated evidence required for chargebacks.
+
+The details of the new chargeback reason codes can be found in Annexure – I and would be implemented in NRCS with effect from 1 st December 2025. Consolidated list of evidence required from Issuing and Acquiring end for each chargeback reason code can be found in Annexure – II & Annexure – III.
+
+2. NPCI would be implementing controls to ensure compliance to the requirement of submitting evidence at the time of raising/representing a charge back. In case on non compliance to this guideline, system shall reject such chargeback/representation. The following rejection reason code shall be used for this purpose.
+
+## Reason Code Description
+
+| NRCS Reject Reason code | | |
+| --- | --- | --- |
+| | 5225 | Rejected as no evidence uploaded for the chargeback reason. |
+
+## Rejected as no evidence uploaded for the chargeback reason.
+
+NPCI shall be working on implementing the system controls and the date of implementation shall be communicated separately however the member banks shall start implementing this at the earliest not later than December 01, 2025. It may please be noted that effective 1 st December any chargeback raising / representation submitted without evidence as per the compliance sited above shall attract negative verdict in cases where the parties reach out for NRP / PRD.
+
+## The information herein may please be disseminated to all the concerned officials for strict adherence from 1 st December 2025.
+
+## Regards,
+
+## Sd/-
+
+## Giridhar G M Chief – Customer Success
+
+## Annexure I:
+
+## 1) Introduction of new reason codes for raising Debit Adjustment:
+
+1. 1008 - DA raised on vehicle class mismatch 
+2. 1009 - DA raised on vehicle number mismatch 
+3. 1010 - DA for plaza following non-standard vehicle classification 
+
+| | Reason Code & Description | Preconditions to be satisfied |
+| --- | --- | --- |
+| | 1008 - DA raised mismatch | on vehicle class i) To be raised if the vehicle class derived using GVW, axle, ii) VRN of the vehicle passing through the plaza is same as |
+| | 1009 - DA raised on mismatch | vehicle number i) To be raised if the vehicle class derived using GVW, axle, ii) VRN of the vehicle passing through the plaza is different |
+| | 1010 - DA for plaza following non-standard Vehicle Classification | To be raised if plaza has a clause in concessionaire i) |
+| 2) | Introduction of new reason codes for raising chargebacks: 1. 3023 - Wrong DA raised on vehicle class mismatch 2. 3024 - Wrong DA raised on vehicle number mismatch 3. 3025 - Wrong DA raised on plaza following non-standard vehicle classification 4. 3026 - Return Journey discount not provided 5. 3027 - Toll Fare calculation 6. 3028 - Connecting Plaza benefit not provided 7. 3029 - Pass benefit/Local discount not provided 8. 3030 - Exemption not provided for | error on closed loop plaza EV vehicle at Exempted plazas |
+| | Reason Code & Description | Preconditions to be satisfied |
+| | 3023 – Wrong DA raised on vehicle class Mismatch | To dispute debit adjustment raised with 1008 reason code (DA raised on vehicle class mismatch) |
+| | 3024 – Wrong DA number mismatch | raised on vehicle To dispute debit adjustment raised with 1009 reason code (DA raised on vehicle number mismatch) |
+| | 3025 – Wrong DA raised on plaza non-standard vehicle classification | following To dispute debit adjustment raised with 1010 reason code (DA for plaza following Non-standard Vehicle Classification) |
+| | 3026 – Return Journey provided | discount not To raise dispute if the customer was not provided return journey discount within the Return journey window applicable at the plaza. |
+| | 3027 – Toll Fare Calculation Closed loop plaza | error on To raise dispute related to overcharging on closed loop plaza with an entry and an exit. |
+
+| | Reason Code & Description | Preconditions to be satisfied | |
+| --- | --- | --- | --- |
+| | 1008 - DA raised | on vehicle class i) ii) | To be raised if the vehicle class derived using GVW, axle, category is of a higher class compared to the mapper class of the tag. & VRN of the vehicle passing through the plaza is same as the VRN associated with the tag. |
+| | 1009 - DA raised on | vehicle number i) ii) | To be raised if the vehicle class derived using GVW, axle, category is of a higher class compared to the mapper class of the tag. & VRN of the vehicle passing through the plaza is different from the VRN associated with the tag. |
+| | 1010 - DA for plaza following non-standard | i) | To be raised if plaza has a clause in concessionaire agreement which are not in line with the vehicle classification document and entitles to raise a Debit Adjustment for the transaction. |
+| 2) | Introduction of new reason codes for raising chargebacks: 1. 3023 - Wrong DA raised on vehicle class mismatch 2. 3024 - Wrong DA raised on vehicle number mismatch 3. 3025 - Wrong DA raised on plaza following non-standard vehicle classification 4. 3026 - Return Journey discount not provided 5. 3027 - Toll Fare calculation 6. 3028 - Connecting Plaza benefit not provided 7. 3029 - Pass benefit/Local discount not provided 8. 3030 - Exemption not provided for | error | on closed loop plaza EV vehicle at Exempted plazas |
+| | Reason Code & Description | Preconditions to be satisfied | |
+| | 3023 – Wrong DA raised on vehicle class | To raised on vehicle class mismatch) | dispute debit adjustment raised with 1008 reason code (DA |
+| | 3024 – Wrong DA | raised on vehicle To dispute debit adjustment raised with 1009 raised on vehicle number mismatch) | reason code (DA |
+| | 3025 – Wrong DA raised on plaza | following To for plaza following Non-standard Vehicle Classification) | dispute debit adjustment raised with 1010 reason code (DA |
+| | 3026 – Return Journey | discount not To journey discount within the Return journey window applicable at the plaza. | raise dispute if the customer was not provided return |
+| | 3027 – Toll Fare Calculation | error on To raise dispute related with | to overcharging on closed loop plaza an entry and an exit. |
+
+| 3028 - Connecting provided | Plaza benefit not To raise dispute related to overcharging on integrated plaza setup. |
+| --- | --- |
+| 3029 – Pass benefit/Local provided | discount not To raise dispute if annual pass/monthly pass/ local resident discount is not provided. |
+| 3030 - Exemption not vehicle at Exempted plazas | provided for EV To raise dispute if the EV vehicles are charged despite being in the exemption list. |
+
+| 3028 - Connecting | Plaza benefit not To raise dispute related to overcharging on integrated plaza setup. |
+| --- | --- |
+| 3029 – Pass benefit/Local | discount not To raise dispute if annual pass/monthly pass/ local resident discount is not provided. |
+| 3030 - Exemption not | provided for EV To raise dispute if the EV vehicles are charged despite being in the exemption list. |
+
+## 3) Introduction of new reason codes for responding to chargebacks:
+
+1. 4011 - Valid DA, as vehicle passing is of higher class with same VRN 
+2. 4012 - Valid DA, as vehicle passing is of higher class with different VRN 
+3. 4013 - Valid DA, as plaza follows Non-standard Vehicle Classification 
+4. 4014 - Return Journey discount provided 
+5. 4015 - Return Journey discount not applicable at plaza 
+6. 4016 - Return Journey Logic applicable for 24Hrs 
+7. 4017 - Return Journey Logic applicable for 12Hrs 
+8. 4018 - Return Journey Logic applicable for Same day 
+9. 4019 - Toll Fare Calculation is correct for the Entry/Exit combination 
+10. 4020 - Higher fare charged as per concessionaire agreement for missing Entry/Exit 
+11. 4021 - Connecting Plaza benefit already provided to Customer 
+12. 4022 - Pass benefit/Local discount benefits provided 
+13. 4023 - Pass/Local discount is expired or not applicable 
+14. 4024 - Invalid document or required evidence not submitted by the Issuer 
+15. 4025 - Customer carrying Tag in Hand 
+16. 4026 - Connecting Plaza benefit is not applicable at this plaza 
+17. 4027 - Credit adjustment was raised for one of the duplicate transactions. 
+18. 4028 - Not a duplicate transaction as per IHMCL duplicate transaction Policy. 
+19. 4029 - Vehicle passing has a VRN different compared to the Fastag 
+
+## 4) Removal of below reason codes:
+
+1. 3009 – Wrong Debit Adjustment 
+2. 3014 – Other Specify (Chargeback Reason Codes – Debit) 
+3. 3022 – Other Specify (Chargeback Reason Codes – Credit) 
+4. 4010 – Other Specify (Re-Presentment Reason Codes) 
+5. 1007 – Other Specify (Debit Adjustment Reason Codes) 
+6. 2007 – Other Specify (Credit Adjustment Reason Codes) 
+
+## Annexure II: Evidence Requirement from Issuers and Acquirers for Debit Adjustment and Chargebacks
+
+1008
+
+| Reason Code | Description | Evidence from acquirers for raising Debit Adjustment |
+| --- | --- | --- |
+| | DA raised on vehicle class mismatch | i) [EVIDENCE] Vehicle passing image along with legible ii) [MMT] The vehicle class of the vehicle passing based on |
+| 1009 | DA raised on vehicle number mismatch | i) [EVIDENCE] Vehicle passing image along with legible ii) [MMT] The vehicle class of the vehicle passing based on |
+| | DA for plaza following Classification | i) [EVIDENCE] Vehicle passing image along with legible ii) [MMT] The vehicle class of the vehicle passing based on non-standard Vehicle iii) [EVIDENCE & MMT] Clause in concessionaire agreement |
+
+| Reason Code Description | Evidence from acquirers for raising Debit Adjustment |
+| --- | --- |
+| | i) [EVIDENCE] Vehicle passing image along with legible vehicle registration number. ii) [MMT] The vehicle class of the vehicle passing based on which Debit Adjustment is raised to be mentioned in MMT. |
+| | i) [EVIDENCE] Vehicle passing image along with legible vehicle registration number. ii) [MMT] The vehicle class of the vehicle passing based on which Debit Adjustment is raised to be mentioned in MMT. |
+| DA for plaza following | i) [EVIDENCE] Vehicle passing image along with legible vehicle registration number. ii) [MMT] The vehicle class of the vehicle passing based on non-standard Vehicle which Debit Adjustment is raised to be mentioned in MMT. iii) [EVIDENCE & MMT] Clause in concessionaire agreement different from vehicle classification entitling plaza to raise Debit Adjustment. |
+
+1010
+
+Note: Considering errors at the time of tag issuance leading to tags issued to incorrect vehicle numbers,
+
+## It is mandated to submit clear images of the vehicle with visible vehicle number (front) with tag affixed and RC copy for raising chargeback with the below reason codes:
+
+## a. 3001 - NETC Toll services not availed b. 3024 - Wrong DA raised on vehicle number mismatch
+
+Evidence from Issuers
+
+Evidence from acquirers
+
+Guidelines for Issuers
+
+Guidelines for Acquirers
+
+Reason Code
+
+Description i) Timestamp in evidence should with-in 5 minutes of Reader Read time.
+
+1) Issuer is expected to check for abuse of chargeback by customer if there are repeated chargeback on 3001 from the same tag.
+
+2) VRN of the vehicle passing should be clear while representing.
+
+i) [EVIDENCE] Clear evidence of vehicle passing through plaza with legible vehicle registration number along with legible timestamp in “yyyy-mm dd hh:mm:ss” format.
+
+[EVIDENCE] Clear images of the vehicle with visible vehicle number (front with tag affixed) and RC copy
+
+3001
+
+NETC Toll services not availed/ Tag holder does not recognize the transaction
+
+| | holder | does | | number (front with tag | | timestamp in “yyyy-mm | | | | | 2) Issuer should | not | 3) Should | accept the | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | not recognize | | | affixed) and RC copy | | dd hh:mm:ss” | | format. | | | be raising | the | chargeback if the VRN | | |
+| | the transaction | | | | | | | | | | chargeback | if the VRN | is different | from | |
+| | | | | | | ii) [MMT] Timestamp in | | | | | associated | with the | evidence submitted | by | |
+| | | | | | | evidence | should | | | be | tag is not | matching | Issuer. | | |
+| | | | | | | within | 5 minutes | | | of | with the vehicle image | | | | |
+| | | | | | | Reader Read time | | | | | collected | from the | 4) Evidence | in image | |
+| | | | | | | | | | | | customer. | | format is recommended | | |
+
+for faster response.
+
+| | | | | | Chargeback | should | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | | | | be raised | only | if: | | Proactively raise Credit | |
+| | | | | | | | | | adjustment | if the |
+| | | | | | i) Difference in Reader | | | | transaction is duplicate | |
+| | | | | | Read time | between | | | as per | duplicate |
+| | | | | | the two transaction is | | | | transaction policy. | |
+| | | | | | within 15 | minutes | | | | |
+| | | | | | provided | the two | | | Should | not be |
+| | | | | | transactions | | | | represented | if: |
+| | | | | | originated | from | the | | | |
+| | Below details | are to | | | | | | | | |
+| | | | | | same plaza with both | | | | i) Difference in Reader | |
+| | be included | in MMT. | | | | | | | | |
+| | | | [MMT] Details | of why | transactions | in same | | | Read time between the | |
+| | 1. [MMT] | RRN of | | | | | | | | |
+| | original transaction. | | the transaction is not a | | direction | & No Credit | | | two transaction is within | |
+
+adjustment was raised on one of the duplicate transactions
+
+[MMT] Details of why the transaction is not a duplicate transaction in MMT.
+
+i) Difference in Reader Read time between the two transaction is within 15 minutes provided the two transactions originated from the same plaza with both transactions in same direction.
+
+3002
+
+Duplicate transaction done at Toll Plaza
+
+2. [MMT] Reader read Date & Time of original transaction.
+
+| | original transaction. | | adjustment raised if any | | ii) Difference | | in | | transactions | in same |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | | in MMT. | | Reader Read time the | | | | direction. | |
+| | 3. [MMT] Plaza ID of | | | | | | | | | |
+| | original transaction. | | | | two transaction | | is | | | |
+
+[MMT] Details of credit
+
+| | | | | | within 10 | minutes | | | ii) Difference in Reader | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | | | | provided | the two | | | Read time | the two |
+| | | | | | transactions | | | | transaction is within | 10 |
+| | | | | | originated | from | the | | minutes provided | the |
+| | | | | | same plaza with both | | | | two transactions | |
+| | | | | | transactions | | in | | originated | from the |
+| | | | | | different direction. | | No | | same plaza | with both |
+| | | | | | Credit adjustment was | | | | transactions in different | |
+| | | | | | raised on | one of | the | | direction. | |
+
+ii) Difference in Reader Read time the two transaction is duplicate transactions.
+
+[OPTIONAL EVIDENCE] Proof from internal system showing expiry of the exemption (or) remarks on why the tag was not in exempted list at the time of transaction.
+
+3003
+
+Vehicle was in exempted list
+
+[EVIDENCE] Evidence showing the vehicle in exemption list at the time of reader read time.
+
+Vehicle was in blacklist
+
+3004
+
+Refer Annexure III for chargeback rules. Issuing bank to withdraw and not raise the chargeback to subsequent stages in dispute lifecycle if the tag has got active because of customer recharging the tag. If any case gets referred to NRP, Tag status at RRT, Transaction presentation, chargeback raise, 3005 and Arbitration Raise would be considered for providing NRP verdict.
+
+Vehicle was in low balance
+
+| | | | | | Chargeback | category | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | | | | to be used for raising | | | | | |
+| | | | | | chargeback | | on | | | |
+| | | | | | overcharging | | for | | | |
+| | | | | | plazas | other than | | | | |
+| Toll | fare [MMT] Details on why | | [EVIDENCE] Fare table | | closed | loop and | | | | |
+| 3006 calculation | the fare charged | is | showing the toll charges | | connecting plazas. | | | | . | |
+| error | higher in MMT. | | for the vehicle | class. | | | | | | |
+| | | | | | Issuing | Bank | to | | | |
+| | | | | | validate | fare against | | | | |
+| | | | | | toll fare | details | at | | | |
+| | | | | | plaza before raising a | | | | | |
+
+chargeback.
+
+| | | | | | | | i) [EVIDENCE] | Proof | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | | | | | | showing the | FASTag | | | | |
+| | | | | | | | debit is for | a different | | | | |
+| | | | | | | | transaction | along with | | | | |
+| | | | | | | | Vehicle passing | image | | | | |
+| | | | | | | | | | Chargeback | should | | |
+| | | | | | | | for the | FASTAG | | | | |
+| | | | | | | | transaction. | | be raised | on this | | |
+
+3011
+
+Chargeback should be raised on this category only if the customer had paid through alternate payment methods in addition to getting a debit in the FASTag wallet.
+
+i) [EVIDENCE]Receipt given to customer by plaza should need to be shared while raising chargeback
+
+Paid by other means
+
+ii) [EVIDENCE] Clear evidence of vehicle passing through plaza for both the cash and Fastag transaction showing legible vehicle registration number along with legible timestamp in “yyyy-mm dd hh:mm:ss” format.
+
+i) To represent if the vehicle class derived using GVW, axle, category is of a higher class compared to the mapper class of the tag.
+
+i) [EVIDENCE] Vehicle passing image along with visible vehicle registration number.
+
+3023
+
+Only RC proof or Vahan be considered valid.
+
+i) [EVIDENCE] RC Copy or Vahan proof showing gross weight, number of axles, seating capacity.
+
+Wrong DA raised on vehicle class mismatch
+
+&
+
+ii) [MMT] The vehicle class of the passing vehicle based on which Debit Adjustment is raised should also be mentioned in MMT.
+
+ii) VRN of the vehicle passing through the plaza is same as the VRN associated with the tag.
+
+i) To represent if the vehicle class derived using GVW, axle, category is of a higher class compared to the mapper class of the tag i) [EVIDENCE] Vehicle passing image along with visible vehicle registration number.
+
+i) [EVIDENCE] RC Copy or Vahan proof showing gross weight, number of axles, seating capacity.
+
+Only RC proof or Vahan to be considered valid.
+
+3024
+
+Wrong DA raised on vehicle number mismatch
+
+&
+
+ii) [EVIDENCE] Image evidence of vehicle with legible Vehicle number plate.
+
+ii) [MMT] The vehicle class of the passing vehicle based on which Debit Adjustment is raised should also be mentioned in MMT.
+
+ii) VRN of the vehicle passing through the plaza is different from the VRN associated with the tag.
+
+i) [EVIDENCE] Vehicle passing image along with visible vehicle registration number.
+
+To represent only if plaza having concessionaire agreement clause which are not in line with the vehicle classification document entitles to raise a DA for the transaction.
+
+3025
+
+Only RC proof or Vahan to be considered valid.
+
+i) [EVIDENCE] RC Copy or Vahan proof showing gross weight, number of axles, seating capacity.
+
+Wrong DA raised on plaza following Non standard vehicle classification
+
+ii) [EVIDENCE] Snippet from plaza agreement showing the non standard vehicle classification clause
+
+iii) [MMT] The vehicle class of the passing
+
+| | | | | vehicle based on which | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | | | Debit | | Adjustment | | is | | | | |
+| | | | | raised | | should | also | be | | | | |
+
+mentioned in MMT.
+
+i) [MMT] RRN of original transaction
+
+i) [EVIDENCE] Toll fare chart for the vehicle class showing Return fare.
+
+i) Issuing Bank to verify whether the transaction falls within the eligible time limit for getting return journey discount.
+
+i) Credit adjustment to be raised proactively if return journey discount is not provided.
+
+ii) [MMT] Reader read Date & Time of original transaction to be included in MMT.
+
+Return Journey discount not provided
+
+3026
+
+ii) [MMT] Details of Credit adjustment raised if return journey discount is not provided
+
+ii) Onward journey transaction should be presented before return journey transaction. 1)
+
+ii) Issuing Bank to validate whether Return journey discount is applicable at the plaza.
+
+iii) [MMT] Plaza IDs associated with original transaction.
+
+| | | original transaction. | | | | | | | at the plaza. | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | | | i) | | [EVIDENCE] | | If | | | | |
+| | | | | overcharged for farthest | | | | | | | | |
+| | | | | distance, plaza need to | | | | | | | | |
+| | | | | share | | the | snippet | of | | | | |
+| | | | | plaza agreement stating | | | | | | | | |
+| | | | | customer | | | can | be | | | | |
+| | | | | charged | | | for farthest | | | | | |
+| | | i) [EVIDENCE] | To | | | | | | i) Issuing | Bank to | | |
+| | | | | distance in the absence | | | | | | | | |
+| | | provide screenshot of | | of the Entry Exit log. | | | | | validate fare | against | | |
+
+i) Issuing Bank to validate fare against toll fare at the plaza before raising a chargeback.
+
+i) [EVIDENCE] To provide screenshot of alternate payment mode token shared by customers showing plaza name, timestamp.
+
+i) Credit adjustment to be raised proactively in case of overcharging.
+
+ii) [EVIDENCE] Toll Fare chart for the vehicle class for Entry Exit Plaza combination.
+
+Toll Fare Calculation error on Closed loop plaza
+
+3027
+
+ii) Chargeback reason to be used only for toll fare calculation error related to closed loop plazas.
+
+ii) [MMT] Details of Entry/Exit Plaza name shared by customer.
+
+iii) [EVIDENCE] vehicle passing image at entry and exit plaza based on which was available.
+
+iv) [MMT] Details of Credit adjustment raised on differential fare along with toll fare.
+
+i) [MMT] RRN of original transaction
+
+i) Issuing Bank to raise chargeback post verifying whether the transaction falls within the eligible time limit for getting connecting journey discount.
+
+i) [EVIDENCE] Toll fare chart for the vehicle class showing Return fare.
+
+i) Credit adjustment to be raised proactively if connecting journey discount is not provided.
+
+ii) [MMT] Reader read Date & Time of original transaction to be included in MMT.
+
+Connecting Plaza benefit not provided
+
+3028
+
+| | | be included in MMT. | | Credit | | | adjustment | | | | ii) Transaction | to be |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | | | | | | | | ii) Issuing | Bank to | | |
+| | | | | raised if return journey | | | | | | | presented in the order | |
+| | | | | | | | | | validate | whether | | |
+| | | iii) [MMT] | Plaza IDs | discount is not provided | | | | | | | of the reader read time. | |
+| | | | | | | | | | connecting | journey | | |
+| | | associated | with | | | | | | | | | |
+| | | original transaction. | | | | | | | discount is applicable | | | |
+
+ii) [MMT] Details of at the plaza.
+
+| | | | | i) [EVIDENCE | | | or MMT] | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Pass | | [EVIDENCE] | | | | | | | | | | |
+| | | | | Evidence or remarks on | | | | | | | | |
+| benefit/Local | | Evidence showing the | | | | | | | | | | |
+| 3029 | | | | why | | the | chargeback | | | | | |
+| discount | not | monthly | pass/local | | | | | | | | | |
+| | | | | raised on monthly pass | | | | | | | | |
+| provided | | discount active | at the | | | | | | | | | |
+| | | | | is not valid. | | | | | | | | |
+| | | time of reader | read | | | | | | | | | |
+
+time.
+
+| | | | | | | | | ii) [EVIDENCE | | | or MMT] | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | | | (or) | | | | Toll | fare chart showing | | | | | | |
+| | | | | | | | | local | discount | | | fare. | | | |
+| | | | | [EVIDENCE] | | | | Evidence or remarks on | | | | | | | |
+| | | | | Acknowledgment | | | | why | the | | chargeback | | | | |
+| | | | | given | to customers | | | raised | | on | local | pass | | | |
+| | | | | from plaza | for monthly | | | discount is not valid. | | | | | | | |
+
+pass/local discount.
+
+| | | | | [EVIDENCE] | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | Exemption | | not | | | | | | | | | | | | |
+| | | | | Evidence showing the | | | [EVIDENCE | | | | or MMT] | | | | |
+| | provided | | for | | | | | | | | | | | | |
+| | | | | vehicle | is | in | Proof | | | from | internal | | | | |
+| 3030 | EV | vehicle | at | | | | | | | | | | | | |
+| | Exempted | | | exemption | list at | the | system | | | showing | | why | | | |
+
+time of reader read the vehicle is not plazas time. exempted.
+
+## Annexure III: Applicable for reason code 3004, 3005 - Chargeback rules for transactions presented on tags under Exception Hotlist (01), Low Balance (03), Blacklist (05)
+
+## 1) For chargeback reason code 3004 and 3005, issuing bank to not raise chargeback or not raise to the subsequent stages if the tag has got removed from exception.
+
+## 2) Scenarios when Issuing Bank should not raise chargeback under reason code 3004 and
+
+3005.
+
+Tag Status at Presentation
+
+Can Issuer raise Chargeback
+
+Tag status at Reader read time (RRT)
+
+Transaction presented to NPCI
+
+With in 15 minutes after RRT
+
+Active Active
+
+No
+
+Beyond 15 minutes after RRT
+
+Active Active
+
+No
+
+Active Exception
+
+No
+
+With in 15 minutes after RRT
+
+Exception for <20 mins before RRT
+
+With in 15 minutes after RRT
+
+Active
+
+No
+
+Exception for <20 mins before RRT
+
+Beyond 15 minutes after RRT
+
+Active
+
+No
+
+Exception for <20 mins before RRT
+
+With in 15 minutes after RRT
+
+Exception
+
+No
+
+Exception for >20 mins before RRT
+
+With in 15 minutes after RRT
+
+Active
+
+No
+
+Exception for >20 mins before RRT
+
+Beyond 15 minutes after RRT
+
+Active
+
+No
+
+## 3) Scenarios when Issuing Bank should need to wait for 15 days cooling period and not raise chargeback because of tag getting removed from exception.
+
+Tag Status at Presentation
+
+Can Issuer raise Chargeback
+
+Tag status at Reader read time (RRT)
+
+Transaction presented to NPCI
+
+Tag got active within 15 days of RRT
+
+Beyond 15 minutes after RRT
+
+Active Exception
+
+Yes No
+
+Exception for >20 mins before RRT
+
+With in 15 minutes of RRT
+
+Exception
+
+Yes No
+
+Exception for <20 mins before RRT
+
+Beyond 15 minutes after RRT
+
+Exception
+
+Yes No
+
+Exception for >20 mins before RRT
+
+Beyond 15 minutes after RRT
+
+Exception
+
+Yes No
+
+## 4) Scenarios when Issuing Bank should not raise a chargeback because of delay from issuing bank in updating the tag status to exception.
+
+Can Issuer raise Chargeback
+
+Tag status at Reader read time (RRT)
+
+Transaction presented to NPCI
+
+Tag Status at Presentation
+
+Active
+
+No
+
+Beyond 15 minutes after RRT.
+
+Exception. No other transaction presented between RRT and presentation time.
+
+## 5) Scenarios when Issuing Bank would need to wait for 15 days cooling period and can raise
+
+## chargeback because of tag still in exception.
+
+| Tag status | at Tag | Status | at | Transaction | | | Tag got active Can Issuer raise |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Reader read | time Presentation | | | presented | to | | within 15 days a Chargeback |
+| (RRT) | | | | NPCI | | | of RRT |
+| | Tag went to Exception | | | | | | |
+| | because | of | another | | | | |
+| | | | | Beyond | 15 | | |
+| Active | transaction presented | | | | | | No Yes |
+| | | | | minutes after RRT. | | | |
+| | between | RRT | and | | | | |
+
+presentation
+
+Exception for >20 mins before RRT
+
+With in 15 minutes of RRT
+
+Exception
+
+No Yes
+
+Exception for <20 mins before RRT
+
+Beyond 15 minutes after RRT
+
+Exception
+
+No Yes
+
+Exception for >20 mins before RRT
+
+Beyond 15 minutes after RRT
+
+Exception
+
+No Yes
+

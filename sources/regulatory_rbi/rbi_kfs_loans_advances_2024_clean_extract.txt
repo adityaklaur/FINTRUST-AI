@@ -1,0 +1,33 @@
+Title: Key Facts Statement (KFS) for Loans and Advances
+Source URL: https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12663&Mode=0
+Date: 15/04/2024
+RBI reference: RBI/2024-25/18 DOR.STR.REC.13/13.03.00/2024-25
+Source type: RBI notification clean text extract
+
+Purpose for FinTrust AI:
+Use this for loan transparency complaints, hidden charges, APR disclosure, KFS validity, undisclosed fees, digital lending cooling-off period, and retail/MSME term loan user journeys.
+
+Key points:
+
+- The KFS is a statement of key facts of a loan agreement in simple and easier-to-understand language.
+- It must be provided to prospective borrowers to help them make an informed decision before executing the loan contract.
+- The KFS must be written in a language understood by the borrower.
+- Contents of the KFS must be explained to the borrower and acknowledgement obtained.
+- The KFS must have a unique proposal number.
+- The KFS must have validity of at least three working days for loans with tenor of seven days or more.
+- For loans with tenor less than seven days, validity must be at least one working day.
+- The KFS must include APR computation and amortisation schedule over the loan tenor.
+- APR includes interest rate and all charges associated with the credit facility.
+- Charges recovered from borrowers by REs on behalf of third-party service providers, such as insurance or legal charges, form part of APR and must be disclosed separately.
+- If the RE is involved in recovering third-party charges, receipts and related documents must be provided to the borrower for each payment within a reasonable time.
+- Any fees or charges not mentioned in the KFS cannot be charged to the borrower during the loan term without explicit consent.
+- The KFS must be included as a summary box in the loan agreement.
+- Credit card receivables are exempted from this circular.
+- These instructions apply to new retail and MSME term loans sanctioned on or after October 1, 2024.
+
+Implementation notes:
+
+- Add classifier category: `loan_kfs_or_apr_disclosure`.
+- Ask for KFS copy, loan agreement, sanction letter, fee name, fee amount, and whether borrower gave explicit consent.
+- This is highly relevant for digital loans, personal loans, MSME term loans and home loan fee complaints.
+- Do not apply this circular to credit card receivables.

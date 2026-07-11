@@ -1,0 +1,297 @@
+Evaluation of RAG pipelines with Ragas - Langfuse 
+
+Docs 
+
+🐐 Hiring in Europe and SF Looking for GOATS! 
+
+Launch App L 
+
+Get Demo G 
+
+Docs Integrations Self Hosting Guides Academy Workshop AI Engineering Library 
+
+Guides Evaluation of RAG pipelines with Ragas 
+
+Guides 
+Cookbook 
+Overview Error Analysis Evaluation of RAG pipelines with Ragas Run Langchain Evaluations on data in Langfuse Evaluate Langfuse LLM Traces with UpTrain Data Migration Script Example: Langfuse Decorator + OpenAI Integration + Langchain Integration Evaluating Multi-Turn Conversations Example - Tracing and Evaluation for the OpenAI-Agents SDK External Evaluation Pipelines Guide - Building an intent classification pipeline Example - Trace and Evaluate LangGraph Agents Example: Monitoring LLM Security Metrics API v2 Example: Multi-modality and attachments Agent Evaluation - How to Evaluate LLM Agents Evaluating Multi-Turn Conversations (Simulation) Synthetic Datasets Amazon Bedrock Anthropic (Python) Langfuse Tracing and Prompt Management for Azure OpenAI and Langchain Databricks Cookbook: Langchain Integration (Python) Open Source Observability for LangGraph Langserve Cookbook - LiteLLM (Proxy) + Langfuse OpenAI Integration + Python Decorator Cookbook LlamaIndex Integration Cookbook LlamaIndex Integration (Instrumentation Module) Cookbook: LlamaIndex & Milvus Integration LlamaIndex Monitoring LlamaIndex applications with PostHog and Langfuse LlamaIndex Workflows OpenAI Assistants API Cookbook - OpenAI Integration (Python) Observe OpenAI Structured Outputs with Langfuse Anthropic (JS/TS) Langchain Integration (JS/TS) LiteLLM (Proxy) + Langfuse OpenAI Integration (JS/TS) OpenAI Integration (JS/TS) JS/TS SDK Example Prompt Management with Langchain (JS) Langfuse SDK Performance Test Tracing using the OpenInference SDK MLflow Integration via OpenTelemetry OpenLIT Integration via OpenTelemetry OpenLLMetry Integration via OpenTelemetry Example - Langfuse Prompt Management with Langchain (Python) Example: Langfuse Prompt Management for OpenAI functions (Python) Prompt Management Performance Benchmark 
+
+Videos 
+
+Evaluation of RAG pipelines with Ragas 
+
+Guides Cookbook Evaluation of RAG pipelines with Ragas 
+
+Copy page 
+
+This is a Jupyter notebook 
+
+Open on GitHub 
+
+Run on Google Colab 
+
+Evaluation of RAG pipelines with Ragas 
+
+Langfuse offers the feature to score your traces and spans. They can be used in multiple ways across Langfuse: 
+
+Displayed on trace to provide a quick overview 
+
+Segment all execution traces by scores to e.g. find all traces with a low-quality score 
+
+Analytics: Detailed score reporting with drill downs into use cases and user segments 
+
+Ragas is an open-source tool that can help you run Model-Based Evaluation on your traces/spans, especially for RAG pipelines. Ragas can perform reference-free evaluations of various aspects of your RAG pipeline. Because it is reference-free you don't need ground-truths when running the evaluations and can run it on production traces that you've collected with Langfuse. 
+
+The Environment 
+
+import os # Get keys for your project from the project settings page: https://cloud.langfuse.com os.environ.setdefault( "LANGFUSE_PUBLIC_KEY" , "pk-lf-..." ) os.environ.setdefault( "LANGFUSE_SECRET_KEY" , "sk-lf-..." ) os.environ.setdefault( "LANGFUSE_BASE_URL" , "https://cloud.langfuse.com" ) # 🇪🇺 EU region # Other Langfuse data regions include 🇺🇸 US: https://us.cloud.langfuse.com, 🇯🇵 Japan: https://jp.cloud.langfuse.com and ⚕️ HIPAA: https://hipaa.cloud.langfuse.com # Your openai key os.environ.setdefault( "OPENAI_API_KEY" , "sk-proj-" ) 
+
+% pip install langfuse datasets ragas llama_index python - dotenv openai -- upgrade 
+
+The Data 
+
+For this example, we are going to use a dataset that has already been prepared by querying a RAG system and gathering its outputs. See below for instruction on how to fetch your production data from Langfuse. 
+
+The dataset contains the following columns 
+
+question : list[str] - These are the questions your RAG pipeline will be evaluated on. 
+
+answer : list[str] - The answer generated from the RAG pipeline and given to the user. 
+
+contexts : list[list[str]] - The contexts which were passed into the LLM to answer the question. 
+
+ground_truths : list[list[str]] - The ground truth answer to the questions. However, this can be ignored for online evaluations since we will not have access to ground-truth data in our case. 
+
+from datasets import load_dataset fiqa_eval = load_dataset( "explodinggradients/fiqa" , "ragas_eval" )[ 'baseline' ] fiqa_eval 
+
+Dataset({ features: ['question', 'ground_truths', 'answer', 'contexts'], num_rows: 30 }) 
+
+The Metrics 
+
+For going to measure the following aspects of a RAG system. These metric are from the Ragas library: 
+
+faithfulness : This measures the factual consistency of the generated answer against the given context. 
+
+answer_relevancy : Answer Relevancy, focuses on assessing how pertinent the generated answer is to the given prompt. 
+
+context precision : Context Precision is a metric that evaluates whether all of the ground-truth relevant items present in the contexts are ranked high. Ideally all the relevant chunks must appear at the top ranks. This metric is computed using the question and the contexts, with values ranging between 0 and 1, where higher scores indicate better precision. 
+
+Checkout the RAGAS documentation to know more about these metrics and how they work. 
+
+# import metrics from ragas.metrics import ( Faithfulness, ResponseRelevancy, LLMContextPrecisionWithoutReference, ) # metrics you chose metrics = [ Faithfulness(), ResponseRelevancy(), LLMContextPrecisionWithoutReference(), ] 
+
+Now you have to initialize the metrics with LLMs and Embeddings of your choice. In this example we are going to use OpenAI. 
+
+from ragas.run_config import RunConfig from ragas.metrics.base import MetricWithLLM, MetricWithEmbeddings # util function to init Ragas Metrics def init_ragas_metrics ( metrics , llm , embedding ): for metric in metrics: if isinstance (metric, MetricWithLLM): metric.llm = llm if isinstance (metric, MetricWithEmbeddings): metric.embeddings = embedding run_config = RunConfig() metric.init(run_config) 
+
+from langchain_openai.chat_models import ChatOpenAI from langchain_openai.embeddings import OpenAIEmbeddings # wrappers from ragas.llms import LangchainLLMWrapper from ragas.embeddings import LangchainEmbeddingsWrapper llm = ChatOpenAI() emb = OpenAIEmbeddings() init_ragas_metrics( metrics, llm = LangchainLLMWrapper(llm), embedding = LangchainEmbeddingsWrapper(emb), ) 
+
+The Setup 
+
+You can use model-based evaluation with Ragas in 2 ways 
+
+Score each Trace: This means you will run the evaluations for each trace item. This gives you much better idea since of how each call to your RAG pipelines is performing but can be expensive 
+
+Score as Batch: In this method we will take a random sample of traces on a periodic basis and score them. This brings down cost and gives you a rough estimate the performance of your app but can miss out on important samples. 
+
+In this cookbook, we'll show you how to setup both. 
+
+Score with Trace 
+
+Lets take a small example of a single trace and see how you can score that with Ragas. First lets load the data 
+
+row = fiqa_eval[ 0 ] row[ 'question' ], row[ 'answer' ] 
+
+('How to deposit a cheque issued to an associate in my business into my business account?', '\nThe best way to deposit a cheque issued to an associate in your business into your business account is to open a business account with the bank. You will need a state-issued "dba" certificate from the county clerk\'s office as well as an Employer ID Number (EIN) issued by the IRS. Once you have opened the business account, you can have the associate sign the back of the cheque and deposit it into the business account.') 
+
+Now lets init a Langfuse client SDK to instrument you app. 
+
+from langfuse import get_client langfuse = get_client() 
+
+# Verify connection if langfuse.auth_check(): print ( "Langfuse client is authenticated and ready!" ) else : print ( "Authentication failed. Please check your credentials and host." ) 
+
+Langfuse client is authenticated and ready! 
+
+Here we are defining a utility function to score your trace with the metrics you chose. 
+
+from ragas.dataset_schema import SingleTurnSample async def score_with_ragas ( query , chunks , answer ): scores = {} for m in metrics: sample = SingleTurnSample( user_input = query, retrieved_contexts = chunks, response = answer, ) print ( f "calculating { m.name } " ) scores[m.name] = await m.single_turn_ascore(sample) return scores 
+
+You compute the score with each request. Below I've outlined a dummy application that does the following steps 
+
+gets a question from the user 
+
+fetch context from the database or vector store that can be used to answer the question from the user 
+
+pass the question and the contexts to the LLM to generate the answer 
+
+All these step are logged as spans in a single trace in langfuse. You can read more about traces and spans from the langfuse documentation . 
+
+# start a new trace when you get a question question = row[ 'question' ] contexts = row[ 'contexts' ] answer = row[ 'answer' ] with langfuse.start_as_current_observation( as_type = "span" , name = "rag" ) as trace: # Store trace_id for later use trace_id = trace.trace_id # retrieve the relevant chunks # chunks = get_similar_chunks(question) # pass it as span with trace.start_as_current_observation( name = "retrieval" , input = { 'question' : question}, output = { 'contexts' : contexts} ): pass # use llm to generate a answer with the chunks # answer = get_response_from_llm(question, chunks) with trace.start_as_current_observation( name = "generation" , input = { 'question' : question, 'contexts' : contexts}, output = { 'answer' : answer} ): pass # compute scores for the question, context, answer tuple ragas_scores = await score_with_ragas(question, contexts, answer) print ( "RAGAS Scores:" , ragas_scores) ragas_scores 
+
+calculating faithfulness calculating answer_relevancy calculating llm_context_precision_without_reference RAGAS Scores: {'faithfulness': 0.8, 'answer_relevancy': np.float64(0.9825100521118072), 'llm_context_precision_without_reference': 0.9999999999} {'faithfulness': 0.8, 'answer_relevancy': np.float64(0.9825100521118072), 'llm_context_precision_without_reference': 0.9999999999} 
+
+Once the scores are computed you can add them to the trace in Langfuse: 
+
+# send the scores # Use the trace_id stored from the previous cell for m in metrics: langfuse.create_score( name = m.name, value = ragas_scores[m.name], trace_id = trace_id ) 
+
+Note that the scoring is blocking so make sure that you sent the generated answer before waiting for the scores to get computed. Alternatively you can run score_with_ragas() in a separate thread and pass in the trace_id to log the scores. 
+
+Or you can consider 
+
+Scoring as batch 
+
+Scoring each production trace can be time-consuming and costly depending on your application architecture and traffic. In that case, it's better to start off with a batch scoring method. Decide a timespan you want to run the batch process and the number of traces you want to sample from that time slice. Create a dataset and call ragas.evaluate to analyze the result. 
+
+You can run this periodically to keep track of how the scores are changing across timeslices and figure out if there are any discrepancies. 
+
+To create demo data in Langfuse, lets first create ~10 traces with the fiqa dataset. 
+
+# fiqa traces for interaction in fiqa_eval.select( range ( 10 , 20 )): question = interaction[ 'question' ] contexts = interaction[ 'contexts' ] answer = interaction[ 'answer' ] with langfuse.start_as_current_observation( as_type = "span" , name = "rag" ) as trace: with trace.start_as_current_observation( name = "retrieval" , input = { 'question' : question}, output = { 'contexts' : contexts} ): pass with trace.start_as_current_observation( name = "generation" , input = { 'question' : question, 'contexts' : contexts}, output = { 'answer' : answer} ): pass # await that Langfuse SDK has processed all events before trying to retrieve it in the next step langfuse.flush() 
+
+Now that the dataset is uploaded to langfuse you can retrieve it as needed with this handy function. 
+
+def get_traces ( name = None , limit = None , user_id = None ): all_data = [] page = 1 while True : response = langfuse.api.trace.list( name = name, page = page, user_id = user_id ) if not response.data: break page += 1 all_data.extend(response.data) if len (all_data) > limit: break return all_data[:limit] 
+
+from random import sample NUM_TRACES_TO_SAMPLE = 3 traces = get_traces( name = 'rag' , limit = 5 ) traces_sample = sample(traces, NUM_TRACES_TO_SAMPLE ) len (traces_sample) 
+
+3 
+
+Now lets make a batch and score it. Ragas uses huggingface dataset object to build the dataset and run the evaluation. If you run this on your own production data, use the right keys to extract the question, contexts and answer from the trace 
+
+# score on a sample from random import sample evaluation_batch = { "question" : [], "contexts" : [], "answer" : [], "trace_id" : [], } for t in traces_sample: observations = [langfuse.api.observations.get(o) for o in t.observations] for o in observations: if o.name == 'retrieval' : question = o.input[ 'question' ] contexts = o.output[ 'contexts' ] if o.name == 'generation' : answer = o.output[ 'answer' ] evaluation_batch[ 'question' ].append(question) evaluation_batch[ 'contexts' ].append(contexts) evaluation_batch[ 'answer' ].append(answer) evaluation_batch[ 'trace_id' ].append(t.id) 
+
+# run ragas evaluate from datasets import Dataset from ragas import evaluate from ragas.metrics import Faithfulness, ResponseRelevancy ds = Dataset.from_dict(evaluation_batch) r = evaluate(ds, metrics = [Faithfulness(), ResponseRelevancy()]) 
+
+Evaluating: 0%| | 0/6 [00:00<?, ?it/s] 
+
+And that is it! You can see the scores over a time period. 
+
+r 
+
+{'faithfulness': 0.5516, 'answer_relevancy': 0.9294} 
+
+You can also push the scores back into Langfuse or use the exported pandas dataframe to run further analysis. 
+
+df = r.to_pandas() # add the langfuse trace_id to the result dataframe df[ "trace_id" ] = ds[ "trace_id" ] df.head() 
+
+.dataframe tbody tr th { vertical-align: top; } .dataframe thead th { text-align: right; } 
+
+for _, row in df.iterrows(): for metric_name in [ "faithfulness" , "answer_relevancy" ]: langfuse.create_score( name = metric_name, value = row[metric_name], trace_id = row[ "trace_id" ] ) 
+
+Was this page helpful? 
+
+Good 
+
+Bad 
+
+Support 
+
+Last edited 
+
+Previous Error Analysis 
+
+Next Run Langchain Evaluations on data in Langfuse 
+
+GitHub Discord X YouTube LinkedIn 
+
+Product 
+
+Observability 
+
+Prompt Management 
+
+Evaluations 
+
+Metrics 
+
+Langfuse for Agents 
+
+Playground 
+
+Pricing 
+
+Enterprise 
+
+Developers 
+
+Documentation 
+
+Self-Hosting 
+
+SDKs 
+
+Integrations 
+
+API Reference 
+
+Status 
+
+Talk to Us 
+
+Resources 
+
+Blog 
+
+Changelog 
+
+Roadmap 
+
+Interactive Demo 
+
+Customers 
+
+AI Engineering Library 
+
+Workshop 
+
+Guides & Cookbooks 
+
+Company 
+
+About Us 
+
+Careers 
+
+Handbook 
+
+Press 
+
+Security 
+
+Support 
+
+Open source 
+
+Terms 
+
+Privacy 
+
+Imprint 
+
+Cookie Policy 
+
+© 2022– 2026 Langfuse GmbH 
+
+/ Finto Technologies Inc. 
+
+Design by Altalogy 
+
+On this page 
+
+Evaluation of RAG pipelines with Ragas The Environment The Data The Metrics The Setup Score with Trace Scoring as batch 
+
+Actions 
+
+Give us feedback Edit this page on GitHub 
+
+Contributors 
+
+Last edited 
+
+Milana Gurbanova Jannik Maierhöfer v-mdev + 5 more 
+
+GitHub X 
+
+Ask AI A 
+
+A

@@ -1,0 +1,1926 @@
+FINTRUST AI: ENTERPRISE RISK AND COMPLIANCE COPILOT
+Detailed product and solution proposal for review by seniors, professors, mentors, domain experts, and potential stakeholders
+
+Prepared for: product/technical validation and implementation planning
+Target direction: Modern AI product prototype for financial services support, compliance, risk, and document intelligence
+Suggested duration for MVP: 6 to 8 weeks with disciplined execution
+Suggested positioning: Startup-style AI/RAG solution for source-grounded financial-services knowledge work
+
+
+1. EXECUTIVE SUMMARY
+
+Project name:
+FinTrust AI: Enterprise Risk and Compliance Copilot
+
+One-line description:
+FinTrust AI is a live AI application that helps a financial-services support or compliance team answer policy, customer-service, credit-card, KYC, grievance, and regulatory questions using trusted documents, citations, risk labels, and audit logs.
+
+Simple explanation:
+Instead of building a generic "PDF chatbot", we will build a serious document-intelligence system for a corporate finance use case. A user can ask questions such as:
+
+- What should a customer do if a credit card complaint is not resolved within 30 days?
+- Which document clause supports this answer?
+- Is this complaint related to card fraud, grievance redressal, KYC, fees, chargeback, or service deficiency?
+- Can the system draft a safe support response for a human agent?
+- Is the generated answer fully grounded in retrieved sources?
+
+The system will answer only from trusted documents, show citations, show retrieved source chunks, classify the case, flag risk, and store an audit trail.
+
+The main idea:
+Companies do not want AI systems that only "sound smart." In finance, support, compliance, and risk teams need AI systems that are traceable, explainable, measurable, and safe. FinTrust AI is designed as a focused product prototype for that modern problem.
+
+
+2. WHY THIS PROJECT WAS CHOSEN
+
+This project was chosen because it sits at the intersection of:
+
+1. Real enterprise pain point
+2. Strong need for trustworthy AI in regulated workflows
+3. Practical public data availability
+4. Achievable 1-2 month MVP scope
+5. Startup/product potential
+6. Technically deep but explainable architecture
+
+The problem is not a lack of chatbots. The problem is that most AI assistants are not reliable enough for document-heavy financial workflows where answers need sources, auditability, and human review. FinTrust AI is chosen because it addresses this gap directly.
+
+Why not choose a generic project?
+
+Generic options like "basic chatbot", "movie recommender", "fake news detector", or "stock price predictor" are common. They can still be useful for learning, but they often do not solve an urgent operational problem unless executed at a very high level.
+
+FinTrust AI is stronger because it is:
+
+- Domain-specific
+- Corporate-relevant
+- AI/ML + backend + product combined
+- Useful in regulated industries
+- Easy to explain to non-technical seniors
+- Deep enough for technical/product review
+- Possible to make live within 6-8 weeks
+- Connected to real business workflows like customer support, compliance review, risk analysis, policy QA, and audit documentation
+
+
+3. IS THIS REALLY NEEDED OR JUST A PROJECT?
+
+Honest answer:
+This is genuinely needed as a type of solution, but the first version should be treated as an MVP/prototype, not a production system ready for a bank.
+
+Why the need is real:
+
+Financial institutions, banks, fintech companies, insurance companies, card issuers, and enterprise compliance teams deal with many documents:
+
+- Regulatory guidelines
+- Internal policies
+- Customer complaint rules
+- Credit card terms
+- KYC/AML policies
+- Product documentation
+- Audit notes
+- Support knowledge bases
+- Customer complaint histories
+- Case resolution procedures
+
+Employees often need to search through long documents to answer questions. A wrong answer can create customer dissatisfaction, compliance risk, audit issues, or regulatory problems. Because of this, companies are interested in AI systems that can retrieve trusted information, generate answers, show citations, and keep audit logs.
+
+Research support:
+
+- Amazon Finance has described a generative AI system for regulatory inquiry handling using RAG, vector storage, Claude Sonnet, conversation history, and observability.
+- Stripe compliance-related agentic AI discussions emphasize human oversight, transparency, audit trails, and documented actions.
+- Financial AI explainability discussions repeatedly mention prompt/output logging, retrieved-source tracing, model versioning, and human review checkpoints.
+- American Express AI roles mention production-grade RAG over sensitive financial data, agentic workflows, evaluation, security, reliability, auditability, and compliance.
+- Public banking/customer complaint datasets and RBI public documents make a realistic prototype possible without using private data.
+
+Why the prototype is still valuable:
+
+We will not claim that the first prototype is ready for real customer deployment. That would be dishonest. Instead, we will say:
+
+"This is an MVP prototype that demonstrates how an enterprise-style financial RAG system could be designed with source grounding, risk classification, evaluation, and auditability."
+
+A stronger product-facing version of the same statement is:
+
+"This MVP demonstrates a source-grounded financial document intelligence workflow for support, risk, and compliance teams, with citations, risk labels, human review, and audit logging."
+
+That is a credible and impressive claim.
+
+Where it has real importance:
+
+- Customer support teams can use similar systems to find policy answers faster.
+- Compliance teams can use similar systems to review rules and prepare answers.
+- Risk teams can use similar systems to classify and prioritize complaints.
+- Internal employees can use similar systems as a knowledge assistant.
+- Auditors and reviewers need traces showing why an answer was generated.
+
+Where we must be careful:
+
+- It must not provide final legal, financial, tax, or regulatory advice.
+- It must not make automated decisions about real customers.
+- It must not use private bank/customer data.
+- It must include disclaimers.
+- It must keep humans in the loop.
+- It must show citations and uncertainty.
+
+
+4. EXACT PROBLEM STATEMENT
+
+Problem:
+Financial service teams spend time searching long policy and regulatory documents to answer customer support, compliance, and grievance questions. Generic LLMs can produce fluent but unsupported answers. In regulated environments, unsupported answers are risky because teams need source-backed, auditable, and consistent responses.
+
+Proposed solution:
+Build a web application where a user can ask finance-support or compliance questions. The system retrieves relevant source passages from trusted public documents, generates a grounded answer, displays citations, classifies the query type, flags risk level, drafts a human-reviewable response, and stores an audit trail of the interaction.
+
+Target users for prototype:
+
+- Customer support analyst
+- Compliance associate
+- Risk operations analyst
+- Founder or builder exploring financial AI systems
+- Professor/mentor reviewing applied GenAI project
+- Product/technical stakeholder reviewing feasibility
+
+Example user journeys:
+
+1. Compliance question:
+User asks: "If a credit card issuer does not resolve a customer complaint within 30 days, what can the customer do?"
+System retrieves relevant RBI Ombudsman and credit card grievance rules, answers with citations, and says this is a grievance-redressal issue.
+
+2. Support ticket classification:
+User pastes: "My credit card was charged an annual fee that was not disclosed and support has not replied for 40 days."
+System classifies it as "fees + grievance redressal", gives a risk level, retrieves relevant clauses, and drafts a polite response for a human agent.
+
+3. KYC/identity query:
+User asks: "Why is a bank asking for updated KYC documents?"
+System retrieves KYC-related document chunks and explains in simple language with citation.
+
+4. Unsupported question:
+User asks: "Which bank will approve my loan?"
+System should refuse or say insufficient source context, because the documents do not support that answer.
+
+
+5. WHAT EXACTLY THE PROJECT WILL SOLVE
+
+The project solves these practical sub-problems:
+
+1. Document search problem
+Long financial/regulatory documents are hard to search manually. RAG helps retrieve relevant paragraphs based on semantic meaning, not only keyword matching.
+
+2. Hallucination problem
+LLMs can invent answers. RAG reduces this risk by grounding answers in retrieved documents. Citations and source chunks make the answer checkable.
+
+3. Support consistency problem
+Different agents may answer the same policy question differently. A grounded assistant can provide more consistent draft responses.
+
+4. Complaint classification problem
+Customer complaints need routing: fraud, KYC, refund, card issue, grievance, fees, chargeback, transfer issue, etc. A classifier can help prioritize and route.
+
+5. Auditability problem
+Finance and compliance teams need to know: who asked what, which sources were used, what answer was generated, and when. Audit logs address this.
+
+6. Evaluation problem
+Many AI demos only "look good." This project will measure quality using a test set and RAG metrics such as answer relevance, faithfulness, context precision, and latency.
+
+
+6. PROJECT SCOPE
+
+Recommended final scope for 6-8 weeks:
+
+Core modules:
+
+1. Document ingestion
+Upload or load PDFs, web pages, or text documents.
+
+2. Text extraction and cleaning
+Extract readable content from PDFs and HTML sources.
+
+3. Chunking
+Split documents into meaningful chunks with metadata.
+
+4. Embeddings
+Convert chunks into vector representations.
+
+5. Vector database
+Store embeddings and metadata for semantic search.
+
+6. Hybrid retrieval
+Use both vector search and keyword/BM25 search to improve retrieval.
+
+7. Reranking
+Rerank retrieved chunks so the most useful evidence appears first.
+
+8. Answer generation
+Use an LLM to answer only from retrieved context.
+
+9. Citations
+Show source document name, section, page/paragraph if possible, and retrieved text.
+
+10. Query classification
+Classify query/ticket type into categories such as grievance, KYC, card issue, fees, refund, fraud, account issue, transfer issue, unsupported.
+
+11. Risk flag
+Flag low/medium/high risk depending on complaint type, deadline, money loss, fraud terms, or unsupported answer.
+
+12. Draft response
+Generate a human-reviewable response for a customer support agent.
+
+13. Audit log
+Store prompt, retrieved sources, answer, risk label, model, timestamp, latency, and user action.
+
+14. Evaluation dashboard or report
+Show evaluation scores on a 40-50 question test set.
+
+15. Live deployment
+Deploy app and API so reviewers, mentors, and potential stakeholders can test it.
+
+Do not overbuild:
+Do not try to build a full bank system, real authentication, real customer database, or live payment integrations. That would be too risky and too large.
+
+
+7. WHAT MAKES THIS IMPRESSIVE TO REVIEWERS AND STAKEHOLDERS
+
+The project becomes impressive if it demonstrates:
+
+- Real business problem
+- Domain understanding
+- RAG architecture
+- Vector database
+- Backend APIs
+- Evaluation metrics
+- Live deployment
+- Clean documentation
+- Architecture diagram
+- Responsible AI thinking
+- Human-in-the-loop design
+- Source citations
+- Audit logs
+- Tradeoff explanation
+
+Senior reviewers and stakeholders will care whether the builders can explain:
+
+- Why RAG is needed
+- Why not just use ChatGPT directly
+- What vector embeddings are
+- How chunking affects retrieval
+- Why hybrid search may beat pure vector search
+- What reranking does
+- How hallucination is reduced
+- How to evaluate a RAG system
+- What failure cases remain
+- How to deploy safely
+- What would be required for production
+
+
+8. IMPORTANT AI/ML CONCEPTS USED
+
+8.1 Generative AI
+
+Generative AI is used to generate natural-language answers, explanations, summaries, and draft support responses.
+
+In this project, the LLM should not answer freely from memory. It should answer using retrieved source context. This is important because finance/compliance questions require correctness and traceability.
+
+Possible LLM options:
+
+- Gemini API
+- Groq-hosted Llama models
+- OpenAI API if available
+- Anthropic Claude API if available
+- Local small models only if hardware allows
+
+8.2 RAG: Retrieval-Augmented Generation
+
+RAG combines retrieval and generation.
+
+Flow:
+
+1. User asks question
+2. System searches trusted document database
+3. Relevant chunks are retrieved
+4. LLM receives question plus retrieved chunks
+5. LLM generates answer grounded in those chunks
+6. System displays answer with citations
+
+Why RAG is useful:
+
+- Reduces hallucination
+- Uses current/domain-specific documents
+- Gives source-backed answers
+- Allows domain knowledge without fine-tuning
+- Makes answers more auditable
+
+8.3 Vector database
+
+A vector database stores embeddings. An embedding is a numeric representation of text meaning.
+
+Example:
+"credit card complaint not resolved" and "grievance pending for 30 days" may not use exactly the same words, but their meanings are related. Vector search can retrieve similar text based on meaning.
+
+Possible vector database choices:
+
+Beginner-friendly:
+- ChromaDB
+- FAISS
+
+More production-like:
+- Qdrant
+- PostgreSQL + pgvector
+
+Recommended:
+Start with ChromaDB for MVP. If time permits, move to Qdrant or pgvector to look more production-ready.
+
+8.4 Hybrid search
+
+Vector search is good for semantic meaning. Keyword search is good for exact terms like "KYC", "Ombudsman", "30 days", "chargeback", "AML".
+
+Hybrid search combines both:
+
+- Dense retrieval: embeddings/vector similarity
+- Sparse retrieval: BM25/keyword search
+
+Why it matters:
+In finance and compliance, exact words and legal terms matter. Hybrid search can retrieve better evidence than vector search alone.
+
+8.5 Reranking
+
+Initial retrieval may return 10-20 chunks. A reranker scores which chunks are most relevant to the exact question.
+
+Possible reranker:
+- sentence-transformers cross-encoder
+- Cohere rerank if API available
+- BGE reranker if local setup works
+
+Why it matters:
+Reranking often improves answer quality by putting the best evidence at the top.
+
+8.6 Classification
+
+The system can classify user tickets into categories:
+
+- Grievance redressal
+- Credit card fees
+- Fraud or unauthorized transaction
+- KYC/identity
+- Refund/chargeback
+- Account issue
+- Transfer issue
+- Unsupported/out-of-scope
+
+Implementation options:
+
+1. Rule-based classifier for MVP
+2. Zero-shot LLM classifier
+3. Fine-tuned/supervised classifier using BANKING77 or CFPB complaint data
+
+Recommended:
+Start with rules + LLM classifier. Add a simple scikit-learn classifier if time permits.
+
+8.7 Evaluation
+
+Evaluation is what separates this project from a basic demo.
+
+Metrics to track:
+
+- Retrieval precision: Are retrieved chunks relevant?
+- Context recall: Did retrieval find the needed information?
+- Faithfulness: Is the answer supported by retrieved context?
+- Answer relevancy: Does the answer address the question?
+- Latency: How long does the answer take?
+- Unsupported-answer rate: How often does it refuse when sources are insufficient?
+
+Tools:
+
+- RAGAS
+- DeepEval
+- Manual evaluation spreadsheet
+- pytest tests for fixed examples
+
+Minimum evaluation:
+Create 40-50 test questions with expected source documents and run before/after comparisons:
+
+- Baseline: vector search only
+- Improved version: hybrid search + reranking
+
+This allows a concrete product-validation claim:
+"Hybrid retrieval plus reranking improved source selection over vector-only retrieval on a 50-question finance-policy evaluation set."
+
+
+9. DATA SOURCES
+
+Use only public and legally usable data. Do not scrape private customer data or confidential documents.
+
+9.1 Source strategy
+
+The source corpus should be divided into four layers:
+
+Layer 1: Authoritative regulatory sources
+These should be treated as the highest-trust sources for answers. Examples:
+
+- RBI credit/debit card issuance and conduct directions
+- RBI KYC / AML / CFT directions
+- RBI Integrated Ombudsman Scheme and FAQs
+- RBI customer-service and grievance-redressal circulars
+- RBI customer protection circulars for unauthorized electronic banking transactions
+- RBI failed-transaction TAT and compensation circulars
+- RBI Internal Ombudsman directions
+- RBI digital lending directions
+- RBI credit information company grievance/compensation directions
+- RBI Charter of Customer Rights / customer-rights review material
+- RBI PPI / wallet unauthorized transaction liability framework
+- RBI recovery-agent / collection-harassment conduct rules
+- RBI payment aggregator dispute management and refund rules
+- RBI Online Dispute Resolution (ODR) system for digital payments
+- RBI digital payment security / tokenisation / account-aggregator consent references
+- RBI Ombudsman annual reports for complaint category taxonomy
+- RBI deposit account operation and service-charge directions
+- RBI cheque collection and delayed clearing compensation guidance
+- RBI RTGS / NEFT / IMPS dispute and compensation FAQs
+- RBI safe deposit locker directions and deceased customer claim settlement directions
+- Public bank customer compensation policies and depositor rights policies
+- RBI loan penal charges, Key Facts Statement, floating-rate EMI reset and fair-lending sources
+- RBI BBPS, NACH, AePS and other payment-system dispute sources
+- RBI UDGAM / unclaimed deposit and DICGC deposit insurance sources
+- RBI senior citizen, differently-abled and visually impaired banking facility sources
+- RBI fraud-awareness and Sachet unauthorized-deposit reporting sources
+- RBI loan penal charges, floating-rate reset, BBPS, NACH, AePS, UDGAM, DICGC, accessibility, and fraud-awareness sources should be treated as advanced banking modules after the core card/UPI/Ombudsman MVP.
+
+Layer 2: Official bank / regulated-entity public documents
+These should be used for institution-specific workflows, not as universal rules. Examples:
+
+- HDFC, Axis, ICICI, SBI Card, Kotak, IDFC FIRST, IndusInd, RBL, YES Bank, and Standard Chartered public credit-card MITC documents
+- Public grievance redressal policies
+- Public compensation frameworks
+- Public support/escalation pages
+- Public nodal officer / principal nodal officer escalation material
+
+Layer 3: Public product/network documents
+These support UPI/payment use cases. Examples:
+
+- NPCI UPI Help guidelines
+- NPCI UPI Help Assistant pilot documents
+- NPCI chargeback / UDIR / dispute redressal references
+- Official UPI circulars where downloadable
+
+Layer 4: Dataset and research references
+These are not final-answer policy sources. Use them for classification, evaluation, product design, and architecture:
+
+- BANKING77 for banking intent classification
+- CFPB Consumer Complaint Database for complaint taxonomy and public complaint examples
+- RAGAS / Langfuse references for evaluation
+- Enterprise AI architecture references from AWS, Stripe, American Express, Dataiku, etc.
+
+Layer 5: Insurance expansion sources
+Insurance is a valid adjacent problem area, but it should be implemented as a separate module or second index, not mixed blindly into the first banking/UPI corpus. Insurance has different regulators, complaint routes, claim documents, timelines, exclusions, and policy wording conventions.
+
+Useful insurance source categories:
+
+- IRDAI policyholder protection and grievance redressal regulations
+- IRDAI master circulars on health insurance business
+- Insurance Ombudsman Rules and FAQs
+- Bima Bharosa / IRDAI grievance complaint process
+- Health insurance cashless and reimbursement claim documents
+- Customer Information Sheet (CIS) and standard exclusions in health insurance
+- Arogya Sanjeevani standard health insurance policy examples
+- Saral Jeevan Bima standard term life insurance policy examples
+- Motor insurance claim guidance, own damage, third party, theft claims
+- Bharat Griha Raksha / home insurance standard wordings
+
+Recommended insurance submodules:
+
+1. Health insurance claim assistant
+Use for: cashless vs reimbursement, network hospital, TPA, claim documents, exclusions, pre-existing disease waiting periods, OPD claim limitations, claim rejection explanation.
+
+2. Term/life insurance claim assistant
+Use for: death claim documents, nominee/assignee, death certificate, original policy, waiting period, accidental vs non-accidental death in standard term products.
+
+3. Motor/car insurance claim assistant
+Use for: own damage, third-party claim, theft claim, FIR/police intimation, RC copy, repair estimate, cashless garage, non-traceable certificate.
+
+4. Property/home insurance claim assistant
+Use for: fire/flood/theft/property damage, immediate intimation, surveyor, proof of loss, claim form, Bharat Griha Raksha coverage and exclusions.
+
+5. Insurance grievance assistant
+Use for: insurer GRO, IRDAI/Bima Bharosa, Insurance Ombudsman, one-month insurer response condition, claim delay, claim repudiation, policy servicing complaint.
+
+Scope warning:
+If insurance is added, the product should become a broader "Financial Services Trust Copilot" rather than only a banking compliance copilot. For the first MVP, either keep insurance out, or build it as a separate tab/index called "Insurance Claims". Do not let banking RBI rules answer insurance IRDAI questions.
+
+9.1A Pending source acquisition plan
+
+This section is a deliberate stop to random source collection. The corpus is already large enough to begin implementation, but the following documents are still worth acquiring if the goal is to build a very strong production-style source base.
+
+Priority definitions:
+
+- P0: Must-have or near must-have for a serious MVP workflow. These unlock important user journeys.
+- P1: Strongly useful. These improve coverage, evaluation, and edge-case handling.
+- P2: Useful later. Mostly insurer/bank-specific duplication, additional examples, or advanced product breadth.
+
+Important rule:
+Do not download every P1/P2 file before coding. First download/clean P0 sources, build ingestion, then add P1/P2 only when evaluation shows missing answers.
+
+P0 - Highest priority pending sources
+
+1. RBI reset of floating interest rate on EMI-based personal loans circular
+   - Search/download: `RBI Reset of Floating Interest Rate on EMI based Personal Loans August 18 2023`
+   - Why needed: Home-loan EMI/tenor change complaints are common and high-value.
+   - Use case: "My bank increased my EMI or extended tenure without explaining options."
+
+2. RBI FAQ on reset of floating interest rate on EMI-based personal loans
+   - Search/download: `FAQRFIR10012025.pdf RBI`
+   - Why needed: FAQ gives plain-language implementation details.
+   - Use case: options to increase EMI, extend tenor, prepay, or switch fixed rate where offered.
+
+3. RBI Interest Rate on Advances Directions, 2016 and amendments
+   - Search/download: `RBI Interest Rate on Advances Directions 2016 MCLR external benchmark`
+   - Why needed: broader interest-rate and loan pricing foundation.
+   - Use case: interest-rate reset, MCLR, external benchmark, loan-rate complaints.
+
+4. RBI Fair Lending Practice - Penal Charges in Loan Accounts PDF / final circular
+   - Search/download: `RBI Fair Lending Practice Penal Charges in Loan Accounts PDF`
+   - Why needed: hidden/extra loan charges and penal interest complaints are common.
+   - Use case: "Bank charged penal interest on my loan."
+
+5. RBI KFS for Loans and Advances circular with annexures
+   - Search/download: `RBI Key Facts Statement KFS Loans Advances circular 2024 Annex`
+   - Why needed: KFS/APR/undisclosed charges workflow.
+   - Use case: "Charge was not disclosed in KFS."
+
+6. RBI Fraud Risk Management in Commercial Banks Master Directions, 2024
+   - Search/download: `RBI Master Directions Fraud Risk Management Commercial Banks 2024`
+   - Why needed: supports fraud reporting, monitoring, and classification context.
+   - Use case: bank-side fraud/risk workflow, not final customer liability.
+
+7. RBI BE(A)WARE booklet original PDF
+   - URL found: `https://rbidocs.rbi.org.in/rdocs/content/pdfs/BEAWARE07032022.pdf`
+   - Why needed: fraud typology and user-friendly scam examples.
+   - Use case: phishing, fake KYC, OTP, UPI collect request, screen-sharing app scams.
+
+8. RBI Financial Awareness Messages (FAME) PDF
+   - Search/download: `RBI FAME 2024 financial awareness messages PDF`
+   - Why needed: clean fraud-awareness and DICGC/UDGAM messaging.
+   - Use case: safe-response templates and user education cards.
+
+9. RBI / NPCI BBPS Master Direction and BBPS dispute framework
+   - Search/download: `RBI Bharat Bill Payment System Directions 2024 complaint management`
+   - Why needed: bill-payment disputes are distinct from UPI transfer disputes.
+   - Use case: "Electricity bill paid but not updated."
+
+10. RBI / NPCI Online Dispute Resolution full circular PDF
+   - Search/download: `RBI Online Dispute Resolution System for Digital Payments PDF 2020`
+   - Why needed: core workflow for app-based dispute creation and tracking.
+   - Use case: UPI app dispute, ODR reference number, failed payment flow.
+
+11. NPCI UDIR / UPI dispute redressal operational circulars
+   - Search/download: `site:npci.org.in UDIR UPI complaint resolution circular PDF`
+   - Why needed: UPI dispute lifecycle and complaint reason codes.
+   - Use case: UPI pending/failed/refund complaint routing.
+
+12. NPCI RuPay dispute / chargeback public documents
+   - Search/download: `site:npci.org.in RuPay chargeback dispute rules PDF`
+   - Why needed: card disputes and chargeback workflows are currently under-covered.
+   - Use case: debit/credit card transaction disputed with merchant.
+
+13. RBI Customer Service in Banks latest Master Circular / Master Direction
+   - Search/download: `RBI Customer Service in Banks Master Direction 2025`
+   - Why needed: broad retail-banking anchor source.
+   - Use case: branch service, deposit, cheque, accessibility, grievance.
+
+14. RBI Charter of Customer Rights / Model Customer Rights Policy
+   - Search/download: `RBI Charter of Customer Rights Model Customer Rights Policy PDF`
+   - Why needed: product principles and responsible answer framing.
+   - Use case: fair treatment, transparency, privacy, grievance rights.
+
+15. RBI Deceased Customer Claims Directions 2025 final PDF
+   - Search/download: `RBI Settlement of Claims in respect of Deceased Customers of Banks Directions 2025 PDF`
+   - Why needed: legal heir/nominee workflow.
+   - Use case: "My father passed away, how do I claim bank balance?"
+
+16. RBI Safe Deposit Locker Directions final PDF
+   - Search/download: `RBI Safe Deposit Locker Safe Custody Article Directions 2025`
+   - Why needed: locker access/loss/liability complaints.
+   - Use case: locker access after death, locker loss, agreement dispute.
+
+17. RBI UDGAM FAQ PDF and DEA Fund FAQ PDF
+   - Search/download: `FAQ on UDGAM Portal PDF RBI`, `FAQ on DEA Fund Scheme 2014 PDF`
+   - Why needed: unclaimed deposit workflow.
+   - Use case: search UDGAM, UDRN, claim from bank, DEA Fund.
+
+18. DICGC information booklet PDF
+   - URL found: `https://www.dicgc.org.in/sites/default/files/2025-02/dicgc-information-booklet.pdf`
+   - Why needed: deposit insurance and bank failure questions.
+   - Use case: bank under restrictions, Rs. 5 lakh insurance, who pays.
+
+19. IRDAI Master Circular on Health Insurance Business 2024 - English PDF and annexure
+   - Search/download: `IRDAI Master Circular on Health Insurance Business English PDF 2024`
+   - Why needed: if insurance tab is approved, this is a P0 insurance source.
+   - Use case: health claims, cashless, portability, exclusions, claim servicing.
+
+20. IRDAI Master Circular on Protection of Policyholders' Interests 2024 - English PDF
+   - Search/download: `IRDAI Master Circular Protection of Policyholders Interests 2024 English PDF`
+   - Why needed: insurance grievance and claim settlement foundation.
+   - Use case: insurer duties, grievance redressal, claim settlement.
+
+P1 - Strongly useful pending sources
+
+21. RBI Master Direction on Credit Information Companies, 2025
+   - Search/download: `RBI Credit Information Companies Directions 2025 customer grievance`
+   - Use case: wrong CIBIL/credit bureau record, correction delay.
+
+22. RBI CIC compensation framework circular PDF
+   - Search/download: `RBI compensation delayed updation rectification credit information PDF`
+   - Use case: Rs. 100/day after 30 days for credit information correction delay.
+
+23. RBI Account Aggregator latest directions / consent artefact source
+   - Search/download: `RBI Account Aggregator Directions consent artefact grievance`
+   - Use case: consent/privacy complaint about financial data sharing.
+
+24. RBI card tokenisation circulars and FAQs
+   - Search/download: `RBI card tokenisation FAQ explicit consent AFA`
+   - Use case: tokenised card, device loss, card-on-file consent.
+
+25. RBI digital payment security controls directions
+   - Search/download: `RBI Digital Payment Security Controls Directions 2020`
+   - Use case: digital payment safety, fraud reporting, app security.
+
+26. RBI cyber resilience and payment security controls for PSOs
+   - Search/download: `RBI Cyber Resilience Digital Payment Security Controls PSO 2024`
+   - Use case: payment operator obligations and security context.
+
+27. RBI PPI Master Direction latest full PDF
+   - Search/download: `RBI Prepaid Payment Instruments Master Direction 2024 2025`
+   - Use case: wallets, prepaid cards, PPI complaint/liability.
+
+28. RBI PPI unauthorized transaction FAQ / circular PDF
+   - Search/download: `RBI unauthorized electronic payment transactions PPIs FAQ`
+   - Use case: wallet fraud liability.
+
+29. RBI NACH / e-mandate source documents
+   - Search/download: `RBI NACH mandate revocation unauthorized debit complaint`
+   - Use case: EMI/autopay debited after mandate cancellation.
+
+30. RBI AePS fraud/failed transaction guidance
+   - Search/download: `RBI AePS fraud failed transaction customer complaint`
+   - Use case: Aadhaar-enabled withdrawal dispute.
+
+31. NPCI AePS operational/dispute documents
+   - Search/download: `site:npci.org.in AePS dispute redressal circular PDF`
+   - Use case: AePS failed withdrawal/dispute.
+
+32. NPCI BBPS operational complaint documents
+   - Search/download: `site:npci.org.in BBPS complaint management dispute framework`
+   - Use case: bill payment not updated/refund.
+
+33. NPCI UPI chargeback archive data export
+   - Search/download: `NPCI UPI chargeback archive csv`
+   - Use case: analytics/dashboard, not answer grounding.
+
+34. RBI Ombudsman Annual Report 2024-25 PDF
+   - Search/download: `RBI Annual Report Ombudsman Scheme 2024-25 PDF`
+   - Use case: complaint taxonomy and product prioritisation.
+
+35. RBI Ombudsman Annual Report 2023-24 PDF
+   - Search/download: `RBI Annual Report Ombudsman Scheme 2023-24 PDF`
+   - Use case: evaluation categories and statistics.
+
+36. Bank-specific Customer Compensation Policy - HDFC
+   - URL found in search result: HDFC Customer Compensation Policy June 2025.
+   - Use case: HDFC-specific compensation answers.
+
+37. Bank-specific Customer Compensation Policy - ICICI
+   - Source page: `https://www.icicibank.com/customer-service-policies`
+   - Use case: ICICI-specific failed transaction/erroneous debit.
+
+38. Bank-specific Customer Compensation Policy - Axis
+   - Search/download: `Axis Bank Customer Compensation Policy PDF`
+   - Use case: Axis-specific compensation.
+
+39. Bank-specific Customer Compensation Policy - SBI
+   - Search/download: `SBI Customer Rights Grievance Redressal Compensation Policy PDF`
+   - Use case: SBI-specific compensation.
+
+40. Bank-specific Customer Compensation Policy - Kotak
+   - Search/download: `Kotak Customer Compensation Policy PDF`
+   - Use case: Kotak-specific compensation.
+
+41. Bank-specific Customer Compensation Policy - IDFC FIRST
+   - Search/download: `IDFC FIRST Customer Compensation Policy PDF`
+   - Use case: IDFC-specific compensation.
+
+42. Bank-specific Grievance Redressal Policy - Bank of Baroda
+   - Use case: more public-sector bank examples.
+
+43. Bank-specific Grievance Redressal Policy - Canara Bank
+   - Use case: more public-sector bank examples.
+
+44. Bank-specific Grievance Redressal Policy - Punjab National Bank
+   - Use case: more public-sector bank examples.
+
+45. Bank-specific Grievance Redressal Policy - Union Bank of India
+   - Use case: more public-sector bank examples.
+
+46. Bank-specific Grievance Redressal Policy - Federal Bank
+   - Use case: private bank example.
+
+47. Bank-specific Grievance Redressal Policy - AU Small Finance Bank
+   - Use case: SFB example.
+
+48. Bank-specific Grievance Redressal Policy - HSBC India
+   - Use case: foreign bank example.
+
+49. Bank-specific Grievance Redressal Policy - Standard Chartered India, full card MITC documents
+   - Use case: foreign bank/card example.
+
+50. ICICI Customer Service Policies full PDF set
+   - Source page lists: grievance, cheque collection, collection dues, customer rights, deposit, customer relations, compensation, deceased depositors.
+   - Use case: excellent bank-specific training set.
+
+P2 - Useful later or only if expanding product breadth
+
+51. Bank-specific cheque collection policies for top 10 banks
+   - Use case: cheque delay claims.
+
+52. Bank-specific deposit policies for top 10 banks
+   - Use case: minimum balance, account closure, inoperative account.
+
+53. Bank-specific collection/recovery-agent policies for top 10 banks
+   - Use case: harassment complaints.
+
+54. Bank-specific deceased depositor claim policies for top 10 banks
+   - Use case: nominee/legal heir workflows.
+
+55. Bank-specific safe deposit locker policies for top 10 banks
+   - Use case: locker access/loss workflows.
+
+56. Bank-specific debit card MITC documents for top 10 banks
+   - Use case: debit card dispute, ATM transaction.
+
+57. Bank-specific digital lending partner pages for major banks/NBFCs
+   - Use case: app/LSP complaint routing.
+
+58. RBI Master Direction for NBFC Responsible Business Conduct, final PDF
+   - Use case: NBFC loan and recovery complaints.
+
+59. RBI Microfinance loan directions and recovery conduct
+   - Use case: microfinance harassment complaints.
+
+60. RBI education loan FAQ / grievance sources
+   - Use case: education loan disputes.
+
+61. RBI FEMA/remittance customer FAQ
+   - Use case: foreign remittance complaint; lower priority.
+
+62. RBI CTS / cheque truncation / positive pay circulars
+   - Use case: cheque fraud / positive pay issues.
+
+63. NPCI NACH mandate management docs
+   - Use case: autopay/mandate disputes.
+
+64. NPCI BBPS reason-code / complaint reason-code docs
+   - Use case: bill-payment classifier.
+
+65. NPCI UPI error-code / response-code public docs
+   - Use case: technical failure classifier if public.
+
+66. RuPay credit card on UPI public docs
+   - Use case: card-UPI hybrid disputes.
+
+67. Visa / Mastercard public dispute or chargeback guides
+   - Use case: card dispute understanding; may be non-public or generic.
+
+68. CFPB full complaint dataset or sampled export
+   - Use case: complaint taxonomy/classification training; not Indian regulation.
+
+69. BANKING77 actual dataset files via Hugging Face `datasets`
+   - Use case: intent classification baseline.
+
+70. Indian consumer complaint forum examples
+   - Use case: synthetic user language only, never policy grounding.
+
+71. Bima Bharosa portal FAQ and IRDAI grievance-contact pages
+   - Use case: insurance complaint module.
+
+72. Council for Insurance Ombudsmen office/contact list
+   - Use case: insurance escalation by location.
+
+73. IRDAI final policyholder protection regulation PDF
+   - Use case: insurance claim/grievance authority.
+
+74. IRDAI standard health product PDFs: Arogya Sanjeevani and standard exclusions
+   - Use case: insurance health claim assistant.
+
+75. IRDAI standard motor/home product wordings
+   - Use case: insurance motor/property assistant.
+
+What to download first:
+
+If we continue source acquisition, download in this order:
+
+1. P0 items 1-20.
+2. P1 items 21-35.
+3. P1 bank-specific policies 36-50 only for banks you want in the demo.
+4. P2 only after the app can ingest, filter, evaluate and refuse reliably.
+
+Decision checkpoint:
+Before any more downloading, the implementation should define:
+
+- final MVP domains for v1
+- metadata schema
+- document quality rules
+- whether insurance is in v1 or a separate v2
+- whether bank-specific answers are enabled in v1
+
+9.2 Official regulatory/public documents to prioritize
+
+Priority sources:
+
+1. RBI Commercial Banks - Credit Cards and Debit Cards: Issuance and Conduct Directions, 2025
+Use for: card issuer duties, grievance redressal, cardholder complaint handling, 30-day escalation, compensation.
+
+2. RBI KYC / AML / CFT directions
+Use for: KYC update, customer due diligence, risk-based approach, identity-related support questions.
+
+3. Reserve Bank Integrated Ombudsman Scheme, 2026
+Use for: complaint eligibility, CMS portal, CRPC, complaint filing, withdrawal, escalation, regulated entities.
+
+4. RBI Customer Protection - Limiting Liability of Customers in Unauthorized Electronic Banking Transactions
+Use for: fraud/unauthorized transaction risk labels, zero liability, limited liability, shadow reversal, reporting timeline.
+
+5. RBI Harmonisation of TAT and Customer Compensation for Failed Transactions
+Use for: failed UPI/IMPS/card/ATM transaction refund timeline and compensation logic.
+
+6. RBI Internal Ombudsman directions
+Use for: internal review before rejection, auto-escalation inside banks/regulated entities, complaint management systems.
+
+7. RBI Digital Lending directions
+Use for: loan app / LSP complaint handling, nodal grievance officer, 30-day escalation to RBI CMS.
+
+8. RBI Credit Information Company compensation framework and Internal Ombudsman directions
+Use for: credit report correction, delayed update compensation, CIBIL/CIC-style complaint workflows.
+
+9. NPCI UPI Help / UDIR / chargeback references
+Use for: UPI failed transaction, pending transaction, dispute reason, CRN, complaint tracking, fraud-note workflow.
+
+10. RBI Online Dispute Resolution (ODR) for digital payments
+Use for: app-based dispute lodging, TPAP/PSP/PSO complaint flow, ODR reference numbers, and tracking failed-transaction disputes.
+
+11. RBI PPI / wallet unauthorized transaction liability
+Use for: wallet/PPI unauthorized debit, issuer negligence, third-party breach, reporting window, and customer liability.
+
+12. RBI recovery-agent / collection-harassment rules
+Use for: loan recovery harassment, collection calls outside permitted hours, public humiliation, privacy intrusion, and recovery-related grievance routing.
+
+13. RBI payment aggregator dispute management
+Use for: merchant/payment aggregator refund disputes, chargeback reason codes, failed transaction handling, and escalation matrix.
+
+14. RBI Ombudsman annual reports
+Use for: real complaint category taxonomy and product prioritization. These are not used for direct policy answers but are useful for deciding MVP categories.
+
+15. Account Aggregator and tokenisation references
+Use for: consent, privacy, card tokenisation, device/card loss, and "who should I contact?" flows. Treat these as stretch categories unless needed.
+
+16. Bank-specific MITC and grievance policies
+Use for: institution-specific support drafting and escalation, not universal regulatory answers.
+
+17. Deposit account, cheque, locker, deceased depositor and service-charge sources
+Use for: broader retail-banking complaints such as unexplained service charges, minimum balance charges, account closure charges, cheque collection delay, ATM/debit failed withdrawal, safe deposit locker loss/access, and settlement of deceased depositor claims.
+
+18. Bank customer compensation policies
+Use for: bank-specific failed-transaction compensation, erroneous debit, ATM failure, card dispute, cheque delay, digital banking failure, and customer grievance commitments. These should be used only when the user asks about that specific bank.
+
+19. Loan servicing, penal charges, floating EMI and KFS sources
+Use for: home/personal loan complaints, hidden charges, penal charges, KFS/APR disclosure, loan EMI/tenor changes after rate reset, prepayment/fixed-rate switch options where applicable.
+
+20. BBPS, NACH, AePS and mandate/payment-system sources
+Use for: bill payment complaints, autopay/NACH mandate revocation, Aadhaar payment failures, BBPS reference numbers, payment-system ODR and TAT handling.
+
+21. UDGAM, DICGC, senior citizen and accessibility sources
+Use for: unclaimed deposits, deposit insurance, deceased/legal heir flows, senior citizen doorstep banking, visually impaired banking access, talking ATMs, and denial of accessibility-related banking services.
+
+22. Fraud-awareness and unauthorized deposit reporting sources
+Use for: BE(A)WARE-style fraud education, phishing/OTP/UPI scam prevention, and routing unauthorized investment/deposit schemes to Sachet instead of RBI CMS.
+
+23. Advanced retail-banking modules
+Use for: loan penal charges, KFS/APR, floating-rate EMI changes, bill payment disputes, NACH/autopay mandate revocation, AePS/APBS issues, UDGAM unclaimed deposits, DICGC deposit insurance, senior citizen doorstep banking, visually impaired banking access, and accessibility-related denial of service.
+
+Implementation warning:
+These advanced categories are useful, but they should be activated one by one. If all categories are added to the first release, retrieval and answer quality may suffer. Build metadata filters and evaluation sets before enabling them in the UI.
+
+9.3 Public NLP datasets
+
+1. BANKING77
+Purpose: banking intent classification
+Size: about 13,083 banking queries with 77 intents
+Source: Hugging Face / PolyAI BANKING77
+
+2. CFPB Consumer Complaint Database
+Purpose: financial complaint classification, topic analysis, response analysis
+Source: Consumer Financial Protection Bureau
+URL: https://www.consumerfinance.gov/data-research/consumer-complaints/
+
+3. Hugging Face subsets of CFPB complaints
+Examples:
+- WillisBack/dataset-financial-user-claim
+- consumer-complaints-pro
+
+4. Banking14 intent datasets
+Purpose: simpler banking chatbot intent classification
+Source: Hugging Face
+
+9.4 Community / user-pain research sources
+
+Reddit, Quora, DesiDime, consumer forums, and blog posts should not be used as authoritative policy sources. However, they are useful for discovering real user language and pain points, such as:
+
+- "Money debited but not credited"
+- "UPI app says contact merchant, bank says contact app"
+- "How do I escalate after 30 days?"
+- "What proof should I attach?"
+- "What is UTR / complaint reference number?"
+- "Who pays compensation for delayed refund?"
+- "Wrong CIBIL/credit report entry is affecting loan approval"
+- "Credit card annual fee/mis-selling complaint"
+
+Use these sources for:
+
+- evaluation question design
+- UI wording
+- complaint category taxonomy
+- synthetic ticket examples
+- product validation
+
+Do not use them for final compliance answers unless the same claim is supported by RBI/NPCI/bank documents.
+
+9.5 Synthetic data
+
+Synthetic data can be used carefully for demo tickets, but it must be labelled as synthetic.
+
+Examples:
+
+- "Customer says card was charged annual fee without notice."
+- "Customer says KYC update caused account freeze."
+- "Customer says UPI transfer failed but amount debited."
+- "Customer says complaint pending for more than 30 days."
+
+Use synthetic data for:
+
+- Demo tickets
+- Testing classification
+- UI examples
+- Evaluation questions
+
+Do not pretend synthetic data is real company data.
+
+
+10. WHAT WE NEED TO RESEARCH BEFORE CODING
+
+Research area 1: Domain workflow
+
+Questions:
+
+- How do customer complaints move from customer to bank to Ombudsman?
+- What is the 30-day rule?
+- What are common credit card complaint categories?
+- What are KYC/AML basics?
+- What are chargeback/refund/fraud dispute basics?
+- What should an AI assistant not answer?
+
+Output:
+A short domain notes document with categories and sample questions.
+
+Research area 2: Document collection
+
+Questions:
+
+- Which public RBI documents are most useful?
+- Which public bank documents are clear and downloadable?
+- Which documents have stable URLs?
+- Which documents are too long or too messy?
+
+Output:
+A source registry CSV or JSON:
+
+- document_id
+- title
+- source_url
+- document_type
+- date
+- domain
+- file_path
+- notes
+
+Research area 3: RAG architecture
+
+Questions:
+
+- Which chunk size works best?
+- Should we chunk by heading or fixed token length?
+- Which embedding model should we use?
+- ChromaDB vs Qdrant vs pgvector?
+- How many chunks to retrieve?
+- Should we use MMR?
+- How to cite source chunks?
+
+Output:
+Architecture diagram and decisions log.
+
+Research area 4: Evaluation
+
+Questions:
+
+- What questions should be in the test set?
+- What is a good answer?
+- Which source should support each answer?
+- What threshold should we use for faithfulness and relevance?
+
+Output:
+Evaluation dataset with 40-50 questions.
+
+Research area 5: Responsible AI and limitations
+
+Questions:
+
+- How to avoid legal/financial advice?
+- What should be refused?
+- What disclaimers are needed?
+- How to show uncertainty?
+- How to require human review?
+
+Output:
+Safety policy in README and app UI.
+
+
+11. RECOMMENDED TECH STACK
+
+Frontend:
+Option A: Streamlit
+- Fastest to build
+- Good for fast MVP validation
+- Easy deployment
+
+Option B: React/Next.js
+- More professional UI
+- More time-consuming
+
+Recommendation:
+Use Streamlit if speed matters. Use React only if one of you is confident in frontend.
+
+Backend:
+- FastAPI
+- Pydantic for request/response schemas
+- Uvicorn
+
+AI/RAG:
+- LangChain or LlamaIndex
+- LangGraph for agent/workflow if time permits
+- Gemini/Groq/OpenAI/Claude model API
+- Sentence Transformers embeddings or API embeddings
+
+Vector store:
+- ChromaDB for MVP
+- Qdrant or PostgreSQL + pgvector as stretch
+
+Keyword search:
+- rank-bm25
+- Whoosh or simple BM25 implementation
+
+Reranking:
+- sentence-transformers cross-encoder
+- bge-reranker
+
+Database:
+- SQLite for MVP audit logs
+- PostgreSQL as stretch
+
+Evaluation:
+- RAGAS
+- DeepEval optional
+- pytest
+- pandas
+
+Deployment:
+- Render
+- Railway
+- Fly.io
+- Hugging Face Spaces
+- Streamlit Community Cloud
+
+Documentation:
+- README.md
+- architecture diagram
+- demo video
+- sample questions
+- evaluation report
+
+
+12. SYSTEM ARCHITECTURE
+
+High-level flow:
+
+1. Admin loads trusted documents
+2. System extracts text
+3. Text is cleaned and split into chunks
+4. Chunks are embedded
+5. Embeddings are stored in vector DB with metadata
+6. User asks question or pastes ticket
+7. Query classifier detects category and risk
+8. Retriever searches vector DB + BM25 index
+9. Reranker orders the best chunks
+10. LLM generates grounded answer using only retrieved chunks
+11. System displays answer, citations, source chunks, risk label, and draft response
+12. Audit logger stores request, sources, answer, model, latency, and result
+13. Evaluation module tests answer quality on a fixed dataset
+
+Suggested project folders:
+
+fintrust-ai/
+  app/
+    main.py
+    api/
+    rag/
+    classifiers/
+    evaluation/
+    database/
+    prompts/
+    utils/
+  data/
+    raw/
+    processed/
+    eval/
+  notebooks/
+  frontend/
+  docs/
+  tests/
+  README.md
+  requirements.txt
+  Dockerfile
+
+
+13. MAIN FEATURES
+
+MVP features:
+
+1. Ask a question
+User asks a finance/compliance/support question.
+
+2. Grounded answer
+System answers based on retrieved documents only.
+
+3. Citations
+Answer includes source titles and chunk references.
+
+4. Source chunks
+UI shows the retrieved evidence.
+
+5. Query category
+System labels the query.
+
+6. Risk level
+System shows low/medium/high risk.
+
+7. Audit log
+Interaction is saved.
+
+8. Evaluation report
+A small dashboard or markdown report shows metrics.
+
+Strong version features:
+
+1. Hybrid retrieval
+Combine vector and BM25.
+
+2. Reranker
+Improve evidence ranking.
+
+3. Human review mode
+AI drafts answer; human must approve.
+
+4. Unsupported answer guard
+System refuses when sources are insufficient.
+
+5. Document source registry
+Track every source document.
+
+6. Admin upload
+Add documents through UI.
+
+7. Evaluation comparison
+Show vector-only vs hybrid+reranker results.
+
+Stretch features:
+
+1. LangGraph workflow with nodes:
+- classify query
+- retrieve evidence
+- verify evidence
+- generate answer
+- risk check
+- log audit trail
+
+2. Prompt injection detection
+Detect malicious instructions in retrieved text.
+
+3. Langfuse tracing
+Track prompts, model calls, retrieved chunks, latency.
+
+4. Role-based access demo
+Basic admin/user split.
+
+
+14. WEEK-BY-WEEK IMPLEMENTATION PLAN
+
+6-week aggressive plan:
+
+Week 1: Research, data, project setup
+
+Goals:
+- Finalize domain scope: credit card grievances, KYC, Ombudsman, fees, support complaints
+- Collect 10-20 public documents
+- Create GitHub repo
+- Set up FastAPI and Streamlit
+- Write project README draft
+- Create source registry
+
+Tasks:
+- Download/source RBI pages and PDFs
+- Save document metadata
+- Create app skeleton
+- Create data/raw and data/processed folders
+- Prepare 20 sample questions
+
+Deliverable:
+Basic repo with documents and project plan.
+
+Week 2: Basic RAG MVP
+
+Goals:
+- Implement document loading
+- Extract and clean text
+- Chunk documents
+- Generate embeddings
+- Store in ChromaDB
+- Ask questions and get answers
+
+Tasks:
+- Build ingestion script
+- Build retriever
+- Build answer generation prompt
+- Add citations
+- Test manually with 20 questions
+
+Deliverable:
+Working local RAG app.
+
+Week 3: Retrieval quality improvements
+
+Goals:
+- Add hybrid retrieval
+- Add reranking
+- Improve chunk metadata
+- Show source chunks in UI
+
+Tasks:
+- Add BM25 index
+- Merge vector and keyword results
+- Add cross-encoder reranker
+- Experiment with chunk size
+- Log retrieval scores
+
+Deliverable:
+Improved retrieval pipeline with visible evidence.
+
+Week 4: Risk/classification/audit module
+
+Goals:
+- Classify query/ticket category
+- Assign risk level
+- Generate human-review draft response
+- Store audit trail
+
+Tasks:
+- Define categories
+- Use BANKING77/CFPB for category examples
+- Implement rule-based + LLM classifier
+- Add SQLite audit table
+- Add audit history page
+
+Deliverable:
+Corporate-style workflow, not just Q&A.
+
+Week 5: Evaluation and safety
+
+Goals:
+- Build 40-50 question evaluation set
+- Run baseline and improved retrieval comparison
+- Add unsupported-answer refusal
+- Add disclaimer and responsible AI notes
+
+Tasks:
+- Create eval_questions.csv
+- Run RAGAS or manual eval
+- Track faithfulness, answer relevance, context precision, latency
+- Write evaluation_report.md
+
+Deliverable:
+Measured project with real results.
+
+Week 6: Deployment and presentation
+
+Goals:
+- Deploy live app
+- Add screenshots
+- Record demo video
+- Finalize README
+- Prepare product pitch, demo script, and stakeholder-review notes
+
+Tasks:
+- Dockerize app
+- Deploy on Render/Railway/Hugging Face Spaces
+- Create architecture diagram
+- Create demo script
+- Write product summary and problem-solution brief
+
+Deliverable:
+Live project ready to show.
+
+8-week recommended plan:
+
+Weeks 1-6:
+Same as above.
+
+Week 7:
+- Add LangGraph workflow
+- Add stronger evaluation
+- Add observability/tracing if possible
+- Improve UI polish
+
+Week 8:
+- Mentor review
+- Bug fixing
+- Product demo rehearsal
+- Business/value proposition refinement
+- Public launch post or demo article
+- GitHub/product documentation polish
+
+
+15. TIME ALLOCATION PER DAY
+
+If both of you work daily:
+
+Minimum daily commitment:
+2.5 to 3 hours/day
+
+Ideal daily commitment:
+4 to 5 hours/day
+
+Daily structure:
+
+30 minutes:
+Read one concept or document.
+
+60-90 minutes:
+Code one specific feature.
+
+30 minutes:
+Test, debug, and document.
+
+30 minutes:
+Use AI tools to review code, improve understanding, or plan next task.
+
+Weekly structure:
+
+5 days:
+Implementation
+
+1 day:
+Testing, documentation, cleanup
+
+1 day:
+Review with mentor/professor/senior, collect feedback, plan next sprint
+
+
+16. HOW TO USE CLAUDE, CURSOR, CHATGPT, AND OTHER AI TOOLS
+
+Important rule:
+Use AI as a senior assistant, not as a replacement for understanding. Any serious reviewer will ask "why", "how", "what fails", and "what would be needed for production." If the builders cannot explain the system, the product will not be credible.
+
+16.1 Use Claude for research and design
+
+Best use cases:
+
+- Summarizing long RBI documents
+- Extracting key rules from policy PDFs
+- Comparing RAG architecture options
+- Writing system design notes
+- Reviewing prompts and safety policy
+- Creating evaluation questions
+- Explaining concepts deeply
+
+Example prompts:
+
+"Read this RBI document excerpt and identify rules relevant to credit card grievance redressal. Return clause, plain-English meaning, possible user question, and citation text."
+
+"Design a RAG architecture for a financial compliance copilot. Keep it realistic for a 6-8 week MVP using FastAPI, ChromaDB, Streamlit, and Gemini."
+
+"Review this answer-generation prompt. Improve it so the LLM refuses unsupported answers and always cites source chunks."
+
+"Create 20 evaluation questions from these source documents. Each question must have an expected source document and expected answer summary."
+
+16.2 Use Cursor for coding
+
+Best use cases:
+
+- Building project structure
+- Implementing FastAPI endpoints
+- Refactoring messy code
+- Debugging errors
+- Writing tests
+- Adding logging
+- Improving README
+- Generating type-safe schemas
+
+Good Cursor workflow:
+
+1. Ask Cursor to inspect existing code before editing.
+2. Give one small task at a time.
+3. Run the code.
+4. Read the error.
+5. Ask Cursor to fix the exact error.
+6. Commit small changes.
+7. Keep README updated.
+
+Example Cursor prompts:
+
+"Implement a FastAPI endpoint /query that accepts question text, calls the retriever, generates an answer, and returns answer, citations, risk_label, and latency_ms."
+
+"Refactor the retrieval code so vector search, BM25 search, and reranking are separate functions with tests."
+
+"Add SQLite audit logging for every query. Store question, answer, category, risk, retrieved source IDs, model name, and latency."
+
+"Write pytest tests for unsupported questions, citation requirement, and no-context refusal."
+
+16.3 Use ChatGPT for learning, product thinking, and demo preparation
+
+Best use cases:
+
+- Explaining ML/RAG concepts in simple terms
+- Practicing technical-review questions
+- Creating flashcards
+- Product pitch practice
+- Improving spoken explanation
+- Writing product-summary drafts
+
+Example prompts:
+
+"Act as a senior AI product reviewer. Ask me 10 questions about FinTrust AI's usefulness, architecture, risks, and go-to-market assumptions. After each answer, critique me."
+
+"Explain vector embeddings, chunking, reranking, and RAG evaluation like I am preparing to defend this product prototype to a technical mentor."
+
+"Help me write a 90-second product pitch for FinTrust AI for mentors, professors, and potential early users."
+
+16.4 Use AI tools for code generation safely
+
+Rules:
+
+- Do not paste API keys.
+- Do not paste private data.
+- Ask AI to explain generated code.
+- Ask AI for tests.
+- Ask AI for failure cases.
+- Review every generated file.
+- Avoid copying large code blindly.
+- Keep architecture simple.
+- Do not use tools you cannot explain.
+
+16.5 Best AI-assisted learning method
+
+For every feature, follow this pattern:
+
+1. Ask: "Explain the concept."
+2. Ask: "Show minimal code."
+3. Implement yourself or with Cursor.
+4. Run it.
+5. Ask: "Why did this fail?"
+6. Fix.
+7. Ask: "How would a senior reviewer challenge this?"
+8. Write the explanation in your own words.
+
+
+17. WHAT THE BUILDERS WILL LEARN
+
+AI/ML skills:
+
+- NLP basics
+- Embeddings
+- Semantic search
+- Classification
+- Evaluation metrics
+- Hallucination control
+- Prompt engineering
+- RAG architecture
+- Reranking
+- Domain-specific AI systems
+
+Backend skills:
+
+- FastAPI
+- REST APIs
+- Request/response schemas
+- SQL/SQLite/PostgreSQL basics
+- Logging
+- Error handling
+- Docker
+- Deployment
+
+Data skills:
+
+- Document collection
+- PDF parsing
+- Text cleaning
+- Dataset preparation
+- Evaluation dataset design
+- Data versioning basics
+
+Software engineering skills:
+
+- Modular architecture
+- Git/GitHub workflow
+- README writing
+- Testing
+- Debugging
+- Deployment
+- Documentation
+
+Corporate skills:
+
+- Business problem framing
+- Responsible AI
+- Auditability
+- Compliance awareness
+- Human-in-the-loop workflows
+- Tradeoff communication
+
+Product and technical communication skills:
+
+- System design explanation
+- Product walkthrough
+- Debugging explanation
+- Metrics discussion
+- Failure case discussion
+
+
+18. IMPORTANT QUESTIONS SENIORS/PROFESSORS MAY ASK
+
+Question 1:
+Is this project actually useful?
+
+Answer:
+Yes, as a prototype of a real enterprise pattern. Finance and compliance teams need source-grounded, auditable assistants for regulatory questions, customer support, and policy lookup. Our version is not production-ready but demonstrates the architecture and engineering principles.
+
+Question 2:
+Why not just use ChatGPT?
+
+Answer:
+ChatGPT alone may answer from general memory and may hallucinate. FinTrust AI retrieves from trusted documents, cites sources, logs the interaction, and refuses unsupported questions.
+
+Question 3:
+Why RAG instead of fine-tuning?
+
+Answer:
+RAG is better for document-grounded questions where sources change and citations are required. Fine-tuning may teach style or domain patterns, but it does not guarantee source-specific answers or current document grounding.
+
+Question 4:
+What is the ML part?
+
+Answer:
+The ML/AI parts include embeddings, semantic search, intent classification, reranking, LLM-based generation, evaluation metrics, and possibly supervised classification using BANKING77/CFPB data.
+
+Question 5:
+What is the backend part?
+
+Answer:
+FastAPI serves query, document ingestion, retrieval, answer generation, classification, audit logging, and evaluation endpoints.
+
+Question 6:
+How will you prove it works?
+
+Answer:
+We will create a 40-50 question evaluation set and compare vector-only retrieval against hybrid retrieval with reranking. We will measure faithfulness, answer relevance, retrieval precision, and latency.
+
+Question 7:
+What are the limitations?
+
+Answer:
+It uses public documents only, cannot provide legal/financial advice, may miss information if documents are incomplete, and requires human review for real-world use. It is an MVP prototype, not a production bank system.
+
+Question 8:
+What makes it different from a PDF chatbot?
+
+Answer:
+It includes domain-specific workflow, classification, risk labels, citations, audit logs, retrieval evaluation, human-review draft responses, and deployment.
+
+Question 9:
+What are the ethical concerns?
+
+Answer:
+The system must avoid final financial/legal advice, must not use private customer data, must make uncertainty visible, must cite sources, and must keep humans in control.
+
+Question 10:
+Can this be used by companies?
+
+Answer:
+The concept can be used by companies, but a real deployment would require security, access control, data governance, privacy review, model governance, monitoring, legal approval, and integration with internal systems.
+
+
+19. RISKS AND HOW TO HANDLE THEM
+
+Risk 1: It becomes just another chatbot
+
+Solution:
+Add citations, audit logs, classification, evaluation, and deployment.
+
+Risk 2: Scope becomes too large
+
+Solution:
+Limit domain to credit card grievances, KYC, and support complaints for MVP.
+
+Risk 3: Documents are messy
+
+Solution:
+Start with 10-20 clean public documents. Add more later.
+
+Risk 4: RAG answers are poor
+
+Solution:
+Tune chunk size, add hybrid search, add reranking, improve prompt, evaluate systematically.
+
+Risk 5: AI gives unsupported advice
+
+Solution:
+Add strict prompt, source requirement, refusal mode, and human review disclaimer.
+
+Risk 6: Deployment fails
+
+Solution:
+Keep local demo ready, record video, use Streamlit Cloud or Hugging Face Spaces first.
+
+Risk 7: Too many tools
+
+Solution:
+Start simple: FastAPI + Streamlit + ChromaDB + Gemini/Groq + SQLite. Add advanced tools only after MVP works.
+
+
+20. WHAT TO SHOW IN THE FINAL DEMO
+
+The final demo should show:
+
+1. Homepage
+Short explanation and disclaimer.
+
+2. Document sources
+List of public RBI/banking documents used.
+
+3. Ask a compliance question
+Show answer with citations and source chunks.
+
+4. Paste a customer complaint
+Show category, risk level, draft response, and supporting rule.
+
+5. Unsupported question
+Show refusal when source does not support answer.
+
+6. Audit log
+Show saved interaction with timestamp and sources.
+
+7. Evaluation report
+Show metrics and comparison.
+
+8. Architecture diagram
+Explain pipeline in 2 minutes.
+
+
+21. README STRUCTURE
+
+The GitHub README should include:
+
+1. Project title
+2. Live demo link
+3. Demo video link
+4. Problem statement
+5. Why this matters
+6. Architecture diagram
+7. Features
+8. Tech stack
+9. Data sources
+10. RAG pipeline explanation
+11. Evaluation methodology
+12. Results table
+13. Screenshots
+14. How to run locally
+15. API documentation
+16. Limitations
+17. Responsible AI note
+18. Future improvements
+
+The first screen of README must be strong. A reviewer, mentor, or potential early user should understand the problem, solution, and value in 60 seconds.
+
+
+22. PUBLIC PRODUCT POSITIONING
+
+Public post or demo article angle:
+
+"We built FinTrust AI, a financial-services RAG copilot that answers policy and complaint questions with citations, risk labels, and audit logs."
+
+Post structure:
+
+1. Problem:
+Financial support/compliance teams need answers that are traceable, not just fluent.
+
+2. Solution:
+Built a RAG-based copilot using public RBI/banking documents.
+
+3. Features:
+Citations, source chunks, classification, risk labels, audit logs, evaluation.
+
+4. Tech stack:
+Python, FastAPI, LangChain/LlamaIndex, ChromaDB/Qdrant, BM25, reranker, Streamlit, Docker.
+
+5. Learning:
+RAG is not only prompt engineering. Retrieval quality, evaluation, and auditability matter.
+
+6. Links:
+Live demo, GitHub, demo video.
+
+
+23. PRODUCT PITCH POSITIONING
+
+Product title:
+FinTrust AI - Enterprise Risk and Compliance RAG Copilot
+
+Possible product pitch points:
+
+- FinTrust AI is a financial-services RAG copilot using FastAPI, LangChain/LlamaIndex, ChromaDB/Qdrant, hybrid retrieval, and LLM-based answer generation to answer policy and support queries with source citations.
+
+- It includes document ingestion, chunking, embeddings, vector search, BM25 keyword retrieval, reranking, and citation display over public RBI/banking documents.
+
+- It adds query classification, risk labeling, human-review response drafting, and audit logging to simulate enterprise compliance workflows.
+
+- It can be evaluated with a 50-question test set comparing vector-only retrieval against hybrid retrieval plus reranking using faithfulness, answer relevancy, context precision, and latency metrics.
+
+- The MVP should be deployed with a live demo, documented architecture, data sources, limitations, and responsible AI safeguards.
+
+Only add exact numbers after measuring:
+
+- "Improved retrieval precision from X% to Y%"
+- "Reduced unsupported answers by X%"
+- "Achieved average latency of X seconds"
+- "Evaluated on X questions across Y policy documents"
+
+
+24. SUCCESS CRITERIA
+
+Minimum success:
+
+- Live app works
+- 10+ public documents loaded
+- User can ask questions
+- Answer includes citations
+- Source chunks visible
+- README is clear
+- Demo video exists
+
+Strong success:
+
+- Hybrid retrieval works
+- Reranker works
+- Classification and risk labels work
+- Audit log works
+- 40-50 question evaluation exists
+- Metrics are reported
+- App is deployed
+- GitHub repo is polished
+
+Excellent success:
+
+- LangGraph workflow added
+- Prompt injection/refusal testing added
+- Langfuse or simple trace dashboard added
+- Mentor feedback incorporated
+- Public product/demo article published
+- Builders can explain every module, limitation, and production requirement confidently
+
+
+25. FINAL RECOMMENDATION
+
+This is the project I would recommend building first.
+
+Reason:
+It is realistic, useful, corporate-relevant, technically deep, and aligned with a modern enterprise problem: making GenAI trustworthy for document-heavy financial workflows.
+
+"This is not just a chatbot. It is a source-grounded financial document intelligence workflow with retrieval, citations, classification, risk flags, audit logs, evaluation, and deployment."
+
+That statement is much stronger than saying:
+"I made a PDF chatbot using LangChain."
+
+The project will be genuinely impressive only if the team completes:
+
+1. Live deployment
+2. Good README
+3. Real data sources
+4. Citations
+5. Audit logs
+6. Evaluation report
+7. Clear limitations
+8. Clear product and technical explanation
+
+If time becomes limited, do not add more features. Polish the core flow:
+
+Question -> retrieval -> cited answer -> risk label -> audit log -> evaluation -> live demo
+
+
+26. RESEARCH REFERENCES AND STARTING LINKS
+
+Enterprise/finance AI patterns:
+
+- Amazon Finance regulatory inquiry GenAI/RAG system:
+  https://aws.amazon.com/blogs/machine-learning/how-amazon-finance-streamlines-regulatory-inquiries-by-using-generative-ai-on-aws/
+
+- AWS/Stripe production-grade AI agents for financial compliance:
+  https://aws.amazon.com/blogs/machine-learning/production-grade-ai-agents-for-financial-compliance-lessons-from-stripe/
+
+- Dataiku discussion on explainability and auditability in finance:
+  https://www.dataiku.com/blog/ai-explainability-for-financial-services
+
+- American Express open-source GenAI/ConnectChain article:
+  https://americanexpress.io/generative-ai-meets-open-source-at-american-express/
+
+Public regulatory/finance data:
+
+- Reserve Bank of India:
+  https://www.rbi.org.in
+
+- RBI Common Person FAQs:
+  https://www.rbi.org.in/commonperson/English/Scripts/FAQs.aspx
+
+- RBI Complaint Management System:
+  https://cms.rbi.org.in
+
+- CFPB Consumer Complaint Database:
+  https://www.consumerfinance.gov/data-research/consumer-complaints/
+
+Public datasets:
+
+- BANKING77 dataset:
+  https://huggingface.co/datasets/PolyAI/banking77
+
+- Hugging Face dataset search:
+  https://huggingface.co/datasets
+
+RAG evaluation:
+
+- RAGAS paper:
+  https://arxiv.org/html/2309.15217v1
+
+- Langfuse RAGAS evaluation guide:
+  https://langfuse.com/guides/cookbook/evaluation_of_rag_with_ragas
+
+
+27. APPROVAL CHECKLIST FOR SENIORS/PROFESSORS
+
+Ask reviewers these questions before starting full implementation:
+
+1. Is the project scope realistic for 6-8 weeks?
+2. Is the finance/compliance domain narrow enough?
+3. Which documents should be included first?
+4. Should the first version use Streamlit or React?
+5. Is ChromaDB enough, or should we use Qdrant/pgvector?
+6. Which evaluation metrics are most convincing?
+7. Are there any ethical concerns in the wording?
+8. What would make this more useful for a real support/compliance team?
+9. What would make the product demo and README more credible?
+10. What questions would you ask before approving this as a pilot or startup-style MVP?
+
+
+28. IMMEDIATE NEXT STEPS
+
+Day 1:
+- Create GitHub repository named fintrust-ai
+- Create README draft
+- Create docs/project_scope.md
+- Create data/source_registry.csv
+
+Day 2:
+- Collect first 5-10 public RBI/banking documents
+- Write 20 sample user questions
+- Sketch architecture diagram
+
+Day 3:
+- Set up FastAPI + Streamlit skeleton
+- Add first document ingestion script
+
+Day 4:
+- Add chunking and embeddings
+- Store chunks in ChromaDB
+
+Day 5:
+- Ask first question and generate first cited answer
+
+End of Week 1 goal:
+One ugly but working local demo. Polish comes later.
+
+
+Final note:
+This project is worth building only if it is treated as a serious solution, not a decorative AI demo. The strongest outcome is not just a live link. The strongest outcome is a credible MVP that clearly explains the problem, architecture, tradeoffs, metrics, limitations, user value, and what would be required before any real-world deployment.

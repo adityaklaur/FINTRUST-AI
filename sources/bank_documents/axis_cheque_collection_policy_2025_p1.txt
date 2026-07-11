@@ -1,0 +1,508 @@
+Cheque Collection Policy (Date: April 24, 2025)
+
+.
+
+Table of Contents
+
+Sr no. Contents Page no
+
+Version Control
+
+Approval Matrix
+
+1 Preamble/ Introduction 6
+
+2 Important definitions 6
+
+3 Objective 7
+
+4 References to Regulations 7
+
+5 Applicability 7
+
+6 Communication of the Policy 7
+
+7 Details of the Policy 8
+
+8 Governance Structure & Roles and responsibilities 17
+
+9 Disclosure Requirement 18
+
+10 Review of the Policy 18
+
+11 Annexures 18
+
+Annexure – I- Abbreviation 19
+
+Annexure-II 20
+
+Version Control
+
+Version Policy Owner Department
+
+Details of Board Sub-committee / HOD approval
+
+Details of Board / Committee approval
+
+Sub-committee / HOD
+
+Date of approval Board / Committee
+
+Date of approval
+
+Version 25-26 Clearing & Settlement
+
+CSCB March 12, 2025 Board April 24, 2025
+
+1. Preamble/ Introduction
+
+The Cheque Collection Policy (CCP) is a framework established to ensure transparency, efficiency, and customer-centricity in the processing and collection of cheques. This policy outlines the procedures, timelines, and responsibilities associated with cheque collection, ensuring compliance with regulatory requirements, and providing clarity to customers. It outlines the roles and responsibilities of both the Bank and its customers, mitigating risks and enhance customer satisfaction.
+
+2. Important definitions
+
+| Term | Definition |
+| --- | --- |
+| Cheque | A negotiable instrument drawn on a specified bank, instructing it to pay a certain sum of money to the payee on demand. A cheque must be in writing and duly signed by the drawer. |
+| Local Cheque | A cheque that is payable within the same city or local clearing jurisdiction in which the Bank branch receiving it is located. Local cheques are typically cleared through the local clearinghouse. |
+| Outstation Cheque | A cheque that is payable outside the clearing jurisdiction or city of the Bank branch where it is presented. Outstation cheques may attract additional collection charges and usually take longer to clear. |
+| Deman Draft (DD) | A negotiable instrument like a cheque but issued by a bank branch, payable on demand at another bank branch. Demand drafts are treated separately from personal or company cheques but may follow similar clearing processes. |
+| Collection of Cheques | The process by which a bank presents the cheque on behalf of a customer to the paying bank, either directly or through a clearinghouse, to receive funds. |
+| Returned Cheques | A cheque that is not honoured by the paying bank due to insufficient funds, technical reasons, or other discrepancies. |
+| Clearing Cycle | The time taken to process and settle a cheque from the point of deposit until the time the funds are credited to the payee’s account. The clearing cycle can vary for local and outstation cheques. |
+| Cheque Truncation (CTS) | System An electronic image-based clearing system where physical cheques are truncated (i.e., no longer move physically) and images along with relevant data are transmitted electronically for clearing. |
+
+| Term | Definition |
+| --- | --- |
+| Cheque | A negotiable instrument drawn on a specified bank, instructing it to pay a certain sum of money to the payee on demand. A cheque must be in writing and duly signed by the drawer. |
+| Local Cheque | A cheque that is payable within the same city or local clearing jurisdiction in which the Bank branch receiving it is located. Local cheques are typically cleared through the local clearinghouse. |
+| Outstation Cheque | A cheque that is payable outside the clearing jurisdiction or city of the Bank branch where it is presented. Outstation cheques may attract additional collection charges and usually take longer to clear. |
+| Deman Draft (DD) | A negotiable instrument like a cheque but issued by a bank branch, payable on demand at another bank branch. Demand drafts are treated separately from personal or company cheques but may follow similar clearing processes. |
+| Collection of Cheques | The process by which a bank presents the cheque on behalf of a customer to the paying bank, either directly or through a clearinghouse, to receive funds. |
+| Returned Cheques | A cheque that is not honoured by the paying bank due to insufficient funds, technical reasons, or other discrepancies. |
+| Clearing Cycle | The time taken to process and settle a cheque from the point of deposit until the time the funds are credited to the payee’s account. The clearing cycle can vary for local and outstation cheques. |
+| Cheque Truncation | System An electronic image-based clearing system where physical cheques are truncated (i.e., no longer move physically) and images along with relevant data are transmitted electronically for clearing. |
+
+| Drawer | The person or entity issuing the cheque (i.e., whose account is to be debited). |
+| --- | --- |
+| Payee / Beneficiary | The person or entity in whose favour the cheque is drawn and who is entitled to receive the payment. |
+| Collecting Bank | The bank that collects a cheque on behalf of its customer (the payee). |
+| Paying Bank / Drawee Bank | The bank on which a cheque is drawn and is responsible for payment once the cheque is presented. |
+
+| Drawer | The person or entity issuing the cheque (i.e., whose account is to be debited). |
+| --- | --- |
+| Payee / Beneficiary | The person or entity in whose favour the cheque is drawn and who is entitled to receive the payment. |
+| Collecting Bank | The bank that collects a cheque on behalf of its customer (the payee). |
+| Paying Bank / Drawee Bank | The bank on which a cheque is drawn and is responsible for payment once the cheque is presented. |
+
+3. Objective
+
+The objective of the cheque collection policy is to create a comprehensive framework that regulates the procedures for collecting cheques and other financial instruments, considering our technological capabilities, systems, and processes to ensure adherence to RBI guidelines. Furthermore, the policy specifies the compensation that customers will receive in cases of delays in the collection of cheques or instruments.
+
+4. References to Regulations
+
+| Circular Reference No. | Circular Title |
+| --- | --- |
+| RBI/2015-16/59 DBR No.Leg.BC. Dated July 01, 2015 | 21/09.07.006/2015-16 Master circular on Customer Service in Banks |
+
+| Circular Reference No. | Circular Title |
+| --- | --- |
+| RBI/2015-16/59 DBR No.Leg.BC. | 21/09.07.006/2015-16 Master circular on Customer Service in Banks |
+
+5. Applicability
+
+This policy document is applicable to all branches and business segments of the Bank and is reviewed alongside the operational guidelines that are issued periodically. The provisions of this policy must be interpreted in conjunction with any updates or modifications recommended by the RBI, other regulatory bodies, or the Bank itself as they arise.
+
+6. Communication of the Policy
+
+In accordance with the RBI Master Circular on Customer Service RBI/2015-16/59 DBR No.Leg.BC. 21/09.07.006/2015-16, dated July 01, 2015,
+
+• The Cheque Collection Policy will be available to all employees to promote awareness and adherence, and it will also be published on the Bank’s website.
+
+• The key aspects of the policy will be prominently displayed on the notice boards at every branch.
+
+• Upon customer’s request the copy of the policy can be made available by the Branch Manager.
+
+7. Details of the Policy
+
+The policy provides guidance related to:
+
+• Collection of cheques and other instruments payable within India [ local and outstation] 
+and abroad, 
+• Time frames for collection of instruments, 
+• Guidelines on compensation in instances where the Bank has been unable to realize of 
+proceeds of instruments within timelines, 
+• Collection of account payee cheques in bank account, 
+• Dealing with collection instruments lost in transit. 
+
+1. Arrangements for collection:
+
+A. Local Cheques
+
+a. All cheques and other negotiable instruments payable locally would be presented through the clearing system prevailing at the center. Cheques deposited at branch counters and in collection boxes within the branch premises before the specified cut-off time will be presented for clearing on the same day. Cheques deposited after the cut-off time in Cheque Deposit Kiosks will be presented in the next clearing cycle. As a policy, the bank would give credit to the customer account on the same day on which the final clearing settlement takes place or at the most the next working day of their presentation in clearing. Withdrawal of amounts so credited would be permitted as per the cheque return schedule of the clearing house.
+
+b. To enhance the efficiency of paper based clearing system, the Cheque Truncation System (CTS) was implemented in the National Capital Region (NCR). Since July 2008, all the member banks of the New Delhi Bankers’ Clearing House are participating in CTS. CTS was subsequently implemented at Chennai and Mumbai in a grid model where various states/cities under the respective regions participate through the grid. RBI has initiated the process of merging all 3 Grids into National Grid and merger was completed in October 2023. Accordingly, the pan India CTS operations is now being handled through National Grid
+
+c. As per RBI communication no. RBI/2021-21/107 DPSS.CO.RPPD.No.SUO 21102/04.07.005/2021-21 dated March 15, 2021, Banks are instructed to extend Cheque Truncation System (CTS) across all bank branches in the country by September 30, 2021. Banks are free to adopt a model of their choice, like deploying suitable infrastructure in every branch or following a hub and spoke model etc. and concerned Banks shall coordinate with respective regional office of RBI to operationalize this.
+
+d. With the introduction of imaging and truncation of cheques, the physical movement of instruments have been stopped and the electronic movement of images and data of cheques would speed up the process of settlements and ultimately alter the clearing cycles. Grid clearing would ensure erasing of boundaries and eliminating the process of intercity clearing, thus enabling the realization of cheques across cities along with the local cheques.
+
+| | e. | The benefits of CTS clearing are summarized below: | | | |
+| --- | --- | --- | --- | --- | --- |
+| | | • | | Faster clearing cycle | |
+| | | • | | Better reconciliation/verification process | |
+| | | • | | Better Customer Service. Enhanced Customer Window | |
+| | | • | | T+0 for Local and intercity clearing cheques | |
+| | | • | | The jurisdiction of Clearing House can be | extended to the entire country – No |
+| | | | | geographical dependence. | |
+
+• Minimizes transaction cost. 
+• Reduces operational risk by securing the transmission route. 
+• Grid clearing enables centralization of CTS activities bringing in economies of scale and 
+cost effectiveness. 
+
+f. No immediate credit of local cheques would be given in view of Bank’s efficient clearing procedures, which ensure that delays do not occur in realization of proceeds of the cheques.
+
+g. Timing for acceptance - Cheques would be accepted during the business hours of the branch across the counter as well as in the cheque drop box. The acknowledgement should be given to the customer where the cheque is deposited across the counter. Alternately, cheques can be deposited at Cheque Deposit Kiosks or Multi-functional Kiosks (available at select locations) round-the-clock.
+
+h. Collection timings for local cheques drawn on other banks (local clearing) - The cut-off time for sending cheques for collection would be worked out for each location/branch based on cut-off time afforded by clearing house at each location. The cut-off timings would be displayed at branches/drop boxes for customers.
+
+For local cheques, the timelines for local clearing will apply. The account holder is allowed to withdraw funds after the cut-off time as per return clearing norms in vogue at the center.
+
+Collection timings for local cheques drawn on own branches of bank (Transfer cheques)
+
+Cheques deposited across the counter and in branch drop box
+
+Same day (available only on working days)
+
+B. Outstation Cheques
+
+| a. | Cheques drawn on other banks at outstation centers will normally be collected through |
+| --- | --- |
+| | bank’s branches at those centers. Where the bank does not have a branch of its own, the |
+| | instrument would be directly sent for collection to the drawee bank or collected through a |
+| | correspondent bank. |
+| | |
+| b. | Cheques drawn on Bank’s own branches at outstation centers will be collected using the |
+| | inter-branch arrangements in vogue. As a part of the anywhere banking services of the |
+| | bank, customers will be provided same day credit for cheques drawn on the Bank’s own |
+| | branches subject to limits/charges as prescribed by the Bank from time to time. |
+| | |
+
+c. The definition of outstation cheques excludes demand drafts, banker’s cheques, interest warrants and dividend warrants drawn on the Bank itself.
+
+C. Special Clearing conducted by RBI
+
+| a. | To facilitate accounting of all the Government transactions for the Financial Year, RBI conducts Special Clearing into Central & State Government Accounts on the last date of every Financial Year, with the same day return clearing. |
+| --- | --- |
+| | |
+| b. | Circular is issued by RBI, directing all the members banks to facilitate accounting of all the Government transactions for the current financial year. |
+| | |
+| c. | It is mandatory for all the member banks to participate in Special Clearing, |
+
+d. For special clearing for Government cheques, single session is conducted by NPCI after the regular session timings.
+
+D. Cheques Payable in Foreign Countries - Foreign currency cheques would be accepted during business hours of the Bank branch.
+
+| | a. | No immediate credit of foreign currency cheques shall be given in view of the greatly |
+| --- | --- | --- |
+| | | enhanced risk in such instruments. For low value cheques, the customer may approach the |
+| | | account holding branch requesting for a waiver of the cooling period (if any) to avail of |
+| | | the funds quickly. |
+| | | |
+| | b. | Foreign currency cheques payable at foreign centers will be collected using services of |
+| | | correspondent banks. Cheques drawn on foreign banks at centers where the Bank or its |
+| | | correspondents do not have direct presence will be sent directly to the drawee bank with |
+| | | instructions to credit proceeds to the respective Nostro Account of Axis Bank maintained |
+| | | with one of the correspondent banks. |
+| | | |
+| | c. | The cheque collection would take place within following parameters: |
+
+• The Bank handles, on behalf of its customers, collection of foreign currency cheques, payable at various foreign centers, where proceeds thereof are collected using the services of Correspondent Bank (CB). These cheques are sent on collection under two schemes o Cash Letter Scheme (CLS), under which provisional credit is provided to the Bank by the CB on a pre-determined date, subject to cooling period o Direct Collection Scheme (DCS) : The FCY cheques which could not be presented in above mentioned scheme is sent on collection directly to drawee Bank
+
+The process covers mainly : o Compliance of the Documents o Lodgement of the FCY cheques o Realization of the FCY cheques o Collection of Dishonour charges
+
+| | |
+| --- | --- |
+| d. | The mode of collection for foreign currency cheques / instruments would depend on the |
+| | currency, drawee location, the amount of the instrument and the same would be informed |
+| | to the customer. |
+| | |
+| | |
+| e. | Bank also avails ‘Cash Letter Scheme’ from our Correspondent Banks for foreign currency |
+| | cheques/instruments denominated in applicable currencies (as per arrangement with |
+| | partner bank from time to time). Correspondent Banks provide provisional credit related to |
+| | the instruments lodged under this scheme to the Bank’s Nostro account on the condition |
+| | that the Correspondent Bank can debit the Nostro account on receipt of any cheque |
+| | return subsequent to extending such provisional credit. To safeguard against the risk of |
+| | utilizing the funds which could subsequently be debited from the Nostro account, the Bank |
+| | retains the received credit in Nostro accounts for certain cooling period as applicable to |
+| | the countries concerned (ranging from 12 to 18 days, as governed by local regulations) |
+| | prior to crediting the customer’s account. |
+| | |
+| f. | The facilities of ‘Cash Letter Scheme’ as detailed above are subject to provision of the |
+| | same by Correspondent Banks abroad and, as such, are liable to be withdrawn or |
+| | extended to other currencies or geographies. Further, the Bank also may, at its own |
+| | discretion, decide to withdraw or extend these facilities or |
+| | currencies/geographies/customer segments allowed under these facilities based on |
+
+| | various factors like volume of cheques received, cost of providing the service and any |
+| --- | --- |
+| | other business/compliance/risk factors. |
+| | |
+| g. | Foreign currency cheques that cannot be lodged under ‘Cash Letter Scheme’ will be |
+| | attempted to be sent directly to the drawee bank with instructions to credit proceeds to |
+| | the respective Nostro Account of Axis Bank maintained with one of the correspondent |
+| | banks. Such cheques are sent under direct collection only if the drawee bank has a |
+| | centralized facility of cheque collection. For cheques sent on direct collection, there is no |
+| | specific time frame committed to the customer for receiving credit into the account. |
+| | Similarly, for cheques sent for direct collection, apart from the Bank’s applicable cheque |
+| | collection charges, there may be further deductions from the proceeds of the cheque by |
+| | the drawee bank and correspondent bank, the quantum of which cannot be ascertained |
+| | at the time of lodging the cheque. The customer’s account is credited on the next working |
+| | day of receipt of funds in the Bank’s Nostro account held with a correspondent bank. |
+| | |
+| h. | The credit entry to the customer’s account would be value dated based on the value date |
+| | of credit of funds in the Nostro Account of the Bank. |
+| | |
+| i. | The Exchange Rate (Telegraphic Transfer Buying Rate) prevailing as on the date of |
+| | application of fund and credit to customer account will be applied. |
+| | |
+| j. | In case of return of cheques, the debit entry in the customer’s account would be value |
+| | dated based on the value date of debit of funds in the Nostro Account of the Bank. The |
+| | exchange rate risk in such instances will be borne by the customer. |
+| | |
+| k. | The charges applicable would depend on the mode of collection under which the cheque |
+| | / instrument is sent for collection and as mentioned in the Bank’s Schedule of Charges. |
+| | |
+| l. | For foreign currency cheques sent on collection, correspondent bank charges and courier |
+| | charges as incurred will be additionally levied, wherever applicable. |
+| | |
+
+E. Compensation for delayed credit
+
+a. For cheques / instruments sent on collection basis, the Bank will value date the collection once the proceeds have been credited to the Nostro Account of the Bank with its correspondent bank.
+
+b. In case of delay beyond the date when the amount is due for credit, compensation is payable for any adverse movement of exchange rate.
+
+c. The compensation on account of delay in collection of instruments in foreign currency would be paid in Indian Rupees as per the compensation mentioned above for the period calculated from two working days after the date when the amount is due for credit up to the actual date of credit to the customer’s account. For the sake of clarity, the day when the amount is due for credit is calculated as below:
+
+▪ Cheques/Instruments lodged under ‘Cash Letter Scheme’: The working day in India immediately following the completion of the applicable cooling period for the foreign currency cheque.
+
+F. Purchase of local/outstation cheques
+
+Bank will at its discretion, purchase local/outstation cheque tendered for collection as per prior arrangement. Besides satisfactory conduct of the account, the standing of the drawer of the
+
+cheque will also be a factor considered while purchasing the cheque. The facility of purchase of outstation cheque will not be applicable to cheques collected under CTS clearing.
+
+G. Cheques returned unpaid by the payee bank a. In the event of a cheque presented in local / CTS clearing or sent for collection being returned unpaid, the instrument along with an advice providing reasons for return would be dispatched to the account holder at his / her mailing address recorded with the Bank. The instrument may also be handed over to the account holder or to his/her representative with the consent of the account holder. Charges applicable as per the Bank’s Schedule of Charges will be levied.
+
+b. Cheque return charges would be levied only in cases where the customer is at fault and is responsible for such returns. The illustrative list of reasons for returns, where the customers are not at fault is attached as Annexure-II.
+
+c. Cheques that need to be re-presented without any recourse to the payee, shall be made to present in the immediate next presentation clearing not later than 24 hours (excluding holidays) with due notification to the customers of such re-presentation through SMS alert, email, etc.
+
+d. For foreign currency cheques returned unpaid, the applicable return charges by the correspondent bank, courier charges and any other applicable charges would be debited from the account in which the cheque has been deposited along with the value of the instrument, if already deposited.
+
+e. The customer instructing the Bank to perform services shall be bound by and liable to indemnify the Bank against all obligations and responsibilities imposed by foreign laws and usages. Customers depositing cheques drawn on foreign centers are expected to be aware of usage / practices and laws related to cheques collection prevailing in drawee countries.
+
+f. The cheques sent for collection by the collecting bank can be returned by the banks located in any foreign country (after their presentation in clearing / collection) due to fraud / financial reasons. The fraudulent cheques can be returned by the banks in foreign countries at any time after their presentation.
+
+g. In case of such returned cheques, no protection is available to the collecting bank. Since the foreign bank recovers the amount of returned cheques earlier credited into account of collecting bank by debiting its Nostro Account, the collecting bank would not be able to provide any compensation to the depositor for cheques returned on fraud / financial reasons.
+
+h. Further, the Bank has the right to recover the proceeds of the cheques credited in the depositor’s account (at the ruling exchange rate equivalent to foreign currency amount debited by foreign bank to the Nostro Account of the collecting bank) along with the interest from the date of credit of proceeds till the date on which amount is recovered. For
+
+foreign currency instruments kindly refer clause (j) of point (D) Cheques payable in foreign currencies.
+
+i. The various articles as details in the International Chamber of Commerce, Uniform Rules for Collection (ICC-522) will be applicable for collection of cheque.
+
+2. Timeframe for collection of local / outstation cheques/instruments
+
+| Sr. No | Cheque Type | Time Norms | Remarks |
+| --- | --- | --- | --- |
+| 1. | Local Cheque | On settlement of funds. | Local cheques are payable within the jurisdiction of the clearing house and will be presented through the clearing system prevailing at the center. All Banks are instructed by RBI to extend CTS system across all bank branches in the country. Credit arising out of local cheques shall be given to the customers’ accounts immediately after closure of the relative return clearing and withdrawal shall be allowed on the same day or maximum within an hour of commencement of business on the next working day, subject to usual safeguards. The above norm is also subject to the extension of return clearing timings by the Clearing House under exceptional circumstances, which may lead to delay in allowing withdrawals as advised. |
+| 2. | As per guidelines, only cheques now presented cheques reasons they may required to be under | RBI Seven working days may be as (for that be P2F | Working days shall not include Bank Holidays and days when clearing house is not operational. Working days will be considered at both the ends/centers. |
+
+| Sr. No Cheque Type Time Norms | Remarks |
+| --- | --- |
+| 1. Local Cheque On settlement of funds. | Local cheques are payable within the jurisdiction of the clearing house and will be presented through the clearing system prevailing at the center. All Banks are instructed by RBI to extend CTS system across all bank branches in the country. Credit arising out of local cheques shall be given to the customers’ accounts immediately after closure of the relative return clearing and withdrawal shall be allowed on the same day or maximum within an hour of commencement of business on the next working day, subject to usual safeguards. The above norm is also subject to the extension of return clearing timings by the Clearing House under exceptional circumstances, which may lead to delay in allowing withdrawals as advised. |
+| Seven working days | Working days shall not include Bank Holidays and days when clearing house is not operational. Working days will be considered at both the ends/centers. |
+
+2. As per RBI guidelines, only State Government cheques may now be presented as outstation cheques (for reasons that they may be required to be presented under P2F
+
+| cheques | | (for | | | |
+| --- | --- | --- | --- | --- | --- |
+| reasons | | that | | | |
+| they | may | be | | | |
+| required to be | | | | | |
+
+Axis Bank Limited arrangements, as required).
+
+3. Outstation cheques drawn on a major city.
+
+4. Outstation cheques drawn on all other locations.
+
+5.a Cheques sent for collection in CTS clearing
+
+| Sr. No | Cheque Type | Time Norms | Remarks |
+| --- | --- | --- | --- |
+| | arrangements, | | |
+| | drawn | Ten working days on a | Working days shall not include Bank Holidays and days when clearing house is not operational. Working days will be considered at both the ends/centers. |
+| | drawn on | Fourteen working days all | Banks will have to depend on the correspondent /drawee banks for this purpose. |
+| 5.a | Cheques for collection in | sent T+0 depending on the time and location (branch/CDK) deposit of the instrument by the customer. The cut deposit may vary from branch to branch and Government cheques need to be presented through P2F needs to be particular location / | The realization of the credit based of on the cut off time for the returns applicable to the respective grid. off time for city to city. which sent to the center only. |
+| 5.b | Cheques for CTS clearing – Uniform calendar the National | sent As per the holiday declared in the National Grid for | Uniform holidays calendar is observed, where the grid hub centers will be working on most of the holidays, even while other locations are observing holidays as per the Uniform holidays calendar, the grid hub centers will be closed on notified days and on such occasions the credit to the customer is afforded on the next working day of the Grid The Uniform Holidays calendar for the grid would be available at a nearest branch. |
+| 6. | Cheques for collection in | sent Discontinued w.e.f. December 31, 2018. | The separate session for non-CTS compliant cheques under CTS is discontinued effective 31-12-2018. Such instruments would not be cleared through CTS clearing and returned unpaid. |
+| 7. | Cheque drawn on foreign | Best effort basis | Bank would give credit to the party on credit of proceeds to the Bank’s Nostro Account with the correspondent bank after considering cooling periods as |
+
+| Sr. No Cheque Type Time Norms | Remarks |
+| --- | --- |
+| | |
+| Ten working days | Working days shall not include Bank Holidays and days when clearing house is not operational. Working days will be considered at both the ends/centers. |
+| Fourteen working days | Banks will have to depend on the correspondent /drawee banks for this purpose. |
+| T+0 depending on the time and location (branch/CDK) deposit of the instrument by the customer. The cut deposit may vary from branch to branch and Government cheques need to be presented through P2F needs to be particular location / | The realization of the credit based of on the cut off time for the returns applicable to the respective grid. off time for city to city. which sent to the center only. |
+| As per the holiday declared in | Uniform holidays calendar is observed, where the grid hub centers will be working on most of the holidays, even while other locations are observing holidays as per the Uniform holidays calendar, the grid hub centers will be closed on notified days and on such occasions the credit to the customer is afforded on the next working day of the Grid The Uniform Holidays calendar for the grid would be available at a nearest branch. |
+| Discontinued w.e.f. December | The separate session for non-CTS compliant cheques under CTS is discontinued effective 31-12-2018. Such instruments would not be cleared through CTS clearing and returned unpaid. |
+| Best effort basis | Bank would give credit to the party on credit of proceeds to the Bank’s Nostro Account with the correspondent bank after considering cooling periods as |
+
+5.b Cheques sent for CTS clearing – Uniform holidays calendar for the National grid
+
+6. Cheques sent for collection in Non-CTS Clearing
+
+7. Cheque drawn on foreign countries.
+
+Sr. No Cheque Type Time Norms Remarks applicable to the countries concerned.
+
+The timeframe specified above for collection shall be treated as the outer limit and credit shall be afforded earlier if the process of collection gets completed earlier.
+
+The Bank will not decline to accept outstation cheques deposited by the customers for collection.
+
+3. Interest payment on delayed collection of local / CTS / outstation cheques a. Bank will pay interest at applicable savings bank rate to the customer on the amount of the collection instrument in case there is delay in giving credit beyond the time mentioned above. The period of delay for this calculation would be from the date of expiry of turnaround time indicated in the table on timeframe for collection of local / outstation instrument up to the date of realization of the instrument.
+
+b. This payment would be made without any demand from customers in all types of accounts. There will be no distinction between instruments drawn on Bank’s own branches or on other banks for the purpose of payment of interest on delayed collection except for reasons which are beyond the control of the Bank. Interest payments would be applicable only for instruments (drawn in INR) sent for collection within India.
+
+4. Collection of Account Payee Cheques - Prohibition on Crediting Proceeds to Third Party Account
+
+Refer RBI/2015-16/59 DBR No.Leg.BC.21/09.07.006/2015-16 dated July 01, 2015, which banks are prohibited from crediting 'account payee' cheques to the account of any person other than the payee named therein.
+
+With a view to protect the banks being burdened with liabilities arising out of unauthorized collections, and in the interest of the integrity and soundness of the payment and banking systems, and in order to prevent recurrence of deviations observed in the recent past, the Reserve Bank has considered it necessary to prohibit the banks from crediting 'account payee' cheque to the account of any person other than the payee named therein. Accordingly, as directed by RBI, the Bank will not collect account payee cheques for any person other than the payee constituent.
+
+To facilitate collection of cheques from a payment system angle, account payee cheques deposited with the sub-member for credit to their customers' account can be collected by the member bank (referred to as the sponsor member) of the Clearing House. Under such arrangements, there should be clear undertaking to the effect that the proceeds of the account payee cheque will be credited to the payee's account only, upon realization. The undertaking must be given by the Sub-member bank on the flip side of the cheque.
+
+Further, to mitigate the difficulties faced by the members of co-operative credit societies in collection of account payee cheques, relaxation was extended vide our circular DBOD.BP.BC.No. 47/21.01.001/2010-11 dated October 1, 2010. In terms of the said circular, banks may consider collecting account payee cheques drawn for an amount not exceeding Rs. 50,000/- to the account of their customers who are co-operative credit societies if the payees of such cheques are the constituents of such co-operative credit societies. The
+
+relaxation is subject to the following conditions, as outlined in the circular dated October 1, 2010, referred to above
+
+• While collecting the cheques as aforesaid, banks should have a clear representation in writing given by the co-operative credit societies concerned that, upon realization, the proceeds of the cheques will be credited only to the account of the member of the co operative credit society who is the payee named in the cheque. This shall, however, be subject to the fulfilment of the requirements of the provisions of Negotiable Instruments Act, 1881, including Section 131 thereof.
+
+• The collecting bank shall also carry out proper due diligence with respect to such co operative credit societies and ensure that KYC documents of the customers are preserved in the society's records and are available to the bank for scrutiny.
+
+• The collecting banks should, however, be aware that in the event of a claim by the true owner of the cheque, the rights of the true owner of the cheque are not in any manner affected by this circular and banks will have to establish that they acted in good faith and without negligence while collecting the cheque in question.
+
+• The above instructions shall also extend to drafts, pay orders and bankers’ cheque.
+
+5. Payment of Cheques/Drafts/Pay Orders/Banker’s Cheques
+
+Effective April 1, 2012, the validity period for the cheques, drafts, pay orders, or banker’s cheques is limited to three months. To ensure customer awareness, this information, indicating a validity of only three months, is prominently displayed on the front of the cheque.
+
+6. Cash Management Services
+
+For customers availing Cash Management Services (CMS), collection of instruments is carried out as per the terms of the bilateral agreement between the bank and the customers. Penalties, if any, will be payable as per the terms of the bilateral agreement.
+
+7. Cheques / Instruments lost in transit / in clearing process or at paying bank’s branch a. In the event a cheque or an instrument accepted for collection is lost in transit or in the clearing process or at the paying Bank’s branch, the Bank shall immediately on coming to know of the loss, bring the same to the notice of the account holder so that the account holder can inform the drawer to record stop payment and also take care that cheques, if any, issued by him/her are not dishonoured due to non-credit of the amount of the lost cheques/instruments.
+
+b. The ownership of such loss will be borne by the bank and not the account holder.
+
+c. If the cheque/instrument has been lost at the paying bank’s branch, the collecting branch will have a right to recover the amount, including charges / interest expenses reimbursed to the customer for the loss of the cheque/instrument from the paying banker.
+
+d. The Bank would provide all assistance to the customer to obtain a duplicate instrument from the drawer of the cheque. This would be applicable only to instruments drawn in INR payable within India.
+
+e. The Bank will compensate the account holder in respect of instruments lost in transit as follows and will recover it from the paying bank.
+
+f. In case intimation regarding loss of instrument is conveyed to the customer after the time limit stipulated for collection (7/10/14 days as the case may be) interest will be paid for the period exceeding the stipulated collection period at the applicable savings bank rate. In addition, the Bank will pay interest on the amount of the cheque for a period of 15 days at savings bank rate to provide for likely further delay in obtaining duplicate cheque/instrument and collection thereof.
+
+g. The Bank would also compensate the customer for any reasonable charges he/she incurs in getting duplicate cheque/instrument upon production of receipt, in the event the instrument is to be obtained from a bank/institution who would charge a fee for issue of duplicate instrument.
+
+h. For foreign currency cheques lost prior to receipt by the correspondent bank, the Bank will bear the stop payment charges on customer producing the relevant document. Compensation for foreign currency cheques would be applicable only if the Bank or its correspondent bank loses the cheque. The compensation in such case would be as follows: • In case intimation regarding loss of instrument is conveyed to the customer beyond the time stipulated for collection, interest will be paid for the period exceeding the stipulated collection period at the applicable savings bank rate.
+
+• The Bank will also compensate the customer for any reasonable charges he /she incurs in getting duplicate cheque / instrument upon production of receipt, in the event the instrument is to be obtained from a bank / institution that would charge a fee for issue of duplicate instrument.
+
+• The Bank would also compensate for any possible loss due to adverse movement of foreign exchange rate in case of foreign currency cheques. The compensation would thus be calculated based on the time stipulated for collection.
+
+Force Majeure
+
+The Bank shall not be liable to compensate customers for delayed credit if some unforeseen event (including but not limited to civil commotion, sabotage, accident, fires, terrorist attacks, natural disasters or other “Acts of God”, war, damage to the Bank’s facilities or of its correspondent bank(s), absence of the usual means of communication or all types of transportation, etc. beyond the control of the Bank, prevents it from performing its obligations within the specified service delivery parameters.
+
+8. Governance Structure - Roles and Responsibilities of Board of Directors/ Senior Management • The RBI Master circular on Customer Service in Banks with Reference No. RBI/2015-16/59 DBR No.Leg.BC. 21/09.07.006/2015-16 dated July 01, 2015, advises banks to develop a comprehensive and transparent policy that addresses three key areas, considering the Bank’s technological capabilities, systems, and processes related to clearing arrangements and other internal arrangements for collection through correspondents.
+
+o Immediate credit for local / Outstation cheques o Timeframe for collection of Local / Outstation Instruments o Interest payment for delayed collection
+
+• Bank must periodically review the existing arrangements and capabilities and devise a strategy that minimizes the collection period while adequately safeguarding the interests of small depositors.
+
+• The policy must align with the bank's deposit policy and adhere to the model deposit policy issued by the Indian Banks' Association (IBA). Furthermore, it should clearly define the bank's liability regarding interest payments resulting from delays due to non-compliance with their own standards.
+
+• Any necessary compensation in the form of interest payments should be provided without requiring a claim from the customer.
+
+• This policy must be submitted to the Bank's Board for review, along with the Reserve Bank's prior instructions, ensuring that the Board's explicit approval is obtained to confirm the policy's appropriateness and compliance with established guidelines.
+
+9. Disclosure Requirement
+
+In accordance with the RBI Master Circular on Customer Service RBI/2015-16/59 DBR No.Leg.BC. 21/09.07.006/2015-16, dated July 01, 2015,
+
+• The Cheque Collection Policy will be available to all employees to promote awareness and adherence, and it will also be published on the Bank’s website.
+
+• The key aspects of the policy will be prominently displayed on the notice boards at every branch.
+
+• Upon customer’s request the copy of the policy can be made available by the Branch Manager.
+
+10. Review of the Policy
+
+The Policy will be effective from the date of the approval of the Board and would be aligned to the amendments in accordance with regulations, circulars, notifications, etc. as may be issued by regulatory authorities from time to time. In case of any inconsistency of the provisions of this Policy with any amendments, circulars, clarifications issued by relevant authorities, then such amendments, circulars, clarifications shall prevail upon the provisions of this policy.
+
+This policy shall be reviewed by the Board on annual basis subject to any regulatory/statutory amendment requiring an earlier review.
+
+Date: February 27, 2025
+
+11. Annexures Annexure – I : Abbreviations Annexure – II : List of objections where customers are not at fault.
+
+Annexure I
+
+Abbreviations
+
+Sr No. Abbreviations Full Form 1. CCP Cheque Collection Policy 2. RBI Reserve Bank of India 3. CTS Cheque Transaction System 4. DD Demand Draft 5. P2F Paper to Follow 6. CDK Cheque Deposit Kiosks 7. MFK Multi-functional Kiosks 8. CMS Cash Management System 9. CB Correspondent Bank 10. CLS Cash Letter Scheme 11. DCS Direct Collection Scheme 12. FCS Final Credit Service
+
+Annexure II
+
+Illustrative but not exhaustive list of objections where customers are not at fault (Applicable for Instrument and Image-based Cheque Clearing to Uniform Regulations and Rules for Bankers' Clearing Houses)
+
+Code No.
+
+Reason for Return
+
+33 Instrument mutilated; requires bank's guarantee 
+35 Clearing House stamp / date required 
+36 Wrongly delivered / not drawn on us 
+37 Present in proper zone 
+38 Instrument contains extraneous matter 
+39 Image not clear; present again with paper 
+40 Present with document 
+41 Item listed twice 
+42 Paper not received 
+60 Crossed to two banks 
+61 Crossing stamp not cancelled 
+62 Clearing stamp not cancelled 
+63 Instrument specially crossed to another bank 
+67 Payee’s endorsement irregular / requires collecting bank's confirmation 
+68 Endorsement by mark / thumb impression requires attestation by Magistrate with seal 
+70 Advice not received 
+71 Amount / Name differs on advice 
+72 Drawee bank's fund with sponsor bank insufficient (applicable to sub-members) 
+73 Payee's separate discharge to bank required 
+74 Not payable till 1 st proximo 
+75 Pay order requires counter signature 
+76 Required information not legible / correct 
+80 Bank's certificate ambiguous / incomplete / required 
+81 Draft lost by issuing office; confirmation required from issuing office 
+82 Bank / Branch blocked 
+83 Digital Certificate validation failure 
+84 Other reasons-connectivity failure 
+87 ‘Payee's a/c Credited' - Stamp required 
+92 Bank excluded 
+

@@ -1,0 +1,1476 @@
+Page 1 of 35
+GRIEVANCE REDRESSAL POLICY
+VERSION NO. 15.0
+2025-2026
+CUSTOMER SERVICE SECTION
+CUSTOMER SERVICE VERTICAL
+OPERATIONS WING 
+HEAD OFFICE
+5th Floor, #86, SPENCER TOWER, M.G 
+ROAD, BENGALURU -560001
+Page 2 of 35
+GRIEVANCE REDRESSAL POLICY OF THE BANK FOR THE YEAR 2025-26
+INDEX
+Sl No. Contents Page no
+A. Objectives 4
+1 The customer complaint arises due to 4
+B. Organisational Setup, Roles & Responsibilities 5
+2 Internal Machinery to handle customer complaints / grievances 5
+2.1 Internal Ombudsman 5
+2.2 Complaint Redressal Mechanism in our Bank (Internal Machinery) 6
+2.2.1 At Branch 6
+2.2.2 At Regional Office 8
+2.2.3 At Circle Office 9
+2.2.4 At Head Office 9
+3 Grievance Escalation System 13
+3.1 Online Grievance Redressal System 13
+3.1.a CRM-CPGRS (Canara Public Grievance Redressal System) 13
+3.1.b Online Dispute Resolution (ODR) System For Digital Payments 15
+4 RBI-Integrated Ombudsman Scheme, 2021 15
+C. Strategies for meeting objectives 16
+5 Standing Committee Meeting on Customer Service 16
+6 Customer Service Committee of the Board 17
+7 Nodal Officer and other designated officials to handle 
+complaints and Grievances 
+17
+8 Mandatory display requirements 18
+9 Timeline For Resolution of Complaints 19
+D. Limit Structure/ Trigger Mechanism 19
+10 Dispute Redressal Mechanism: Technological/Digital Products 19
+10.1 Failed Transactions 21
+10.2 UPI URCS- Revised Disputes TAT 24
+10.3 Exception Handling 24
+10.4 Chargebacks 24
+10.5 ATM Credit/ Debit Transaction Adjustments 25
+11 Net Banking 25
+12 Mobile Banking 26
+13 Interaction with Customers 26
+14 Periodical training & sensitizing the operating staff on handling 
+complaints
+27
+15 Home Loans-Levy of fore-closure charges/ pre-payment penalty 27
+16 Uniformity on Intersol Charges 28
+17 Charges for sending SMS alerts 28
+18 Grievance Redressal on complaints against outsourced agencies/ 
+employees
+28
+18.1 Recovery Agents (Monitored by RL&FP Wing) 28
+18.2 Call Center Service (Monitored by Customer Service Vertical, 
+Operations Wing)
+29
+18.3 Business Correspondents (Monitored by LB&FI Wing) 29
+18.4 Operators at Aadhar Seva Kendras (Monitored LB&FI Wing) 30
+Page 3 of 35
+18.5 Formation of Women SHG & Facilitation in crediting of SHG/JLG 30
+18.6 Direct Selling Agents (DSA - Monitored by Retail Asset Wing) 31
+19. Resolution of Grievances under NPS and APY (Government 
+Services Section, Resources Wing)
+31
+ a. Guidelines on operational activities to be followed by POP(Banks) 
+while performing activities of NPS
+32
+ b. Customer Service Aspects of Senior Citizen /Pensioners 
+(Damodaran Committee Recommendations on Customer Service -
+2011)
+32
+20 Strengthening of Grievance Redress Mechanism in Banks 33
+21 Handling complaints related to vigilance, bribery & corruption 
+(handled by Vigilance Wing)
+33
+22 Complaints related to Credit Information Companies (CIC): 
+(Monitored by Recovery, Legal and Fraud Prevention Wing)
+34
+E. Compliance / Monitoring of Implementation of the Policies 34
+Annexure I - Enclosure to 10.1.iv Uniform Template 35
+Page 4 of 35
+GRIEVANCE REDRESSAL POLICY – 2025-26
+A. OBJECTIVES:
+In a competitive banking environment, excellent customer service is crucial for 
+sustained growth. The bank has historically prioritized customer satisfaction and 
+taken various initiatives to improve it. Customer complaints are inevitable in any 
+business. Being a service oriented organization, customer service and customer 
+satisfaction is the prime concern for the Bank. Hence, we believe prompt and efficient 
+service is essential for both attracting new customers and retaining existing ones. This 
+policy document aims at minimizing instances of customer complaints through 
+improved service delivery and a review mechanism. It also emphasizes the importance 
+of addressing complaints quickly and effectively when they do arise. The review 
+mechanism is intended to identify weaknesses in products and services, allowing the 
+bank to make necessary improvements. 
+The Bank's policy on Grievance Redressal follows the under noted principles:
+a) Our customers will be treated fairly at all times.
+b) Complaints raised by our customers will be dealt with courtesy, empathy and 
+in time.
+c) Our customers will be fully informed of avenues to escalate their complaints/ 
+grievances within the organization and their rights to alternative remedy, if 
+they are not fully satisfied with the response of the bank to their complaints.
+d) Our Bank will treat all complaints efficiently and fairly as they can damage the 
+Bank's reputation and business if handled otherwise.
+e) Our employees will work in good faith and without prejudice to the interests 
+of the customer.
+f) Complaints emanating from rural areas and those relating to financial 
+assistance to priority sector and Government Poverty alleviation programme 
+also form part of the above process.
+In order to make Bank's redressal mechanism more meaningful and effective, a 
+structured system will function at Branches/ Regional Offices/ Circle Offices/Head 
+Office, which will ensure that redressal sought is just and fair, and is within the given 
+framework of rules and regulation. 
+This policy document will be made available at all branches. All the employees will 
+be made aware about the complaint handling process to ensure better customer 
+service and general awareness in the Bank.
+1. Customer complaint arises due to:
+a) The attitudinal aspects in dealing with customers.
+b) Inadequacy of the functions/ arrangements made available to the customers or 
+gaps in standards of services expected and actual services rendered.
+c) Malfunctioning of Technology products.
+Above such complaints shall be accorded priority in grievance redressal.
+Page 5 of 35
+B. ORGANISATIONAL SETUP, ROLES & RESPONSIBILITIES: (Monitored by Customer 
+Service Vertical, Operations Wing, HO)
+2. Internal Machinery to handle customer complaints/ grievances
+a) If the customer wants to make a complaint, we will inform & guide:
+ i. Where to make complaint
+ ii. How a complaint should be made
+ iii. When to expect a reply
+ iv. Whom to approach for redressal
+ v. What to do if he (customer/s) is not happy about the outcome/resolution.
+b) The Bank will inform customers where to find details of complaint handling 
+procedures for resolution of complaints fairly and quickly.
+c) We prioritize written complaints by providing immediate acknowledgement and a 
+unique reference number for tracking, generated through our online complaint 
+portal. If a customer complaint is received through e-mail and telephone at our 
+designated mail id (hocss1@canarabank.com), helpdesk/Call Centre via toll-free 
+number (1800 1030), we shall record/register such complaint in complaint portal 
+and provide a unique reference number for tracking purposes. This will enable us 
+to keep customers informed of the progress and resolution within a reasonable 
+timeframe.
+d) We will provide a final response within 21 days of receiving the complaints (i.e. 
+Other than digital financial transactions related complaints). If further 
+investigation is required, we will explain the reason for the delay and provide an 
+updated timeframe. If customers remain dissatisfied, we will advise them on how 
+to escalate their complaint.
+2.1 Internal Ombudsman
+To ensure fair and impartial complaint resolution, the Bank has appointed an 
+Internal Ombudsman—a retired General Manager from another bank—to oversee our 
+grievance redressal process. Cases involving complaint rejection or partial relief 
+are escalated to the Internal Ombudsman for a final, binding decision. The only 
+exception is when the Bank's Executive Director in charge of customer service 
+approves a disagreement with the Ombudsman's decision. This internal process 
+aims to provide customers with faster, fairer resolutions without needing to 
+escalate to external authorities like the Banking Ombudsman, RBI, Consumer 
+Courts, or government portals. This mechanism is adopted by the Bank in tune with 
+the RBI guidelines latest being, RBI/CEPD/2023-24/108 CEPD.PRD.No.S1228/ 
+13.01.019/ 2023-24 dated 09.12.2023. This mechanism adopted by the Bank and is 
+working efficiently.
+Page 6 of 35
+In accordance with RBI directives, all partially or wholly rejected complaints are 
+escalated to the Internal Ombudsman within 20 days for a final decision.
+However, all reopened complaints are escalated directly to Head Office and 
+resolved only after review by the General Manager/Customer Service Vertical 
+Head.
+2.2. Complaint Redressal Mechanism in our Bank (Internal Machinery):
+Bank has a nodal department and/or officials for customer service in Head Office and 
+in each of its controlling offices (Circle Offices and Regional Offices) with whom 
+customers with grievances can approach in the first instance and with whom the 
+Banking Ombudsman and other departments can liaise.
+The General Manager, Priority Credit Wing shall act as the Nodal Officer for monitoring 
+of Credit Related grievances forwarded by the Ministry/ies for taking appropriate 
+action on merits. 
+Any complaint received through legal channel/advocates office will be replied by the 
+recipient branch/RO/CO/HO after obtaining vetting/ opinion from Legal Section of 
+the concerned RO/CO or Legal Section, RL& FP Wing at Head office.
+2.2.1 At Branch: 
+Resolution of Grievances
+Branch Manager will be responsible for the resolution of the complaints/ grievances 
+in respect of customer service by the Branch. He/ she would be responsible for 
+ensuring closure of all complaints received at Branches. It is his/ her foremost duty 
+to see that the complaint should be resolved completely to the customer's satisfaction 
+and if the customer is not satisfied, then he shall be provided with alternate avenues 
+to escalate the issue if the same is not resolved within the stipulated period. 
+If the Branch Manager feels that it is not possible at his/ her level to solve the 
+problem, he/ she may refer the case to Regional Office/ Circle Office or Head Office 
+for guidance. Similarly, if Regional Office/ Circle Office find that they are not able to 
+solve the problem; such cases may be referred to the Principal Nodal Officer of the 
+Bank.
+All complaints received by the Bank Branches outside to online grievance portals are 
+to be entered in designated grievance Redressal packages i.e. CCR/CTS/CPGRS etc., 
+on the same day of receipt of the complaint and due process to be followed further. 
+a. Suggestion Box and complaint Book are provided in all the branches. Any written 
+complaint is instantly and promptly acknowledged.
+b. The Complaint Registers are to be kept at prominent place which would make 
+it possible for the customers to enter their grievances. The register shall be in 
+perforated copies in each set so that the acknowledgement to the customers 
+would be provided instantly and an intimation to the controlling office.
+Page 7 of 35
+c. At every office of the Bank a notice requesting the customer “To meet the 
+Branch Manager” shall be displayed with regard to Grievances, if it remains unredressed.
+d. A copy of the complaint is required to be forwarded to the concerned 
+controlling office of the bank along with the remark of the branch manager 
+within a time frame (Within a maximum of 7 days depending upon the nature 
+of Grievances). 
+e. All branches should maintain a separate complaint register for entering all the 
+complaints/ grievances received by them directly or through RO/ CO/ HO and 
+other sources. These registers should be maintained irrespective of the fact 
+whether a complaint is received or not in the past. Branch to maintain a 
+separate file for customer complaints received through letters and related 
+communications and grievance portal/package generated complaint number / 
+reference to be inscribed on all such complaints which are received outside to 
+grievance portal/ package and entered in the package. 
+f. The complaint registers maintained by branches shall be scrutinized by the 
+concerned Circle Nodal Executive during his periodical visit to the branches and 
+his observations/ comments recorded in the relative visit reports. 
+g. Bank having computerized operation may adopt the aforesaid format and 
+generate copies electronically. Canara Bank has developed an in-house portal 
+namely Canara Public Grievance Redressal System (CPGRS) in which all the 
+complaints are registered and redressed. The data is maintained in the package 
+electronically.
+h. Grievances/ complaints relating to congestion in banking premises should be 
+examined by the bank’s internal inspectors/ auditors on a continuing basis and 
+action taken for augmentation of space, where ever necessary, keeping in view 
+the availability of larger accommodation in the same locality at a reasonable 
+rent and other commercial considerations.
+i. Counter staff are provided with training and additional inputs.
+j. If counter staff/ supervisor is unable to resolve a grievance, the Branch-incharge shall intervene and try to resolve the issue.
+k. Customers’ Day is observed on 15th of every month. On this day, branch incharge will make himself/ herself available at the branch between 3 P.M. and 
+5 P.M. to meet customers without any prior appointment.
+l. Branch Level Customer Service Committees
+Banks were advised to establish Customer Service Committees at branch level. 
+In order to encourage a formal channel of communication between the 
+customers and the bank at the branch level, banks should take necessary steps 
+for strengthening the branch level committees with greater involvement of 
+customers. It is desirable that branch level committees include their customers 
+too. Further, as senior citizens usually form an important constituent in banks, 
+a senior citizen may preferably be included therein. The Branch Level Customer 
+Service Committee may meet at least once a month to study complaints/ 
+Page 8 of 35
+suggestions, cases of delay, difficulties faced/ reported by customers/ 
+members of the Committee and evolve ways and means of improving customer 
+service.
+The branch level committees may also submit quarterly reports giving inputs/ 
+suggestions to the Standing Committee on Customer Service thus enabling the 
+Standing Committee to examine them and provide relevant feedback to the 
+Customer Service Committee of the Board for necessary policy/ procedural 
+action.
+m.Customer Service Committee meeting is held every month at all Branches/ 
+Regional Offices/ and Circle Offices. The sole task of the Committee is to find 
+out ways and means to render service to the satisfaction of the Customers. For 
+this purpose, Committee will meet regularly at stipulated intervals to discuss 
+in detail the strengths and deficiencies of the services presently rendered and 
+take steps to improve it.
+n. Special Customers’ Meet is conducted on special occasions.
+o. Every year, during November Customer Fortnight is observed to create 
+awareness among Public as well as staff for achieving the objective of 
+Complaint free branch network, and to also highlight our products and services.
+p. Both the Drop box facility and the facility for acknowledgement of the cheques 
+at regular collection counters shall be available to the customers and no branch 
+shall refuse to give an acknowledgement if the customer tenders the cheque 
+at the counters. 
+q. Bank shall ensure that customers are not compelled to drop the cheques in drop 
+box. 
+r. Bank shall invariably display on the cheque drop box itself that ‘Customers can 
+also tender the cheques at the counters and obtain acknowledgement on the 
+pay-in-slips.’ This message is displayed in English, Hindi and the concerned 
+regional language of the state.
+s. On 15th of every month, Customers’ Day is observed between 3 P.M. and 5 P.M. 
+during which Branch manager should be available for meeting the public/ 
+Customers without prior appointment. 
+2.2.2. At Regional Office:
+a. Divisional Manager/ Assistant General Manager holding charge of Operations 
+Section/Customer Service Section at Regional office.
+b. By and large, complaints are redressed within shortest possible time.
+c. Whenever it is not possible and more cross checking is required, steps are 
+taken to settle the matter within a reasonable time.
+d. The Executives of Regional Office visit branches periodically and submit a 
+report on Customer Service, as per the detailed checklist.
+e. Divisional Manager/ Assistant General Manager in-charge of Operations 
+Section/Customer Service Section, Regional Office contact the aggrieved 
+Page 9 of 35
+customers as and when necessary, meet him personally with the Branch 
+Manager, for ensuring timely redressal of the complaint.
+f. Wherever deficiencies are noticed, accountability is fixed and erring 
+employees punished.
+2.2.3 At Circle Office: 
+a. Divisional Manager/ Assistant General Manager holding charge of Operations 
+Section /Customer Service Section at Circle office.
+b. By and large, complaints are redressed within shortest possible time.
+c. Whenever it is not possible and more cross checking is required, steps are 
+taken to settle the matter within a reasonable time.
+d. The Executives of Circle Office visit branches periodically and submit a report 
+on Customer Service, as per the detailed checklist.
+e. Divisional Manager/ Assistant General Manager in-charge of Operations/ 
+Customer Service Section, Circle Office contact the aggrieved customers as 
+and when necessary, meet him personally with the Branch Manager, for 
+ensuring timely redressal of the complaint.
+f. Wherever deficiencies are noticed, accountability is fixed and erring 
+employees punished.
+2.2.4 At Head Office: 
+a. A full-fledged Customer Service Section is functioning at Customer Service 
+Vertical, Operations Wing, Head Office, overseen by Chief General Manager. 
+b. An acknowledgement is sent to the customer immediately on receipt of the 
+complaint.
+c. Thorough analysis of the complaint is done and necessary instructions are 
+given to COs/ROs/Branches for speedy redressal and followed up till final 
+reply is sent to the complainant duly explaining the decision taken on the 
+complaint.
+d. On 15th of every month, Customers’ Day is observed between 3 p.m. and 5 
+p.m. during which overseeing Executives are available for meeting the public/ 
+Customers without prior appointment. 
+e. Special Customers’ Meets are organized for different segments of the market, 
+viz., Exporters, MSME, NRI, Agriculturists, etc, by respective wings.
+f. Customer Satisfaction Surveys through In-house as well as by External 
+agencies are conducted to assess the level of customer satisfaction.
+g. Bank shall place a statement of complaints before the Customer Service 
+Committee of the Board along with an analysis of the complaints received. 
+The complaints shall be analyzed to identify customer service areas in which 
+the complaints are frequently received, to identify frequent sources of 
+complaints, to identify systemic deficiencies and for initiating appropriate 
+action to make the grievance redressal mechanism more effective.
+h. Root Cause Analysis of the complaints will be conducted by the owner / user 
+Wings in co-ordination with Customer Service Vertical. 
+i. The Bank shall disclose following details along with financial results:
+Page 10 of 35
+A. Summary information on complaints received by the bank from customers and 
+from the Office of Banking Ombudsman.
+Sl 
+no
+Previous 
+year
+Current 
+year
+Complaints received by the bank from its customers
+1 Number of complaints pending at beginning of 
+the year
+2 Number of complaints received during the year
+3 Number of complaints disposed during the year
+3.1 Of which, number of complaints rejected by the 
+bank
+4 Number of complaints pending at the end of the 
+year
+Maintainable complaints received by the bank from 
+Office of Banking Ombudsman.
+5 Number of maintainable complaints received by 
+the bank from OBOs
+5.1 Of 5, number of complaints resolved in favour 
+of the bank by Bos
+5.2 Of 5, number of complaints resolved through 
+conciliation/mediation/advisories issued by Bos
+5.3 Of 5, number of complaints resolved after 
+passing of Awards by BOs against the bank
+6 Number of Awards unimplemented within the 
+stipulated time (other than those appealed)
+B. Top five grounds of complaints received by the bank from customers
+Grounds of 
+complaints, 
+(i.e. 
+complaints 
+relating to)
+Number of 
+complaints 
+pending at 
+the 
+beginning of 
+the year
+Number of 
+complaints 
+received 
+during the 
+year
+% increase/ 
+decrease in the 
+number of 
+complaints 
+received over 
+the previous 
+year
+Number of 
+complaints 
+pending at 
+the end of 
+the year
+Of 5, number 
+of 
+complaints 
+pending 
+beyond 30 
+days
+1 2 3 4 5 6
+Current Year
+Ground – 1
+Ground – 2
+Ground – 3
+Ground – 4
+Ground – 5
+Others
+Total
+Previous Year
+Ground – 1
+Ground – 2
+Ground – 3
+Page 11 of 35
+Ground – 4
+Ground – 5
+Others
+Total
+Master list of grounds of complaints to be used for disclosure on the top five groundwise receipt of complaints by banks. 
+1. ATM/Debit Cards 
+2. Credit Cards 
+3. Internet/Mobile/Electronic Banking 
+4. Account opening/difficulty in operation of accounts 
+5. Mis-selling/Para-banking 
+6. Recovery Agents/Direct Sales Agents 
+7. Pension and facilities for senior citizens/differently abled 
+8. Loans and advances 
+9. Levy of charges without prior notice/excessive charges/foreclosure charges
+10.Cheques/drafts/bills 
+11.Non-observance of Fair Practices Code 
+12. Exchange of coins, issuance/acceptance of small denomination notes and coins
+13.Bank Guarantees/Letter of Credit and documentary credits 
+14.Staff behaviour 
+15.Facilities for customers visiting the branch/adherence to prescribed working hours 
+by the branch, etc. 
+16.Others
+Further bank shall place a detailed statement of complaints in the web-site for 
+information of the general public at the end of each financial year.
+Internal Ombudsman:
+In order to ensure the speedy redressal of complaints, the Bank has appointed the 
+Internal Ombudsman, a retired senior officer not below the rank of General Manager, 
+from other Bank, at the highest rank of the General Manger in our Bank. The rejected 
+and partially resolved complaints from any level i.e. Branch/ Regional Office/ Circle 
+Office/ Head Office are placed before the Internal Ombudsman of the Bank. Such 
+rejected and partially resolved complaints are auto escalated to Internal Ombudsman 
+within 20 days from receipt of complaint.
+This helps the customer to get the grievances redressed faster without escalating to 
+any other external authorities like The Banking Ombudsman, RBI, Consumer Courts, 
+Government portal etc. This mechanism adopted by the Bank is working efficiently.
+Board of Directors
+ Shall drive the effective management of Grievance Redressal Policy.
+ Provide senior management with clear guidance and direction.
+Page 12 of 35
+ Review the Grievance Redressal Policy annually and if necessary, revise
+them in tune with extant regulatory guidelines.
+ Matters relating to customer service should be deliberated by the Board 
+to ensure that the instructions are implemented meaningfully. 
+Commitment to hassle-free service to the customer at large and the Common Person 
+in particular under the oversight of the Board should be the major responsibility of 
+the Board.
+Role of the Customer Service Committee
+Customer Service Committee of the Board, illustratively, could address the following: 
+ Formulation of a Comprehensive Deposit Policy
+ Issues such as the treatment of death of a depositor for operations of his
+account
+ Product approval process with a view to suitability and appropriateness
+ Annual survey of depositor satisfaction
+ Tri-enniel audit of such services.
+ Monitoring the implementation of awards under the Banking Ombudsman 
+Scheme.
+ The Committee should also play a more pro-active role with regard to 
+complaints/ grievances resolved by Banking Ombudsmen of the various States.
+ The Committee could also examine any other issues having a bearing on the 
+quality of customer service rendered.
+Further, with a view to enhance the effectiveness of the Customer Service 
+Committee, banks should also:
+a) Place all the awards given by the Banking Ombudsman before the Customer Service 
+Committee to enable them to address issues of systemic deficiencies existing in 
+banks, if any, brought out by the awards; and
+b) Place all the awards remaining unimplemented for more than three months with 
+the reasons therefore before the Customer Service Committee of the Board to enable 
+the Customer Service Committee to report to the Board such delays in 
+implementation without valid reasons and for initiating necessary remedial action.
+ Standing Committee on Customer Service
+The Committee on Procedures and Performance Audit of Public Services (CPPAPS) 
+constituted by RBI examined the issues relating to the continuance or otherwise of 
+the Ad hoc Committees and observed that there should be a dedicated focal point 
+for customer service in banks, which should have sufficient powers to evaluate the 
+functioning in various departments. The CPPAPS therefore recommended that the 
+Ad hoc Committees should be converted into Standing Committees on Customer
+Service.
+The constitution and functions of the Standing Committee may be on the lines 
+indicated below:
+i) The Standing Committee may be chaired by the MD & CEO or the ED and include 
+non- officials as its members to enable an independent feedback on the quality of 
+customer service rendered by the bank.
+ii) The Standing Committee may be entrusted not only with the task of ensuring 
+Page 13 of 35
+timely and effective compliance of the RBI instructions on customer service, but also 
+that of receiving the necessary feedback to determine that the action taken by 
+various departments of the bank is in tune with the spirit and intent of such
+instructions.
+iii) The Standing Committee may review the practice and procedures prevalent in the 
+bank and take necessary corrective action, on an ongoing basis as the intent is 
+translated into action only through procedures and practices.
+iv) A brief report on the performance of the Standing Committee during its tenure 
+indicating, inter alia, the areas reviewed, procedures/ practices identified and
+simplified/ introduced may be submitted periodically to the Customer Service 
+Committee of the Board.
+3. GRIEVANCE ESCALATION SYSTEM:
+The bank has adopted and implemented a centralized grievance redressal mechanism 
+to ensure the expeditious and effective resolution of grievances. In accordance with 
+the revised grievance redressal process, all complaints received by the bank are 
+resolved at the Head Office level by subject experts in the respective products and 
+services.
+a) Complaints may be submitted via the grievance portal, electronic mail, postal 
+correspondence, the Call Centre, mobile banking, internet banking etc. Upon 
+successful registration, each complaint is assigned to the relevant operational 
+unit at Head Office based on the classification of the complaint. 
+b) Upon receipt of a complaint, the designated team at Head Office coordinates 
+with the pertinent bank departments to formulate an appropriate response. 
+The Customer Service department maintains centralized oversight of complaint 
+closure. Prior to final closure, a review is conducted by a dedicated team within 
+the Customer Service department to ensure adherence to established bank 
+guidelines and applicable regulations (excluding digital transaction related 
+complaints). 
+c) The bank offers a complaint reopening process, allowing customers to reopen 
+a closed complaint within seven days of the closure date. Reopened complaints 
+are escalated directly to the Customer Service Vertical for analysis and 
+resolution, subject to the concurrence of the General Manager or department 
+head.
+d) The bank undertakes root cause analysis (RCA) for complaint types exhibiting 
+repetitive patterns or upward trends, and subsequently initiates remedial 
+actions to rectify the underlying issues identified through the RCA process. 
+3.1 ONLINE GRIEVANCE REDRESSAL SYSTEM: 
+A. CRM-CPGRS (CANARA PUBLIC GRIEVANCE REDRESSAL SYSTEM)
+To enhance customer service, and in accordance with directives from the Ministry 
+of Finance, the Damodaran Committee, and the IBA, we have developed the Canara 
+Public Grievance Redressal System (CPGRS). Accessible through our website, this 
+online system enables customers to conveniently submit complaints, monitor their 
+progress, and receive timely responses. Upon complaint submission, the system 
+generates a unique reference number for customer tracking. Customers can use 
+Page 14 of 35
+this number to monitor the progress of their complaint, review the resolution 
+provided, and reopen the complaint if they remain dissatisfied.
+Upon successful registration, the system automatically allocates each complaint to 
+the designated user wing/vertical/department based on the nature of the 
+complaint as specified by the complainant or the individual registering the 
+complaint on their behalf.
+AT HEAD OFFICE LEVEL: USER WINGS / VERTICALS LEVEL:
+Each user wing/vertical is responsible for the redressal of complaints pertaining to 
+the products, services, and portfolios under its purview. These units are ensuring 
+the timely and effective resolution of customer grievances resulting from 
+identified deficiencies in their respective offerings. Each complaint is addressed 
+by a subject matter specialist who provides a suitable resolution in full compliance 
+with applicable bank guidelines and other regulations. The bank is committed to 
+prioritizing customer grievance redressal to achieve the highest levels of customer 
+satisfaction.
+AT CIRCLE OFFICE LEVEL:
+Circle Office user sections must analyze and provide input on each complaint related 
+to their office. This analysis should be based on details, data, and documents 
+gathered from relevant branches through the CRM CPGRS system or other bankapproved communication channels.
+Circle Offices must acknowledge all complaints received directly, outside the CRM 
+CPGRS system. These complaints must be promptly entered into the appropriate 
+complaint management systems/channels.
+To build stronger customer relationships, gain a deeper understanding of issues, and 
+ensure satisfactory resolution, Circle Offices may directly contact customers as 
+needed.
+Circle user sections must provide complete input details and documentation for each 
+complaint, in accordance with bank policy and guidelines.
+AT REGIONAL OFFICE LEVEL:
+Regional Offices can view all CRM-CPGRS complaints pertains to them and provide 
+input and responses to queries from higher offices. They must also acknowledge all 
+complaints received directly to their office, outside the CRM CPGRS system, and 
+promptly enter these complaints into the complaint management package.
+Regional Offices must regularly review and analyze branch complaint data, including 
+the number, type, frequency, and reasons for any increases or decreases in complaint 
+volume. They should then implement appropriate measures to address any identified 
+issues.
+AT BRANCH LEVEL:
+Branches can view complaints registered against them and provide input and 
+responses to queries from higher offices. They must also acknowledge all complaints 
+Page 15 of 35
+received directly, outside the CRM CPGRS system, and promptly enter these 
+complaints into the appropriate complaint management systems.
+Upon receiving a complaint, branches should contact the customer directly to fully 
+understand the issue and ensure prompt and satisfactory resolution.
+Complaints involving financial losses reported by customers must be given top 
+priority.
+All customers must have access to grievance redressal facilities, regardless of their 
+ability to register complaints online.
+When additional information or documents are required from a customer, they will 
+be proactively notified through the grievance portal or a bank-approved 
+communication channel.
+B. ONLINE DISPUTE RESOLUTION (ODR) System for Digital Payments: (Monitored by 
+Reconciliation Vertical, Operations Wing)
+In the Statement on Developmental and Regulatory Policies dated August 6, 2020, 
+Reserve Bank of India (RBI) had announced introduction of Online Dispute Resolution 
+(ODR) system for resolving customer disputes and grievances pertaining to failed 
+transactions on digital payments. 
+In compliance to above directions, Canara Bank offers an ODR system for faster and 
+more efficient dispute resolution. The ODR system is designed to be transparent, rulebased, user-friendly, and unbiased, with minimal manual intervention.
+Customers can directly register their disputes/grievances related to digital payments 
+online through the ODR portal. Customers can also submit failed transaction related 
+digital payment complaints directly to the branches for resolution. 
+Customers can access the ODR portal through various channels, including the Canara 
+Bank website (URL: https://odr.canarabank.com), CPGRS complaint portal, webbased or paper-based complaint forms, IVR, mobile application, call center, SMS, or 
+through branches. Currently, the ODR portal handles disputes related to Debit Card, 
+Credit Card, Prepaid Card, UPI, IMPS, AEPS, NACH, APBS, RTGS, and NEFT 
+transactions.
+Disputes raised in the ODR portal are automatically sent to the relevant reconciliation 
+team within the bank for further processing. The respective sections under the 
+Reconciliation Vertical handle the reconciliation process as per defined timelines 
+(TAT). The status of the dispute resolution is then automatically updated in the ODR 
+portal for customer tracking.
+4. RBI - INTEGRATED OMBUDSMAN SCHEME, 2021
+Following the submission of a general complaint to the bank, if the customer does not 
+receive a satisfactory resolution, they may seek further redressal by contacting the 
+Page 16 of 35
+Banking Ombudsman appointed by the Reserve Bank of India under the Integrated 
+Ombudsman Scheme, 2021.
+We have displayed in our website and in all our Branches a notice explaining that we 
+are covered by the Integrated Ombudsman Scheme, 2021 of Reserve Bank of India 
+along with the scheme guidelines. The copy of the scheme is made available at all the 
+branches. Salient features of the Integrated Ombudsman Scheme, 2021 are displayed 
+in the branch premises/ notice boards and our corporate website 
+www.canarabank.com. If customers face any difficulty, our Staff will explain the 
+procedure in this regard.
+The bank's process, as outlined in RBI-OS scheme, 2021, is to respond to customer 
+complaints within 15 days of receipt. If more time is necessary for resolution, the 
+bank will formally request an extension from the Ombudsman, including supporting 
+documentation to justify the request.
+1. If a complaint response cannot be provided within 15 days, the Circle's Nodal 
+Executive must request a time extension from the Ombudsman's office within that 
+initial 15-day period. The Branch/Controlling Office must also forward a copy of 
+the extension request to the Principal Nodal Officer at Head Office and keep them 
+updated on the complaint's status. This ensures the Principal Nodal Officer can 
+effectively liaise with the Banking Ombudsman. Additionally, customers must be 
+informed of their right to approach the Ombudsman if they are dissatisfied with 
+the bank's response to their complaint.
+2. The bank appoints a Principal Nodal Officer at a sufficiently senior level, no lower 
+than General Manager. The Chief General Manager of the Customer Service 
+Vertical, Operations Wing, currently holds this position.
+ 
+3. The bank acknowledges the importance of customer satisfaction and strives to 
+provide timely and effective resolutions to complaints. However, if a customer is 
+not satisfied with our response, they have the right to approach the Banking 
+Ombudsman.
+We ensure customers are informed of this right by including it in the final response 
+to any complaint redressal process. This notification also provides the complaint 
+lodging portal of the Ombudsman: https://cms.rbi.org.in.
+C. STRATEGIES FOR MEETING OBJECTIVES:
+5. Standing Committee Meeting on Customer Service 
+The Standing Committee on Customer Service is dedicated to continuous improvement 
+by benchmarking service levels, regularly reviewing progress, enhancing timeliness 
+Page 17 of 35
+and quality, streamlining processes to leverage technological advancements, and 
+recommending appropriate incentives to support these changes.
+The Standing Committee on Customer Service, chaired by the Managing Director and 
+CEO or an Executive Director, benefits from diverse expertise. Its members include 
+two to three senior bank executives and two to three eminent non-executive members 
+from the public, ensuring representation of customer perspectives and expertise in 
+grievance handling.
+The Standing Committee on Customer Service convenes on a quarterly basis, inviting 
+customers and experts from selected circles to contribute their valuable insights, 
+suggestions, and feedback. The bank subsequently analyzes this feedback and 
+implements feasible recommendations in compliance with applicable regulations and 
+guidelines.
+The Committee is having the following functions:
+1. To convene meeting every quarter.
+2. Submits quarterly reports on meeting deliberations to the Customer Service 
+Committee of the Board.
+3. Evaluates customer service feedback received from various sources. This 
+includes reviewing comments and feedback on customer service and the 
+implementation of commitments outlined.
+4. Ensures the bank's adherence to all regulatory instructions regarding customer 
+service. To this end, the committee gathers necessary feedback from Regional 
+Managers and Functional Heads.
+5. Reviews unresolved complaints and grievances referred by responsible 
+Functional Heads and provides input/advice.
+6. Customer Service Committee of the Board 
+The Customer Service Committee of the Board is tasked with formulating a 
+comprehensive deposit policy that addresses issues such as the handling of depositor 
+accounts in the event of death, the product approval process, and the conduct of 
+annual depositor satisfaction surveys. The committee will also examine other matters 
+impacting customer service quality and will review the functioning of the Standing 
+Committee on Customer Service.
+7. Nodal Officer and other designated officials to handle complaints and Grievances
+7.1 At Head Office: Principal Nodal Officer
+The bank has designated the Chief General Manager of the Customer Service 
+Vertical, Operations Wing, located at Head Office, Bangalore, as the Principal 
+Nodal Officer, responsible for monitoring the implementation of customer service 
+and complaint handling processes across the bank.
+Page 18 of 35
+7.2 At Circle Office: 
+At each Circle Office, the Nodal Officer within the Operations/Customer Service 
+Section is the point of contact for customer complaints originating within that 
+region. Customer Service Committees at these offices further support customer 
+service by overseeing the implementation of relevant initiatives.
+7.3 At Regional Office: 
+Overseeing/Nodal Executive of Operations/Customer Service Section at Regional 
+Offices is handling the complaints received directly from customers of that region. 
+Customer Service Committees are in place in all the Regional Offices to look into 
+implementation of customer service.
+7.4 At Branches: At each branch, the Branch Head is designated as the nodal officer 
+responsible for addressing customer grievances on-site. If a grievance cannot be 
+resolved by branch staff, it is escalated to the Branch Head for further attention.
+8. MANDATORY DISPLAY REQUIREMENTS
+The Bank has made it mandatory to display the following information at Branches 
+and at our corporate website www.canarabank.com for the benefit of our 
+customers:
+i. Details on how one can submit complaints and suggestions to the bank.
+ii. Names, addresses, contact numbers, and email addresses of Nodal Officers 
+who can help resolve Customer complaints.
+iii. Link to the Reserve Bank of India's Ombudsman Scheme website 
+(https://cms.rbi.org.in) where you can file complaints online.
+iv. Details of the Bank's Code of Commitments to Customers/Fair Practice Code.
+v. Prominently display at the branches, the names of the Officials who can be 
+contacted for redressal of complaints, together with their direct Telephone 
+No., complete address (not Post Box No.) and e-mail address, etc., for proper 
+and timely contact by the customers and for enhancing effectiveness of the 
+redressal machinery.
+vi. In addition to branch officials, the names and contact details of the Nodal 
+Officer appointed under the Integrated Ombudsman Scheme, 2021, for the
+circle to be displayed.
+vii. Bank shall display on its website, the names and other details of Officials at 
+their Head Office/ Circle Offices who can be contacted for redressal of 
+complaints including the names of the Nodal Officers/ Principal Nodal Officer.
+viii. Banks shall give wide publicity to the grievance redressal machinery through 
+advertisements and also by placing them on its website.
+ix. The details including name, complete address, telephone number, e-mail 
+address, etc., of the Principal Nodal Officer shall be displayed in the portal 
+of the bank preferably on the website so that the aggrieved customer can 
+Page 19 of 35
+approach the Bank with a sense of satisfaction that he/ she has been attended 
+at a senior level. 
+9. TIMELINE FOR RESOLUTION OF COMPLAINTS
+The bank is committed to thoroughly reviewing and analyzing all received complaints. 
+Established timeframes govern the handling and resolution of complaints at all levels 
+of the organization, encompassing branches, regional offices, circle offices, and head 
+office. Branch Managers are responsible for adhering to these timeframes in their 
+efforts to resolve customer grievances.
+Time frame adopted by Bank for Closure of various types of complaints are as 
+follows: 
+Timeline for Resolution of Complaints
+Stipulated by 
+Ministry of 
+Finance
+Adopted by 
+Bank
+General Complaints 30 Days 21 Days
+Complaints forwarded by RBI/MOF MPs/VVIPs 21 Days 15 Days
+Complaints forwarded by RBI(CMS Portal) 15 Days 15 Days
+Complaints from PMs office 15 Days 7 Days
+CPGRAMS Complaint(w.e.f. 23-08-2024)# 21 Days 21 Days
+# CPGRAMS complaint redressal TAT has been reduced from 30 days to 21 days.
+Complaints relating to Digital Financial Transactions will be dealt & redressed within 
+the framework / timeline prescribed by Regulator/ Government 
+Departments/Network Associates etc.
+The bank will provide immediate acknowledgement of all received complaints. In 
+instances where a complaint requires further examination, an interim response will 
+be provided to the customer.
+D. LIMIT STRUCTURE/ TRIGGER MECHANISM:
+10. DISPUTE REDRESSAL MECHANISM: TECHNOLOGICAL/DIGITAL PRODUCTS: 
+(Reconciliation by Reconciliation Vertical, Operations Wing & Monitored by DBS Wing)
+Lodging of ATM related Complaints:
+The following information should be displayed prominently at the ATM lobby 
+/locations: -
+i. ATM ID to be displayed clearly in the premises to make use of it while making a 
+complaint/ suggestion.
+ii. Information that ATM transaction complaints can be lodged at any branch.
+Page 20 of 35
+iii. Telephone numbers of help desk/ contact persons of the ATM owning bank to lodge 
+complaint/ seek assistance.
+iv. Such complaints can be lodged directly by customer in ODR portal from Canara 
+Bank corporate website (URL: https://odr.canarabank.com) or through CPGRS 
+web page.
+iv. Uniform Template for lodging of complaints relating to ATM transactions given in 
+Annexure I.
+To improve the customer service through enhancement of efficiency in ATM 
+operations, Bank may ensure the following action:
+i. Message regarding non-availability of cash in ATMs should be displayed before the 
+transaction is initiated by customer
+ii. Make available forms for lodging the complaints with name and phone number of 
+the officials with whom they have to be lodged
+iii. Toll-free numbers for lodging complaints / reporting and blocking lost cards etc., 
+to be displayed and attend the requests on priority
+iv. Mobile numbers/ e-mail IDs of the customers may be registered to send alerts
+In case of complaints pertaining to failed ATM transaction at other bank ATMs, the 
+customer should lodge a complaint with the card issuing bank even if the transaction 
+was carried out at another bank’s ATM.
+ATM Transaction Security Enhancements
+Variations in ATM transaction processes exist across banks due to differences in card 
+readers and system configurations. Certain card readers pose security risks by 
+allowing multiple transactions without requiring PIN validation for each transaction. 
+This increases the potential for fraud and card misuse, particularly if a cardholder 
+fails to retrieve their card after a transaction.
+To significantly mitigate this risk, banks should implement a process requiring PIN 
+validation for every ATM transaction, including balance inquiries. This measure 
+ensures that each action is authorized by the cardholder.
+As an additional security measure, banks should implement session timeouts for all 
+ATM transaction screens. These timeouts should be configured to accommodate the 
+time typically required for legitimate transactions, thereby minimizing the window of 
+opportunity for unauthorized access.
+Non-adherence to the above provisions shall attract penalty as prescribed under the 
+Payment and Settlement Systems Act 2007 (Act 51 of 2007).
+Page 21 of 35
+Security Issues and Risk mitigation measures - Online alerts to the cardholder for 
+usage of credit/ debit cards.
+Previously, banks were required to send online alerts to cardholders for Card Not 
+Present (CNP) transactions of ₹5,000 and above. Following instances of unauthorized 
+ATM withdrawals reported to the RBI, banks were advised to implement online alerts 
+for all card transactions, regardless of amount, across all channels. This measure has 
+been implemented by the bank to enhance security and encourage greater card usage. 
+The bank also provides convenient methods, such as SMS, for customers to block their 
+cards and receive confirmation of the block.
+Security Issues and Risk mitigation measures related to Card Not Present (CNP) 
+transactions
+To further enhance CNP transaction security, banks are mandated to implement 
+additional authentication/validation factors based on information not visible on the 
+card. This implementation is being phased in, starting with online transactions, 
+followed by Interactive Voice Response (IVR), Mail Order/Telephone Order (MOTO), 
+and Standing Instructions (SI). For MOTO and SI transactions, if a customer reports 
+unauthorized transactions due to the lack of additional authentication after the 
+stipulated implementation date, the issuing bank is obligated to provide a full and 
+prompt reimbursement.
+10.1 FAILED TRANSACTIONS:
+Harmonization of Turn Around Time (TAT) and customer compensation for failed 
+transactions using authorized Payment Systems:
+Sl.
+no.
+Description of the incident
+Framework for auto-reversal and compensation
+Timeline for autoreversal
+Compensation
+payable
+I II III IV
+1 Automated Teller Machines (ATMs) including Micro-ATMs
+A
+Customer’s account 
+debited but cash not 
+dispensed.
+Pro-active reversal (R) 
+of failed transaction 
+within a maximum of T 
++ 5 days.
+₹ 100/- per day of delay 
+beyond T + 5 days, to 
+the credit of the 
+account holder.
+2 Card Transaction
+A
+Card to card transfer
+Card account debited but 
+the beneficiary card 
+account not credited.
+Transaction to be 
+reversed (R) latest 
+within T + 1 day, if 
+credit is not effected 
+to the beneficiary 
+account.
+₹ 100/- per day of 
+delay beyond T + 1 
+day.
+Page 22 of 35
+B
+Point of Sale (PoS) (Card 
+Present) including Cash at PoS
+Account debited but 
+confirmation not received at 
+merchant location i.e., 
+charge-slip not generated. Auto-reversal 
+within T + 5 days.
+₹ 100/- per day of 
+delay beyond T + 5 
+days.
+C
+Card Not Present (CNP) 
+(e- commerce)
+Account debited but 
+confirmation not received at 
+merchant’s system.
+3 Immediate Payment System (IMPS)
+A
+Account debited but the 
+beneficiary account is not 
+credited.
+If unable to credit to 
+beneficiary account, 
+auto reversal (R) by 
+the Beneficiary bank 
+latest on T + 1 day.
+₹100/- per day if delay is 
+beyond T + 1 day.
+In case of IMPS Transactions, Bank reverses the charges whenever there is a real 
+time failures irrespective of the failure at Beneficiary Bank's end or NPCI side , 
+however transactions which have failed at beneficiary Bank's end beyond real-time 
+due to various reasons like incorrect Beneficiary Bank account details, account 
+status being not active etc., which are not in our vicinity, these failures are 
+communicated to our Bank on T + 1 basis, such charges are not reversed 
+considering the fact that Bank has delivered the services as a remitter Bank.
+4 Unified Payments Interface (UPI)
+a
+Account debited but the 
+beneficiary account is not 
+credited (transfer of funds).
+If unable to credit the 
+beneficiary account, 
+auto reversal (R) by 
+the Beneficiary bank 
+latest on T + 1 day.
+₹100/- per day if delay is 
+beyond T + 1 day.
+B
+Account debited but 
+transaction confirmation 
+not received at merchant 
+location (payment to 
+merchant).
+Auto-reversal 
+within T + 5 days.
+₹100/- per day if delay is 
+beyond T + 5 days.
+5 Aadhar Enabled Payment System
+A
+Account debited but 
+transaction confirmation not 
+received at merchant location.
+Acquirer to initiate 
+“Credit Adjustment” 
+within T + 5 days.
+₹100/- per day if delay is 
+beyond T + 5 days(where 
+“T” is the date of 
+transaction).
+B
+Account debited but 
+beneficiary account not 
+credited.
+6 Aadhaar Payment Bridge System (APBS)
+Page 23 of 35
+Delay in crediting 
+beneficiary’s account.
+Beneficiary bank to 
+reverse the transaction 
+within T + 1 day.
+₹100/- per day if delay is 
+beyond T + 1 day.
+7 National Automated Clearing House (NACH)
+a
+Delay in crediting 
+beneficiary’s account or 
+reversal of amount.
+Beneficiary bank to 
+reverse the uncredited 
+transaction within T + 1 
+day.
+₹100/- per day if delay is 
+beyond T + 1 day.
+b
+Account debited despite 
+revocation of debit 
+mandate with the bank by 
+the customer.
+Customer’s bank will be 
+responsible for such debit. 
+Resolution to be 
+completed within T + 1 
+day.
+8 Prepaid Payment Instruments (PPIs) – Cards / Wallets
+a
+Off-Us transaction
+The transaction will ride on UPI, card network, IMPS, etc., as the case may be. The 
+TAT and compensation rule of respective system shall apply.
+b
+On-Us transaction
+Beneficiary’s PPI not 
+credited.
+PPI debited but 
+transaction confirmation 
+not received at merchant 
+location.
+Reversal effected in 
+Remitter’s account 
+within T + 1 day
+₹100/- per day if delay is 
+beyond T + 1 day.
+The resolution of all disputes pertaining to failed ATM transactions must be completed 
+within 120 days of the transaction date. This resolution process is to be conducted 
+exclusively by the issuing and acquiring banks through the National Payments 
+Corporation of India (NPCI). Bilateral settlement agreements outside the established 
+NPCI dispute resolution mechanism are not permissible.
+Disputes concerning failed ATM transactions exceeding 120 days from the date of the 
+transaction will be resolved between the issuing and acquiring banks through a 
+bilateral agreement based on good faith.
+The monthly limit of free transactions allowed to Savings Bank account holders at 
+other banks' ATMs includes all transaction types, both financial and non-financial.
+All disputes related to failed ATM transactions must be resolved by the issuing and 
+acquiring banks through the designated ATM system provider's dispute resolution 
+mechanism. Bilateral settlements outside this established process are not permitted. 
+This measure aims to reduce disputes between issuing and acquiring banks regarding 
+compensation.
+Revised TAT for handling disputes in UPI Transactions
+Page 24 of 35
+In order to bring down the compliant resolution lifecycle in respect of UPI failed 
+transactions, it has been decided by NPCI to revise the window for the customers to 
+raise the chargeback to 45 days uniformly for all categories. Existing and revised 
+TAT as mention below will be operational w.e.f 25.07.2024.
+10.2 UPI URCS- Revised Disputes TAT: Revised TAT for handling disputes in UPI
+transactions
+Dispute 
+type EXISTING TAT 
+REVISED TAT 
+w.e.f
+25.07.2024
+TAT for 
+Acceptance/
+Rejection
+Next Level 
+Dispute type
+Chargeback
+90 days from 
+transaction date for 
+P2M transaction 45 days from 
+transaction 
+date uniformly
+15 days for P2M 
+transaction
+Pre-arbitration 60 days from 
+transaction date for 
+P2P transaction
+35 days for P2P 
+transaction
+PreArbitration
+15 days from 
+representment/
+rejection on of charge 
+back
+No change
+7 days for P2M 
+transaction Arbitration 5 days for P2P 
+transaction
+Arbitration 15 days from 
+representment of PreArbitration
+No change 60 days for 
+panel verdict
+NA
+Fraud 
+Charge 
+back
+60 days from 
+transaction date for 
+P2M transaction 45 days from 
+transaction
+date uniformly
+35 days for P2M 
+transaction
+NA 60 days from 
+transaction date for 
+P2P transaction
+35 days for P2P 
+transaction
+Wrong 
+credit 
+Chargeback
+60 days from 
+transaction date for 
+P2P transaction
+45 days from 
+transaction
+date 
+35 days for P2P 
+transaction NA
+10.3 Exception Handling:
+Exception transactions are defined as those that cannot be reconciled or reported as 
+erroneous by cardholders. In the event of settlement discrepancies raised by other 
+member banks, members are expected to collaborate towards a resolution, adhering 
+to the settlement procedures documented by the Reconciliation Vertical within the 
+Operations Wing at Head Office.
+10.4 Chargebacks:
+The timeframe for initiating a chargeback is within 60 days of the transaction date. 
+Upon initiation, the acquiring bank is required to accept or represent the chargeback 
+within five days. A good-faith chargeback may be initiated between 61 and 120 days 
+of the transaction date, with the acquiring bank required to respond within 15 days.
+Page 25 of 35
+10.5 ATM Credit/ Debit Transaction Adjustments: 
+As per NPCI dispute resolution policy guidelines, for ATM transaction routed through 
+NFS network, all credit adjustments are to be raised within T+5 days (without penalty, 
+and upto T+60 days with penalty). All Debit adjustments are to be raised within T+10 
+days.
+i. CREDIT ADJUSTMENTS:
+Credit Adjustments are raised by Acquirer members where its ATM is unable to 
+dispense the requested amount (fully /partially), but have received the transaction 
+amount through settlement, within 60 calendar days from the next day of transaction. 
+This would help Issuer members in giving credit to their customers without raising a
+chargeback.
+All credit adjustments may be raised within T+5 days without penalty, but there is a 
+TAT of 60 days to raise along with penalty beyond T+5 days. Penalty of Rs. Rs.100/-
+per day is payable for credit adjustments made beyond T+5 days.
+ii. DEBIT ADJUSTMENTS:
+Debit Adjustments are raised by Acquirer members when cash is dispensed from its 
+ATM but the transaction has not been settled, within 10 calendar days from the next 
+day of the transaction.
+11.Net Banking: (Monitored by DBS Wing, HO)
+The concerned branch will address grievances related to the following Net Banking 
+services:
+ User creation
+ Password resets (when online self-service is unavailable)
+ Account unlocks (when online self-service is unavailable)
+ Non-online login and transaction password resets
+ Updating personal details (address, mobile number, and email ID)
+ Net Banking activation
+Customers can now independently manage several Net Banking functions online, 
+including user creation, password creation (login and transaction), password 
+resets/unlocks, and OTP regeneration.
+Page 26 of 35
+Other Net Banking grievances that cannot be resolved at the branch level, such as 
+non-receipt of password/PIN mailers, should be escalated to the Internet and Mobile 
+Banking Section of the Digital Banking Service Vertical at Head Office.
+For technology-related issues, the Internet and Mobile Banking Section will 
+collaborate with the relevant group within the Technology Operations Vertical, 
+Information Technology Wing, at Head Office to resolve the issue and communicate 
+the resolution to the customer.
+Grievances specifically related to the Can digital software solution used for Net 
+Banking and issues with OTP delivery (non-receipt or delays) will be handled by the 
+Payment Systems and Alternate Delivery Channels Group within the Technology 
+Operations Wing at Head Office, under the oversight of the Technology Operations 
+Vertical, Information Technology Wing.
+12. Mobile Banking: (Monitored by DBS Wing, HO)
+The concerned branch will address grievances related to:
+ Mobile Banking registration
+ Mobile Banking activation following an MPIN change by the customer
+Grievances that cannot be resolved at the branch level will be escalated to the 
+Internet and Mobile Banking Section within the Digital Banking Service Vertical at
+Head Office.
+For technology-related issues, the Internet and Mobile Banking Section will 
+collaborate with the Mobile Banking Group of the Technology Operations Vertical to 
+resolve the issue and communicate the resolution to the customer.
+13. Interaction with Customers: (Monitored by Customer Service Vertical, Operations 
+Wing, HO)
+Direct engagement with customers enables bank personnel to gain a deeper 
+understanding of their expectations, requirements, and grievances. Regularly 
+scheduled customer meetings convey the bank's commitment to customer satisfaction 
+and provide a valuable forum for gathering feedback and suggestions for service 
+enhancement. Many complaints stem from a lack of customer awareness regarding 
+bank services; these interactions serve to improve customer comprehension of 
+available offerings. Customer feedback is considered a key input in the ongoing 
+process of refining our products and services to better align with customer 
+requirements.
+Page 27 of 35
+14. Periodical training & sensitizing the operating staff on handling complaints
+Bank staff receive comprehensive training on complaint handling at our Apex Centre 
+of Excellence in Manipal, Centre of Excellence in Gurugram, and all Learning & 
+Development Centres. These training sessions emphasize the importance of 
+effective complaint resolution and equip staff with the necessary skills to address 
+customer concerns.
+The bank's Nodal Officer ensures the smooth and efficient operation of the internal 
+complaint/grievance handling mechanism at all levels. This officer also provides 
+feedback to the Human Resources Wing regarding staff training needs at various 
+levels.
+The established grievance redressal process also covers complaints originating from 
+rural areas and those related to financial assistance under the Priority Sector and 
+government poverty alleviation programs. The existing Board-approved grievance 
+policy, published on our website, applies to all complaints, including those from 
+rural areas.
+Customer Contact Channels:
+Toll-Free Number (Call Canara): 1800 1030 (Backup: 1800 425 0018). This toll-free 
+number, part of our "One Bank, One Number" initiative, is available to all customers, 
+including those in rural areas, and supports seventeen languages: Kannada, Tamil, 
+Telugu, Malayalam, Marathi, Odia, Punjabi, Gujarati, Assamese, Bengali, Koshi, 
+Kashmiri, Konkani, Tulu, Urdu, Hindi, and English.
+NRI Helpline: +91 80-22064232 / +91 80-68212121 (Non-toll-free for calls from 
+outside India).
+Credit Card Mis-selling Complaints: 080-22064222 (Dedicated landline).
+15. Home Loans-Levy of fore-closure charges/ pre-payment penalty: (Monitored by 
+Retail Asset Wing)
+a. Eliminating foreclosure charges/prepayment penalties on floating rate home loans 
+promotes fairness between existing and new borrowers and encourages 
+competition among banks, leading to more competitive pricing. While many banks 
+have already voluntarily abolished these penalties, this measure ensures 
+uniformity across the banking system. Therefore, the bank will not charge 
+foreclosure charges/prepayment penalties on floating rate home loans sanctioned 
+to individuals.
+b. Current guidelines define a fixed-rate loan as one with a fixed rate for a specific 
+period, subject to a reset clause. Consequently, dual-rate/special-rate home 
+Page 28 of 35
+loans offered by the bank cannot be classified as fixed-rate loans. For these loans, 
+the lower interest rate provisions will apply from the date the loan's interest rate 
+becomes floating.
+c. Bank shall not charge foreclosure charges/pre-payment penalties on all floating 
+term loans (Housing Loan) sanctioned to individual borrowers.
+16. Uniformity in Intersol Charges:
+The implementation of the Core Banking Solution (CBS) has enabled the bank to 
+provide consistent customer service across all delivery points. Consequently, the bank 
+has eliminated the distinction between "home" and "non-home" branches for the 
+purpose of levying service charges. Any service offered free of charge at a "home" 
+branch is also available without charge at "non-home" branches. Inter-branch service 
+charges for comparable transactions are applied uniformly across all branches. 
+(Reference: RBI Master Circular on Customer Service 2015 dated 01.07.2015, Page 33, 
+Point 6.6).
+17. Charges for sending SMS alerts:
+In order to ensure reasonable and equitable charges for SMS alerts, the bank utilizes 
+available technology and collaborates with telecom service providers to implement 
+an actual-usage-based charging model for customers. These charges are waived for 
+Jan Dhan (PMJDY) accounts, Canara Basic Saving Bank deposit accounts, other 
+financial inclusion savings bank accounts, and any other categories specifically 
+exempted by the bank.
+18. Grievance Redressal on complaints against outsourced agencies/employees:
+The bank outsources select customer-facing functions to external vendors, including 
+recovery agents, business correspondents, call center personnel, operators at Aadhaar 
+Seva Kendras, and direct selling agents. These vendors are subject to oversight by the 
+bank's relevant departments. The bank is committed to addressing grievances related 
+to these outsourced vendors/personnel within defined turnaround times (TAT) and 
+will report the number, nature, and other pertinent details of received complaints to 
+the appropriate authorities.
+When a complaint is received through a channel other than complaint portal, such as 
+via call center, letter, email, or telephone, it must be promptly registered within the 
+relevant grievance redressal system/portal. The complainant should then be provided 
+with a complaint ID/reference number to facilitate online status tracking.
+18.1 Recovery Agents (Monitored by RL&FP Wing)
+a. Borrowers who have a grievance or complaint regarding a Recovery 
+Agent/Agency should initially bring the matter to the attention of the Branch 
+Page 29 of 35
+in-charge. If the grievance is not resolved to the borrower's satisfaction, they 
+may submit a formal written complaint to the Grievance Redressal Cell at the 
+appropriate Circle Office (i.e., the Circle Office within whose jurisdiction the 
+branch or bank office is located) within 21 days of the date on which the issue 
+arose.
+b. Upon receipt of a written complaint, the in-charge of the Grievance Redressal 
+Cell at the Circle Office shall initiate appropriate action for redressal as 
+promptly as possible, and in all cases within 21 days of receipt, unless the 
+nature of the complaint necessitates the verification of substantial data. 
+Should a resolution not be reached within this timeframe, an interim 
+communication will be provided to the customer.
+c. The head of the Grievance Redressal Cells of the Bank for Recovery Agents are:
+Grievances Received at In-charge/Head of the Cell To be handled by
+Circle Office DGM/GM of the Circle R & L Section
+d. The decision taken by the in-charge of the Grievance Redressal Cell/s shall be 
+final and shall be informed to the complainant in writing or any other Bank 
+approved mode of communications. 
+18.2 Call Center Service (Monitored by Customer Service Vertical, Operations Wing)
+Any complaint regarding a call center vendor or agent (i.e., an outsourced agency), 
+received directly from a customer through any channel, must be forwarded by the 
+concerned branch/section/official to the Customer Service Vertical, Operations Wing, 
+at Head Office for follow-up and resolution. The Customer Service Vertical will then 
+provide a response regarding the resolution or action taken, either directly to the 
+complainant or through the appropriate channel, within 21 working days of receiving 
+the complaint.
+18.3 Business Correspondents (Monitored by Lead Bank & Financial Inclusion Wing)
+i. Upon receiving a report of suspicious activity or a fraudulent complaint, the 
+Terminal ID associated with the BC will be immediately blocked by the BC 
+Section at Head Office (HO).
+ii. The Business Correspondent Section within the Financial Inclusion Wing at HO 
+will instruct Regional Office Divisional Managers and higher-ranking officials to 
+conduct an investigation and submit a report with their recommendations.
+iii. Based on the findings and recommendations from the Regional Office, the BC 
+Section will instruct the Corporate BC to replace the BC Agent or, if 
+appropriate, release the blocked Terminal ID.
+iv. The Regional Office will investigate the complaint from a fraud perspective to 
+determine if filing a police complaint against the BC Agent is warranted.
+v. Before filing a police complaint, the Regional Office must consult with the 
+Circle Office Legal Section for guidance.
+Page 30 of 35
+vi. When submitting the investigation report and recommendations to Circle 
+Office/Head Office, the Regional Office must confirm that the complaint has 
+been analyzed for potential fraud.
+18.4 Operators at Aadhar Seva Kendras (Monitored by Lead Bank & Financial 
+Inclusion Wing)
+If customers have a problem with your new Aadhaar enrollment or biometric 
+update, you can file a complaint directly with UIDAI by visiting their portal 
+(https://uidai.gov.in/en/contact-support/grievance-redressal.html) or calling 
+their toll-free number 1947. UIDAI's regional offices handle complaints within 
+their jurisdiction, and they may consult with the registrar or enrollment agency 
+in some cases.
+For complaints about overcharging or other issues with operators at Aadhaar Seva 
+Kendras, the Branch Manager is the first person to talk to. Currently, complaints 
+about overcharging are sent to the Aadhaar Seva Kendra Section of the Financial 
+Inclusion Wing. Head Office gathers information from Circle Offices, Regional 
+Offices, vendors, and the branch involved. If the complaint is valid, Head Office 
+instructs the vendor or operator to return the fees charged.
+18.5 Formation of Women SHG & Facilitation in crediting of SHG/JLG. 
+(Monitored by Priority Credit Wing)
+Borrowers who have grievances or complaints against any agency involved in the 
+formation of Women Self-Help Groups (WSHGs) and facilitating credit to these groups 
+under Core Agriculture programs can follow these steps:
+1. May bring the same to the notice of the in-charge of the Branch at the first 
+instance. 
+2. If the grievance/ complaint is not redressed to the satisfaction of the Borrower, 
+he can file a written complaint to the Grievance Redressal Cells at Circle Office 
+within whose jurisdiction the Branch or the Office of the Bank is located not 
+later than 21 days from the date of cause of action.
+3. On receipt of the written complaint, the in-charge of the Grievance Redressal 
+Cell/s shall, as expeditiously as possible, and in any case not later than 21 days 
+from the date of receipt of the complaint, initiate appropriate steps for 
+redressal of the complaint unless the nature of complaint is such that it 
+requires verification of voluminous facts and figures. 
+4. The head of the Grievance Redressal Cells of the Bank at the Circle for is as 
+follows:
+Grievances Received at In-charge/Head of the Cell To be handled by
+Circle Office Overseeing Executive AF & PS Section
+Page 31 of 35
+5. Grievance Redressal Cell at Circle should verify the compliance as per HO Cir 
+IC/9/2023 dated 05/01/2023 and may ask the Regional Office concerned to 
+investigate the matter and submit the report, if required.
+6. The decision taken by the in-charge of the Grievance Redressal Cell/s shall be 
+final and shall be informed to the customer in writing.
+18.6 Direct Selling Agents (DSA - Monitored by Retail Assets Wing)
+a) DSAs must have a well-defined and effective complaint resolution policy to 
+address complaints received either from the bank or directly from customers 
+regarding services provided by the vendor, as outlined in the agreement or 
+otherwise. This policy should include provisions for acknowledging all 
+complaints, determining appropriate compensation for various service 
+failures or omissions, establishing clear escalation procedures, maintaining a 
+comprehensive register of complaints with their status, and outlining the 
+specific steps taken to resolve each complaint.
+b) DSAs must strive to resolve all customer complaints within four business days 
+of receiving them, whether the complaints are forwarded by the bank or 
+received directly from the customer. 
+c) In the absence of a defined complaint resolution policy by the vendor, or if 
+complaints are not adequately addressed, the bank's compensation policy (as 
+amended from time to time) shall apply to the vendor. In such cases, the DSA 
+shall be responsible for indemnifying and compensating the bank for any 
+amount paid to the customer as per the bank's compensation policy, without 
+any limitations.
+The Branch Head/Retail Assets Hub Head is responsible for ensuring that all 
+complaints are resolved within seven (7) business days. Their decision on all 
+disputes or clarifications regarding fees, terms of empanelment, and other 
+related matters shall be final and binding on the DSAs. In cases of unsatisfactory 
+performance or misconduct by DSAs, the Bank reserves the right to terminate the 
+agreement with immediate effect, without any recourse available to the DSA.
+19. Resolution of Grievances under NPS and APY (Government Services Section, 
+Resources Wing)
+Pension Fund Regulatory and Development Authority (PFRDA) has appointed an 
+Ombudsman to receive, consider, and facilitate the resolution of complaints or 
+grievances under the ambit of PFRDA (Redressal of Subscriber Grievance) 
+Regulations, 2015 and amendments thereto hereinafter referred to as ‘Grievance
+Redressal Regulations’ (hosted on the website of Authority i.e. www.pfrda.org.in)
+In terms of the aforesaid Grievance Redressal Regulation, an appeal to the 
+Ombudsman may be filed by the complainant under the following circumstances:
+Page 32 of 35
+(a) whose grievance has not been resolved within 21 days from the escalation of 
+the grievance with the NPS Trust; or 
+(b) where a complaint has been made directly against the NPS Trust and is 
+unresolved within 21 days; or 
+(c) In relation to a complaint against any other pension scheme regulated by 
+PFRDA, whose grievance remains unresolved for a period of 30 days from the 
+filing of complaint against such pension scheme
+In terms of PFRDA Regulation 31 of the Grievance Redressal Regulations, all 
+Bank Branches under the NPS and any other pension scheme regulated by the 
+PFRDA shall display the name, address, and contact details of the Grievance 
+Redressal Officer and the Ombudsman in their office premises
+The name, address and contact details of the Ombudsman are as follows: 
+The Office of Ombudsman 
+Pension Fund Regulatory and Development Authority 
+Tower E, 5th Floor, E-500, 
+World Trade Center Nauroji Nagar, 
+New Delhi -110029 
+Phone No.: 011-4071 7900 
+Email Id: ombudsman@pfrda.org.in
+Branches/Offices are required to take note of the above for strict compliance
+a. Guidelines on operational activities to be followed by POP(Banks) while 
+performing activities of NPS
+The Name, E-mail id and telephone number/s of the designated Grievance 
+Redressal Officer (GRO) of the POP(Bank)/POP-SPs(Branch) shall be made public 
+through display on website. The GRO shall ensure that the grievances of 
+subscribers are redressed effectively and expeditiously.
+b. Customer Service Aspects of Senior Citizen /Pensioners (Damodaran 
+Committee Recommendations on Customer Service - 2011):
+ Bank is committed for providing prioritized services to senior citizen and 
+especially abled customers at our branches through effective crowd 
+management.
+ Periodical SMS alerts to send for account balances and important document due 
+dates.
+ Customers are to be automatically upgraded to senior citizen status based on 
+their date of birth.
+ The submission of annual life certificates by pensioners should be facilitated 
+at any branch of the Bank, eliminating the requirement to visit their designated 
+Page 33 of 35
+home branch. All such certificates should be centrally recorded within a unified 
+database.
+ Pensioner data, including monthly certificates, to be made accessible within a 
+secure online platform for immediate retrieval and use.
+ Settlement of dues to nominees or legal heirs must be conducted smoothly and 
+efficiently, adhering to RBI guidelines and Board-approved policies.
+ In line with the guidelines from RBI and Board approved policies, there must 
+be hassle-free settlement of amount dues to the nominee / legal heir, as and 
+when required. 
+ To ensure consistency, a uniform age threshold for longevity considerations 
+should be implemented across all banks in the calculation of pensioner loans
+ Banks should create awareness about Reverse Mortgage Scheme among 
+pensioners/ senior citizens. 
+ Upon the demise of a pensioner, existing 'either or survivor' pension accounts 
+should automatically convert to single accounts in the survivor's name, with 
+family pension seamlessly credited to the new account. This principle should 
+also apply to all joint accounts with 'either or survivor' clauses.
+ Banks must optimize their Centralised Pension Processing Centers to ensure 
+timely pension disbursal, prompt family pension commencement, and accurate 
+pension calculations.
+ Banks should provide doorstep pension disbursement services to sick and 
+disabled pensioners, potentially utilizing doorstep Banking and / or Business 
+Correspondents for this purpose.
+20. Strengthening of Grievance Redressal Mechanism in Banks: 
+In its Statement on Developmental and Regulatory Policies issued on January 27, 2021, 
+the Reserve Bank of India (RBI) introduced a comprehensive framework to address 
+customer grievances. This framework includes enhanced disclosure requirements for 
+banks regarding customer complaints, a mechanism to recover the cost of redressal 
+from banks with an excessive number of maintainable complaints (compared to their 
+peers) received by the Office of the Banking Ombudsman (OBO), and a commitment 
+to conduct thorough reviews of bank grievance redress mechanisms, with the 
+possibility of supervisory action against banks that fail to improve these mechanisms 
+within a specified timeframe.
+21. Handling of Complaints related to vigilance, bribery & corruption: (handled by 
+Vigilance Wing):
+All complaints received through any channel (CPGRS, email, letter) that involve 
+potential vigilance concerns, such as bribery, corruption, or employee fraud, will be 
+handled at Vigilance Wing. In accordance with CVC guidelines, anonymous complaints 
+will not be entertained.
+Page 34 of 35
+If complainant details and contact information are available, the Vigilance Wing will 
+analyze the case and refer it to the Circle Vigilance Officer for preliminary 
+investigation. The Chief Vigilance Officer will then decide on further investigation, 
+referral to the Staff Accountability Screening Committee (SASC) for analysis, or a 
+suitable response to the complainant. Corrective actions will be initiated as 
+necessary. An interim reply will be provided to the customer if a resolution is delayed.
+If the CVO orders further detailed investigation, the Head Office Inspection Wing will 
+conduct the investigation. The aforementioned procedure will then be followed. If staff 
+lapses are identified, an IAC will be presented to the CVO for determination of the 
+vigilance angle. If no staff lapses are found, the matter will be closed with the CVO's 
+approval. 
+22. Complaints related to Credit Information Companies (CIC): (Monitored by 
+Recovery, Legal and Fraud Prevention Wing)
+The Reserve Bank of India (RBI) has mandated that Credit Information Companies 
+(CICs) and Credit Institutions (CIs) implement a compensation framework to address 
+delays in updating or rectifying credit information.
+Compensation for Delayed Resolution:
+If a credit information dispute isn't resolved within 30 calendar days of the initial 
+complaint, the responsible entity (Credit Institution - CI or Credit Information 
+Company - CIC) must pay the complainant ₹100 per day of the delay. Penalty needs 
+to be paid by the Bank/CIC in case there is a delay.
+Timeline for Resolution:
+CI would get twenty-one (21) days and CICs would effectively get the remainder of 
+nine (9) days for complete resolution of the complaint. 
+CI's Responsibility:
+A CI must pay compensation if it fails to send updated credit information to the CICs 
+within 21 calendar days of being informed by the complainant or a CIC.
+E. COMPLIANCE/ MONITORING OF IMPLEMENTATION OF THE POLICIES
+Compliance with this policy at branches will be assessed during Routine Bank 
+Inspections (RBIAs), Concurrent Audits, and other inspections. Any deviations found 
+will be reported to the relevant Circle Offices, the Customer Service Vertical, the 
+Operations Wing, the Head Office, and the Audit Committee of the Board.
+The Overseeing Executive of Operations/Customer Service in each Circle will be 
+responsible for ensuring that all Regional Offices within their jurisdiction adhere to 
+the policy guidelines.
+**************
+Page 35 of 35
+Annexure-I
+ENCLOSURE TO 10.1.iv Uniform Template
+To: The Branch Manager
+_______________________________________________ (Name of the Bank)
+_______________________________________________ (Name of the Branch) *
+_______________________________________________ (Name of the City)
+1 Customer Information:
+Name of the Customer :
+Account No. :
+Debit Card/ ATM Card No :
+2 ATM Information:
+ATM ID/ Location, if ID is not available:
+Name of the ATM Bank 
+3 Nature of the Complaints
+a) Complaint relating to Cash Withdrawal:
+Amount requested for withdrawal : (Rs. )
+Amount actually disbursed at ATM : (Rs. )
+Amount to the account debited : (Rs. )
+Date of transaction : (Rs. )
+Time of transaction : (Rs. )
+c) Other complaint : 
+4
+Date: Signature of the Card Holder 
+ Contact Tel/ Mobile No.
+*(Name of the Bank Branch where cardholder account is maintained which is linked 
+to ATM card)

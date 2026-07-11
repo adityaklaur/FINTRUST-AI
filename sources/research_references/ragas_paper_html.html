@@ -1,0 +1,798 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<title>RAGAS: Automated Evaluation of Retrieval Augmented Generation</title>
+<!--Generated on Tue Sep 26 19:22:43 2023 by LaTeXML (version 0.8.7) http://dlmf.nist.gov/LaTeXML/.-->
+<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+<link href="https://browse.arxiv.org/latexml/ar5iv_0.7.4.min.css" rel="stylesheet" type="text/css"/>
+<link href="https://browse.arxiv.org/latexml/styles.css" rel="stylesheet" type="text/css"/>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.3.3/html2canvas.min.js"></script>
+<script src="https://browse.arxiv.org/latexml/addons.js"></script>
+<script src="https://browse.arxiv.org/latexml/feedbackOverlay.js"></script>
+</head>
+<body>
+<nav class="ltx_page_navbar">
+<nav class="ltx_TOC">
+<ol class="ltx_toclist">
+<li class="ltx_tocentry ltx_tocentry_section"><a class="ltx_ref" href="#S1" title="1 Introduction ‣ RAGAS: Automated Evaluation of Retrieval Augmented Generation"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">1 </span>Introduction</span></a></li>
+<li class="ltx_tocentry ltx_tocentry_section">
+<a class="ltx_ref" href="#S2" title="2 Related Work ‣ RAGAS: Automated Evaluation of Retrieval Augmented Generation"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">2 </span>Related Work</span></a>
+<ol class="ltx_toclist ltx_toclist_section">
+<li class="ltx_tocentry ltx_tocentry_paragraph"><a class="ltx_ref" href="#S2.SS0.SSS0.Px1" title="Estimating faithfulness using LLMs ‣ 2 Related Work ‣ RAGAS: Automated Evaluation of Retrieval Augmented Generation"><span class="ltx_text ltx_ref_title">Estimating faithfulness using LLMs</span></a></li>
+<li class="ltx_tocentry ltx_tocentry_paragraph"><a class="ltx_ref" href="#S2.SS0.SSS0.Px2" title="Automated evaluation of text generation systems ‣ 2 Related Work ‣ RAGAS: Automated Evaluation of Retrieval Augmented Generation"><span class="ltx_text ltx_ref_title">Automated evaluation of text generation systems</span></a></li>
+</ol>
+</li>
+<li class="ltx_tocentry ltx_tocentry_section">
+<a class="ltx_ref" href="#S3" title="3 Evaluation Strategies ‣ RAGAS: Automated Evaluation of Retrieval Augmented Generation"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">3 </span>Evaluation Strategies</span></a>
+<ol class="ltx_toclist ltx_toclist_section">
+<li class="ltx_tocentry ltx_tocentry_paragraph"><a class="ltx_ref" href="#S3.SS0.SSS0.Px1" title="Faithfulness ‣ 3 Evaluation Strategies ‣ RAGAS: Automated Evaluation of Retrieval Augmented Generation"><span class="ltx_text ltx_ref_title">Faithfulness</span></a></li>
+<li class="ltx_tocentry ltx_tocentry_paragraph"><a class="ltx_ref" href="#S3.SS0.SSS0.Px2" title="Answer relevance ‣ 3 Evaluation Strategies ‣ RAGAS: Automated Evaluation of Retrieval Augmented Generation"><span class="ltx_text ltx_ref_title">Answer relevance</span></a></li>
+<li class="ltx_tocentry ltx_tocentry_paragraph"><a class="ltx_ref" href="#S3.SS0.SSS0.Px3" title="Context relevance ‣ 3 Evaluation Strategies ‣ RAGAS: Automated Evaluation of Retrieval Augmented Generation"><span class="ltx_text ltx_ref_title">Context relevance</span></a></li>
+</ol>
+</li>
+<li class="ltx_tocentry ltx_tocentry_section">
+<a class="ltx_ref" href="#S4" title="4 The WikiEval Dataset ‣ RAGAS: Automated Evaluation of Retrieval Augmented Generation"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">4 </span>The WikiEval Dataset</span></a>
+<ol class="ltx_toclist ltx_toclist_section">
+<li class="ltx_tocentry ltx_tocentry_paragraph"><a class="ltx_ref" href="#S4.SS0.SSS0.Px1" title="Faithfulness ‣ 4 The WikiEval Dataset ‣ RAGAS: Automated Evaluation of Retrieval Augmented Generation"><span class="ltx_text ltx_ref_title">Faithfulness</span></a></li>
+<li class="ltx_tocentry ltx_tocentry_paragraph"><a class="ltx_ref" href="#S4.SS0.SSS0.Px2" title="Answer relevance ‣ 4 The WikiEval Dataset ‣ RAGAS: Automated Evaluation of Retrieval Augmented Generation"><span class="ltx_text ltx_ref_title">Answer relevance</span></a></li>
+<li class="ltx_tocentry ltx_tocentry_paragraph"><a class="ltx_ref" href="#S4.SS0.SSS0.Px3" title="Context relevance ‣ 4 The WikiEval Dataset ‣ RAGAS: Automated Evaluation of Retrieval Augmented Generation"><span class="ltx_text ltx_ref_title">Context relevance</span></a></li>
+</ol>
+</li>
+<li class="ltx_tocentry ltx_tocentry_section"><a class="ltx_ref" href="#S5" title="5 Experiments ‣ RAGAS: Automated Evaluation of Retrieval Augmented Generation"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">5 </span>Experiments</span></a></li>
+<li class="ltx_tocentry ltx_tocentry_section"><a class="ltx_ref" href="#S6" title="6 Conclusions ‣ RAGAS: Automated Evaluation of Retrieval Augmented Generation"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">6 </span>Conclusions</span></a></li>
+<li class="ltx_tocentry ltx_tocentry_appendix"><a class="ltx_ref" href="#A1" title="Appendix A Examples from WikiEval ‣ RAGAS: Automated Evaluation of Retrieval Augmented Generation"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">A </span>Examples from WikiEval</span></a></li>
+</ol></nav>
+</nav>
+<div class="ltx_page_main">
+<div class="ltx_page_content">
+<article class="ltx_document ltx_authors_1line">
+<h1 class="ltx_title ltx_title_document">RAGAS: Automated Evaluation of Retrieval Augmented Generation</h1>
+<div class="ltx_authors">
+<span class="ltx_creator ltx_role_author">
+<span class="ltx_personname">Shahul Es<math alttext="{}^{\dagger}" class="ltx_Math" display="inline" id="id1.1.m1.1"><semantics id="id1.1.m1.1a"><msup id="id1.1.m1.1.1" xref="id1.1.m1.1.1.cmml"><mi id="id1.1.m1.1.1a" xref="id1.1.m1.1.1.cmml"></mi><mo id="id1.1.m1.1.1.1" xref="id1.1.m1.1.1.1.cmml">†</mo></msup><annotation-xml encoding="MathML-Content" id="id1.1.m1.1b"><apply id="id1.1.m1.1.1.cmml" xref="id1.1.m1.1.1"><ci id="id1.1.m1.1.1.1.cmml" xref="id1.1.m1.1.1.1">†</ci></apply></annotation-xml><annotation encoding="application/x-tex" id="id1.1.m1.1c">{}^{\dagger}</annotation><annotation encoding="application/x-llamapun" id="id1.1.m1.1d">start_FLOATSUPERSCRIPT † end_FLOATSUPERSCRIPT</annotation></semantics></math>, Jithin James<math alttext="{}^{\dagger}" class="ltx_Math" display="inline" id="id2.2.m2.1"><semantics id="id2.2.m2.1a"><msup id="id2.2.m2.1.1" xref="id2.2.m2.1.1.cmml"><mi id="id2.2.m2.1.1a" xref="id2.2.m2.1.1.cmml"></mi><mo id="id2.2.m2.1.1.1" xref="id2.2.m2.1.1.1.cmml">†</mo></msup><annotation-xml encoding="MathML-Content" id="id2.2.m2.1b"><apply id="id2.2.m2.1.1.cmml" xref="id2.2.m2.1.1"><ci id="id2.2.m2.1.1.1.cmml" xref="id2.2.m2.1.1.1">†</ci></apply></annotation-xml><annotation encoding="application/x-tex" id="id2.2.m2.1c">{}^{\dagger}</annotation><annotation encoding="application/x-llamapun" id="id2.2.m2.1d">start_FLOATSUPERSCRIPT † end_FLOATSUPERSCRIPT</annotation></semantics></math>, Luis Espinosa-Anke<math alttext="{}^{*\diamondsuit}" class="ltx_Math" display="inline" id="id3.3.m3.1"><semantics id="id3.3.m3.1a"><msup id="id3.3.m3.1.1" xref="id3.3.m3.1.1.cmml"><mi id="id3.3.m3.1.1a" xref="id3.3.m3.1.1.cmml"></mi><mrow id="id3.3.m3.1.1.1" xref="id3.3.m3.1.1.1.cmml"><mi id="id3.3.m3.1.1.1.2" xref="id3.3.m3.1.1.1.2.cmml"></mi><mo id="id3.3.m3.1.1.1.1" lspace="0.222em" rspace="0.222em" xref="id3.3.m3.1.1.1.1.cmml">*</mo><mi id="id3.3.m3.1.1.1.3" mathvariant="normal" xref="id3.3.m3.1.1.1.3.cmml">♢</mi></mrow></msup><annotation-xml encoding="MathML-Content" id="id3.3.m3.1b"><apply id="id3.3.m3.1.1.cmml" xref="id3.3.m3.1.1"><apply id="id3.3.m3.1.1.1.cmml" xref="id3.3.m3.1.1.1"><times id="id3.3.m3.1.1.1.1.cmml" xref="id3.3.m3.1.1.1.1"></times><csymbol cd="latexml" id="id3.3.m3.1.1.1.2.cmml" xref="id3.3.m3.1.1.1.2">absent</csymbol><ci id="id3.3.m3.1.1.1.3.cmml" xref="id3.3.m3.1.1.1.3">♢</ci></apply></apply></annotation-xml><annotation encoding="application/x-tex" id="id3.3.m3.1c">{}^{*\diamondsuit}</annotation><annotation encoding="application/x-llamapun" id="id3.3.m3.1d">start_FLOATSUPERSCRIPT * ♢ end_FLOATSUPERSCRIPT</annotation></semantics></math>, Steven Schockaert<math alttext="{}^{*}" class="ltx_Math" display="inline" id="id4.4.m4.1"><semantics id="id4.4.m4.1a"><msup id="id4.4.m4.1.1" xref="id4.4.m4.1.1.cmml"><mi id="id4.4.m4.1.1a" xref="id4.4.m4.1.1.cmml"></mi><mo id="id4.4.m4.1.1.1" xref="id4.4.m4.1.1.1.cmml">*</mo></msup><annotation-xml encoding="MathML-Content" id="id4.4.m4.1b"><apply id="id4.4.m4.1.1.cmml" xref="id4.4.m4.1.1"><times id="id4.4.m4.1.1.1.cmml" xref="id4.4.m4.1.1.1"></times></apply></annotation-xml><annotation encoding="application/x-tex" id="id4.4.m4.1c">{}^{*}</annotation><annotation encoding="application/x-llamapun" id="id4.4.m4.1d">start_FLOATSUPERSCRIPT * end_FLOATSUPERSCRIPT</annotation></semantics></math>
+<br class="ltx_break"/><math alttext="{}^{\dagger}" class="ltx_Math" display="inline" id="id5.5.m5.1"><semantics id="id5.5.m5.1a"><msup id="id5.5.m5.1.1" xref="id5.5.m5.1.1.cmml"><mi id="id5.5.m5.1.1a" xref="id5.5.m5.1.1.cmml"></mi><mo id="id5.5.m5.1.1.1" xref="id5.5.m5.1.1.1.cmml">†</mo></msup><annotation-xml encoding="MathML-Content" id="id5.5.m5.1b"><apply id="id5.5.m5.1.1.cmml" xref="id5.5.m5.1.1"><ci id="id5.5.m5.1.1.1.cmml" xref="id5.5.m5.1.1.1">†</ci></apply></annotation-xml><annotation encoding="application/x-tex" id="id5.5.m5.1c">{}^{\dagger}</annotation><annotation encoding="application/x-llamapun" id="id5.5.m5.1d">start_FLOATSUPERSCRIPT † end_FLOATSUPERSCRIPT</annotation></semantics></math>Exploding Gradients 
+<br class="ltx_break"/><math alttext="{}^{*}" class="ltx_Math" display="inline" id="id6.6.m6.1"><semantics id="id6.6.m6.1a"><msup id="id6.6.m6.1.1" xref="id6.6.m6.1.1.cmml"><mi id="id6.6.m6.1.1a" xref="id6.6.m6.1.1.cmml"></mi><mo id="id6.6.m6.1.1.1" xref="id6.6.m6.1.1.1.cmml">*</mo></msup><annotation-xml encoding="MathML-Content" id="id6.6.m6.1b"><apply id="id6.6.m6.1.1.cmml" xref="id6.6.m6.1.1"><times id="id6.6.m6.1.1.1.cmml" xref="id6.6.m6.1.1.1"></times></apply></annotation-xml><annotation encoding="application/x-tex" id="id6.6.m6.1c">{}^{*}</annotation><annotation encoding="application/x-llamapun" id="id6.6.m6.1d">start_FLOATSUPERSCRIPT * end_FLOATSUPERSCRIPT</annotation></semantics></math>CardiffNLP, Cardiff University, United Kingdom 
+<br class="ltx_break"/><math alttext="{}^{\diamondsuit}" class="ltx_Math" display="inline" id="id7.7.m7.1"><semantics id="id7.7.m7.1a"><msup id="id7.7.m7.1.1" xref="id7.7.m7.1.1.cmml"><mi id="id7.7.m7.1.1a" xref="id7.7.m7.1.1.cmml"></mi><mi id="id7.7.m7.1.1.1" mathvariant="normal" xref="id7.7.m7.1.1.1.cmml">♢</mi></msup><annotation-xml encoding="MathML-Content" id="id7.7.m7.1b"><apply id="id7.7.m7.1.1.cmml" xref="id7.7.m7.1.1"><ci id="id7.7.m7.1.1.1.cmml" xref="id7.7.m7.1.1.1">♢</ci></apply></annotation-xml><annotation encoding="application/x-tex" id="id7.7.m7.1c">{}^{\diamondsuit}</annotation><annotation encoding="application/x-llamapun" id="id7.7.m7.1d">start_FLOATSUPERSCRIPT ♢ end_FLOATSUPERSCRIPT</annotation></semantics></math>AMPLYFI, United Kingdom
+<br class="ltx_break"/><span class="ltx_text ltx_font_typewriter" id="id8.8.id1">shahules786@gmail.com,jamesjithin97@gmail.com
+<br class="ltx_break"/>{espinosa-ankel,schockaerts1}@cardiff.ac.uk</span>
+</span></span>
+</div>
+<div class="ltx_abstract">
+<h6 class="ltx_title ltx_title_abstract">Abstract</h6>
+<p class="ltx_p" id="id9.id1">We introduce <span class="ltx_text ltx_font_bold ltx_font_smallcaps" id="id9.id1.1">RAGAs</span> (<span class="ltx_text ltx_font_bold" id="id9.id1.2">R</span>etrieval <span class="ltx_text ltx_font_bold" id="id9.id1.3">A</span>ugmented <span class="ltx_text ltx_font_bold" id="id9.id1.4">G</span>eneration <span class="ltx_text ltx_font_bold" id="id9.id1.5">As</span>sessment), a framework for reference-free evaluation of Retrieval Augmented Generation (RAG) pipelines. RAG systems are composed of a retrieval and an LLM based generation module, and provide LLMs with knowledge from a reference textual database, which enables them to act as a natural language layer between a user and textual databases, reducing the risk of hallucinations. Evaluating RAG architectures is, however, challenging because there are several dimensions to consider: the ability of the retrieval system to identify relevant and focused context passages, the ability of the LLM to exploit such passages in a faithful way, or the quality of the generation itself. With <span class="ltx_text ltx_font_smallcaps" id="id9.id1.6">RAGAs</span>, we put forward a suite of metrics which can be used to evaluate these different dimensions <span class="ltx_text ltx_font_italic" id="id9.id1.7">without having to rely on ground truth human annotations</span>. We posit that such a framework can crucially contribute to faster evaluation cycles of RAG architectures, which is especially important given the fast adoption of LLMs.</p>
+</div>
+<section class="ltx_section" id="S1">
+<h2 class="ltx_title ltx_title_section">
+<span class="ltx_tag ltx_tag_section">1 </span>Introduction</h2>
+<div class="ltx_para" id="S1.p1">
+<p class="ltx_p" id="S1.p1.1">Language Models (LMs) capture a vast amount of knowledge about the world, which allows them to answer questions without accessing any external sources. This idea of LMs as repositories of knowledge emerged shortly after the introduction of BERT <cite class="ltx_cite ltx_citemacro_cite">Devlin et al. (<a class="ltx_ref" href="#bib.bib4" title="">2019</a>)</cite> and became more firmly established with the introduction of ever larger LMs <cite class="ltx_cite ltx_citemacro_cite">Roberts et al. (<a class="ltx_ref" href="#bib.bib20" title="">2020</a>)</cite>. While the most recent Large Language Models (LLMs) capture enough knowledge to rival human performance across a wide variety of question answering benchmarks <cite class="ltx_cite ltx_citemacro_cite">Bubeck et al. (<a class="ltx_ref" href="#bib.bib3" title="">2023</a>)</cite>, the idea of using LLMs as knowledge bases still has two fundamental limitations. First, LLMs are not able to answer questions about events that have happened after they were trained. Second, even the largest models struggle to memorise knowledge that is only rarely mentioned in the training corpus <cite class="ltx_cite ltx_citemacro_cite">Kandpal et al. (<a class="ltx_ref" href="#bib.bib9" title="">2022</a>); Mallen et al. (<a class="ltx_ref" href="#bib.bib16" title="">2023</a>)</cite>. The standard solution to these issues is to rely on <em class="ltx_emph ltx_font_italic" id="S1.p1.1.1">Retrieval Augmented Generation (RAG)</em> <cite class="ltx_cite ltx_citemacro_cite">Lee et al. (<a class="ltx_ref" href="#bib.bib12" title="">2019</a>); Lewis et al. (<a class="ltx_ref" href="#bib.bib13" title="">2020</a>); Guu et al. (<a class="ltx_ref" href="#bib.bib6" title="">2020</a>)</cite>. Answering a question then essentially involves retrieving relevant passages from a corpus and feeding these passages, along with the original question, to the LM. While initial approaches relied on specialised LMs for retrieval-augmented language modelling <cite class="ltx_cite ltx_citemacro_cite">Khandelwal et al. (<a class="ltx_ref" href="#bib.bib10" title="">2020</a>); Borgeaud et al. (<a class="ltx_ref" href="#bib.bib2" title="">2022</a>)</cite>, recent work has suggested that simply adding retrieved documents to the input of a standard LM can also work well <cite class="ltx_cite ltx_citemacro_cite">Khattab et al. (<a class="ltx_ref" href="#bib.bib11" title="">2022</a>); Ram et al. (<a class="ltx_ref" href="#bib.bib19" title="">2023</a>); Shi et al. (<a class="ltx_ref" href="#bib.bib21" title="">2023</a>)</cite>, thus making it possible to use retrieval-augmented strategies in combination with LLMs that are only available through APIs.</p>
+</div>
+<div class="ltx_para" id="S1.p2">
+<p class="ltx_p" id="S1.p2.1">While the usefulness of retrieval-augmented strategies is clear, their implementation requires a significant amount of tuning, as the overall performance will be affected by the retrieval model, the considered corpus, the LM, or the prompt formulation, among others. Automated evaluation of retrieval-augmented systems is thus paramount. In practice, RAG systems are often evaluated in terms of the language modelling task itself, i.e. by measuring perplexity on some reference corpus. However, such evaluations are not always predictive of downstream performance <cite class="ltx_cite ltx_citemacro_cite">Wang et al. (<a class="ltx_ref" href="#bib.bib24" title="">2023c</a>)</cite>. Moreover, this evaluation strategy relies on the LM probabilities, which are not accessible for some closed models (e.g. ChatGPT and GPT-4). Question answering is another common evaluation task, but usually only datasets with short extractive answers are considered, which may not be representative of how the system will be used.</p>
+</div>
+<div class="ltx_para" id="S1.p3">
+<p class="ltx_p" id="S1.p3.1">To address these issues, in this paper we present <span class="ltx_text ltx_font_bold ltx_font_smallcaps" id="S1.p3.1.1">RAGAs<span class="ltx_note ltx_role_footnote" id="footnote1"><sup class="ltx_note_mark">1</sup><span class="ltx_note_outer"><span class="ltx_note_content"><sup class="ltx_note_mark">1</sup><span class="ltx_tag ltx_tag_note"><span class="ltx_text ltx_font_medium ltx_font_upright" id="footnote1.1.1.1">1</span></span><span class="ltx_text ltx_font_medium" id="footnote1.5">RAGAs</span><span class="ltx_text ltx_font_medium ltx_font_upright" id="footnote1.6"> is available at </span><a class="ltx_ref ltx_url ltx_font_typewriter ltx_font_medium ltx_font_upright" href="https://github.com/explodinggradients/ragas" title="">https://github.com/explodinggradients/ragas</a><span class="ltx_text ltx_font_medium ltx_font_upright" id="footnote1.7">.</span></span></span></span></span>, a framework for the automated assessment of retrieval augmented generation systems. We focus on settings where reference answers may not be available, and where we want to estimate different proxies for correctness, in addition to the usefulness of the retrieved passages. The <span class="ltx_text ltx_font_smallcaps" id="S1.p3.1.2">RAGAs</span> framework provides an integration with both <a class="ltx_ref ltx_href" href="https://github.com/jerryjliu/llama_index" title="">llama-index</a> and <a class="ltx_ref ltx_href" href="https://github.com/langchain-ai/langchain" title="">Langchain</a>, the most widely used frameworks for building RAG solutions, thus enabling developers to easily integrate <span class="ltx_text ltx_font_smallcaps" id="S1.p3.1.3">RAGAs</span> into their standard workflow.</p>
+</div>
+</section>
+<section class="ltx_section" id="S2">
+<h2 class="ltx_title ltx_title_section">
+<span class="ltx_tag ltx_tag_section">2 </span>Related Work</h2>
+<section class="ltx_paragraph" id="S2.SS0.SSS0.Px1">
+<h3 class="ltx_title ltx_title_paragraph">Estimating faithfulness using LLMs</h3>
+<div class="ltx_para" id="S2.SS0.SSS0.Px1.p1">
+<p class="ltx_p" id="S2.SS0.SSS0.Px1.p1.1">The problem of detecting hallucinations in LLM generated responses has been extensively studied <cite class="ltx_cite ltx_citemacro_cite">Ji et al. (<a class="ltx_ref" href="#bib.bib7" title="">2023</a>)</cite>. Several authors have suggested the idea of predicting factuality using a few-shot prompting strategy <cite class="ltx_cite ltx_citemacro_cite">Zhang et al. (<a class="ltx_ref" href="#bib.bib26" title="">2023</a>)</cite>. Recent analyses, however, suggest that existing models struggle with detecting hallucination when using standard prompting strategies <cite class="ltx_cite ltx_citemacro_cite">Li et al. (<a class="ltx_ref" href="#bib.bib14" title="">2023</a>); Azaria and Mitchell (<a class="ltx_ref" href="#bib.bib1" title="">2023</a>)</cite>. Other approaches rely on linking the generated responses to facts from an external knowledge base <cite class="ltx_cite ltx_citemacro_cite">Min et al. (<a class="ltx_ref" href="#bib.bib18" title="">2023</a>)</cite>, but this is not always possible.</p>
+</div>
+<div class="ltx_para" id="S2.SS0.SSS0.Px1.p2">
+<p class="ltx_p" id="S2.SS0.SSS0.Px1.p2.1">Yet another strategy is to inspect the probabilities assigned to individual tokens, where we would expect the model to be less confident in hallucinated answers than in factual ones. For instance, BARTScore <cite class="ltx_cite ltx_citemacro_cite">Yuan et al. (<a class="ltx_ref" href="#bib.bib25" title="">2021</a>)</cite> estimates factuality by looking at the conditional probability of the generated text given the input. <cite class="ltx_cite ltx_citemacro_citet">Kadavath et al. (<a class="ltx_ref" href="#bib.bib8" title="">2022</a>)</cite> use a variation of this idea. Starting from the observation that LLMs provide well-calibrated probabilities when answering multiple-choice questions, they essentially convert the problem of validating model generated answers into a multiple-choice question which asks whether the answer is true or false. Rather than looking at the output probabilities, <cite class="ltx_cite ltx_citemacro_citet">Azaria and Mitchell (<a class="ltx_ref" href="#bib.bib1" title="">2023</a>)</cite> propose to train a supervised classifier on the weights from one of the hidden layers of the LLM, to predict whether a given statement is true or not. While the approach performs well, the need to access the hidden states of the model makes it unsuitable for systems that access LLMs through an API.</p>
+</div>
+<div class="ltx_para" id="S2.SS0.SSS0.Px1.p3">
+<p class="ltx_p" id="S2.SS0.SSS0.Px1.p3.1">For models that do not provide access to token probabilities, such as ChatGPT and GPT-4, different methods are needed. SelfCheckGPT <cite class="ltx_cite ltx_citemacro_cite">Manakul et al. (<a class="ltx_ref" href="#bib.bib17" title="">2023</a>)</cite> addresses this problem by instead sampling multiple answers. Their core idea is that factual answers are more stable: when an answer is factual, we can expect that different samples will tend to be semantically similar, whereas this is less likely to be the case for hallucinated answers.</p>
+</div>
+</section>
+<section class="ltx_paragraph" id="S2.SS0.SSS0.Px2">
+<h3 class="ltx_title ltx_title_paragraph">Automated evaluation of text generation systems</h3>
+<div class="ltx_para" id="S2.SS0.SSS0.Px2.p1">
+<p class="ltx_p" id="S2.SS0.SSS0.Px2.p1.1">LLMs have also been leveraged to automatically evaluate other aspects of generated text fragments, beyond factuality. For instance, GPTScore <cite class="ltx_cite ltx_citemacro_cite">Fu et al. (<a class="ltx_ref" href="#bib.bib5" title="">2023</a>)</cite> uses a prompt that specifies the considered aspect (e.g. fluency) and then scores passages based on the average probability of the generated tokens, according to a given autoregressive LM. This idea of using prompts was previously also considered by <cite class="ltx_cite ltx_citemacro_citet">Yuan et al. (<a class="ltx_ref" href="#bib.bib25" title="">2021</a>)</cite>, although they used a smaller fine-tuned LM (i.e. BART) and did not observe a clear benefit from using prompts. Another approach directly asks ChatGPT to evaluate a particular aspect of the given answer by providing a score between 0 and 100, or by providing a rating on a 5-star scale <cite class="ltx_cite ltx_citemacro_cite">Wang et al. (<a class="ltx_ref" href="#bib.bib22" title="">2023a</a>)</cite>. Remarkably, strong results can be obtained in this way, although it comes with the limitation of being sensitive to the design of the prompt. Rather than scoring individual answers, some authors have also focused on using an LLM to select the best answer among a number of candidates <cite class="ltx_cite ltx_citemacro_cite">Wang et al. (<a class="ltx_ref" href="#bib.bib23" title="">2023b</a>)</cite>, typically to compare the performance of different LLMs. However, care is needed with this approach, as the order in which the answers is presented can influence the result <cite class="ltx_cite ltx_citemacro_cite">Wang et al. (<a class="ltx_ref" href="#bib.bib23" title="">2023b</a>)</cite>.</p>
+</div>
+<div class="ltx_para" id="S2.SS0.SSS0.Px2.p2">
+<p class="ltx_p" id="S2.SS0.SSS0.Px2.p2.1">In terms of how ground truth answers or, more generally, generations, have been typically used in the literature, most approaches have relied on the availability of one or more reference answers. For instance, BERTScore <cite class="ltx_cite ltx_citemacro_cite">Zhang et al. (<a class="ltx_ref" href="#bib.bib27" title="">2020</a>)</cite> and MoverScore <cite class="ltx_cite ltx_citemacro_cite">Zhao et al. (<a class="ltx_ref" href="#bib.bib28" title="">2019</a>)</cite> use contextualised embeddings, produced by a pre-trained BERT model, to compare the similarity between the generated answer and the reference answers. BARTScore <cite class="ltx_cite ltx_citemacro_cite">Yuan et al. (<a class="ltx_ref" href="#bib.bib25" title="">2021</a>)</cite> similarly uses reference answers to compute aspects such as precision (estimated as the probability of generating the generated answer given the reference) and recall (estimated as the probability of generating the reference given the generated answer).</p>
+</div>
+</section>
+</section>
+<section class="ltx_section" id="S3">
+<h2 class="ltx_title ltx_title_section">
+<span class="ltx_tag ltx_tag_section">3 </span>Evaluation Strategies</h2>
+<div class="ltx_para" id="S3.p1">
+<p class="ltx_p" id="S3.p1.3">We consider a standard RAG setting, where given a question <math alttext="q" class="ltx_Math" display="inline" id="S3.p1.1.m1.1"><semantics id="S3.p1.1.m1.1a"><mi id="S3.p1.1.m1.1.1" xref="S3.p1.1.m1.1.1.cmml">q</mi><annotation-xml encoding="MathML-Content" id="S3.p1.1.m1.1b"><ci id="S3.p1.1.m1.1.1.cmml" xref="S3.p1.1.m1.1.1">𝑞</ci></annotation-xml><annotation encoding="application/x-tex" id="S3.p1.1.m1.1c">q</annotation><annotation encoding="application/x-llamapun" id="S3.p1.1.m1.1d">italic_q</annotation></semantics></math>, the system first retrieves some context <math alttext="c(q)" class="ltx_Math" display="inline" id="S3.p1.2.m2.1"><semantics id="S3.p1.2.m2.1a"><mrow id="S3.p1.2.m2.1.2" xref="S3.p1.2.m2.1.2.cmml"><mi id="S3.p1.2.m2.1.2.2" xref="S3.p1.2.m2.1.2.2.cmml">c</mi><mo id="S3.p1.2.m2.1.2.1" xref="S3.p1.2.m2.1.2.1.cmml">⁢</mo><mrow id="S3.p1.2.m2.1.2.3.2" xref="S3.p1.2.m2.1.2.cmml"><mo id="S3.p1.2.m2.1.2.3.2.1" stretchy="false" xref="S3.p1.2.m2.1.2.cmml">(</mo><mi id="S3.p1.2.m2.1.1" xref="S3.p1.2.m2.1.1.cmml">q</mi><mo id="S3.p1.2.m2.1.2.3.2.2" stretchy="false" xref="S3.p1.2.m2.1.2.cmml">)</mo></mrow></mrow><annotation-xml encoding="MathML-Content" id="S3.p1.2.m2.1b"><apply id="S3.p1.2.m2.1.2.cmml" xref="S3.p1.2.m2.1.2"><times id="S3.p1.2.m2.1.2.1.cmml" xref="S3.p1.2.m2.1.2.1"></times><ci id="S3.p1.2.m2.1.2.2.cmml" xref="S3.p1.2.m2.1.2.2">𝑐</ci><ci id="S3.p1.2.m2.1.1.cmml" xref="S3.p1.2.m2.1.1">𝑞</ci></apply></annotation-xml><annotation encoding="application/x-tex" id="S3.p1.2.m2.1c">c(q)</annotation><annotation encoding="application/x-llamapun" id="S3.p1.2.m2.1d">italic_c ( italic_q )</annotation></semantics></math> and then uses the retrieved context to generate an answer <math alttext="a_{s}(q)" class="ltx_Math" display="inline" id="S3.p1.3.m3.1"><semantics id="S3.p1.3.m3.1a"><mrow id="S3.p1.3.m3.1.2" xref="S3.p1.3.m3.1.2.cmml"><msub id="S3.p1.3.m3.1.2.2" xref="S3.p1.3.m3.1.2.2.cmml"><mi id="S3.p1.3.m3.1.2.2.2" xref="S3.p1.3.m3.1.2.2.2.cmml">a</mi><mi id="S3.p1.3.m3.1.2.2.3" xref="S3.p1.3.m3.1.2.2.3.cmml">s</mi></msub><mo id="S3.p1.3.m3.1.2.1" xref="S3.p1.3.m3.1.2.1.cmml">⁢</mo><mrow id="S3.p1.3.m3.1.2.3.2" xref="S3.p1.3.m3.1.2.cmml"><mo id="S3.p1.3.m3.1.2.3.2.1" stretchy="false" xref="S3.p1.3.m3.1.2.cmml">(</mo><mi id="S3.p1.3.m3.1.1" xref="S3.p1.3.m3.1.1.cmml">q</mi><mo id="S3.p1.3.m3.1.2.3.2.2" stretchy="false" xref="S3.p1.3.m3.1.2.cmml">)</mo></mrow></mrow><annotation-xml encoding="MathML-Content" id="S3.p1.3.m3.1b"><apply id="S3.p1.3.m3.1.2.cmml" xref="S3.p1.3.m3.1.2"><times id="S3.p1.3.m3.1.2.1.cmml" xref="S3.p1.3.m3.1.2.1"></times><apply id="S3.p1.3.m3.1.2.2.cmml" xref="S3.p1.3.m3.1.2.2"><csymbol cd="ambiguous" id="S3.p1.3.m3.1.2.2.1.cmml" xref="S3.p1.3.m3.1.2.2">subscript</csymbol><ci id="S3.p1.3.m3.1.2.2.2.cmml" xref="S3.p1.3.m3.1.2.2.2">𝑎</ci><ci id="S3.p1.3.m3.1.2.2.3.cmml" xref="S3.p1.3.m3.1.2.2.3">𝑠</ci></apply><ci id="S3.p1.3.m3.1.1.cmml" xref="S3.p1.3.m3.1.1">𝑞</ci></apply></annotation-xml><annotation encoding="application/x-tex" id="S3.p1.3.m3.1c">a_{s}(q)</annotation><annotation encoding="application/x-llamapun" id="S3.p1.3.m3.1d">italic_a start_POSTSUBSCRIPT italic_s end_POSTSUBSCRIPT ( italic_q )</annotation></semantics></math>. When building a RAG system, we usually do not have access to human-annotated datasets or reference answers. We therefore focus on metrics that are fully self-contained and reference-free. We focus in particular three quality aspects, which we argue are of central importance. First, <span class="ltx_text ltx_font_bold" id="S3.p1.3.1">Faithfulness</span> refers to the idea that the answer should be grounded in the given context. This is important to avoid hallucinations, and to ensure that the retrieved context can act as a justification for the generated answer.
+Indeed, RAG systems are often used in applications where the factual consistency of the generated text w.r.t. the grounded sources is highly important, e.g. in domains such as law, where information is constantly evolving. Second, <span class="ltx_text ltx_font_bold" id="S3.p1.3.2">Answer Relevance</span> refers to the idea that the generated answer should address the actual question that was provided. Finally, <span class="ltx_text ltx_font_bold" id="S3.p1.3.3">Context Relevance</span> refers to the idea that the retrieved context should be focused, containing as little irrelevant information as possible. This is important given the cost associated with feeding long context passages to LLMs. Moreover, when context passages are too long, LLMs are often less effective in exploiting that context, especially for information that is provided in the middle of the context passage <cite class="ltx_cite ltx_citemacro_cite">Liu et al. (<a class="ltx_ref" href="#bib.bib15" title="">2023</a>)</cite>.</p>
+</div>
+<div class="ltx_para" id="S3.p2">
+<p class="ltx_p" id="S3.p2.1">We now explain how these three quality aspects can be measured in a fully automated way, by prompting an LLM. In our implementation and experiments, all prompts are evaluated using the <span class="ltx_text ltx_font_typewriter" id="S3.p2.1.1">gpt-3.5-turbo-16k</span> model, which is available through the OpenAI API<span class="ltx_note ltx_role_footnote" id="footnote2"><sup class="ltx_note_mark">2</sup><span class="ltx_note_outer"><span class="ltx_note_content"><sup class="ltx_note_mark">2</sup><span class="ltx_tag ltx_tag_note">2</span><a class="ltx_ref ltx_url ltx_font_typewriter" href="https://platform.openai.com" title="">https://platform.openai.com</a></span></span></span>.</p>
+</div>
+<section class="ltx_paragraph" id="S3.SS0.SSS0.Px1">
+<h3 class="ltx_title ltx_title_paragraph">Faithfulness</h3>
+<div class="ltx_para" id="S3.SS0.SSS0.Px1.p1">
+<p class="ltx_p" id="S3.SS0.SSS0.Px1.p1.3">We say that the answer <math alttext="a_{s}(q)" class="ltx_Math" display="inline" id="S3.SS0.SSS0.Px1.p1.1.m1.1"><semantics id="S3.SS0.SSS0.Px1.p1.1.m1.1a"><mrow id="S3.SS0.SSS0.Px1.p1.1.m1.1.2" xref="S3.SS0.SSS0.Px1.p1.1.m1.1.2.cmml"><msub id="S3.SS0.SSS0.Px1.p1.1.m1.1.2.2" xref="S3.SS0.SSS0.Px1.p1.1.m1.1.2.2.cmml"><mi id="S3.SS0.SSS0.Px1.p1.1.m1.1.2.2.2" xref="S3.SS0.SSS0.Px1.p1.1.m1.1.2.2.2.cmml">a</mi><mi id="S3.SS0.SSS0.Px1.p1.1.m1.1.2.2.3" xref="S3.SS0.SSS0.Px1.p1.1.m1.1.2.2.3.cmml">s</mi></msub><mo id="S3.SS0.SSS0.Px1.p1.1.m1.1.2.1" xref="S3.SS0.SSS0.Px1.p1.1.m1.1.2.1.cmml">⁢</mo><mrow id="S3.SS0.SSS0.Px1.p1.1.m1.1.2.3.2" xref="S3.SS0.SSS0.Px1.p1.1.m1.1.2.cmml"><mo id="S3.SS0.SSS0.Px1.p1.1.m1.1.2.3.2.1" stretchy="false" xref="S3.SS0.SSS0.Px1.p1.1.m1.1.2.cmml">(</mo><mi id="S3.SS0.SSS0.Px1.p1.1.m1.1.1" xref="S3.SS0.SSS0.Px1.p1.1.m1.1.1.cmml">q</mi><mo id="S3.SS0.SSS0.Px1.p1.1.m1.1.2.3.2.2" stretchy="false" xref="S3.SS0.SSS0.Px1.p1.1.m1.1.2.cmml">)</mo></mrow></mrow><annotation-xml encoding="MathML-Content" id="S3.SS0.SSS0.Px1.p1.1.m1.1b"><apply id="S3.SS0.SSS0.Px1.p1.1.m1.1.2.cmml" xref="S3.SS0.SSS0.Px1.p1.1.m1.1.2"><times id="S3.SS0.SSS0.Px1.p1.1.m1.1.2.1.cmml" xref="S3.SS0.SSS0.Px1.p1.1.m1.1.2.1"></times><apply id="S3.SS0.SSS0.Px1.p1.1.m1.1.2.2.cmml" xref="S3.SS0.SSS0.Px1.p1.1.m1.1.2.2"><csymbol cd="ambiguous" id="S3.SS0.SSS0.Px1.p1.1.m1.1.2.2.1.cmml" xref="S3.SS0.SSS0.Px1.p1.1.m1.1.2.2">subscript</csymbol><ci id="S3.SS0.SSS0.Px1.p1.1.m1.1.2.2.2.cmml" xref="S3.SS0.SSS0.Px1.p1.1.m1.1.2.2.2">𝑎</ci><ci id="S3.SS0.SSS0.Px1.p1.1.m1.1.2.2.3.cmml" xref="S3.SS0.SSS0.Px1.p1.1.m1.1.2.2.3">𝑠</ci></apply><ci id="S3.SS0.SSS0.Px1.p1.1.m1.1.1.cmml" xref="S3.SS0.SSS0.Px1.p1.1.m1.1.1">𝑞</ci></apply></annotation-xml><annotation encoding="application/x-tex" id="S3.SS0.SSS0.Px1.p1.1.m1.1c">a_{s}(q)</annotation><annotation encoding="application/x-llamapun" id="S3.SS0.SSS0.Px1.p1.1.m1.1d">italic_a start_POSTSUBSCRIPT italic_s end_POSTSUBSCRIPT ( italic_q )</annotation></semantics></math> is faithful to the context <math alttext="c(q)" class="ltx_Math" display="inline" id="S3.SS0.SSS0.Px1.p1.2.m2.1"><semantics id="S3.SS0.SSS0.Px1.p1.2.m2.1a"><mrow id="S3.SS0.SSS0.Px1.p1.2.m2.1.2" xref="S3.SS0.SSS0.Px1.p1.2.m2.1.2.cmml"><mi id="S3.SS0.SSS0.Px1.p1.2.m2.1.2.2" xref="S3.SS0.SSS0.Px1.p1.2.m2.1.2.2.cmml">c</mi><mo id="S3.SS0.SSS0.Px1.p1.2.m2.1.2.1" xref="S3.SS0.SSS0.Px1.p1.2.m2.1.2.1.cmml">⁢</mo><mrow id="S3.SS0.SSS0.Px1.p1.2.m2.1.2.3.2" xref="S3.SS0.SSS0.Px1.p1.2.m2.1.2.cmml"><mo id="S3.SS0.SSS0.Px1.p1.2.m2.1.2.3.2.1" stretchy="false" xref="S3.SS0.SSS0.Px1.p1.2.m2.1.2.cmml">(</mo><mi id="S3.SS0.SSS0.Px1.p1.2.m2.1.1" xref="S3.SS0.SSS0.Px1.p1.2.m2.1.1.cmml">q</mi><mo id="S3.SS0.SSS0.Px1.p1.2.m2.1.2.3.2.2" stretchy="false" xref="S3.SS0.SSS0.Px1.p1.2.m2.1.2.cmml">)</mo></mrow></mrow><annotation-xml encoding="MathML-Content" id="S3.SS0.SSS0.Px1.p1.2.m2.1b"><apply id="S3.SS0.SSS0.Px1.p1.2.m2.1.2.cmml" xref="S3.SS0.SSS0.Px1.p1.2.m2.1.2"><times id="S3.SS0.SSS0.Px1.p1.2.m2.1.2.1.cmml" xref="S3.SS0.SSS0.Px1.p1.2.m2.1.2.1"></times><ci id="S3.SS0.SSS0.Px1.p1.2.m2.1.2.2.cmml" xref="S3.SS0.SSS0.Px1.p1.2.m2.1.2.2">𝑐</ci><ci id="S3.SS0.SSS0.Px1.p1.2.m2.1.1.cmml" xref="S3.SS0.SSS0.Px1.p1.2.m2.1.1">𝑞</ci></apply></annotation-xml><annotation encoding="application/x-tex" id="S3.SS0.SSS0.Px1.p1.2.m2.1c">c(q)</annotation><annotation encoding="application/x-llamapun" id="S3.SS0.SSS0.Px1.p1.2.m2.1d">italic_c ( italic_q )</annotation></semantics></math> if the claims that are made in the answer can be inferred from the context. To estimate faithfulness, we first use an LLM to extract a set of statements, <math alttext="S(a_{s}(q))" class="ltx_Math" display="inline" id="S3.SS0.SSS0.Px1.p1.3.m3.2"><semantics id="S3.SS0.SSS0.Px1.p1.3.m3.2a"><mrow id="S3.SS0.SSS0.Px1.p1.3.m3.2.2" xref="S3.SS0.SSS0.Px1.p1.3.m3.2.2.cmml"><mi id="S3.SS0.SSS0.Px1.p1.3.m3.2.2.3" xref="S3.SS0.SSS0.Px1.p1.3.m3.2.2.3.cmml">S</mi><mo id="S3.SS0.SSS0.Px1.p1.3.m3.2.2.2" xref="S3.SS0.SSS0.Px1.p1.3.m3.2.2.2.cmml">⁢</mo><mrow id="S3.SS0.SSS0.Px1.p1.3.m3.2.2.1.1" xref="S3.SS0.SSS0.Px1.p1.3.m3.2.2.1.1.1.cmml"><mo id="S3.SS0.SSS0.Px1.p1.3.m3.2.2.1.1.2" stretchy="false" xref="S3.SS0.SSS0.Px1.p1.3.m3.2.2.1.1.1.cmml">(</mo><mrow id="S3.SS0.SSS0.Px1.p1.3.m3.2.2.1.1.1" xref="S3.SS0.SSS0.Px1.p1.3.m3.2.2.1.1.1.cmml"><msub id="S3.SS0.SSS0.Px1.p1.3.m3.2.2.1.1.1.2" xref="S3.SS0.SSS0.Px1.p1.3.m3.2.2.1.1.1.2.cmml"><mi id="S3.SS0.SSS0.Px1.p1.3.m3.2.2.1.1.1.2.2" xref="S3.SS0.SSS0.Px1.p1.3.m3.2.2.1.1.1.2.2.cmml">a</mi><mi id="S3.SS0.SSS0.Px1.p1.3.m3.2.2.1.1.1.2.3" xref="S3.SS0.SSS0.Px1.p1.3.m3.2.2.1.1.1.2.3.cmml">s</mi></msub><mo id="S3.SS0.SSS0.Px1.p1.3.m3.2.2.1.1.1.1" xref="S3.SS0.SSS0.Px1.p1.3.m3.2.2.1.1.1.1.cmml">⁢</mo><mrow id="S3.SS0.SSS0.Px1.p1.3.m3.2.2.1.1.1.3.2" xref="S3.SS0.SSS0.Px1.p1.3.m3.2.2.1.1.1.cmml"><mo id="S3.SS0.SSS0.Px1.p1.3.m3.2.2.1.1.1.3.2.1" stretchy="false" xref="S3.SS0.SSS0.Px1.p1.3.m3.2.2.1.1.1.cmml">(</mo><mi id="S3.SS0.SSS0.Px1.p1.3.m3.1.1" xref="S3.SS0.SSS0.Px1.p1.3.m3.1.1.cmml">q</mi><mo id="S3.SS0.SSS0.Px1.p1.3.m3.2.2.1.1.1.3.2.2" stretchy="false" xref="S3.SS0.SSS0.Px1.p1.3.m3.2.2.1.1.1.cmml">)</mo></mrow></mrow><mo id="S3.SS0.SSS0.Px1.p1.3.m3.2.2.1.1.3" stretchy="false" xref="S3.SS0.SSS0.Px1.p1.3.m3.2.2.1.1.1.cmml">)</mo></mrow></mrow><annotation-xml encoding="MathML-Content" id="S3.SS0.SSS0.Px1.p1.3.m3.2b"><apply id="S3.SS0.SSS0.Px1.p1.3.m3.2.2.cmml" xref="S3.SS0.SSS0.Px1.p1.3.m3.2.2"><times id="S3.SS0.SSS0.Px1.p1.3.m3.2.2.2.cmml" xref="S3.SS0.SSS0.Px1.p1.3.m3.2.2.2"></times><ci id="S3.SS0.SSS0.Px1.p1.3.m3.2.2.3.cmml" xref="S3.SS0.SSS0.Px1.p1.3.m3.2.2.3">𝑆</ci><apply id="S3.SS0.SSS0.Px1.p1.3.m3.2.2.1.1.1.cmml" xref="S3.SS0.SSS0.Px1.p1.3.m3.2.2.1.1"><times id="S3.SS0.SSS0.Px1.p1.3.m3.2.2.1.1.1.1.cmml" xref="S3.SS0.SSS0.Px1.p1.3.m3.2.2.1.1.1.1"></times><apply id="S3.SS0.SSS0.Px1.p1.3.m3.2.2.1.1.1.2.cmml" xref="S3.SS0.SSS0.Px1.p1.3.m3.2.2.1.1.1.2"><csymbol cd="ambiguous" id="S3.SS0.SSS0.Px1.p1.3.m3.2.2.1.1.1.2.1.cmml" xref="S3.SS0.SSS0.Px1.p1.3.m3.2.2.1.1.1.2">subscript</csymbol><ci id="S3.SS0.SSS0.Px1.p1.3.m3.2.2.1.1.1.2.2.cmml" xref="S3.SS0.SSS0.Px1.p1.3.m3.2.2.1.1.1.2.2">𝑎</ci><ci id="S3.SS0.SSS0.Px1.p1.3.m3.2.2.1.1.1.2.3.cmml" xref="S3.SS0.SSS0.Px1.p1.3.m3.2.2.1.1.1.2.3">𝑠</ci></apply><ci id="S3.SS0.SSS0.Px1.p1.3.m3.1.1.cmml" xref="S3.SS0.SSS0.Px1.p1.3.m3.1.1">𝑞</ci></apply></apply></annotation-xml><annotation encoding="application/x-tex" id="S3.SS0.SSS0.Px1.p1.3.m3.2c">S(a_{s}(q))</annotation><annotation encoding="application/x-llamapun" id="S3.SS0.SSS0.Px1.p1.3.m3.2d">italic_S ( italic_a start_POSTSUBSCRIPT italic_s end_POSTSUBSCRIPT ( italic_q ) )</annotation></semantics></math>. The aim of this step is to decompose longer sentences into shorter and more focused assertions. We use the following prompt for this step<span class="ltx_note ltx_role_footnote" id="footnote3"><sup class="ltx_note_mark">3</sup><span class="ltx_note_outer"><span class="ltx_note_content"><sup class="ltx_note_mark">3</sup><span class="ltx_tag ltx_tag_note">3</span>To help clarify the task, we include a demonstration as part of the prompt. This demonstration is not explicitly shown in the listing of the prompts throughout this paper.</span></span></span>:</p>
+<blockquote class="ltx_quote" id="S3.SS0.SSS0.Px1.p1.14">
+<p class="ltx_p" id="S3.SS0.SSS0.Px1.p1.14.1"><span class="ltx_text ltx_font_italic" id="S3.SS0.SSS0.Px1.p1.14.1.1">Given a question and answer, create one or more statements from each sentence in the given answer.
+<br class="ltx_break"/>
+question:</span> <span class="ltx_text ltx_font_typewriter" id="S3.SS0.SSS0.Px1.p1.14.1.2">[question]
+<br class="ltx_break"/></span>
+<span class="ltx_text ltx_font_italic" id="S3.SS0.SSS0.Px1.p1.14.1.3">answer:</span> <span class="ltx_text ltx_font_typewriter" id="S3.SS0.SSS0.Px1.p1.14.1.4">[answer]</span></p>
+</blockquote>
+<p class="ltx_p" id="S3.SS0.SSS0.Px1.p1.8">where <span class="ltx_text ltx_font_typewriter" id="S3.SS0.SSS0.Px1.p1.8.1">[question]</span> and <span class="ltx_text ltx_font_typewriter" id="S3.SS0.SSS0.Px1.p1.8.2">[answer]</span> refer to the given question and answer.
+For each statement <math alttext="s_{i}" class="ltx_Math" display="inline" id="S3.SS0.SSS0.Px1.p1.4.m1.1"><semantics id="S3.SS0.SSS0.Px1.p1.4.m1.1a"><msub id="S3.SS0.SSS0.Px1.p1.4.m1.1.1" xref="S3.SS0.SSS0.Px1.p1.4.m1.1.1.cmml"><mi id="S3.SS0.SSS0.Px1.p1.4.m1.1.1.2" xref="S3.SS0.SSS0.Px1.p1.4.m1.1.1.2.cmml">s</mi><mi id="S3.SS0.SSS0.Px1.p1.4.m1.1.1.3" xref="S3.SS0.SSS0.Px1.p1.4.m1.1.1.3.cmml">i</mi></msub><annotation-xml encoding="MathML-Content" id="S3.SS0.SSS0.Px1.p1.4.m1.1b"><apply id="S3.SS0.SSS0.Px1.p1.4.m1.1.1.cmml" xref="S3.SS0.SSS0.Px1.p1.4.m1.1.1"><csymbol cd="ambiguous" id="S3.SS0.SSS0.Px1.p1.4.m1.1.1.1.cmml" xref="S3.SS0.SSS0.Px1.p1.4.m1.1.1">subscript</csymbol><ci id="S3.SS0.SSS0.Px1.p1.4.m1.1.1.2.cmml" xref="S3.SS0.SSS0.Px1.p1.4.m1.1.1.2">𝑠</ci><ci id="S3.SS0.SSS0.Px1.p1.4.m1.1.1.3.cmml" xref="S3.SS0.SSS0.Px1.p1.4.m1.1.1.3">𝑖</ci></apply></annotation-xml><annotation encoding="application/x-tex" id="S3.SS0.SSS0.Px1.p1.4.m1.1c">s_{i}</annotation><annotation encoding="application/x-llamapun" id="S3.SS0.SSS0.Px1.p1.4.m1.1d">italic_s start_POSTSUBSCRIPT italic_i end_POSTSUBSCRIPT</annotation></semantics></math> in <math alttext="S" class="ltx_Math" display="inline" id="S3.SS0.SSS0.Px1.p1.5.m2.1"><semantics id="S3.SS0.SSS0.Px1.p1.5.m2.1a"><mi id="S3.SS0.SSS0.Px1.p1.5.m2.1.1" xref="S3.SS0.SSS0.Px1.p1.5.m2.1.1.cmml">S</mi><annotation-xml encoding="MathML-Content" id="S3.SS0.SSS0.Px1.p1.5.m2.1b"><ci id="S3.SS0.SSS0.Px1.p1.5.m2.1.1.cmml" xref="S3.SS0.SSS0.Px1.p1.5.m2.1.1">𝑆</ci></annotation-xml><annotation encoding="application/x-tex" id="S3.SS0.SSS0.Px1.p1.5.m2.1c">S</annotation><annotation encoding="application/x-llamapun" id="S3.SS0.SSS0.Px1.p1.5.m2.1d">italic_S</annotation></semantics></math>, the LLM determines if <math alttext="s_{i}" class="ltx_Math" display="inline" id="S3.SS0.SSS0.Px1.p1.6.m3.1"><semantics id="S3.SS0.SSS0.Px1.p1.6.m3.1a"><msub id="S3.SS0.SSS0.Px1.p1.6.m3.1.1" xref="S3.SS0.SSS0.Px1.p1.6.m3.1.1.cmml"><mi id="S3.SS0.SSS0.Px1.p1.6.m3.1.1.2" xref="S3.SS0.SSS0.Px1.p1.6.m3.1.1.2.cmml">s</mi><mi id="S3.SS0.SSS0.Px1.p1.6.m3.1.1.3" xref="S3.SS0.SSS0.Px1.p1.6.m3.1.1.3.cmml">i</mi></msub><annotation-xml encoding="MathML-Content" id="S3.SS0.SSS0.Px1.p1.6.m3.1b"><apply id="S3.SS0.SSS0.Px1.p1.6.m3.1.1.cmml" xref="S3.SS0.SSS0.Px1.p1.6.m3.1.1"><csymbol cd="ambiguous" id="S3.SS0.SSS0.Px1.p1.6.m3.1.1.1.cmml" xref="S3.SS0.SSS0.Px1.p1.6.m3.1.1">subscript</csymbol><ci id="S3.SS0.SSS0.Px1.p1.6.m3.1.1.2.cmml" xref="S3.SS0.SSS0.Px1.p1.6.m3.1.1.2">𝑠</ci><ci id="S3.SS0.SSS0.Px1.p1.6.m3.1.1.3.cmml" xref="S3.SS0.SSS0.Px1.p1.6.m3.1.1.3">𝑖</ci></apply></annotation-xml><annotation encoding="application/x-tex" id="S3.SS0.SSS0.Px1.p1.6.m3.1c">s_{i}</annotation><annotation encoding="application/x-llamapun" id="S3.SS0.SSS0.Px1.p1.6.m3.1d">italic_s start_POSTSUBSCRIPT italic_i end_POSTSUBSCRIPT</annotation></semantics></math> can be inferred from <math alttext="c(q)" class="ltx_Math" display="inline" id="S3.SS0.SSS0.Px1.p1.7.m4.1"><semantics id="S3.SS0.SSS0.Px1.p1.7.m4.1a"><mrow id="S3.SS0.SSS0.Px1.p1.7.m4.1.2" xref="S3.SS0.SSS0.Px1.p1.7.m4.1.2.cmml"><mi id="S3.SS0.SSS0.Px1.p1.7.m4.1.2.2" xref="S3.SS0.SSS0.Px1.p1.7.m4.1.2.2.cmml">c</mi><mo id="S3.SS0.SSS0.Px1.p1.7.m4.1.2.1" xref="S3.SS0.SSS0.Px1.p1.7.m4.1.2.1.cmml">⁢</mo><mrow id="S3.SS0.SSS0.Px1.p1.7.m4.1.2.3.2" xref="S3.SS0.SSS0.Px1.p1.7.m4.1.2.cmml"><mo id="S3.SS0.SSS0.Px1.p1.7.m4.1.2.3.2.1" stretchy="false" xref="S3.SS0.SSS0.Px1.p1.7.m4.1.2.cmml">(</mo><mi id="S3.SS0.SSS0.Px1.p1.7.m4.1.1" xref="S3.SS0.SSS0.Px1.p1.7.m4.1.1.cmml">q</mi><mo id="S3.SS0.SSS0.Px1.p1.7.m4.1.2.3.2.2" stretchy="false" xref="S3.SS0.SSS0.Px1.p1.7.m4.1.2.cmml">)</mo></mrow></mrow><annotation-xml encoding="MathML-Content" id="S3.SS0.SSS0.Px1.p1.7.m4.1b"><apply id="S3.SS0.SSS0.Px1.p1.7.m4.1.2.cmml" xref="S3.SS0.SSS0.Px1.p1.7.m4.1.2"><times id="S3.SS0.SSS0.Px1.p1.7.m4.1.2.1.cmml" xref="S3.SS0.SSS0.Px1.p1.7.m4.1.2.1"></times><ci id="S3.SS0.SSS0.Px1.p1.7.m4.1.2.2.cmml" xref="S3.SS0.SSS0.Px1.p1.7.m4.1.2.2">𝑐</ci><ci id="S3.SS0.SSS0.Px1.p1.7.m4.1.1.cmml" xref="S3.SS0.SSS0.Px1.p1.7.m4.1.1">𝑞</ci></apply></annotation-xml><annotation encoding="application/x-tex" id="S3.SS0.SSS0.Px1.p1.7.m4.1c">c(q)</annotation><annotation encoding="application/x-llamapun" id="S3.SS0.SSS0.Px1.p1.7.m4.1d">italic_c ( italic_q )</annotation></semantics></math> using a verification function <math alttext="v(s_{i},c(q))" class="ltx_Math" display="inline" id="S3.SS0.SSS0.Px1.p1.8.m5.3"><semantics id="S3.SS0.SSS0.Px1.p1.8.m5.3a"><mrow id="S3.SS0.SSS0.Px1.p1.8.m5.3.3" xref="S3.SS0.SSS0.Px1.p1.8.m5.3.3.cmml"><mi id="S3.SS0.SSS0.Px1.p1.8.m5.3.3.4" xref="S3.SS0.SSS0.Px1.p1.8.m5.3.3.4.cmml">v</mi><mo id="S3.SS0.SSS0.Px1.p1.8.m5.3.3.3" xref="S3.SS0.SSS0.Px1.p1.8.m5.3.3.3.cmml">⁢</mo><mrow id="S3.SS0.SSS0.Px1.p1.8.m5.3.3.2.2" xref="S3.SS0.SSS0.Px1.p1.8.m5.3.3.2.3.cmml"><mo id="S3.SS0.SSS0.Px1.p1.8.m5.3.3.2.2.3" stretchy="false" xref="S3.SS0.SSS0.Px1.p1.8.m5.3.3.2.3.cmml">(</mo><msub id="S3.SS0.SSS0.Px1.p1.8.m5.2.2.1.1.1" xref="S3.SS0.SSS0.Px1.p1.8.m5.2.2.1.1.1.cmml"><mi id="S3.SS0.SSS0.Px1.p1.8.m5.2.2.1.1.1.2" xref="S3.SS0.SSS0.Px1.p1.8.m5.2.2.1.1.1.2.cmml">s</mi><mi id="S3.SS0.SSS0.Px1.p1.8.m5.2.2.1.1.1.3" xref="S3.SS0.SSS0.Px1.p1.8.m5.2.2.1.1.1.3.cmml">i</mi></msub><mo id="S3.SS0.SSS0.Px1.p1.8.m5.3.3.2.2.4" xref="S3.SS0.SSS0.Px1.p1.8.m5.3.3.2.3.cmml">,</mo><mrow id="S3.SS0.SSS0.Px1.p1.8.m5.3.3.2.2.2" xref="S3.SS0.SSS0.Px1.p1.8.m5.3.3.2.2.2.cmml"><mi id="S3.SS0.SSS0.Px1.p1.8.m5.3.3.2.2.2.2" xref="S3.SS0.SSS0.Px1.p1.8.m5.3.3.2.2.2.2.cmml">c</mi><mo id="S3.SS0.SSS0.Px1.p1.8.m5.3.3.2.2.2.1" xref="S3.SS0.SSS0.Px1.p1.8.m5.3.3.2.2.2.1.cmml">⁢</mo><mrow id="S3.SS0.SSS0.Px1.p1.8.m5.3.3.2.2.2.3.2" xref="S3.SS0.SSS0.Px1.p1.8.m5.3.3.2.2.2.cmml"><mo id="S3.SS0.SSS0.Px1.p1.8.m5.3.3.2.2.2.3.2.1" stretchy="false" xref="S3.SS0.SSS0.Px1.p1.8.m5.3.3.2.2.2.cmml">(</mo><mi id="S3.SS0.SSS0.Px1.p1.8.m5.1.1" xref="S3.SS0.SSS0.Px1.p1.8.m5.1.1.cmml">q</mi><mo id="S3.SS0.SSS0.Px1.p1.8.m5.3.3.2.2.2.3.2.2" stretchy="false" xref="S3.SS0.SSS0.Px1.p1.8.m5.3.3.2.2.2.cmml">)</mo></mrow></mrow><mo id="S3.SS0.SSS0.Px1.p1.8.m5.3.3.2.2.5" stretchy="false" xref="S3.SS0.SSS0.Px1.p1.8.m5.3.3.2.3.cmml">)</mo></mrow></mrow><annotation-xml encoding="MathML-Content" id="S3.SS0.SSS0.Px1.p1.8.m5.3b"><apply id="S3.SS0.SSS0.Px1.p1.8.m5.3.3.cmml" xref="S3.SS0.SSS0.Px1.p1.8.m5.3.3"><times id="S3.SS0.SSS0.Px1.p1.8.m5.3.3.3.cmml" xref="S3.SS0.SSS0.Px1.p1.8.m5.3.3.3"></times><ci id="S3.SS0.SSS0.Px1.p1.8.m5.3.3.4.cmml" xref="S3.SS0.SSS0.Px1.p1.8.m5.3.3.4">𝑣</ci><interval closure="open" id="S3.SS0.SSS0.Px1.p1.8.m5.3.3.2.3.cmml" xref="S3.SS0.SSS0.Px1.p1.8.m5.3.3.2.2"><apply id="S3.SS0.SSS0.Px1.p1.8.m5.2.2.1.1.1.cmml" xref="S3.SS0.SSS0.Px1.p1.8.m5.2.2.1.1.1"><csymbol cd="ambiguous" id="S3.SS0.SSS0.Px1.p1.8.m5.2.2.1.1.1.1.cmml" xref="S3.SS0.SSS0.Px1.p1.8.m5.2.2.1.1.1">subscript</csymbol><ci id="S3.SS0.SSS0.Px1.p1.8.m5.2.2.1.1.1.2.cmml" xref="S3.SS0.SSS0.Px1.p1.8.m5.2.2.1.1.1.2">𝑠</ci><ci id="S3.SS0.SSS0.Px1.p1.8.m5.2.2.1.1.1.3.cmml" xref="S3.SS0.SSS0.Px1.p1.8.m5.2.2.1.1.1.3">𝑖</ci></apply><apply id="S3.SS0.SSS0.Px1.p1.8.m5.3.3.2.2.2.cmml" xref="S3.SS0.SSS0.Px1.p1.8.m5.3.3.2.2.2"><times id="S3.SS0.SSS0.Px1.p1.8.m5.3.3.2.2.2.1.cmml" xref="S3.SS0.SSS0.Px1.p1.8.m5.3.3.2.2.2.1"></times><ci id="S3.SS0.SSS0.Px1.p1.8.m5.3.3.2.2.2.2.cmml" xref="S3.SS0.SSS0.Px1.p1.8.m5.3.3.2.2.2.2">𝑐</ci><ci id="S3.SS0.SSS0.Px1.p1.8.m5.1.1.cmml" xref="S3.SS0.SSS0.Px1.p1.8.m5.1.1">𝑞</ci></apply></interval></apply></annotation-xml><annotation encoding="application/x-tex" id="S3.SS0.SSS0.Px1.p1.8.m5.3c">v(s_{i},c(q))</annotation><annotation encoding="application/x-llamapun" id="S3.SS0.SSS0.Px1.p1.8.m5.3d">italic_v ( italic_s start_POSTSUBSCRIPT italic_i end_POSTSUBSCRIPT , italic_c ( italic_q ) )</annotation></semantics></math>. This verification step is carried out using the following prompt:</p>
+<blockquote class="ltx_quote" id="S3.SS0.SSS0.Px1.p1.9">
+<p class="ltx_p" id="S3.SS0.SSS0.Px1.p1.9.1"><span class="ltx_text ltx_font_italic" id="S3.SS0.SSS0.Px1.p1.9.1.2">Consider the given context and following statements, then determine whether they are supported by the information present in the context. Provide a brief explanation for each statement before arriving at the verdict (Yes/No). Provide a final verdict for each statement in order at the end in the given format. Do not deviate from the specified format.
+<br class="ltx_break"/></span>
+<span class="ltx_text ltx_font_italic" id="S3.SS0.SSS0.Px1.p1.9.1.3">statement:</span> <span class="ltx_text ltx_font_typewriter" id="S3.SS0.SSS0.Px1.p1.9.1.4">[statement 1]
+<br class="ltx_break"/></span>
+…
+<br class="ltx_break"/>
+<span class="ltx_text ltx_font_italic" id="S3.SS0.SSS0.Px1.p1.9.1.5">statement:</span> <span class="ltx_text ltx_font_typewriter" id="S3.SS0.SSS0.Px1.p1.9.1.1">[statement <math alttext="n" class="ltx_Math" display="inline" id="S3.SS0.SSS0.Px1.p1.9.1.1.m1.1"><semantics id="S3.SS0.SSS0.Px1.p1.9.1.1.m1.1a"><mi id="S3.SS0.SSS0.Px1.p1.9.1.1.m1.1.1" xref="S3.SS0.SSS0.Px1.p1.9.1.1.m1.1.1.cmml">n</mi><annotation-xml encoding="MathML-Content" id="S3.SS0.SSS0.Px1.p1.9.1.1.m1.1b"><ci id="S3.SS0.SSS0.Px1.p1.9.1.1.m1.1.1.cmml" xref="S3.SS0.SSS0.Px1.p1.9.1.1.m1.1.1">𝑛</ci></annotation-xml><annotation encoding="application/x-tex" id="S3.SS0.SSS0.Px1.p1.9.1.1.m1.1c">n</annotation><annotation encoding="application/x-llamapun" id="S3.SS0.SSS0.Px1.p1.9.1.1.m1.1d">italic_n</annotation></semantics></math>]</span></p>
+</blockquote>
+<p class="ltx_p" id="S3.SS0.SSS0.Px1.p1.13">The final faithfulness score, <math alttext="F" class="ltx_Math" display="inline" id="S3.SS0.SSS0.Px1.p1.10.m1.1"><semantics id="S3.SS0.SSS0.Px1.p1.10.m1.1a"><mi id="S3.SS0.SSS0.Px1.p1.10.m1.1.1" xref="S3.SS0.SSS0.Px1.p1.10.m1.1.1.cmml">F</mi><annotation-xml encoding="MathML-Content" id="S3.SS0.SSS0.Px1.p1.10.m1.1b"><ci id="S3.SS0.SSS0.Px1.p1.10.m1.1.1.cmml" xref="S3.SS0.SSS0.Px1.p1.10.m1.1.1">𝐹</ci></annotation-xml><annotation encoding="application/x-tex" id="S3.SS0.SSS0.Px1.p1.10.m1.1c">F</annotation><annotation encoding="application/x-llamapun" id="S3.SS0.SSS0.Px1.p1.10.m1.1d">italic_F</annotation></semantics></math>, is then computed as <math alttext="F=\frac{|V|}{|S|}" class="ltx_Math" display="inline" id="S3.SS0.SSS0.Px1.p1.11.m2.2"><semantics id="S3.SS0.SSS0.Px1.p1.11.m2.2a"><mrow id="S3.SS0.SSS0.Px1.p1.11.m2.2.3" xref="S3.SS0.SSS0.Px1.p1.11.m2.2.3.cmml"><mi id="S3.SS0.SSS0.Px1.p1.11.m2.2.3.2" xref="S3.SS0.SSS0.Px1.p1.11.m2.2.3.2.cmml">F</mi><mo id="S3.SS0.SSS0.Px1.p1.11.m2.2.3.1" xref="S3.SS0.SSS0.Px1.p1.11.m2.2.3.1.cmml">=</mo><mfrac id="S3.SS0.SSS0.Px1.p1.11.m2.2.2" xref="S3.SS0.SSS0.Px1.p1.11.m2.2.2.cmml"><mrow id="S3.SS0.SSS0.Px1.p1.11.m2.1.1.1.3" xref="S3.SS0.SSS0.Px1.p1.11.m2.1.1.1.2.cmml"><mo id="S3.SS0.SSS0.Px1.p1.11.m2.1.1.1.3.1" stretchy="false" xref="S3.SS0.SSS0.Px1.p1.11.m2.1.1.1.2.1.cmml">|</mo><mi id="S3.SS0.SSS0.Px1.p1.11.m2.1.1.1.1" xref="S3.SS0.SSS0.Px1.p1.11.m2.1.1.1.1.cmml">V</mi><mo id="S3.SS0.SSS0.Px1.p1.11.m2.1.1.1.3.2" stretchy="false" xref="S3.SS0.SSS0.Px1.p1.11.m2.1.1.1.2.1.cmml">|</mo></mrow><mrow id="S3.SS0.SSS0.Px1.p1.11.m2.2.2.2.3" xref="S3.SS0.SSS0.Px1.p1.11.m2.2.2.2.2.cmml"><mo id="S3.SS0.SSS0.Px1.p1.11.m2.2.2.2.3.1" stretchy="false" xref="S3.SS0.SSS0.Px1.p1.11.m2.2.2.2.2.1.cmml">|</mo><mi id="S3.SS0.SSS0.Px1.p1.11.m2.2.2.2.1" xref="S3.SS0.SSS0.Px1.p1.11.m2.2.2.2.1.cmml">S</mi><mo id="S3.SS0.SSS0.Px1.p1.11.m2.2.2.2.3.2" stretchy="false" xref="S3.SS0.SSS0.Px1.p1.11.m2.2.2.2.2.1.cmml">|</mo></mrow></mfrac></mrow><annotation-xml encoding="MathML-Content" id="S3.SS0.SSS0.Px1.p1.11.m2.2b"><apply id="S3.SS0.SSS0.Px1.p1.11.m2.2.3.cmml" xref="S3.SS0.SSS0.Px1.p1.11.m2.2.3"><eq id="S3.SS0.SSS0.Px1.p1.11.m2.2.3.1.cmml" xref="S3.SS0.SSS0.Px1.p1.11.m2.2.3.1"></eq><ci id="S3.SS0.SSS0.Px1.p1.11.m2.2.3.2.cmml" xref="S3.SS0.SSS0.Px1.p1.11.m2.2.3.2">𝐹</ci><apply id="S3.SS0.SSS0.Px1.p1.11.m2.2.2.cmml" xref="S3.SS0.SSS0.Px1.p1.11.m2.2.2"><divide id="S3.SS0.SSS0.Px1.p1.11.m2.2.2.3.cmml" xref="S3.SS0.SSS0.Px1.p1.11.m2.2.2"></divide><apply id="S3.SS0.SSS0.Px1.p1.11.m2.1.1.1.2.cmml" xref="S3.SS0.SSS0.Px1.p1.11.m2.1.1.1.3"><abs id="S3.SS0.SSS0.Px1.p1.11.m2.1.1.1.2.1.cmml" xref="S3.SS0.SSS0.Px1.p1.11.m2.1.1.1.3.1"></abs><ci id="S3.SS0.SSS0.Px1.p1.11.m2.1.1.1.1.cmml" xref="S3.SS0.SSS0.Px1.p1.11.m2.1.1.1.1">𝑉</ci></apply><apply id="S3.SS0.SSS0.Px1.p1.11.m2.2.2.2.2.cmml" xref="S3.SS0.SSS0.Px1.p1.11.m2.2.2.2.3"><abs id="S3.SS0.SSS0.Px1.p1.11.m2.2.2.2.2.1.cmml" xref="S3.SS0.SSS0.Px1.p1.11.m2.2.2.2.3.1"></abs><ci id="S3.SS0.SSS0.Px1.p1.11.m2.2.2.2.1.cmml" xref="S3.SS0.SSS0.Px1.p1.11.m2.2.2.2.1">𝑆</ci></apply></apply></apply></annotation-xml><annotation encoding="application/x-tex" id="S3.SS0.SSS0.Px1.p1.11.m2.2c">F=\frac{|V|}{|S|}</annotation><annotation encoding="application/x-llamapun" id="S3.SS0.SSS0.Px1.p1.11.m2.2d">italic_F = divide start_ARG | italic_V | end_ARG start_ARG | italic_S | end_ARG</annotation></semantics></math>, where <math alttext="|V|" class="ltx_Math" display="inline" id="S3.SS0.SSS0.Px1.p1.12.m3.1"><semantics id="S3.SS0.SSS0.Px1.p1.12.m3.1a"><mrow id="S3.SS0.SSS0.Px1.p1.12.m3.1.2.2" xref="S3.SS0.SSS0.Px1.p1.12.m3.1.2.1.cmml"><mo id="S3.SS0.SSS0.Px1.p1.12.m3.1.2.2.1" stretchy="false" xref="S3.SS0.SSS0.Px1.p1.12.m3.1.2.1.1.cmml">|</mo><mi id="S3.SS0.SSS0.Px1.p1.12.m3.1.1" xref="S3.SS0.SSS0.Px1.p1.12.m3.1.1.cmml">V</mi><mo id="S3.SS0.SSS0.Px1.p1.12.m3.1.2.2.2" stretchy="false" xref="S3.SS0.SSS0.Px1.p1.12.m3.1.2.1.1.cmml">|</mo></mrow><annotation-xml encoding="MathML-Content" id="S3.SS0.SSS0.Px1.p1.12.m3.1b"><apply id="S3.SS0.SSS0.Px1.p1.12.m3.1.2.1.cmml" xref="S3.SS0.SSS0.Px1.p1.12.m3.1.2.2"><abs id="S3.SS0.SSS0.Px1.p1.12.m3.1.2.1.1.cmml" xref="S3.SS0.SSS0.Px1.p1.12.m3.1.2.2.1"></abs><ci id="S3.SS0.SSS0.Px1.p1.12.m3.1.1.cmml" xref="S3.SS0.SSS0.Px1.p1.12.m3.1.1">𝑉</ci></apply></annotation-xml><annotation encoding="application/x-tex" id="S3.SS0.SSS0.Px1.p1.12.m3.1c">|V|</annotation><annotation encoding="application/x-llamapun" id="S3.SS0.SSS0.Px1.p1.12.m3.1d">| italic_V |</annotation></semantics></math> is the number of statements that were supported according to the LLM and <math alttext="|S|" class="ltx_Math" display="inline" id="S3.SS0.SSS0.Px1.p1.13.m4.1"><semantics id="S3.SS0.SSS0.Px1.p1.13.m4.1a"><mrow id="S3.SS0.SSS0.Px1.p1.13.m4.1.2.2" xref="S3.SS0.SSS0.Px1.p1.13.m4.1.2.1.cmml"><mo id="S3.SS0.SSS0.Px1.p1.13.m4.1.2.2.1" stretchy="false" xref="S3.SS0.SSS0.Px1.p1.13.m4.1.2.1.1.cmml">|</mo><mi id="S3.SS0.SSS0.Px1.p1.13.m4.1.1" xref="S3.SS0.SSS0.Px1.p1.13.m4.1.1.cmml">S</mi><mo id="S3.SS0.SSS0.Px1.p1.13.m4.1.2.2.2" stretchy="false" xref="S3.SS0.SSS0.Px1.p1.13.m4.1.2.1.1.cmml">|</mo></mrow><annotation-xml encoding="MathML-Content" id="S3.SS0.SSS0.Px1.p1.13.m4.1b"><apply id="S3.SS0.SSS0.Px1.p1.13.m4.1.2.1.cmml" xref="S3.SS0.SSS0.Px1.p1.13.m4.1.2.2"><abs id="S3.SS0.SSS0.Px1.p1.13.m4.1.2.1.1.cmml" xref="S3.SS0.SSS0.Px1.p1.13.m4.1.2.2.1"></abs><ci id="S3.SS0.SSS0.Px1.p1.13.m4.1.1.cmml" xref="S3.SS0.SSS0.Px1.p1.13.m4.1.1">𝑆</ci></apply></annotation-xml><annotation encoding="application/x-tex" id="S3.SS0.SSS0.Px1.p1.13.m4.1c">|S|</annotation><annotation encoding="application/x-llamapun" id="S3.SS0.SSS0.Px1.p1.13.m4.1d">| italic_S |</annotation></semantics></math> is the total number of statements.</p>
+</div>
+</section>
+<section class="ltx_paragraph" id="S3.SS0.SSS0.Px2">
+<h3 class="ltx_title ltx_title_paragraph">Answer relevance</h3>
+<div class="ltx_para" id="S3.SS0.SSS0.Px2.p1">
+<p class="ltx_p" id="S3.SS0.SSS0.Px2.p1.5">We say that the answer <math alttext="a_{s}(q)" class="ltx_Math" display="inline" id="S3.SS0.SSS0.Px2.p1.1.m1.1"><semantics id="S3.SS0.SSS0.Px2.p1.1.m1.1a"><mrow id="S3.SS0.SSS0.Px2.p1.1.m1.1.2" xref="S3.SS0.SSS0.Px2.p1.1.m1.1.2.cmml"><msub id="S3.SS0.SSS0.Px2.p1.1.m1.1.2.2" xref="S3.SS0.SSS0.Px2.p1.1.m1.1.2.2.cmml"><mi id="S3.SS0.SSS0.Px2.p1.1.m1.1.2.2.2" xref="S3.SS0.SSS0.Px2.p1.1.m1.1.2.2.2.cmml">a</mi><mi id="S3.SS0.SSS0.Px2.p1.1.m1.1.2.2.3" xref="S3.SS0.SSS0.Px2.p1.1.m1.1.2.2.3.cmml">s</mi></msub><mo id="S3.SS0.SSS0.Px2.p1.1.m1.1.2.1" xref="S3.SS0.SSS0.Px2.p1.1.m1.1.2.1.cmml">⁢</mo><mrow id="S3.SS0.SSS0.Px2.p1.1.m1.1.2.3.2" xref="S3.SS0.SSS0.Px2.p1.1.m1.1.2.cmml"><mo id="S3.SS0.SSS0.Px2.p1.1.m1.1.2.3.2.1" stretchy="false" xref="S3.SS0.SSS0.Px2.p1.1.m1.1.2.cmml">(</mo><mi id="S3.SS0.SSS0.Px2.p1.1.m1.1.1" xref="S3.SS0.SSS0.Px2.p1.1.m1.1.1.cmml">q</mi><mo id="S3.SS0.SSS0.Px2.p1.1.m1.1.2.3.2.2" stretchy="false" xref="S3.SS0.SSS0.Px2.p1.1.m1.1.2.cmml">)</mo></mrow></mrow><annotation-xml encoding="MathML-Content" id="S3.SS0.SSS0.Px2.p1.1.m1.1b"><apply id="S3.SS0.SSS0.Px2.p1.1.m1.1.2.cmml" xref="S3.SS0.SSS0.Px2.p1.1.m1.1.2"><times id="S3.SS0.SSS0.Px2.p1.1.m1.1.2.1.cmml" xref="S3.SS0.SSS0.Px2.p1.1.m1.1.2.1"></times><apply id="S3.SS0.SSS0.Px2.p1.1.m1.1.2.2.cmml" xref="S3.SS0.SSS0.Px2.p1.1.m1.1.2.2"><csymbol cd="ambiguous" id="S3.SS0.SSS0.Px2.p1.1.m1.1.2.2.1.cmml" xref="S3.SS0.SSS0.Px2.p1.1.m1.1.2.2">subscript</csymbol><ci id="S3.SS0.SSS0.Px2.p1.1.m1.1.2.2.2.cmml" xref="S3.SS0.SSS0.Px2.p1.1.m1.1.2.2.2">𝑎</ci><ci id="S3.SS0.SSS0.Px2.p1.1.m1.1.2.2.3.cmml" xref="S3.SS0.SSS0.Px2.p1.1.m1.1.2.2.3">𝑠</ci></apply><ci id="S3.SS0.SSS0.Px2.p1.1.m1.1.1.cmml" xref="S3.SS0.SSS0.Px2.p1.1.m1.1.1">𝑞</ci></apply></annotation-xml><annotation encoding="application/x-tex" id="S3.SS0.SSS0.Px2.p1.1.m1.1c">a_{s}(q)</annotation><annotation encoding="application/x-llamapun" id="S3.SS0.SSS0.Px2.p1.1.m1.1d">italic_a start_POSTSUBSCRIPT italic_s end_POSTSUBSCRIPT ( italic_q )</annotation></semantics></math> is relevant if it directly addresses the question in an appropriate way. In particular, our assessment of answer relevance does not take into account factuality, but penalises cases where the answer is incomplete or where it contains redundant information. To estimate answer relevance,
+for the given answer <math alttext="a_{s}(q)" class="ltx_Math" display="inline" id="S3.SS0.SSS0.Px2.p1.2.m2.1"><semantics id="S3.SS0.SSS0.Px2.p1.2.m2.1a"><mrow id="S3.SS0.SSS0.Px2.p1.2.m2.1.2" xref="S3.SS0.SSS0.Px2.p1.2.m2.1.2.cmml"><msub id="S3.SS0.SSS0.Px2.p1.2.m2.1.2.2" xref="S3.SS0.SSS0.Px2.p1.2.m2.1.2.2.cmml"><mi id="S3.SS0.SSS0.Px2.p1.2.m2.1.2.2.2" xref="S3.SS0.SSS0.Px2.p1.2.m2.1.2.2.2.cmml">a</mi><mi id="S3.SS0.SSS0.Px2.p1.2.m2.1.2.2.3" xref="S3.SS0.SSS0.Px2.p1.2.m2.1.2.2.3.cmml">s</mi></msub><mo id="S3.SS0.SSS0.Px2.p1.2.m2.1.2.1" xref="S3.SS0.SSS0.Px2.p1.2.m2.1.2.1.cmml">⁢</mo><mrow id="S3.SS0.SSS0.Px2.p1.2.m2.1.2.3.2" xref="S3.SS0.SSS0.Px2.p1.2.m2.1.2.cmml"><mo id="S3.SS0.SSS0.Px2.p1.2.m2.1.2.3.2.1" stretchy="false" xref="S3.SS0.SSS0.Px2.p1.2.m2.1.2.cmml">(</mo><mi id="S3.SS0.SSS0.Px2.p1.2.m2.1.1" xref="S3.SS0.SSS0.Px2.p1.2.m2.1.1.cmml">q</mi><mo id="S3.SS0.SSS0.Px2.p1.2.m2.1.2.3.2.2" stretchy="false" xref="S3.SS0.SSS0.Px2.p1.2.m2.1.2.cmml">)</mo></mrow></mrow><annotation-xml encoding="MathML-Content" id="S3.SS0.SSS0.Px2.p1.2.m2.1b"><apply id="S3.SS0.SSS0.Px2.p1.2.m2.1.2.cmml" xref="S3.SS0.SSS0.Px2.p1.2.m2.1.2"><times id="S3.SS0.SSS0.Px2.p1.2.m2.1.2.1.cmml" xref="S3.SS0.SSS0.Px2.p1.2.m2.1.2.1"></times><apply id="S3.SS0.SSS0.Px2.p1.2.m2.1.2.2.cmml" xref="S3.SS0.SSS0.Px2.p1.2.m2.1.2.2"><csymbol cd="ambiguous" id="S3.SS0.SSS0.Px2.p1.2.m2.1.2.2.1.cmml" xref="S3.SS0.SSS0.Px2.p1.2.m2.1.2.2">subscript</csymbol><ci id="S3.SS0.SSS0.Px2.p1.2.m2.1.2.2.2.cmml" xref="S3.SS0.SSS0.Px2.p1.2.m2.1.2.2.2">𝑎</ci><ci id="S3.SS0.SSS0.Px2.p1.2.m2.1.2.2.3.cmml" xref="S3.SS0.SSS0.Px2.p1.2.m2.1.2.2.3">𝑠</ci></apply><ci id="S3.SS0.SSS0.Px2.p1.2.m2.1.1.cmml" xref="S3.SS0.SSS0.Px2.p1.2.m2.1.1">𝑞</ci></apply></annotation-xml><annotation encoding="application/x-tex" id="S3.SS0.SSS0.Px2.p1.2.m2.1c">a_{s}(q)</annotation><annotation encoding="application/x-llamapun" id="S3.SS0.SSS0.Px2.p1.2.m2.1d">italic_a start_POSTSUBSCRIPT italic_s end_POSTSUBSCRIPT ( italic_q )</annotation></semantics></math>, we prompt the LLM to generate <math alttext="n" class="ltx_Math" display="inline" id="S3.SS0.SSS0.Px2.p1.3.m3.1"><semantics id="S3.SS0.SSS0.Px2.p1.3.m3.1a"><mi id="S3.SS0.SSS0.Px2.p1.3.m3.1.1" xref="S3.SS0.SSS0.Px2.p1.3.m3.1.1.cmml">n</mi><annotation-xml encoding="MathML-Content" id="S3.SS0.SSS0.Px2.p1.3.m3.1b"><ci id="S3.SS0.SSS0.Px2.p1.3.m3.1.1.cmml" xref="S3.SS0.SSS0.Px2.p1.3.m3.1.1">𝑛</ci></annotation-xml><annotation encoding="application/x-tex" id="S3.SS0.SSS0.Px2.p1.3.m3.1c">n</annotation><annotation encoding="application/x-llamapun" id="S3.SS0.SSS0.Px2.p1.3.m3.1d">italic_n</annotation></semantics></math> potential questions <math alttext="q_{i}" class="ltx_Math" display="inline" id="S3.SS0.SSS0.Px2.p1.4.m4.1"><semantics id="S3.SS0.SSS0.Px2.p1.4.m4.1a"><msub id="S3.SS0.SSS0.Px2.p1.4.m4.1.1" xref="S3.SS0.SSS0.Px2.p1.4.m4.1.1.cmml"><mi id="S3.SS0.SSS0.Px2.p1.4.m4.1.1.2" xref="S3.SS0.SSS0.Px2.p1.4.m4.1.1.2.cmml">q</mi><mi id="S3.SS0.SSS0.Px2.p1.4.m4.1.1.3" xref="S3.SS0.SSS0.Px2.p1.4.m4.1.1.3.cmml">i</mi></msub><annotation-xml encoding="MathML-Content" id="S3.SS0.SSS0.Px2.p1.4.m4.1b"><apply id="S3.SS0.SSS0.Px2.p1.4.m4.1.1.cmml" xref="S3.SS0.SSS0.Px2.p1.4.m4.1.1"><csymbol cd="ambiguous" id="S3.SS0.SSS0.Px2.p1.4.m4.1.1.1.cmml" xref="S3.SS0.SSS0.Px2.p1.4.m4.1.1">subscript</csymbol><ci id="S3.SS0.SSS0.Px2.p1.4.m4.1.1.2.cmml" xref="S3.SS0.SSS0.Px2.p1.4.m4.1.1.2">𝑞</ci><ci id="S3.SS0.SSS0.Px2.p1.4.m4.1.1.3.cmml" xref="S3.SS0.SSS0.Px2.p1.4.m4.1.1.3">𝑖</ci></apply></annotation-xml><annotation encoding="application/x-tex" id="S3.SS0.SSS0.Px2.p1.4.m4.1c">q_{i}</annotation><annotation encoding="application/x-llamapun" id="S3.SS0.SSS0.Px2.p1.4.m4.1d">italic_q start_POSTSUBSCRIPT italic_i end_POSTSUBSCRIPT</annotation></semantics></math> based on <math alttext="a_{s}(q)" class="ltx_Math" display="inline" id="S3.SS0.SSS0.Px2.p1.5.m5.1"><semantics id="S3.SS0.SSS0.Px2.p1.5.m5.1a"><mrow id="S3.SS0.SSS0.Px2.p1.5.m5.1.2" xref="S3.SS0.SSS0.Px2.p1.5.m5.1.2.cmml"><msub id="S3.SS0.SSS0.Px2.p1.5.m5.1.2.2" xref="S3.SS0.SSS0.Px2.p1.5.m5.1.2.2.cmml"><mi id="S3.SS0.SSS0.Px2.p1.5.m5.1.2.2.2" xref="S3.SS0.SSS0.Px2.p1.5.m5.1.2.2.2.cmml">a</mi><mi id="S3.SS0.SSS0.Px2.p1.5.m5.1.2.2.3" xref="S3.SS0.SSS0.Px2.p1.5.m5.1.2.2.3.cmml">s</mi></msub><mo id="S3.SS0.SSS0.Px2.p1.5.m5.1.2.1" xref="S3.SS0.SSS0.Px2.p1.5.m5.1.2.1.cmml">⁢</mo><mrow id="S3.SS0.SSS0.Px2.p1.5.m5.1.2.3.2" xref="S3.SS0.SSS0.Px2.p1.5.m5.1.2.cmml"><mo id="S3.SS0.SSS0.Px2.p1.5.m5.1.2.3.2.1" stretchy="false" xref="S3.SS0.SSS0.Px2.p1.5.m5.1.2.cmml">(</mo><mi id="S3.SS0.SSS0.Px2.p1.5.m5.1.1" xref="S3.SS0.SSS0.Px2.p1.5.m5.1.1.cmml">q</mi><mo id="S3.SS0.SSS0.Px2.p1.5.m5.1.2.3.2.2" stretchy="false" xref="S3.SS0.SSS0.Px2.p1.5.m5.1.2.cmml">)</mo></mrow></mrow><annotation-xml encoding="MathML-Content" id="S3.SS0.SSS0.Px2.p1.5.m5.1b"><apply id="S3.SS0.SSS0.Px2.p1.5.m5.1.2.cmml" xref="S3.SS0.SSS0.Px2.p1.5.m5.1.2"><times id="S3.SS0.SSS0.Px2.p1.5.m5.1.2.1.cmml" xref="S3.SS0.SSS0.Px2.p1.5.m5.1.2.1"></times><apply id="S3.SS0.SSS0.Px2.p1.5.m5.1.2.2.cmml" xref="S3.SS0.SSS0.Px2.p1.5.m5.1.2.2"><csymbol cd="ambiguous" id="S3.SS0.SSS0.Px2.p1.5.m5.1.2.2.1.cmml" xref="S3.SS0.SSS0.Px2.p1.5.m5.1.2.2">subscript</csymbol><ci id="S3.SS0.SSS0.Px2.p1.5.m5.1.2.2.2.cmml" xref="S3.SS0.SSS0.Px2.p1.5.m5.1.2.2.2">𝑎</ci><ci id="S3.SS0.SSS0.Px2.p1.5.m5.1.2.2.3.cmml" xref="S3.SS0.SSS0.Px2.p1.5.m5.1.2.2.3">𝑠</ci></apply><ci id="S3.SS0.SSS0.Px2.p1.5.m5.1.1.cmml" xref="S3.SS0.SSS0.Px2.p1.5.m5.1.1">𝑞</ci></apply></annotation-xml><annotation encoding="application/x-tex" id="S3.SS0.SSS0.Px2.p1.5.m5.1c">a_{s}(q)</annotation><annotation encoding="application/x-llamapun" id="S3.SS0.SSS0.Px2.p1.5.m5.1d">italic_a start_POSTSUBSCRIPT italic_s end_POSTSUBSCRIPT ( italic_q )</annotation></semantics></math>, as follows:</p>
+<blockquote class="ltx_quote" id="S3.SS0.SSS0.Px2.p1.11">
+<p class="ltx_p" id="S3.SS0.SSS0.Px2.p1.11.1"><span class="ltx_text ltx_font_italic" id="S3.SS0.SSS0.Px2.p1.11.1.1">Generate a question for the given answer.
+<br class="ltx_break"/>
+answer</span>: <span class="ltx_text ltx_font_typewriter" id="S3.SS0.SSS0.Px2.p1.11.1.2">[answer]</span></p>
+</blockquote>
+<p class="ltx_p" id="S3.SS0.SSS0.Px2.p1.10">We then obtain embeddings for all questions using the <span class="ltx_text ltx_font_typewriter" id="S3.SS0.SSS0.Px2.p1.10.1">text-embedding-ada-002</span> model, available from the OpenAI API. For each <math alttext="q_{i}" class="ltx_Math" display="inline" id="S3.SS0.SSS0.Px2.p1.6.m1.1"><semantics id="S3.SS0.SSS0.Px2.p1.6.m1.1a"><msub id="S3.SS0.SSS0.Px2.p1.6.m1.1.1" xref="S3.SS0.SSS0.Px2.p1.6.m1.1.1.cmml"><mi id="S3.SS0.SSS0.Px2.p1.6.m1.1.1.2" xref="S3.SS0.SSS0.Px2.p1.6.m1.1.1.2.cmml">q</mi><mi id="S3.SS0.SSS0.Px2.p1.6.m1.1.1.3" xref="S3.SS0.SSS0.Px2.p1.6.m1.1.1.3.cmml">i</mi></msub><annotation-xml encoding="MathML-Content" id="S3.SS0.SSS0.Px2.p1.6.m1.1b"><apply id="S3.SS0.SSS0.Px2.p1.6.m1.1.1.cmml" xref="S3.SS0.SSS0.Px2.p1.6.m1.1.1"><csymbol cd="ambiguous" id="S3.SS0.SSS0.Px2.p1.6.m1.1.1.1.cmml" xref="S3.SS0.SSS0.Px2.p1.6.m1.1.1">subscript</csymbol><ci id="S3.SS0.SSS0.Px2.p1.6.m1.1.1.2.cmml" xref="S3.SS0.SSS0.Px2.p1.6.m1.1.1.2">𝑞</ci><ci id="S3.SS0.SSS0.Px2.p1.6.m1.1.1.3.cmml" xref="S3.SS0.SSS0.Px2.p1.6.m1.1.1.3">𝑖</ci></apply></annotation-xml><annotation encoding="application/x-tex" id="S3.SS0.SSS0.Px2.p1.6.m1.1c">q_{i}</annotation><annotation encoding="application/x-llamapun" id="S3.SS0.SSS0.Px2.p1.6.m1.1d">italic_q start_POSTSUBSCRIPT italic_i end_POSTSUBSCRIPT</annotation></semantics></math>, we calculate the similarity <math alttext="\text{sim}(q,q_{i})" class="ltx_Math" display="inline" id="S3.SS0.SSS0.Px2.p1.7.m2.2"><semantics id="S3.SS0.SSS0.Px2.p1.7.m2.2a"><mrow id="S3.SS0.SSS0.Px2.p1.7.m2.2.2" xref="S3.SS0.SSS0.Px2.p1.7.m2.2.2.cmml"><mtext id="S3.SS0.SSS0.Px2.p1.7.m2.2.2.3" xref="S3.SS0.SSS0.Px2.p1.7.m2.2.2.3a.cmml">sim</mtext><mo id="S3.SS0.SSS0.Px2.p1.7.m2.2.2.2" xref="S3.SS0.SSS0.Px2.p1.7.m2.2.2.2.cmml">⁢</mo><mrow id="S3.SS0.SSS0.Px2.p1.7.m2.2.2.1.1" xref="S3.SS0.SSS0.Px2.p1.7.m2.2.2.1.2.cmml"><mo id="S3.SS0.SSS0.Px2.p1.7.m2.2.2.1.1.2" stretchy="false" xref="S3.SS0.SSS0.Px2.p1.7.m2.2.2.1.2.cmml">(</mo><mi id="S3.SS0.SSS0.Px2.p1.7.m2.1.1" xref="S3.SS0.SSS0.Px2.p1.7.m2.1.1.cmml">q</mi><mo id="S3.SS0.SSS0.Px2.p1.7.m2.2.2.1.1.3" xref="S3.SS0.SSS0.Px2.p1.7.m2.2.2.1.2.cmml">,</mo><msub id="S3.SS0.SSS0.Px2.p1.7.m2.2.2.1.1.1" xref="S3.SS0.SSS0.Px2.p1.7.m2.2.2.1.1.1.cmml"><mi id="S3.SS0.SSS0.Px2.p1.7.m2.2.2.1.1.1.2" xref="S3.SS0.SSS0.Px2.p1.7.m2.2.2.1.1.1.2.cmml">q</mi><mi id="S3.SS0.SSS0.Px2.p1.7.m2.2.2.1.1.1.3" xref="S3.SS0.SSS0.Px2.p1.7.m2.2.2.1.1.1.3.cmml">i</mi></msub><mo id="S3.SS0.SSS0.Px2.p1.7.m2.2.2.1.1.4" stretchy="false" xref="S3.SS0.SSS0.Px2.p1.7.m2.2.2.1.2.cmml">)</mo></mrow></mrow><annotation-xml encoding="MathML-Content" id="S3.SS0.SSS0.Px2.p1.7.m2.2b"><apply id="S3.SS0.SSS0.Px2.p1.7.m2.2.2.cmml" xref="S3.SS0.SSS0.Px2.p1.7.m2.2.2"><times id="S3.SS0.SSS0.Px2.p1.7.m2.2.2.2.cmml" xref="S3.SS0.SSS0.Px2.p1.7.m2.2.2.2"></times><ci id="S3.SS0.SSS0.Px2.p1.7.m2.2.2.3a.cmml" xref="S3.SS0.SSS0.Px2.p1.7.m2.2.2.3"><mtext id="S3.SS0.SSS0.Px2.p1.7.m2.2.2.3.cmml" xref="S3.SS0.SSS0.Px2.p1.7.m2.2.2.3">sim</mtext></ci><interval closure="open" id="S3.SS0.SSS0.Px2.p1.7.m2.2.2.1.2.cmml" xref="S3.SS0.SSS0.Px2.p1.7.m2.2.2.1.1"><ci id="S3.SS0.SSS0.Px2.p1.7.m2.1.1.cmml" xref="S3.SS0.SSS0.Px2.p1.7.m2.1.1">𝑞</ci><apply id="S3.SS0.SSS0.Px2.p1.7.m2.2.2.1.1.1.cmml" xref="S3.SS0.SSS0.Px2.p1.7.m2.2.2.1.1.1"><csymbol cd="ambiguous" id="S3.SS0.SSS0.Px2.p1.7.m2.2.2.1.1.1.1.cmml" xref="S3.SS0.SSS0.Px2.p1.7.m2.2.2.1.1.1">subscript</csymbol><ci id="S3.SS0.SSS0.Px2.p1.7.m2.2.2.1.1.1.2.cmml" xref="S3.SS0.SSS0.Px2.p1.7.m2.2.2.1.1.1.2">𝑞</ci><ci id="S3.SS0.SSS0.Px2.p1.7.m2.2.2.1.1.1.3.cmml" xref="S3.SS0.SSS0.Px2.p1.7.m2.2.2.1.1.1.3">𝑖</ci></apply></interval></apply></annotation-xml><annotation encoding="application/x-tex" id="S3.SS0.SSS0.Px2.p1.7.m2.2c">\text{sim}(q,q_{i})</annotation><annotation encoding="application/x-llamapun" id="S3.SS0.SSS0.Px2.p1.7.m2.2d">sim ( italic_q , italic_q start_POSTSUBSCRIPT italic_i end_POSTSUBSCRIPT )</annotation></semantics></math> with the original question <math alttext="q" class="ltx_Math" display="inline" id="S3.SS0.SSS0.Px2.p1.8.m3.1"><semantics id="S3.SS0.SSS0.Px2.p1.8.m3.1a"><mi id="S3.SS0.SSS0.Px2.p1.8.m3.1.1" xref="S3.SS0.SSS0.Px2.p1.8.m3.1.1.cmml">q</mi><annotation-xml encoding="MathML-Content" id="S3.SS0.SSS0.Px2.p1.8.m3.1b"><ci id="S3.SS0.SSS0.Px2.p1.8.m3.1.1.cmml" xref="S3.SS0.SSS0.Px2.p1.8.m3.1.1">𝑞</ci></annotation-xml><annotation encoding="application/x-tex" id="S3.SS0.SSS0.Px2.p1.8.m3.1c">q</annotation><annotation encoding="application/x-llamapun" id="S3.SS0.SSS0.Px2.p1.8.m3.1d">italic_q</annotation></semantics></math>, as the cosine between the corresponding embeddings.
+The answer relevance score, <span class="ltx_text ltx_markedasmath" id="S3.SS0.SSS0.Px2.p1.10.2">AR</span>, for question <math alttext="q" class="ltx_Math" display="inline" id="S3.SS0.SSS0.Px2.p1.10.m5.1"><semantics id="S3.SS0.SSS0.Px2.p1.10.m5.1a"><mi id="S3.SS0.SSS0.Px2.p1.10.m5.1.1" xref="S3.SS0.SSS0.Px2.p1.10.m5.1.1.cmml">q</mi><annotation-xml encoding="MathML-Content" id="S3.SS0.SSS0.Px2.p1.10.m5.1b"><ci id="S3.SS0.SSS0.Px2.p1.10.m5.1.1.cmml" xref="S3.SS0.SSS0.Px2.p1.10.m5.1.1">𝑞</ci></annotation-xml><annotation encoding="application/x-tex" id="S3.SS0.SSS0.Px2.p1.10.m5.1c">q</annotation><annotation encoding="application/x-llamapun" id="S3.SS0.SSS0.Px2.p1.10.m5.1d">italic_q</annotation></semantics></math> is then computed as:</p>
+</div>
+<div class="ltx_para" id="S3.SS0.SSS0.Px2.p2">
+<table class="ltx_equation ltx_eqn_table" id="S3.E1">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="\text{AR}=\frac{1}{n}\sum_{i=1}^{n}\text{sim}(q,q_{i})" class="ltx_Math" display="block" id="S3.E1.m1.2"><semantics id="S3.E1.m1.2a"><mrow id="S3.E1.m1.2.2" xref="S3.E1.m1.2.2.cmml"><mtext id="S3.E1.m1.2.2.3" xref="S3.E1.m1.2.2.3a.cmml">AR</mtext><mo id="S3.E1.m1.2.2.2" xref="S3.E1.m1.2.2.2.cmml">=</mo><mrow id="S3.E1.m1.2.2.1" xref="S3.E1.m1.2.2.1.cmml"><mfrac id="S3.E1.m1.2.2.1.3" xref="S3.E1.m1.2.2.1.3.cmml"><mn id="S3.E1.m1.2.2.1.3.2" xref="S3.E1.m1.2.2.1.3.2.cmml">1</mn><mi id="S3.E1.m1.2.2.1.3.3" xref="S3.E1.m1.2.2.1.3.3.cmml">n</mi></mfrac><mo id="S3.E1.m1.2.2.1.2" xref="S3.E1.m1.2.2.1.2.cmml">⁢</mo><mrow id="S3.E1.m1.2.2.1.1" xref="S3.E1.m1.2.2.1.1.cmml"><munderover id="S3.E1.m1.2.2.1.1.2" xref="S3.E1.m1.2.2.1.1.2.cmml"><mo id="S3.E1.m1.2.2.1.1.2.2.2" movablelimits="false" xref="S3.E1.m1.2.2.1.1.2.2.2.cmml">∑</mo><mrow id="S3.E1.m1.2.2.1.1.2.2.3" xref="S3.E1.m1.2.2.1.1.2.2.3.cmml"><mi id="S3.E1.m1.2.2.1.1.2.2.3.2" xref="S3.E1.m1.2.2.1.1.2.2.3.2.cmml">i</mi><mo id="S3.E1.m1.2.2.1.1.2.2.3.1" xref="S3.E1.m1.2.2.1.1.2.2.3.1.cmml">=</mo><mn id="S3.E1.m1.2.2.1.1.2.2.3.3" xref="S3.E1.m1.2.2.1.1.2.2.3.3.cmml">1</mn></mrow><mi id="S3.E1.m1.2.2.1.1.2.3" xref="S3.E1.m1.2.2.1.1.2.3.cmml">n</mi></munderover><mrow id="S3.E1.m1.2.2.1.1.1" xref="S3.E1.m1.2.2.1.1.1.cmml"><mtext id="S3.E1.m1.2.2.1.1.1.3" xref="S3.E1.m1.2.2.1.1.1.3a.cmml">sim</mtext><mo id="S3.E1.m1.2.2.1.1.1.2" xref="S3.E1.m1.2.2.1.1.1.2.cmml">⁢</mo><mrow id="S3.E1.m1.2.2.1.1.1.1.1" xref="S3.E1.m1.2.2.1.1.1.1.2.cmml"><mo id="S3.E1.m1.2.2.1.1.1.1.1.2" stretchy="false" xref="S3.E1.m1.2.2.1.1.1.1.2.cmml">(</mo><mi id="S3.E1.m1.1.1" xref="S3.E1.m1.1.1.cmml">q</mi><mo id="S3.E1.m1.2.2.1.1.1.1.1.3" xref="S3.E1.m1.2.2.1.1.1.1.2.cmml">,</mo><msub id="S3.E1.m1.2.2.1.1.1.1.1.1" xref="S3.E1.m1.2.2.1.1.1.1.1.1.cmml"><mi id="S3.E1.m1.2.2.1.1.1.1.1.1.2" xref="S3.E1.m1.2.2.1.1.1.1.1.1.2.cmml">q</mi><mi id="S3.E1.m1.2.2.1.1.1.1.1.1.3" xref="S3.E1.m1.2.2.1.1.1.1.1.1.3.cmml">i</mi></msub><mo id="S3.E1.m1.2.2.1.1.1.1.1.4" stretchy="false" xref="S3.E1.m1.2.2.1.1.1.1.2.cmml">)</mo></mrow></mrow></mrow></mrow></mrow><annotation-xml encoding="MathML-Content" id="S3.E1.m1.2b"><apply id="S3.E1.m1.2.2.cmml" xref="S3.E1.m1.2.2"><eq id="S3.E1.m1.2.2.2.cmml" xref="S3.E1.m1.2.2.2"></eq><ci id="S3.E1.m1.2.2.3a.cmml" xref="S3.E1.m1.2.2.3"><mtext id="S3.E1.m1.2.2.3.cmml" xref="S3.E1.m1.2.2.3">AR</mtext></ci><apply id="S3.E1.m1.2.2.1.cmml" xref="S3.E1.m1.2.2.1"><times id="S3.E1.m1.2.2.1.2.cmml" xref="S3.E1.m1.2.2.1.2"></times><apply id="S3.E1.m1.2.2.1.3.cmml" xref="S3.E1.m1.2.2.1.3"><divide id="S3.E1.m1.2.2.1.3.1.cmml" xref="S3.E1.m1.2.2.1.3"></divide><cn id="S3.E1.m1.2.2.1.3.2.cmml" type="integer" xref="S3.E1.m1.2.2.1.3.2">1</cn><ci id="S3.E1.m1.2.2.1.3.3.cmml" xref="S3.E1.m1.2.2.1.3.3">𝑛</ci></apply><apply id="S3.E1.m1.2.2.1.1.cmml" xref="S3.E1.m1.2.2.1.1"><apply id="S3.E1.m1.2.2.1.1.2.cmml" xref="S3.E1.m1.2.2.1.1.2"><csymbol cd="ambiguous" id="S3.E1.m1.2.2.1.1.2.1.cmml" xref="S3.E1.m1.2.2.1.1.2">superscript</csymbol><apply id="S3.E1.m1.2.2.1.1.2.2.cmml" xref="S3.E1.m1.2.2.1.1.2"><csymbol cd="ambiguous" id="S3.E1.m1.2.2.1.1.2.2.1.cmml" xref="S3.E1.m1.2.2.1.1.2">subscript</csymbol><sum id="S3.E1.m1.2.2.1.1.2.2.2.cmml" xref="S3.E1.m1.2.2.1.1.2.2.2"></sum><apply id="S3.E1.m1.2.2.1.1.2.2.3.cmml" xref="S3.E1.m1.2.2.1.1.2.2.3"><eq id="S3.E1.m1.2.2.1.1.2.2.3.1.cmml" xref="S3.E1.m1.2.2.1.1.2.2.3.1"></eq><ci id="S3.E1.m1.2.2.1.1.2.2.3.2.cmml" xref="S3.E1.m1.2.2.1.1.2.2.3.2">𝑖</ci><cn id="S3.E1.m1.2.2.1.1.2.2.3.3.cmml" type="integer" xref="S3.E1.m1.2.2.1.1.2.2.3.3">1</cn></apply></apply><ci id="S3.E1.m1.2.2.1.1.2.3.cmml" xref="S3.E1.m1.2.2.1.1.2.3">𝑛</ci></apply><apply id="S3.E1.m1.2.2.1.1.1.cmml" xref="S3.E1.m1.2.2.1.1.1"><times id="S3.E1.m1.2.2.1.1.1.2.cmml" xref="S3.E1.m1.2.2.1.1.1.2"></times><ci id="S3.E1.m1.2.2.1.1.1.3a.cmml" xref="S3.E1.m1.2.2.1.1.1.3"><mtext id="S3.E1.m1.2.2.1.1.1.3.cmml" xref="S3.E1.m1.2.2.1.1.1.3">sim</mtext></ci><interval closure="open" id="S3.E1.m1.2.2.1.1.1.1.2.cmml" xref="S3.E1.m1.2.2.1.1.1.1.1"><ci id="S3.E1.m1.1.1.cmml" xref="S3.E1.m1.1.1">𝑞</ci><apply id="S3.E1.m1.2.2.1.1.1.1.1.1.cmml" xref="S3.E1.m1.2.2.1.1.1.1.1.1"><csymbol cd="ambiguous" id="S3.E1.m1.2.2.1.1.1.1.1.1.1.cmml" xref="S3.E1.m1.2.2.1.1.1.1.1.1">subscript</csymbol><ci id="S3.E1.m1.2.2.1.1.1.1.1.1.2.cmml" xref="S3.E1.m1.2.2.1.1.1.1.1.1.2">𝑞</ci><ci id="S3.E1.m1.2.2.1.1.1.1.1.1.3.cmml" xref="S3.E1.m1.2.2.1.1.1.1.1.1.3">𝑖</ci></apply></interval></apply></apply></apply></apply></annotation-xml><annotation encoding="application/x-tex" id="S3.E1.m1.2c">\text{AR}=\frac{1}{n}\sum_{i=1}^{n}\text{sim}(q,q_{i})</annotation><annotation encoding="application/x-llamapun" id="S3.E1.m1.2d">AR = divide start_ARG 1 end_ARG start_ARG italic_n end_ARG ∑ start_POSTSUBSCRIPT italic_i = 1 end_POSTSUBSCRIPT start_POSTSUPERSCRIPT italic_n end_POSTSUPERSCRIPT sim ( italic_q , italic_q start_POSTSUBSCRIPT italic_i end_POSTSUBSCRIPT )</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(1)</span></td>
+</tr></tbody>
+</table>
+</div>
+<div class="ltx_para" id="S3.SS0.SSS0.Px2.p3">
+<p class="ltx_p" id="S3.SS0.SSS0.Px2.p3.1">This metric evaluates how closely the generated answer aligns with the initial question or instruction.
+</p>
+</div>
+</section>
+<section class="ltx_paragraph" id="S3.SS0.SSS0.Px3">
+<h3 class="ltx_title ltx_title_paragraph">Context relevance</h3>
+<div class="ltx_para" id="S3.SS0.SSS0.Px3.p1">
+<p class="ltx_p" id="S3.SS0.SSS0.Px3.p1.6">The context <math alttext="c(q)" class="ltx_Math" display="inline" id="S3.SS0.SSS0.Px3.p1.1.m1.1"><semantics id="S3.SS0.SSS0.Px3.p1.1.m1.1a"><mrow id="S3.SS0.SSS0.Px3.p1.1.m1.1.2" xref="S3.SS0.SSS0.Px3.p1.1.m1.1.2.cmml"><mi id="S3.SS0.SSS0.Px3.p1.1.m1.1.2.2" xref="S3.SS0.SSS0.Px3.p1.1.m1.1.2.2.cmml">c</mi><mo id="S3.SS0.SSS0.Px3.p1.1.m1.1.2.1" xref="S3.SS0.SSS0.Px3.p1.1.m1.1.2.1.cmml">⁢</mo><mrow id="S3.SS0.SSS0.Px3.p1.1.m1.1.2.3.2" xref="S3.SS0.SSS0.Px3.p1.1.m1.1.2.cmml"><mo id="S3.SS0.SSS0.Px3.p1.1.m1.1.2.3.2.1" stretchy="false" xref="S3.SS0.SSS0.Px3.p1.1.m1.1.2.cmml">(</mo><mi id="S3.SS0.SSS0.Px3.p1.1.m1.1.1" xref="S3.SS0.SSS0.Px3.p1.1.m1.1.1.cmml">q</mi><mo id="S3.SS0.SSS0.Px3.p1.1.m1.1.2.3.2.2" stretchy="false" xref="S3.SS0.SSS0.Px3.p1.1.m1.1.2.cmml">)</mo></mrow></mrow><annotation-xml encoding="MathML-Content" id="S3.SS0.SSS0.Px3.p1.1.m1.1b"><apply id="S3.SS0.SSS0.Px3.p1.1.m1.1.2.cmml" xref="S3.SS0.SSS0.Px3.p1.1.m1.1.2"><times id="S3.SS0.SSS0.Px3.p1.1.m1.1.2.1.cmml" xref="S3.SS0.SSS0.Px3.p1.1.m1.1.2.1"></times><ci id="S3.SS0.SSS0.Px3.p1.1.m1.1.2.2.cmml" xref="S3.SS0.SSS0.Px3.p1.1.m1.1.2.2">𝑐</ci><ci id="S3.SS0.SSS0.Px3.p1.1.m1.1.1.cmml" xref="S3.SS0.SSS0.Px3.p1.1.m1.1.1">𝑞</ci></apply></annotation-xml><annotation encoding="application/x-tex" id="S3.SS0.SSS0.Px3.p1.1.m1.1c">c(q)</annotation><annotation encoding="application/x-llamapun" id="S3.SS0.SSS0.Px3.p1.1.m1.1d">italic_c ( italic_q )</annotation></semantics></math> is considered relevant to the extent that it exclusively contains information that is needed to answer the question. In particular, this metric aims to penalise the inclusion of redundant information. To estimate context relevance,
+given a question <math alttext="q" class="ltx_Math" display="inline" id="S3.SS0.SSS0.Px3.p1.2.m2.1"><semantics id="S3.SS0.SSS0.Px3.p1.2.m2.1a"><mi id="S3.SS0.SSS0.Px3.p1.2.m2.1.1" xref="S3.SS0.SSS0.Px3.p1.2.m2.1.1.cmml">q</mi><annotation-xml encoding="MathML-Content" id="S3.SS0.SSS0.Px3.p1.2.m2.1b"><ci id="S3.SS0.SSS0.Px3.p1.2.m2.1.1.cmml" xref="S3.SS0.SSS0.Px3.p1.2.m2.1.1">𝑞</ci></annotation-xml><annotation encoding="application/x-tex" id="S3.SS0.SSS0.Px3.p1.2.m2.1c">q</annotation><annotation encoding="application/x-llamapun" id="S3.SS0.SSS0.Px3.p1.2.m2.1d">italic_q</annotation></semantics></math> and its context <math alttext="c(q)" class="ltx_Math" display="inline" id="S3.SS0.SSS0.Px3.p1.3.m3.1"><semantics id="S3.SS0.SSS0.Px3.p1.3.m3.1a"><mrow id="S3.SS0.SSS0.Px3.p1.3.m3.1.2" xref="S3.SS0.SSS0.Px3.p1.3.m3.1.2.cmml"><mi id="S3.SS0.SSS0.Px3.p1.3.m3.1.2.2" xref="S3.SS0.SSS0.Px3.p1.3.m3.1.2.2.cmml">c</mi><mo id="S3.SS0.SSS0.Px3.p1.3.m3.1.2.1" xref="S3.SS0.SSS0.Px3.p1.3.m3.1.2.1.cmml">⁢</mo><mrow id="S3.SS0.SSS0.Px3.p1.3.m3.1.2.3.2" xref="S3.SS0.SSS0.Px3.p1.3.m3.1.2.cmml"><mo id="S3.SS0.SSS0.Px3.p1.3.m3.1.2.3.2.1" stretchy="false" xref="S3.SS0.SSS0.Px3.p1.3.m3.1.2.cmml">(</mo><mi id="S3.SS0.SSS0.Px3.p1.3.m3.1.1" xref="S3.SS0.SSS0.Px3.p1.3.m3.1.1.cmml">q</mi><mo id="S3.SS0.SSS0.Px3.p1.3.m3.1.2.3.2.2" stretchy="false" xref="S3.SS0.SSS0.Px3.p1.3.m3.1.2.cmml">)</mo></mrow></mrow><annotation-xml encoding="MathML-Content" id="S3.SS0.SSS0.Px3.p1.3.m3.1b"><apply id="S3.SS0.SSS0.Px3.p1.3.m3.1.2.cmml" xref="S3.SS0.SSS0.Px3.p1.3.m3.1.2"><times id="S3.SS0.SSS0.Px3.p1.3.m3.1.2.1.cmml" xref="S3.SS0.SSS0.Px3.p1.3.m3.1.2.1"></times><ci id="S3.SS0.SSS0.Px3.p1.3.m3.1.2.2.cmml" xref="S3.SS0.SSS0.Px3.p1.3.m3.1.2.2">𝑐</ci><ci id="S3.SS0.SSS0.Px3.p1.3.m3.1.1.cmml" xref="S3.SS0.SSS0.Px3.p1.3.m3.1.1">𝑞</ci></apply></annotation-xml><annotation encoding="application/x-tex" id="S3.SS0.SSS0.Px3.p1.3.m3.1c">c(q)</annotation><annotation encoding="application/x-llamapun" id="S3.SS0.SSS0.Px3.p1.3.m3.1d">italic_c ( italic_q )</annotation></semantics></math>, the LLM extracts a subset of sentences, <math alttext="S_{ext}" class="ltx_Math" display="inline" id="S3.SS0.SSS0.Px3.p1.4.m4.1"><semantics id="S3.SS0.SSS0.Px3.p1.4.m4.1a"><msub id="S3.SS0.SSS0.Px3.p1.4.m4.1.1" xref="S3.SS0.SSS0.Px3.p1.4.m4.1.1.cmml"><mi id="S3.SS0.SSS0.Px3.p1.4.m4.1.1.2" xref="S3.SS0.SSS0.Px3.p1.4.m4.1.1.2.cmml">S</mi><mrow id="S3.SS0.SSS0.Px3.p1.4.m4.1.1.3" xref="S3.SS0.SSS0.Px3.p1.4.m4.1.1.3.cmml"><mi id="S3.SS0.SSS0.Px3.p1.4.m4.1.1.3.2" xref="S3.SS0.SSS0.Px3.p1.4.m4.1.1.3.2.cmml">e</mi><mo id="S3.SS0.SSS0.Px3.p1.4.m4.1.1.3.1" xref="S3.SS0.SSS0.Px3.p1.4.m4.1.1.3.1.cmml">⁢</mo><mi id="S3.SS0.SSS0.Px3.p1.4.m4.1.1.3.3" xref="S3.SS0.SSS0.Px3.p1.4.m4.1.1.3.3.cmml">x</mi><mo id="S3.SS0.SSS0.Px3.p1.4.m4.1.1.3.1a" xref="S3.SS0.SSS0.Px3.p1.4.m4.1.1.3.1.cmml">⁢</mo><mi id="S3.SS0.SSS0.Px3.p1.4.m4.1.1.3.4" xref="S3.SS0.SSS0.Px3.p1.4.m4.1.1.3.4.cmml">t</mi></mrow></msub><annotation-xml encoding="MathML-Content" id="S3.SS0.SSS0.Px3.p1.4.m4.1b"><apply id="S3.SS0.SSS0.Px3.p1.4.m4.1.1.cmml" xref="S3.SS0.SSS0.Px3.p1.4.m4.1.1"><csymbol cd="ambiguous" id="S3.SS0.SSS0.Px3.p1.4.m4.1.1.1.cmml" xref="S3.SS0.SSS0.Px3.p1.4.m4.1.1">subscript</csymbol><ci id="S3.SS0.SSS0.Px3.p1.4.m4.1.1.2.cmml" xref="S3.SS0.SSS0.Px3.p1.4.m4.1.1.2">𝑆</ci><apply id="S3.SS0.SSS0.Px3.p1.4.m4.1.1.3.cmml" xref="S3.SS0.SSS0.Px3.p1.4.m4.1.1.3"><times id="S3.SS0.SSS0.Px3.p1.4.m4.1.1.3.1.cmml" xref="S3.SS0.SSS0.Px3.p1.4.m4.1.1.3.1"></times><ci id="S3.SS0.SSS0.Px3.p1.4.m4.1.1.3.2.cmml" xref="S3.SS0.SSS0.Px3.p1.4.m4.1.1.3.2">𝑒</ci><ci id="S3.SS0.SSS0.Px3.p1.4.m4.1.1.3.3.cmml" xref="S3.SS0.SSS0.Px3.p1.4.m4.1.1.3.3">𝑥</ci><ci id="S3.SS0.SSS0.Px3.p1.4.m4.1.1.3.4.cmml" xref="S3.SS0.SSS0.Px3.p1.4.m4.1.1.3.4">𝑡</ci></apply></apply></annotation-xml><annotation encoding="application/x-tex" id="S3.SS0.SSS0.Px3.p1.4.m4.1c">S_{ext}</annotation><annotation encoding="application/x-llamapun" id="S3.SS0.SSS0.Px3.p1.4.m4.1d">italic_S start_POSTSUBSCRIPT italic_e italic_x italic_t end_POSTSUBSCRIPT</annotation></semantics></math>, from <math alttext="c(q)" class="ltx_Math" display="inline" id="S3.SS0.SSS0.Px3.p1.5.m5.1"><semantics id="S3.SS0.SSS0.Px3.p1.5.m5.1a"><mrow id="S3.SS0.SSS0.Px3.p1.5.m5.1.2" xref="S3.SS0.SSS0.Px3.p1.5.m5.1.2.cmml"><mi id="S3.SS0.SSS0.Px3.p1.5.m5.1.2.2" xref="S3.SS0.SSS0.Px3.p1.5.m5.1.2.2.cmml">c</mi><mo id="S3.SS0.SSS0.Px3.p1.5.m5.1.2.1" xref="S3.SS0.SSS0.Px3.p1.5.m5.1.2.1.cmml">⁢</mo><mrow id="S3.SS0.SSS0.Px3.p1.5.m5.1.2.3.2" xref="S3.SS0.SSS0.Px3.p1.5.m5.1.2.cmml"><mo id="S3.SS0.SSS0.Px3.p1.5.m5.1.2.3.2.1" stretchy="false" xref="S3.SS0.SSS0.Px3.p1.5.m5.1.2.cmml">(</mo><mi id="S3.SS0.SSS0.Px3.p1.5.m5.1.1" xref="S3.SS0.SSS0.Px3.p1.5.m5.1.1.cmml">q</mi><mo id="S3.SS0.SSS0.Px3.p1.5.m5.1.2.3.2.2" stretchy="false" xref="S3.SS0.SSS0.Px3.p1.5.m5.1.2.cmml">)</mo></mrow></mrow><annotation-xml encoding="MathML-Content" id="S3.SS0.SSS0.Px3.p1.5.m5.1b"><apply id="S3.SS0.SSS0.Px3.p1.5.m5.1.2.cmml" xref="S3.SS0.SSS0.Px3.p1.5.m5.1.2"><times id="S3.SS0.SSS0.Px3.p1.5.m5.1.2.1.cmml" xref="S3.SS0.SSS0.Px3.p1.5.m5.1.2.1"></times><ci id="S3.SS0.SSS0.Px3.p1.5.m5.1.2.2.cmml" xref="S3.SS0.SSS0.Px3.p1.5.m5.1.2.2">𝑐</ci><ci id="S3.SS0.SSS0.Px3.p1.5.m5.1.1.cmml" xref="S3.SS0.SSS0.Px3.p1.5.m5.1.1">𝑞</ci></apply></annotation-xml><annotation encoding="application/x-tex" id="S3.SS0.SSS0.Px3.p1.5.m5.1c">c(q)</annotation><annotation encoding="application/x-llamapun" id="S3.SS0.SSS0.Px3.p1.5.m5.1d">italic_c ( italic_q )</annotation></semantics></math> that are crucial to answer <math alttext="q" class="ltx_Math" display="inline" id="S3.SS0.SSS0.Px3.p1.6.m6.1"><semantics id="S3.SS0.SSS0.Px3.p1.6.m6.1a"><mi id="S3.SS0.SSS0.Px3.p1.6.m6.1.1" xref="S3.SS0.SSS0.Px3.p1.6.m6.1.1.cmml">q</mi><annotation-xml encoding="MathML-Content" id="S3.SS0.SSS0.Px3.p1.6.m6.1b"><ci id="S3.SS0.SSS0.Px3.p1.6.m6.1.1.cmml" xref="S3.SS0.SSS0.Px3.p1.6.m6.1.1">𝑞</ci></annotation-xml><annotation encoding="application/x-tex" id="S3.SS0.SSS0.Px3.p1.6.m6.1c">q</annotation><annotation encoding="application/x-llamapun" id="S3.SS0.SSS0.Px3.p1.6.m6.1d">italic_q</annotation></semantics></math>, using the following prompt:</p>
+<blockquote class="ltx_quote" id="S3.SS0.SSS0.Px3.p1.7">
+<p class="ltx_p" id="S3.SS0.SSS0.Px3.p1.7.1"><span class="ltx_text ltx_font_italic" id="S3.SS0.SSS0.Px3.p1.7.1.1">Please extract relevant sentences from the provided context that can potentially help answer the following question. If no relevant sentences are found, or if you believe the question cannot be answered from the given context, return the phrase "Insufficient Information". While extracting candidate sentences you’re not allowed to make any changes to sentences from given context.</span>
+</p>
+</blockquote>
+<p class="ltx_p" id="S3.SS0.SSS0.Px3.p1.8">The context relevance score is then computed as:</p>
+<table class="ltx_equation ltx_eqn_table" id="S3.E2">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="\text{CR}=\frac{\text{number of extracted sentences}}{\text{total number of %
+sentences in }c(q)}" class="ltx_Math" display="block" id="S3.E2.m1.1"><semantics id="S3.E2.m1.1a"><mrow id="S3.E2.m1.1.2" xref="S3.E2.m1.1.2.cmml"><mtext id="S3.E2.m1.1.2.2" xref="S3.E2.m1.1.2.2a.cmml">CR</mtext><mo id="S3.E2.m1.1.2.1" xref="S3.E2.m1.1.2.1.cmml">=</mo><mfrac id="S3.E2.m1.1.1" xref="S3.E2.m1.1.1.cmml"><mtext id="S3.E2.m1.1.1.3" xref="S3.E2.m1.1.1.3a.cmml">number of extracted sentences</mtext><mrow id="S3.E2.m1.1.1.1" xref="S3.E2.m1.1.1.1.cmml"><mtext id="S3.E2.m1.1.1.1.3" xref="S3.E2.m1.1.1.1.3a.cmml">total number of sentences in </mtext><mo id="S3.E2.m1.1.1.1.2" xref="S3.E2.m1.1.1.1.2.cmml">⁢</mo><mi id="S3.E2.m1.1.1.1.4" xref="S3.E2.m1.1.1.1.4.cmml">c</mi><mo id="S3.E2.m1.1.1.1.2a" xref="S3.E2.m1.1.1.1.2.cmml">⁢</mo><mrow id="S3.E2.m1.1.1.1.5.2" xref="S3.E2.m1.1.1.1.cmml"><mo id="S3.E2.m1.1.1.1.5.2.1" stretchy="false" xref="S3.E2.m1.1.1.1.cmml">(</mo><mi id="S3.E2.m1.1.1.1.1" xref="S3.E2.m1.1.1.1.1.cmml">q</mi><mo id="S3.E2.m1.1.1.1.5.2.2" stretchy="false" xref="S3.E2.m1.1.1.1.cmml">)</mo></mrow></mrow></mfrac></mrow><annotation-xml encoding="MathML-Content" id="S3.E2.m1.1b"><apply id="S3.E2.m1.1.2.cmml" xref="S3.E2.m1.1.2"><eq id="S3.E2.m1.1.2.1.cmml" xref="S3.E2.m1.1.2.1"></eq><ci id="S3.E2.m1.1.2.2a.cmml" xref="S3.E2.m1.1.2.2"><mtext id="S3.E2.m1.1.2.2.cmml" xref="S3.E2.m1.1.2.2">CR</mtext></ci><apply id="S3.E2.m1.1.1.cmml" xref="S3.E2.m1.1.1"><divide id="S3.E2.m1.1.1.2.cmml" xref="S3.E2.m1.1.1"></divide><ci id="S3.E2.m1.1.1.3a.cmml" xref="S3.E2.m1.1.1.3"><mtext id="S3.E2.m1.1.1.3.cmml" xref="S3.E2.m1.1.1.3">number of extracted sentences</mtext></ci><apply id="S3.E2.m1.1.1.1.cmml" xref="S3.E2.m1.1.1.1"><times id="S3.E2.m1.1.1.1.2.cmml" xref="S3.E2.m1.1.1.1.2"></times><ci id="S3.E2.m1.1.1.1.3a.cmml" xref="S3.E2.m1.1.1.1.3"><mtext id="S3.E2.m1.1.1.1.3.cmml" xref="S3.E2.m1.1.1.1.3">total number of sentences in </mtext></ci><ci id="S3.E2.m1.1.1.1.4.cmml" xref="S3.E2.m1.1.1.1.4">𝑐</ci><ci id="S3.E2.m1.1.1.1.1.cmml" xref="S3.E2.m1.1.1.1.1">𝑞</ci></apply></apply></apply></annotation-xml><annotation encoding="application/x-tex" id="S3.E2.m1.1c">\text{CR}=\frac{\text{number of extracted sentences}}{\text{total number of %
+sentences in }c(q)}</annotation><annotation encoding="application/x-llamapun" id="S3.E2.m1.1d">CR = divide start_ARG number of extracted sentences end_ARG start_ARG total number of sentences in italic_c ( italic_q ) end_ARG</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(2)</span></td>
+</tr></tbody>
+</table>
+</div>
+</section>
+</section>
+<section class="ltx_section" id="S4">
+<h2 class="ltx_title ltx_title_section">
+<span class="ltx_tag ltx_tag_section">4 </span>The WikiEval Dataset</h2>
+<div class="ltx_para" id="S4.p1">
+<p class="ltx_p" id="S4.p1.1">To evaluate the proposed framework, we ideally need examples of question-context-answer triples which are annotated with human judgments. We can then verify to what extent our metrics agree with human assessments of faithfulness, answer relevance and context relevance. Since we are not aware of any publicly available datasets that could be used for this purpose, we created a new dataset, which we refer to as <span class="ltx_text ltx_font_italic" id="S4.p1.1.1">WikiEval<span class="ltx_note ltx_role_footnote" id="footnote4"><sup class="ltx_note_mark">4</sup><span class="ltx_note_outer"><span class="ltx_note_content"><sup class="ltx_note_mark">4</sup><span class="ltx_tag ltx_tag_note"><span class="ltx_text ltx_font_upright" id="footnote4.1.1.1">4</span></span><a class="ltx_ref ltx_url ltx_font_typewriter ltx_font_upright" href="https://huggingface.co/datasets/explodinggradients/WikiEval" title="">https://huggingface.co/datasets/explodinggradients/WikiEval</a></span></span></span></span>. To construct the dataset, we first selected 50 Wikipedia pages covering events that have happened since the start of 2022<span class="ltx_note ltx_role_footnote" id="footnote5"><sup class="ltx_note_mark">5</sup><span class="ltx_note_outer"><span class="ltx_note_content"><sup class="ltx_note_mark">5</sup><span class="ltx_tag ltx_tag_note">5</span>That is, beyond the reported training cutoff of the model we used in our experiments.</span></span></span>. In selecting these pages, we prioritised those with recent edits. For each of the 50 pages, we then asked ChatGPT to suggest a question that can be answered based on the introductory section of the page, using the following prompt:
+</p>
+<blockquote class="ltx_quote" id="S4.p1.2">
+<p class="ltx_p" id="S4.p1.2.1"><span class="ltx_text ltx_font_italic" id="S4.p1.2.1.1">Your task is to formulate a question from given context satisfying the rules given below:
+<br class="ltx_break"/>
+1. The question should be fully answered from the given context. 
+<br class="ltx_break"/>
+2. The question should be framed from a part that contains non-trivial information.
+<br class="ltx_break"/>
+3. The answer should not contain any links.
+<br class="ltx_break"/>
+4. The question should be of moderate difficulty.
+<br class="ltx_break"/>
+5. The question must be reasonable and must be understood and responded to by humans.
+<br class="ltx_break"/>
+6. Do not use phrases that ’provided context’, etc in the question
+<br class="ltx_break"/>
+context:</span></p>
+</blockquote>
+<p class="ltx_p" id="S4.p1.3">We also used ChatGPT to answer the generated question, when given the corresponding introductory section as context, using the following prompt:</p>
+<blockquote class="ltx_quote" id="S4.p1.4">
+<p class="ltx_p" id="S4.p1.4.1"><span class="ltx_text ltx_font_italic" id="S4.p1.4.1.1">Answer the question using the information from the given context.
+<br class="ltx_break"/>
+question:</span> <span class="ltx_text ltx_font_typewriter" id="S4.p1.4.1.2">[question]
+<br class="ltx_break"/></span>
+<span class="ltx_text ltx_font_italic" id="S4.p1.4.1.3">context:</span> <span class="ltx_text ltx_font_typewriter" id="S4.p1.4.1.4">[context]</span></p>
+</blockquote>
+<p class="ltx_p" id="S4.p1.5">All questions were annotated along the three considered quality dimensions by two annotators. Both annotators were fluent in English and were given clear instructions about the meaning of the three considered quality dimensions. For faithfulness and context relevance, the two annotators agreed in around 95% of cases. For answer relevance, they agreed in around 90% of the cases. Disagreements were resolved after a discussion between the annotators. </p>
+</div>
+<section class="ltx_paragraph" id="S4.SS0.SSS0.Px1">
+<h3 class="ltx_title ltx_title_paragraph">Faithfulness</h3>
+<div class="ltx_para" id="S4.SS0.SSS0.Px1.p1">
+<p class="ltx_p" id="S4.SS0.SSS0.Px1.p1.1">To obtain human judgements about faithfulness, we first used ChatGPT to answer the question without access to any additional context. We then asked the annotators to judge which of the two answers was the most faithful (i.e. the standard one or the one generated without context), given the question and corresponding Wikipedia page.</p>
+</div>
+</section>
+<section class="ltx_paragraph" id="S4.SS0.SSS0.Px2">
+<h3 class="ltx_title ltx_title_paragraph">Answer relevance</h3>
+<div class="ltx_para" id="S4.SS0.SSS0.Px2.p1">
+<p class="ltx_p" id="S4.SS0.SSS0.Px2.p1.1">We first used ChatGPT to obtain candidate answers with lower answer relevance, using the following prompt:</p>
+<blockquote class="ltx_quote" id="S4.SS0.SSS0.Px2.p1.2">
+<p class="ltx_p" id="S4.SS0.SSS0.Px2.p1.2.1"><span class="ltx_text ltx_font_italic" id="S4.SS0.SSS0.Px2.p1.2.1.1">Answer the given question in an incomplete manner.
+<br class="ltx_break"/>
+question:</span> <span class="ltx_text ltx_font_typewriter" id="S4.SS0.SSS0.Px2.p1.2.1.2">[question]</span></p>
+</blockquote>
+<p class="ltx_p" id="S4.SS0.SSS0.Px2.p1.3">We then asked human annotators to compare this answer, and indicate which of the two answers had the highest answer relevance.</p>
+</div>
+</section>
+<section class="ltx_paragraph" id="S4.SS0.SSS0.Px3">
+<h3 class="ltx_title ltx_title_paragraph">Context relevance</h3>
+<div class="ltx_para" id="S4.SS0.SSS0.Px3.p1">
+<p class="ltx_p" id="S4.SS0.SSS0.Px3.p1.1">To measure this aspect, we first added additional sentences to the context by scraping back-links to the corresponding Wikipedia page. In this way, we were able to add information to the context that was related but less relevant for answering the question. For the few pages without any back-links, we instead used ChatGPT to complete the given context.</p>
+</div>
+<figure class="ltx_table" id="S4.T1">
+<table class="ltx_tabular ltx_guessed_headers ltx_align_middle" id="S4.T1.1">
+<thead class="ltx_thead">
+<tr class="ltx_tr" id="S4.T1.1.1.1">
+<th class="ltx_td ltx_th ltx_th_row ltx_border_tt" id="S4.T1.1.1.1.1"></th>
+<th class="ltx_td ltx_align_center ltx_th ltx_th_column ltx_border_tt" id="S4.T1.1.1.1.2">
+<span class="ltx_text ltx_font_bold" id="S4.T1.1.1.1.2.1">Faith.</span></th>
+<th class="ltx_td ltx_align_center ltx_th ltx_th_column ltx_border_tt" id="S4.T1.1.1.1.3">
+<span class="ltx_text ltx_font_bold" id="S4.T1.1.1.1.3.1">Ans. Rel.</span></th>
+<th class="ltx_td ltx_align_center ltx_th ltx_th_column ltx_border_tt" id="S4.T1.1.1.1.4"><span class="ltx_text ltx_font_bold" id="S4.T1.1.1.1.4.1">Cont. Rel.</span></th>
+</tr>
+</thead>
+<tbody class="ltx_tbody">
+<tr class="ltx_tr" id="S4.T1.1.2.1">
+<th class="ltx_td ltx_align_left ltx_th ltx_th_row ltx_border_t" id="S4.T1.1.2.1.1">RAGAs</th>
+<td class="ltx_td ltx_align_center ltx_border_t" id="S4.T1.1.2.1.2">
+<span class="ltx_text ltx_font_bold" id="S4.T1.1.2.1.2.1">0.95</span></td>
+<td class="ltx_td ltx_align_center ltx_border_t" id="S4.T1.1.2.1.3">
+<span class="ltx_text ltx_font_bold" id="S4.T1.1.2.1.3.1">0.78</span></td>
+<td class="ltx_td ltx_align_center ltx_border_t" id="S4.T1.1.2.1.4"><span class="ltx_text ltx_font_bold" id="S4.T1.1.2.1.4.1">0.70</span></td>
+</tr>
+<tr class="ltx_tr" id="S4.T1.1.3.2">
+<th class="ltx_td ltx_align_left ltx_th ltx_th_row" id="S4.T1.1.3.2.1">GPT Score</th>
+<td class="ltx_td ltx_align_center" id="S4.T1.1.3.2.2">0.72</td>
+<td class="ltx_td ltx_align_center" id="S4.T1.1.3.2.3">0.52</td>
+<td class="ltx_td ltx_align_center" id="S4.T1.1.3.2.4">0.63</td>
+</tr>
+<tr class="ltx_tr" id="S4.T1.1.4.3">
+<th class="ltx_td ltx_align_left ltx_th ltx_th_row ltx_border_bb" id="S4.T1.1.4.3.1">GPT Ranking</th>
+<td class="ltx_td ltx_align_center ltx_border_bb" id="S4.T1.1.4.3.2">0.54</td>
+<td class="ltx_td ltx_align_center ltx_border_bb" id="S4.T1.1.4.3.3">0.40</td>
+<td class="ltx_td ltx_align_center ltx_border_bb" id="S4.T1.1.4.3.4">0.52</td>
+</tr>
+</tbody>
+</table>
+<figcaption class="ltx_caption"><span class="ltx_tag ltx_tag_table">Table 1: </span>Agreement with human annotators in pairwise comparisons of faithfulness, answer relevance and context relevance, using the WikEval dataset (accuracy). </figcaption>
+</figure>
+</section>
+</section>
+<section class="ltx_section" id="S5">
+<h2 class="ltx_title ltx_title_section">
+<span class="ltx_tag ltx_tag_section">5 </span>Experiments</h2>
+<div class="ltx_para" id="S5.p1">
+<p class="ltx_p" id="S5.p1.1">Table <a class="ltx_ref" href="#S4.T1" title="Table 1 ‣ Context relevance ‣ 4 The WikiEval Dataset ‣ RAGAS: Automated Evaluation of Retrieval Augmented Generation"><span class="ltx_text ltx_ref_tag">1</span></a> analyses the agreement between the metrics proposed in Section <a class="ltx_ref" href="#S3" title="3 Evaluation Strategies ‣ RAGAS: Automated Evaluation of Retrieval Augmented Generation"><span class="ltx_text ltx_ref_tag">3</span></a> and the human assessments from the proposed WikiEval dataset. Each WikiEval instance requires the model to compare two answers or two context fragments. We count how often the answer/context preferred by the model (i.e. with highest estimated faithfulness, answer relevance, or context relevance) coincides with the answer/context preferred by the human annotators. We report the results in terms of accuracy (i.e. the fraction of instances on which the model agrees with the annotators).</p>
+</div>
+<div class="ltx_para" id="S5.p2">
+<p class="ltx_p" id="S5.p2.1">To put the results in context, we compare our proposed metrics (shown as <span class="ltx_text ltx_font_italic" id="S5.p2.1.1">RAGAs</span> in Table <a class="ltx_ref" href="#S4.T1" title="Table 1 ‣ Context relevance ‣ 4 The WikiEval Dataset ‣ RAGAS: Automated Evaluation of Retrieval Augmented Generation"><span class="ltx_text ltx_ref_tag">1</span></a>) with two baseline methods. For the first method, shown as <em class="ltx_emph ltx_font_italic" id="S5.p2.1.2">GPT Score</em>, we ask ChatGPT to assign a score between 0 and 10 for the three quality dimensions. To this end, we use a prompt that describes the meaning of the quality metric and then asks to score the given answer/context in line with that definition. For instance, for evaluating faithfulness, we used the following prompt:</p>
+<blockquote class="ltx_quote" id="S5.p2.2">
+<p class="ltx_p" id="S5.p2.2.1"><span class="ltx_text ltx_font_italic" id="S5.p2.2.1.1">Faithfulness measures the information consistency of the answer against the given context. Any claims that are made in the answer that cannot be deduced from context should be penalized.
+<br class="ltx_break"/>
+Given an answer and context, assign a score for faithfulness in the range 0-10.
+<br class="ltx_break"/>
+context</span>: <span class="ltx_text ltx_font_typewriter" id="S5.p2.2.1.2">[context]
+<br class="ltx_break"/></span>
+<span class="ltx_text ltx_font_italic" id="S5.p2.2.1.3">answer</span>: <span class="ltx_text ltx_font_typewriter" id="S5.p2.2.1.4">[answer]</span></p>
+</blockquote>
+<p class="ltx_p" id="S5.p2.3">Ties, where the same score is assigned by the LLM to both answer candidates, were broken randomly.
+The second baseline, shown as <em class="ltx_emph ltx_font_italic" id="S5.p2.3.1">GPT Ranking</em>, instead asks ChatGPT to select the preferred answer/context. In this case, the prompt again includes a definition of the considered quality metric. For instance, for evaluating answer relevance, we used the following prompt:</p>
+<blockquote class="ltx_quote" id="S5.p2.4">
+<p class="ltx_p" id="S5.p2.4.1"><span class="ltx_text ltx_font_italic" id="S5.p2.4.1.1">Answer Relevancy measures the degree to which a response directly addresses and is appropriate for a given question. It penalizes the present of redundant information or incomplete answers given a question.
+Given an question and answer, rank each answer based on Answer Relevancy.
+<br class="ltx_break"/>
+question</span>: <span class="ltx_text ltx_font_typewriter" id="S5.p2.4.1.2">[question]
+<br class="ltx_break"/></span>
+<span class="ltx_text ltx_font_italic" id="S5.p2.4.1.3">answer 1</span>: <span class="ltx_text ltx_font_typewriter" id="S5.p2.4.1.4">[answer 1]
+<br class="ltx_break"/></span>
+<span class="ltx_text ltx_font_italic" id="S5.p2.4.1.5">answer 2</span>: <span class="ltx_text ltx_font_typewriter" id="S5.p2.4.1.6">[answer 2]</span></p>
+</blockquote>
+</div>
+<div class="ltx_para" id="S5.p3">
+<p class="ltx_p" id="S5.p3.1">The results in Table <a class="ltx_ref" href="#S4.T1" title="Table 1 ‣ Context relevance ‣ 4 The WikiEval Dataset ‣ RAGAS: Automated Evaluation of Retrieval Augmented Generation"><span class="ltx_text ltx_ref_tag">1</span></a> show that our proposed metrics are much closer aligned with the human judgements than the predictions from the two baselines. For faithfulness, the RAGAs prediction are in general highly accurate. For answer relevance, the agreement is lower, but this is largely due to the fact that the differences between the two candidate answers are often very subtle. We found context relevance to be the hardest quality dimension to evaluate. In particular, we observed that ChatGPT often struggles with the task of selecting the sentences from the context that are crucial, especially for longer contexts.</p>
+</div>
+</section>
+<section class="ltx_section" id="S6">
+<h2 class="ltx_title ltx_title_section">
+<span class="ltx_tag ltx_tag_section">6 </span>Conclusions</h2>
+<div class="ltx_para" id="S6.p1">
+<p class="ltx_p" id="S6.p1.1">We have highlighted the need for automated reference-free evaluation of RAG systems. In particular, we have argued the need for an evaluation framework that can assess faithfulness (i.e. is the answer grounded in the retrieved context), answer relevance (i.e. does the answer address the question) and context relevance (i.e. is the retrieved context sufficiently focused). To support the development of such a framework, we have introduced <span class="ltx_text ltx_font_italic" id="S6.p1.1.1">WikiEval</span>, a dataset which human judgements of these three different aspects. Finally, we have also described RAGAs, our implementation of the three considered quality aspects. This framework is easy to use and can provide deverlopers of RAG systems with valuable insights, even in the absence of any ground truth. Our evaluation on WikiEval has shown that the predictions from RAGAs are closely aligned with human predictions, especially for faithfulness and answer relevance.</p>
+</div>
+</section>
+<section class="ltx_bibliography" id="bib">
+<h2 class="ltx_title ltx_title_bibliography">References</h2>
+<ul class="ltx_biblist">
+<li class="ltx_bibitem" id="bib.bib1">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Azaria and Mitchell (2023)</span>
+<span class="ltx_bibblock">
+Amos Azaria and Tom M. Mitchell. 2023.
+
+</span>
+<span class="ltx_bibblock"><a class="ltx_ref ltx_href" href="https://doi.org/10.48550/arXiv.2304.13734" title="">The internal state of an LLM knows when its lying</a>.
+
+</span>
+<span class="ltx_bibblock"><em class="ltx_emph ltx_font_italic" id="bib.bib1.1.1">CoRR</em>, abs/2304.13734.
+
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib2">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Borgeaud et al. (2022)</span>
+<span class="ltx_bibblock">
+Sebastian Borgeaud, Arthur Mensch, Jordan Hoffmann, Trevor Cai, Eliza Rutherford, Katie Millican, George van den Driessche, Jean-Baptiste Lespiau, Bogdan Damoc, Aidan Clark, Diego de Las Casas, Aurelia Guy, Jacob Menick, Roman Ring, Tom Hennigan, Saffron Huang, Loren Maggiore, Chris Jones, Albin Cassirer, Andy Brock, Michela Paganini, Geoffrey Irving, Oriol Vinyals, Simon Osindero, Karen Simonyan, Jack W. Rae, Erich Elsen, and Laurent Sifre. 2022.
+
+</span>
+<span class="ltx_bibblock"><a class="ltx_ref ltx_href" href="https://proceedings.mlr.press/v162/borgeaud22a.html" title="">Improving language models by retrieving from trillions of tokens</a>.
+
+</span>
+<span class="ltx_bibblock">In <em class="ltx_emph ltx_font_italic" id="bib.bib2.1.1">International Conference on Machine Learning, ICML 2022, 17-23 July 2022, Baltimore, Maryland, USA</em>, volume 162 of <em class="ltx_emph ltx_font_italic" id="bib.bib2.2.2">Proceedings of Machine Learning Research</em>, pages 2206–2240. PMLR.
+
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib3">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Bubeck et al. (2023)</span>
+<span class="ltx_bibblock">
+Sébastien Bubeck, Varun Chandrasekaran, Ronen Eldan, Johannes Gehrke, Eric Horvitz, Ece Kamar, Peter Lee, Yin Tat Lee, Yuanzhi Li, Scott Lundberg, et al. 2023.
+
+</span>
+<span class="ltx_bibblock">Sparks of artificial general intelligence: Early experiments with gpt-4.
+
+</span>
+<span class="ltx_bibblock"><em class="ltx_emph ltx_font_italic" id="bib.bib3.1.1">arXiv preprint arXiv:2303.12712</em>.
+
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib4">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Devlin et al. (2019)</span>
+<span class="ltx_bibblock">
+Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. 2019.
+
+</span>
+<span class="ltx_bibblock"><a class="ltx_ref ltx_href" href="https://doi.org/10.18653/v1/N19-1423" title="">BERT: Pre-training of deep bidirectional transformers for language understanding</a>.
+
+</span>
+<span class="ltx_bibblock">In <em class="ltx_emph ltx_font_italic" id="bib.bib4.1.1">Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)</em>, pages 4171–4186, Minneapolis, Minnesota. Association for Computational Linguistics.
+
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib5">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Fu et al. (2023)</span>
+<span class="ltx_bibblock">
+Jinlan Fu, See-Kiong Ng, Zhengbao Jiang, and Pengfei Liu. 2023.
+
+</span>
+<span class="ltx_bibblock"><a class="ltx_ref ltx_href" href="https://doi.org/10.48550/arXiv.2302.04166" title="">Gptscore: Evaluate as you desire</a>.
+
+</span>
+<span class="ltx_bibblock"><em class="ltx_emph ltx_font_italic" id="bib.bib5.1.1">CoRR</em>, abs/2302.04166.
+
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib6">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Guu et al. (2020)</span>
+<span class="ltx_bibblock">
+Kelvin Guu, Kenton Lee, Zora Tung, Panupong Pasupat, and Mingwei Chang. 2020.
+
+</span>
+<span class="ltx_bibblock">Retrieval augmented language model pre-training.
+
+</span>
+<span class="ltx_bibblock">In <em class="ltx_emph ltx_font_italic" id="bib.bib6.1.1">International conference on machine learning</em>, pages 3929–3938. PMLR.
+
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib7">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Ji et al. (2023)</span>
+<span class="ltx_bibblock">
+Ziwei Ji, Nayeon Lee, Rita Frieske, Tiezheng Yu, Dan Su, Yan Xu, Etsuko Ishii, Ye Jin Bang, Andrea Madotto, and Pascale Fung. 2023.
+
+</span>
+<span class="ltx_bibblock">Survey of hallucination in natural language generation.
+
+</span>
+<span class="ltx_bibblock"><em class="ltx_emph ltx_font_italic" id="bib.bib7.1.1">ACM Computing Surveys</em>, 55(12):1–38.
+
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib8">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Kadavath et al. (2022)</span>
+<span class="ltx_bibblock">
+Saurav Kadavath, Tom Conerly, Amanda Askell, Tom Henighan, Dawn Drain, Ethan Perez, Nicholas Schiefer, Zac Hatfield-Dodds, Nova DasSarma, Eli Tran-Johnson, Scott Johnston, Sheer El Showk, Andy Jones, Nelson Elhage, Tristan Hume, Anna Chen, Yuntao Bai, Sam Bowman, Stanislav Fort, Deep Ganguli, Danny Hernandez, Josh Jacobson, Jackson Kernion, Shauna Kravec, Liane Lovitt, Kamal Ndousse, Catherine Olsson, Sam Ringer, Dario Amodei, Tom Brown, Jack Clark, Nicholas Joseph, Ben Mann, Sam McCandlish, Chris Olah, and Jared Kaplan. 2022.
+
+</span>
+<span class="ltx_bibblock"><a class="ltx_ref ltx_href" href="https://doi.org/10.48550/arXiv.2207.05221" title="">Language models (mostly) know what they know</a>.
+
+</span>
+<span class="ltx_bibblock"><em class="ltx_emph ltx_font_italic" id="bib.bib8.1.1">CoRR</em>, abs/2207.05221.
+
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib9">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Kandpal et al. (2022)</span>
+<span class="ltx_bibblock">
+Nikhil Kandpal, Haikang Deng, Adam Roberts, Eric Wallace, and Colin Raffel. 2022.
+
+</span>
+<span class="ltx_bibblock"><a class="ltx_ref ltx_href" href="https://doi.org/10.48550/arXiv.2211.08411" title="">Large language models struggle to learn long-tail knowledge</a>.
+
+</span>
+<span class="ltx_bibblock"><em class="ltx_emph ltx_font_italic" id="bib.bib9.1.1">CoRR</em>, abs/2211.08411.
+
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib10">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Khandelwal et al. (2020)</span>
+<span class="ltx_bibblock">
+Urvashi Khandelwal, Omer Levy, Dan Jurafsky, Luke Zettlemoyer, and Mike Lewis. 2020.
+
+</span>
+<span class="ltx_bibblock"><a class="ltx_ref ltx_href" href="https://openreview.net/forum?id=HklBjCEKvH" title="">Generalization through memorization: Nearest neighbor language models</a>.
+
+</span>
+<span class="ltx_bibblock">In <em class="ltx_emph ltx_font_italic" id="bib.bib10.1.1">8th International Conference on Learning Representations, ICLR 2020, Addis Ababa, Ethiopia, April 26-30, 2020</em>. OpenReview.net.
+
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib11">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Khattab et al. (2022)</span>
+<span class="ltx_bibblock">
+Omar Khattab, Keshav Santhanam, Xiang Lisa Li, David Hall, Percy Liang, Christopher Potts, and Matei Zaharia. 2022.
+
+</span>
+<span class="ltx_bibblock"><a class="ltx_ref ltx_href" href="https://doi.org/10.48550/arXiv.2212.14024" title="">Demonstrate-search-predict: Composing retrieval and language models for knowledge-intensive NLP</a>.
+
+</span>
+<span class="ltx_bibblock"><em class="ltx_emph ltx_font_italic" id="bib.bib11.1.1">CoRR</em>, abs/2212.14024.
+
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib12">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Lee et al. (2019)</span>
+<span class="ltx_bibblock">
+Kenton Lee, Ming-Wei Chang, and Kristina Toutanova. 2019.
+
+</span>
+<span class="ltx_bibblock">Latent retrieval for weakly supervised open domain question answering.
+
+</span>
+<span class="ltx_bibblock">In <em class="ltx_emph ltx_font_italic" id="bib.bib12.1.1">Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics</em>, pages 6086–6096.
+
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib13">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Lewis et al. (2020)</span>
+<span class="ltx_bibblock">
+Patrick S. H. Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich Küttler, Mike Lewis, Wen-tau Yih, Tim Rocktäschel, Sebastian Riedel, and Douwe Kiela. 2020.
+
+</span>
+<span class="ltx_bibblock"><a class="ltx_ref ltx_href" href="https://proceedings.neurips.cc/paper/2020/hash/6b493230205f780e1bc26945df7481e5-Abstract.html" title="">Retrieval-augmented generation for knowledge-intensive NLP tasks</a>.
+
+</span>
+<span class="ltx_bibblock">In <em class="ltx_emph ltx_font_italic" id="bib.bib13.1.1">Advances in Neural Information Processing Systems 33: Annual Conference on Neural Information Processing Systems 2020, NeurIPS 2020, December 6-12, 2020, virtual</em>.
+
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib14">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Li et al. (2023)</span>
+<span class="ltx_bibblock">
+Junyi Li, Xiaoxue Cheng, Wayne Xin Zhao, Jian-Yun Nie, and Ji-Rong Wen. 2023.
+
+</span>
+<span class="ltx_bibblock"><a class="ltx_ref ltx_href" href="https://doi.org/10.48550/arXiv.2305.11747" title="">Halueval: A large-scale hallucination evaluation benchmark for large language models</a>.
+
+</span>
+<span class="ltx_bibblock"><em class="ltx_emph ltx_font_italic" id="bib.bib14.1.1">CoRR</em>, abs/2305.11747.
+
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib15">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Liu et al. (2023)</span>
+<span class="ltx_bibblock">
+Nelson F. Liu, Kevin Lin, John Hewitt, Ashwin Paranjape, Michele Bevilacqua, Fabio Petroni, and Percy Liang. 2023.
+
+</span>
+<span class="ltx_bibblock"><a class="ltx_ref ltx_href" href="http://arxiv.org/abs/2307.03172" title="">Lost in the middle: How language models use long contexts</a>.
+
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib16">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Mallen et al. (2023)</span>
+<span class="ltx_bibblock">
+Alex Mallen, Akari Asai, Victor Zhong, Rajarshi Das, Daniel Khashabi, and Hannaneh Hajishirzi. 2023.
+
+</span>
+<span class="ltx_bibblock"><a class="ltx_ref ltx_href" href="https://aclanthology.org/2023.acl-long.546" title="">When not to trust language models: Investigating effectiveness of parametric and non-parametric memories</a>.
+
+</span>
+<span class="ltx_bibblock">In <em class="ltx_emph ltx_font_italic" id="bib.bib16.1.1">Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)</em>, pages 9802–9822, Toronto, Canada. Association for Computational Linguistics.
+
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib17">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Manakul et al. (2023)</span>
+<span class="ltx_bibblock">
+Potsawee Manakul, Adian Liusie, and Mark J. F. Gales. 2023.
+
+</span>
+<span class="ltx_bibblock"><a class="ltx_ref ltx_href" href="https://doi.org/10.48550/arXiv.2303.08896" title="">Selfcheckgpt: Zero-resource black-box hallucination detection for generative large language models</a>.
+
+</span>
+<span class="ltx_bibblock"><em class="ltx_emph ltx_font_italic" id="bib.bib17.1.1">CoRR</em>, abs/2303.08896.
+
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib18">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Min et al. (2023)</span>
+<span class="ltx_bibblock">
+Sewon Min, Kalpesh Krishna, Xinxi Lyu, Mike Lewis, Wen-tau Yih, Pang Wei Koh, Mohit Iyyer, Luke Zettlemoyer, and Hannaneh Hajishirzi. 2023.
+
+</span>
+<span class="ltx_bibblock"><a class="ltx_ref ltx_href" href="https://doi.org/10.48550/arXiv.2305.14251" title="">Factscore: Fine-grained atomic evaluation of factual precision in long form text generation</a>.
+
+</span>
+<span class="ltx_bibblock"><em class="ltx_emph ltx_font_italic" id="bib.bib18.1.1">CoRR</em>, abs/2305.14251.
+
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib19">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Ram et al. (2023)</span>
+<span class="ltx_bibblock">
+Ori Ram, Yoav Levine, Itay Dalmedigos, Dor Muhlgay, Amnon Shashua, Kevin Leyton-Brown, and Yoav Shoham. 2023.
+
+</span>
+<span class="ltx_bibblock"><a class="ltx_ref ltx_href" href="https://doi.org/10.48550/arXiv.2302.00083" title="">In-context retrieval-augmented language models</a>.
+
+</span>
+<span class="ltx_bibblock"><em class="ltx_emph ltx_font_italic" id="bib.bib19.1.1">CoRR</em>, abs/2302.00083.
+
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib20">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Roberts et al. (2020)</span>
+<span class="ltx_bibblock">
+Adam Roberts, Colin Raffel, and Noam Shazeer. 2020.
+
+</span>
+<span class="ltx_bibblock"><a class="ltx_ref ltx_href" href="https://doi.org/10.18653/v1/2020.emnlp-main.437" title="">How much knowledge can you pack into the parameters of a language model?</a>
+</span>
+<span class="ltx_bibblock">In <em class="ltx_emph ltx_font_italic" id="bib.bib20.1.1">Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)</em>, pages 5418–5426, Online. Association for Computational Linguistics.
+
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib21">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Shi et al. (2023)</span>
+<span class="ltx_bibblock">
+Weijia Shi, Sewon Min, Michihiro Yasunaga, Minjoon Seo, Rich James, Mike Lewis, Luke Zettlemoyer, and Wen-tau Yih. 2023.
+
+</span>
+<span class="ltx_bibblock"><a class="ltx_ref ltx_href" href="https://doi.org/10.48550/arXiv.2301.12652" title="">REPLUG: retrieval-augmented black-box language models</a>.
+
+</span>
+<span class="ltx_bibblock"><em class="ltx_emph ltx_font_italic" id="bib.bib21.1.1">CoRR</em>, abs/2301.12652.
+
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib22">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Wang et al. (2023a)</span>
+<span class="ltx_bibblock">
+Jiaan Wang, Yunlong Liang, Fandong Meng, Haoxiang Shi, Zhixu Li, Jinan Xu, Jianfeng Qu, and Jie Zhou. 2023a.
+
+</span>
+<span class="ltx_bibblock"><a class="ltx_ref ltx_href" href="https://doi.org/10.48550/arXiv.2303.04048" title="">Is chatgpt a good NLG evaluator? A preliminary study</a>.
+
+</span>
+<span class="ltx_bibblock"><em class="ltx_emph ltx_font_italic" id="bib.bib22.1.1">CoRR</em>, abs/2303.04048.
+
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib23">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Wang et al. (2023b)</span>
+<span class="ltx_bibblock">
+Peiyi Wang, Lei Li, Liang Chen, Dawei Zhu, Binghuai Lin, Yunbo Cao, Qi Liu, Tianyu Liu, and Zhifang Sui. 2023b.
+
+</span>
+<span class="ltx_bibblock"><a class="ltx_ref ltx_href" href="https://doi.org/10.48550/arXiv.2305.17926" title="">Large language models are not fair evaluators</a>.
+
+</span>
+<span class="ltx_bibblock"><em class="ltx_emph ltx_font_italic" id="bib.bib23.1.1">CoRR</em>, abs/2305.17926.
+
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib24">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Wang et al. (2023c)</span>
+<span class="ltx_bibblock">
+Shufan Wang, Yixiao Song, Andrew Drozdov, Aparna Garimella, Varun Manjunatha, and Mohit Iyyer. 2023c.
+
+</span>
+<span class="ltx_bibblock"><a class="ltx_ref ltx_href" href="https://doi.org/10.48550/arXiv.2305.14625" title="">KNN-LM does not improve open-ended text generation</a>.
+
+</span>
+<span class="ltx_bibblock"><em class="ltx_emph ltx_font_italic" id="bib.bib24.1.1">CoRR</em>, abs/2305.14625.
+
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib25">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Yuan et al. (2021)</span>
+<span class="ltx_bibblock">
+Weizhe Yuan, Graham Neubig, and Pengfei Liu. 2021.
+
+</span>
+<span class="ltx_bibblock"><a class="ltx_ref ltx_href" href="https://proceedings.neurips.cc/paper/2021/hash/e4d2b6e6fdeca3e60e0f1a62fee3d9dd-Abstract.html" title="">Bartscore: Evaluating generated text as text generation</a>.
+
+</span>
+<span class="ltx_bibblock">In <em class="ltx_emph ltx_font_italic" id="bib.bib25.1.1">Advances in Neural Information Processing Systems 34: Annual Conference on Neural Information Processing Systems 2021, NeurIPS 2021, December 6-14, 2021, virtual</em>, pages 27263–27277.
+
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib26">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Zhang et al. (2023)</span>
+<span class="ltx_bibblock">
+Tianhua Zhang, Hongyin Luo, Yung-Sung Chuang, Wei Fang, Luc Gaitskell, Thomas Hartvigsen, Xixin Wu, Danny Fox, Helen Meng, and James R. Glass. 2023.
+
+</span>
+<span class="ltx_bibblock"><a class="ltx_ref ltx_href" href="https://doi.org/10.48550/arXiv.2304.03728" title="">Interpretable unified language checking</a>.
+
+</span>
+<span class="ltx_bibblock"><em class="ltx_emph ltx_font_italic" id="bib.bib26.1.1">CoRR</em>, abs/2304.03728.
+
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib27">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Zhang et al. (2020)</span>
+<span class="ltx_bibblock">
+Tianyi Zhang, Varsha Kishore, Felix Wu, Kilian Q. Weinberger, and Yoav Artzi. 2020.
+
+</span>
+<span class="ltx_bibblock"><a class="ltx_ref ltx_href" href="https://openreview.net/forum?id=SkeHuCVFDr" title="">Bertscore: Evaluating text generation with BERT</a>.
+
+</span>
+<span class="ltx_bibblock">In <em class="ltx_emph ltx_font_italic" id="bib.bib27.1.1">8th International Conference on Learning Representations, ICLR 2020, Addis Ababa, Ethiopia, April 26-30, 2020</em>. OpenReview.net.
+
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib28">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Zhao et al. (2019)</span>
+<span class="ltx_bibblock">
+Wei Zhao, Maxime Peyrard, Fei Liu, Yang Gao, Christian M. Meyer, and Steffen Eger. 2019.
+
+</span>
+<span class="ltx_bibblock"><a class="ltx_ref ltx_href" href="https://doi.org/10.18653/v1/D19-1053" title="">MoverScore: Text generation evaluating with contextualized embeddings and earth mover distance</a>.
+
+</span>
+<span class="ltx_bibblock">In <em class="ltx_emph ltx_font_italic" id="bib.bib28.1.1">Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)</em>, pages 563–578, Hong Kong, China. Association for Computational Linguistics.
+
+</span>
+</li>
+</ul>
+</section>
+<section class="ltx_appendix" id="A1">
+<h2 class="ltx_title ltx_title_appendix">
+<span class="ltx_tag ltx_tag_appendix">Appendix A </span>Examples from WikiEval</h2>
+<div class="ltx_para" id="A1.p1">
+<p class="ltx_p" id="A1.p1.1">Tables <a class="ltx_ref" href="#A1.T2" title="Table 2 ‣ Appendix A Examples from WikiEval ‣ RAGAS: Automated Evaluation of Retrieval Augmented Generation"><span class="ltx_text ltx_ref_tag">2</span></a>, <a class="ltx_ref" href="#A1.T3" title="Table 3 ‣ Appendix A Examples from WikiEval ‣ RAGAS: Automated Evaluation of Retrieval Augmented Generation"><span class="ltx_text ltx_ref_tag">3</span></a> and <a class="ltx_ref" href="#A1.T4" title="Table 4 ‣ Appendix A Examples from WikiEval ‣ RAGAS: Automated Evaluation of Retrieval Augmented Generation"><span class="ltx_text ltx_ref_tag">4</span></a> show examples from the WikiEval dataset, focusing in particular on answers with high and low faithfulness (Table <a class="ltx_ref" href="#A1.T2" title="Table 2 ‣ Appendix A Examples from WikiEval ‣ RAGAS: Automated Evaluation of Retrieval Augmented Generation"><span class="ltx_text ltx_ref_tag">2</span></a>), high and low answer relevance (Table <a class="ltx_ref" href="#A1.T3" title="Table 3 ‣ Appendix A Examples from WikiEval ‣ RAGAS: Automated Evaluation of Retrieval Augmented Generation"><span class="ltx_text ltx_ref_tag">3</span></a>), and high and low context relevance (Table <a class="ltx_ref" href="#A1.T4" title="Table 4 ‣ Appendix A Examples from WikiEval ‣ RAGAS: Automated Evaluation of Retrieval Augmented Generation"><span class="ltx_text ltx_ref_tag">4</span></a>).</p>
+</div>
+<figure class="ltx_table" id="A1.T2">
+<table class="ltx_tabular ltx_centering ltx_align_middle" id="A1.T2.1">
+<tbody class="ltx_tbody">
+<tr class="ltx_tr" id="A1.T2.1.1.1">
+<td class="ltx_td ltx_align_justify ltx_border_tt" id="A1.T2.1.1.1.1" style="width:90.0pt;"><span class="ltx_text ltx_font_bold ltx_align_top" id="A1.T2.1.1.1.1.1">Question</span></td>
+<td class="ltx_td ltx_align_justify ltx_border_tt" id="A1.T2.1.1.1.2" style="width:200.0pt;"><span class="ltx_text ltx_font_bold ltx_align_top" id="A1.T2.1.1.1.2.1">Context</span></td>
+<td class="ltx_td ltx_align_justify ltx_border_tt" id="A1.T2.1.1.1.3" style="width:120.0pt;"><span class="ltx_text ltx_font_bold ltx_align_top" id="A1.T2.1.1.1.3.1">Answer</span></td>
+</tr>
+<tr class="ltx_tr" id="A1.T2.1.2.2">
+<td class="ltx_td ltx_align_justify ltx_border_bb ltx_border_t" id="A1.T2.1.2.2.1" style="width:90.0pt;">
+<p class="ltx_p ltx_align_top" id="A1.T2.1.2.2.1.1">Who directed the film Oppenheimer and who stars as J. Robert Oppenheimer in the film?</p>
+</td>
+<td class="ltx_td ltx_align_justify ltx_border_bb ltx_border_t" id="A1.T2.1.2.2.2" style="width:200.0pt;">
+<p class="ltx_p ltx_align_top" id="A1.T2.1.2.2.2.1">Oppenheimer is a 2023 biographical thriller film written and directed by Christopher Nolan. Based on the 2005 biography American Prometheus by Kai Bird and Martin J. Sherwin, the film chronicles the life of J. Robert Oppenheimer, a theoretical physicist who was pivotal in developing the first nuclear weapons as part of the Manhattan Project, and thereby ushering in the Atomic Age. Cillian Murphy stars as Oppenheimer, with Emily Blunt as Oppenheimer’s wife Katherine "Kitty" Oppenheimer.</p>
+</td>
+<td class="ltx_td ltx_align_justify ltx_border_bb ltx_border_t" id="A1.T2.1.2.2.3" style="width:120.0pt;">
+<div class="ltx_block ltx_align_top" id="A1.T2.1.2.2.3.1">
+<p class="ltx_p" id="A1.T2.1.2.2.3.1.1"><span class="ltx_text ltx_font_italic" id="A1.T2.1.2.2.3.1.1.1">High Faithfulness</span>:
+Christopher Nolan directed the film Oppenheimer. Cillian Murphy stars as J. Robert Oppenheimer in the film.</p>
+<p class="ltx_p" id="A1.T2.1.2.2.3.1.2"><span class="ltx_text ltx_font_italic" id="A1.T2.1.2.2.3.1.2.1">Low Faithfulness</span>:
+James Cameron directed the film Oppenheimer. Tom Cruise stars as J. Robert Oppenheimer in the film.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<figcaption class="ltx_caption ltx_centering"><span class="ltx_tag ltx_tag_table">Table 2: </span>Example from WikiEval, showing answers with high and low faithfulness. </figcaption>
+</figure>
+<figure class="ltx_table" id="A1.T3">
+<table class="ltx_tabular ltx_centering ltx_align_middle" id="A1.T3.1">
+<tbody class="ltx_tbody">
+<tr class="ltx_tr" id="A1.T3.1.1.1">
+<td class="ltx_td ltx_align_justify ltx_border_tt" id="A1.T3.1.1.1.1" style="width:90.0pt;"><span class="ltx_text ltx_font_bold ltx_align_top" id="A1.T3.1.1.1.1.1">Question</span></td>
+<td class="ltx_td ltx_align_justify ltx_border_tt" id="A1.T3.1.1.1.2" style="width:330.0pt;"><span class="ltx_text ltx_font_bold ltx_align_top" id="A1.T3.1.1.1.2.1">Answer</span></td>
+</tr>
+<tr class="ltx_tr" id="A1.T3.1.2.2">
+<td class="ltx_td ltx_align_justify ltx_border_bb ltx_border_t" id="A1.T3.1.2.2.1" style="width:90.0pt;">
+<p class="ltx_p ltx_align_top" id="A1.T3.1.2.2.1.1">When is the scheduled launch date and time for the PSLV-C56 mission, and where will it be launched from?</p>
+</td>
+<td class="ltx_td ltx_align_justify ltx_border_bb ltx_border_t" id="A1.T3.1.2.2.2" style="width:330.0pt;">
+<div class="ltx_block ltx_align_top" id="A1.T3.1.2.2.2.1">
+<p class="ltx_p" id="A1.T3.1.2.2.2.1.1"><span class="ltx_text ltx_font_italic" id="A1.T3.1.2.2.2.1.1.1">High answer relevance</span>: The PSLV-C56 mission is scheduled to be launched on Sunday, 30 July 2023 at 06:30 IST / 01:00 UTC. It will be launched from the Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh, India.
+</p>
+<p class="ltx_p" id="A1.T3.1.2.2.2.1.2"><span class="ltx_text ltx_font_italic" id="A1.T3.1.2.2.2.1.2.1">Low answer relevance</span>: The scheduled launch date and time for the PSLV-C56 mission have not been provided.The PSLV-C56 mission is an important space mission for India. It aims to launch a satellite into orbit to study weather patterns.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<figcaption class="ltx_caption ltx_centering"><span class="ltx_tag ltx_tag_table">Table 3: </span>Example from WikiEval, showing answers with high and low answer relevance. </figcaption>
+</figure>
+<figure class="ltx_table" id="A1.T4">
+<table class="ltx_tabular ltx_centering ltx_align_middle" id="A1.T4.1">
+<tbody class="ltx_tbody">
+<tr class="ltx_tr" id="A1.T4.1.1.1">
+<td class="ltx_td ltx_align_justify ltx_border_tt" id="A1.T4.1.1.1.1" style="width:90.0pt;"><span class="ltx_text ltx_font_bold ltx_align_top" id="A1.T4.1.1.1.1.1">Question</span></td>
+<td class="ltx_td ltx_align_justify ltx_border_tt" id="A1.T4.1.1.1.2" style="width:330.0pt;"><span class="ltx_text ltx_font_bold ltx_align_top" id="A1.T4.1.1.1.2.1">Context</span></td>
+</tr>
+<tr class="ltx_tr" id="A1.T4.1.2.2">
+<td class="ltx_td ltx_align_justify ltx_border_bb ltx_border_t" id="A1.T4.1.2.2.1" style="width:90.0pt;">
+<p class="ltx_p ltx_align_top" id="A1.T4.1.2.2.1.1">When was the Chimnabai Clock Tower completed, and who was it named after?</p>
+</td>
+<td class="ltx_td ltx_align_justify ltx_border_bb ltx_border_t" id="A1.T4.1.2.2.2" style="width:330.0pt;">
+<div class="ltx_block ltx_align_top" id="A1.T4.1.2.2.2.1">
+<p class="ltx_p" id="A1.T4.1.2.2.2.1.1"><span class="ltx_text ltx_font_italic" id="A1.T4.1.2.2.2.1.1.1">High context relevance</span>: The Chimnabai Clock Tower, also known as the Raopura Tower, is a clock tower situated in the Raopura area of Vadodara, Gujarat, India. It was completed in 1896 and named in memory of Chimnabai I (1864–1885), a queen and the first wife of Sayajirao Gaekwad III of Baroda State.</p>
+<p class="ltx_p" id="A1.T4.1.2.2.2.1.2"><span class="ltx_text ltx_font_italic" id="A1.T4.1.2.2.2.1.2.1">Low context relevance</span>: The Chimnabai Clock Tower, also known as the Raopura Tower, is a clock tower situated in the Raopura area of Vadodara, Gujarat, India. It was completed in 1896 and named in memory of Chimnabai I (1864–1885), a queen and the first wife of Sayajirao Gaekwad III of Baroda State. It was built in Indo-Saracenic architecture style. History. Chimnabai Clock Tower was built in 1896. The tower was named after Chimnabai I (1864–1885), a queen and the first wife of Sayajirao Gaekwad III of Baroda State. It was inaugurated by Mir Kamaluddin Hussainkhan, the last Nawab of Baroda. During the rule of Gaekwad, it was a stoppage for horse drawn trams.
+The clock tower was erected at the cost of 25,000 (equivalent to 9.2 million or USD 120,000 in 2023).</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<figcaption class="ltx_caption ltx_centering"><span class="ltx_tag ltx_tag_table">Table 4: </span>Example from WikiEval, showing answers with high and low context relevance. </figcaption>
+</figure>
+</section>
+</article>
+</div>
+<footer class="ltx_page_footer">
+<div class="ltx_page_logo">Generated  on Tue Sep 26 19:22:43 2023 by <a class="ltx_LaTeXML_logo" href="http://dlmf.nist.gov/LaTeXML/"><span style="letter-spacing:-0.2em; margin-right:0.1em;">L<span style="font-size:70%;position:relative; bottom:2.2pt;">A</span>T<span style="position:relative; bottom:-0.4ex;">E</span></span><span class="ltx_font_smallcaps">xml</span><img alt="[LOGO]" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg=="/></a>
+</div></footer>
+</div>
+
+<div class="package-alerts" role="alert">
+<button aria-label="Dismiss alert" onclick="closePopup()">
+<span aria-hidden="true"><svg aria-hidden="true" focusable="false" height="30" role="presentation" viewbox="0 0 44 44" width="30">
+<path d="M0.549989 4.44999L4.44999 0.549988L43.45 39.55L39.55 43.45L0.549989 4.44999Z"></path>
+<path d="M39.55 0.549988L43.45 4.44999L4.44999 43.45L0.549988 39.55L39.55 0.549988Z"></path>
+</svg></span>
+</button>
+<p>This paper uses the following packages that do not yet convert to HTML. These are known issues and are being worked on. Have free development cycles? <a href="https://github.com/brucemiller/LaTeXML/issues" target="_blank">We welcome contributors</a>.</p>
+<ul>
+<li>failed: inconsolata</li>
+</ul>
+</div>
+<script> 
+            function closePopup() {
+                document.querySelector('.package-alerts').style.display = 'none';
+            }
+        </script>
+</body>
+</html>

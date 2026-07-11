@@ -1,0 +1,763 @@
+AI explainability in finance: auditable models, GenAI, and agents 
+
+Product 
+
+Solutions 
+
+Stories 
+
+Company 
+
+Sign in 
+Request a demo Start trial 
+
+Request a demo 
+
+GenAI & agents 
+
+AI explainability in finance: auditable models, GenAI, and agents 
+
+June 22, 2026 / 12 min read / Team Dataiku 
+
+Table of contents 
+
+At a glance 
+
+Why does explainable AI matter in financial services? 
+
+The regulatory landscape and mandatory transparency requirements for AI in finance 
+
+What are the core techniques for achieving explainability across models, GenAI, and agents in finance? 
+
+A 5-step framework for implementing auditable and explainable AI in financial services 
+
+Step 1 
+
+Step 2 
+
+Step 3 
+
+Step 4 
+
+Step 5 
+
+Building auditable AI workflows in financial services 
+
+Operationalizing explainability: change management, team structure, and adoption 
+
+Tooling governance 
+
+Explainable AI challenges, trade-offs, and best practices for financial institutions 
+
+Technical: real-time inference latency 
+
+Regulatory complexity: differing jurisdictional standards 
+
+UX and user fatigue: explanation overload 
+
+GenAI and agent-specific explainability: a distinct challenge 
+
+Make explainability your compliance advantage 
+
+FAQs about explainable AI in finance 
+
+What qualifies as a high-risk AI system in financial services under the EU AI Act? 
+
+How do SHAP and LIME improve AI explainability in financial models? 
+
+Can explainable AI be applied to legacy risk and credit scoring models in finance? 
+
+What is the difference between explainable AI and auditable AI in financial services, and do regulators require both? 
+
+How does Dataiku Govern support auditable AI workflows for models, GenAI, and agents in regulated financial institutions? 
+
+Regulators are asking financial institutions a direct question: Can you explain how your AI made that decision? For most, the honest answer is no — not fully, not on demand, and not across every system that now influences regulated decisions. 
+
+Compliance functions are expected to cover that ground, and the gap between expectation and reality shows up on every audit cycle. It appears in model validation reviews where decision logic was never documented, in compliance queries that take days to answer because reasoning must be reconstructed manually, in front-line staff unable to explain a model recommendation to a client, and in risk sign-off processes where the audit trail is incomplete or absent. 
+
+Building the infrastructure to close that gap is what this guide is about. It covers what explainable AI in finance means across models, GenAI, and agents, the regulatory requirements currently in force, core techniques, and a five-step framework for putting it all into practice. 
+
+At a glance 
+
+The EU AI Act directly governs high-risk AI systems; ECOA, enforced by the CFPB, imposes adverse-action transparency obligations for complex algorithms; GDPR and SR 26-2 add documentation and auditability requirements. 
+
+SHAP, LIME, and counterfactual explanations each serve different finance use cases (fraud detection, credit scoring, AML) and the right technique depends on risk tier and system type. 
+
+A five-step framework covering inventory, technique mapping, audit logging, stakeholder validation, and drift monitoring gives compliance teams a structured path to enterprise-wide explainability. 
+
+Operationalizing explainability requires defined roles across the three lines of defense, a single governed platform, and adoption programs that train non-technical stakeholders to act on explanations, not just read them. 
+
+Why does explainable AI matter in financial services? 
+
+Explainable AI matters in financial services because regulators now require institutions to defend individual AI decisions — and most cannot. According to the " Global AI confessions report: data leaders edition ," based on a Dataiku/Harris Poll survey, 95% of data leaders admit they could not fully trace AI decisions from input data through model output if asked by regulators. 
+
+In financial services, that failure surfaces where it costs the most: in the reasoning behind credit denials, in responses to customer disputes, in the documentation underlying suspicious-activity reports, in examiner challenges, and in trading decisions a counterparty contests. 
+
+Opaque models, GenAI systems, and agents compound three risks: 
+
+1. Regulatory fines arrive when adverse-action reasons cannot be produced, or when a high-risk system (whether a scoring model or an AI agent processing credit applications) lacks the documentation an EU AI Act is expected to demand. 
+
+2. Algorithmic bias enters when training data encodes historical patterns no one has stress-tested; when GenAI outputs reflect those patterns without attribution or an audit trail, teams have no way to understand and diagnose where the bias originated. 
+
+3. Reputational damage follows quickly and compounds. A single unexplainable decision that reaches a regulator, a journalist, or a customer advocate is enough to trigger scrutiny that extends well beyond the original case. 
+
+Operating transparently has its own returns. Customers trust outcomes they can question. Reason codes expose features no analyst would have prioritized, which improves internal decision quality. Regulatory alignment compounds: an explanation validated once flows through to adverse-action notices, model risk reports, and audit packets without rework. 
+
+The table below compares how opaque and explainable AI systems perform across key operational capabilities. 
+
+The business case for explainability is driven partly by operational advantage and partly by specific regulatory requirements institutions must now meet. 
+
+The regulatory landscape and mandatory transparency requirements for AI in finance 
+
+Several overlapping regulations set the floor for any AI system that influences regulated decisions.
+
+The EU AI Act classifies credit scoring, creditworthiness assessment and life and health insurance risk pricing as high-risk uses where those systems assess natural persons, not assets. 
+
+Obligations include technical documentation, data governance, human oversight, transparency to deployers, and post-market monitoring. 
+
+High-risk obligations were originally set to take effect in August 2026, with a provisional agreement reached in May 2026 to defer them to December 2027, pending formal adoption.
+
+In the United States, Supervisory Letter SR 26-2 defines revised model risk management expectations and supersedes the 2011 model risk guidance. 
+
+Guidance from the Federal Reserve, OCC, and FDIC reinforces that machine learning inherits the same discipline: documented purpose, validated logic, monitored outcomes, and a named owner. SR 26-2 explicitly places generative AI and agentic AI outside its scope, noting they are novel and rapidly evolving — though the guidance directs institutions to apply existing risk management principles to determine appropriate controls for those systems. 
+
+ECOA and Regulation B require adverse-action notices that state specific principal reasons, which translates into per-decision reason codes that a model or agent can produce on demand. 
+
+GDPR Article 22 governs solely automated decisions with legal or similarly significant effects, while Article 15 gives individuals the right to obtain meaningful information about the logic involved in any processing that concerns them. 
+
+Singapore's MAS FEAT principles alongside the 2024 AI model risk management information paper and the 2025 Guidelines on AI Risk Management , Hong Kong's HKMA expectations on AI in banking , and APRA CPS 230 in Australia push institutions in the same direction.
+
+Five questions consistently arise in compliance and audit conversations across these jurisdictions, regardless of which specific framework applies: 
+
+Can you produce the input features used for this specific decision? 
+
+Who approved this model, GenAI system, or agent for production, and when? 
+
+When was bias last tested, and what method was used? 
+
+What changed between version N and N+1, and who signed off? 
+
+Is the explanation method itself validated? 
+
+Those questions reveal an important distinction that these regulatory frameworks are beginning to formalize: explainability and auditability are related but not the same. Explainability answers the questions of how and why a decision was made: the mechanical logic of inputs and weights. 
+
+Auditability answers the evidentiary question of how it was made — which system, which version, which data, with which human sign-off, at what timestamp. Regulators require both. An explanation without an audit trail is not enough for an SR 26-2 review. An audit trail without a meaningful explanation does not satisfy GDPR Article 22 or ECOA adverse-action obligations. 
+
+In regulated markets, governance infrastructure is what makes both possible at scale — and it is a prerequisite for operating, not an optional add-on. Dataiku, the Platform for AI Success , unifies data preparation, machine learning, generative AI (GenAI), agents, and governance in one environment. 
+
+Dataiku Govern provides model documentation, version control, risk classification, and lineage that map directly to EU AI Act, GDPR, and SR 26-2 documentation requirements, while the platform's broader governance infrastructure extends those controls to GenAI and agent deployments. Dataiku's AI regulatory readiness playbook covers how to structure those controls in practice. 
+
+Once the regulatory floor and the governance infrastructure that supports it are clear, the practical question becomes which technical approaches can deliver the required level of transparency across different model, GenAI, and agent types and decision contexts. 
+
+What are the core techniques for achieving explainability across models, GenAI, and agents in finance? 
+
+Two families dominate for traditional ML models. Ante-hoc approaches use inherently interpretable models: logistic regression, generalized additive models, traditional scorecards, monotonic gradient-boosted trees, and shallow decision trees. 
+
+The model itself is the explanation. Post-hoc approaches layer explanation methods onto opaque models optimized for accuracy first. 
+
+Within those two families, four techniques carry most regulated finance audits: 
+
+1. SHAP (SHapley Additive exPlanations) assigns each input feature a contribution to the prediction, grounded in cooperative game theory. It produces consistent global and per-decision attributions, which is why it has become the default for regulated finance. 
+
+2. LIME (Local Interpretable Model-Agnostic Explanations) builds a small surrogate model around a single decision. It is fast, useful for spot checks, and the right tool when SHAP is computationally prohibitive on a specific model class. 
+
+3. Counterfactual explanations describe the smallest change to the input that would have flipped the decision. They are the natural fit for adverse-action notices because they answer the customer question ('What would I need to change?') directly. 
+
+4. Inherently interpretable models (monotonic GBMs, scorecards, GAMs) sidestep the explanation problem by being legible by construction. 
+
+Choose by use case, not by what is popular. 
+
+Fraud detection is worth calling out specifically. The decision happens in milliseconds, but the explanation must be available for audit after the fact. What compliance teams need to require is that explanation generation and audit logging are part of the same governed workflow as the decision itself, not a separate process reconciled later. 
+
+Dataiku's built-in explainability modules embed SHAP, partial dependence plots, and feature importance directly into the ML lifecycle, so the audit record is produced alongside the decision rather than reconstructed from it. 
+
+The accuracy-transparency trade-off resolves cleanly under regulatory exposure. When the cost of opacity exceeds the marginal accuracy gain, pick the interpretable model. Otherwise, pair the opaque model with rigorous post-hoc explanations and counterfactual auditability. 
+
+Choosing the right technique per use case is the first discipline; deploying it consistently across the organization and extending it to GenAI and agents requires a structured rollout framework. 
+
+Agent decisions themselves can be made explainable using Kiji Inspector , the open-source framework from Dataiku's 575 Lab, which inspects the model at the moment it commits to a tool choice and translates that into a traceable explanation (currently supported for NVIDIA Nemotron open models). 
+
+A 5-step framework for implementing auditable and explainable AI in financial services 
+
+Treat explainable AI in finance as a pipeline you install once, not a fix you bolt on per model, GenAI application, or agent deployment. 
+
+Step 1 
+
+Inventory existing models, GenAI applications, and agents, and assign risk tiers. Anchor tiers to regulatory exposure. 
+
+Tier 1 covers high-risk uses under the EU AI Act and SR 26-2: credit decisioning, AML, trading at scale, and insurance pricing — whether those decisions are made by a traditional model, a GenAI system, or an automated agent. Tier 2 covers material but not customer-facing systems. Tier 3 covers internal analytics. The deliverable is a registry with risk classifications signed off by Line 2. 
+
+Step 2 
+
+Match the explainability technique to each system type and risk tier. 
+
+Tier 1 ML models get SHAP plus counterfactuals plus an interpretable challenger model run in parallel for adverse-action defensibility. Tier 2 models get SHAP or LIME based on model class and latency. Tier 3 gets standard feature importance and drift monitoring. 
+
+For GenAI applications in customer-facing roles, technique selection shifts to output logging, prompt attribution, and retrieval-source tracing for retrieval-augmented generation (RAG) applications. 
+
+Dataiku Visual ML and built-in explainability modules keep technique selection inside the same environment as training, so each explanation is reproducible from the lineage that produced the prediction. 
+
+Step 3 
+
+Build human oversight loops and audit logging infrastructure. 
+
+This is the auditability step. Name the gates: production approval, threshold-change approval, exception review, and re-approval at major retrain. For agents, add action-trace logging that captures every tool call, reasoning step, and output alongside the decision timestamp and reviewer identity. 
+
+Audit logs for models capture inputs used, model version, explanation method, reviewer identity, and decision timestamp. For GenAI systems, logs capture the prompt version, retrieved sources, and output alongside any human review step. 
+
+Dataiku Govern's lineage and audit trail give compliance officers a record aligned with SR 26-2 and the EU AI Act that they can show an examiner without translation. Dataiku's unified monitoring tracks post-deployment performance so anomalous decision clusters can be correlated with model degradation periods and surfaced via automated alerts. 
+
+Step 4 
+
+Validate explanations with stakeholder personas. 
+
+Model validation runs on two tracks: technical (performance to baseline, benchmarking, data checks) and governance (qualification, approvals, documentation). Together, they answer whether every regulatory requirement was met and whether the model's outputs and aggregate performance can be explained. Compliance officers, internal auditors, business users, and consumers should each be able to act on the explanation, not just read it. 
+
+This is also where operationalization happens: Define who owns explainability review across the three lines of defense, what team structure supports ongoing validation, and how to train non-technical stakeholders to interpret SHAP plots, counterfactuals, and agent decision traces. 
+
+Step 5 
+
+Document methodology and monitor for drift and ongoing compliance. 
+
+Determine your review period for each use case; some require monthly or weekly cadences, others annual. Drift triggers re-explanation, not only retraining, because input shifts move both predictions and the features driving the explanation. 
+
+For agents, behavioral drift — changes in the topics agents engage with or the actions they take — requires separate monitoring from model prediction drift. High-risk systems require continuous monitoring across all three system types. 
+
+Dataiku embeds explainability into the ML lifecycle as an integral part of model development and deployment, with governance controls extending across GenAI and agent workflows on the same platform. 
+
+A framework addresses the technical architecture; the harder work is assigning review, approval, and audit responsibilities so explanations are actually used, not just rendered. 
+
+Building auditable AI workflows in financial services 
+
+Explainability tells you why a decision was made. Auditability tells you how to prove it. The five-step framework above covers the technical mechanics. What it does not cover is what an auditable AI workflow looks like from a compliance officer's vantage point during a review. 
+
+In practice, auditability means being able to answer five questions without reconstructing anything under pressure: which system version made this decision, on which data, with which human sign-off, at what timestamp, and with what explanation on record. 
+
+Dataiku Govern provides the model registry, approval workflows, audit logs, and lineage tracking that make those answers available on demand, with the platform's broader governance infrastructure extending the same controls to GenAI and agent deployments. 
+
+Operationalizing explainability: change management, team structure, and adoption 
+
+Tooling does not create explainability. Clear ownership does. Institutions that pass audits without panic share three traits: defined roles across the three lines of defense, a single pane of glass that centralizes governance activities, and a deliberate adoption program.
+
+Team structure across the three lines of defense: 
+
+Line 1 includes model owners in the business who use explanations to make defensible day-to-day decisions. 
+
+Line 2 — model risk and compliance — owns the standard: which method per tier, what the explanation must contain, and when it must be regenerated. Name an explainability lead inside Line 2 (typically a model risk manager or compliance technology lead) who carries the standard across credit, fraud, AML, and trading. 
+
+Line 3, internal audit, tests whether the standard is followed and whether explanations actually shape decisions. 
+
+Tooling governance 
+
+Most institutions already have six or more disparate point tools, each hosting relevant information toward a central governance initiative. The gap is rarely the tools themselves; it is the connecting layer that ties development, explainability, lineage, and audit logging into a single coherent record. 
+
+Per-model SHAP scripts in notebooks do not survive an audit because they are not versioned, lineage-tracked, or reproducible the way a regulator expects. A governance layer that connects those tools can. 
+
+Dataiku connects model development, explainability, governance, and audit logging, so compliance, model risk, and data science use the same model record rather than reconciling outputs across notebooks, spreadsheets, and PDFs. 
+
+The same applies to GenAI and agent outputs: logs, prompt versions, and action traces all sit within the same governed environment. 
+
+Adoption levers that decide whether explainability sticks. Four levers matter: 
+
+Explanation literacy: Train compliance officers and front-line decision-makers to read SHAP plots, counterfactuals, and reason codes the way they read a credit report. Examiner readiness drills: Rehearse the audit-question checklist quarterly; treat it as a fire drill rather than a slide deck. An explanation style guide: Standardize the narrative across models, GenAI outputs, and agent traces so reviewers are not relearning the format on every audit. Adoption KPIs: Track the share of in-scope decisions with a valid explanation rendered and acknowledged. 
+
+Change-management failure modes to watch 
+
+Explanations rendered but never read 
+
+Compliance cut out of model approval workflows 
+
+Data scientists owning explainability with no business-facing translation layer 
+
+Explanations that diverge from the adverse-action notice language consumers receive 
+
+Each can create enforcement exposure, and each is fixable with defined ownership and approval gates rather than another tool 
+
+Even with clear ownership in place, three categories of practical challenge slow most institutional rollouts and need to be addressed directly. 
+
+Explainable AI challenges, trade-offs, and best practices for financial institutions 
+
+Three categories of hurdles slow most operational rollouts, with a fourth emerging specifically from GenAI and agent deployments. 
+
+Technical: real-time inference latency 
+
+SHAP on high-dimensional models can exceed the latency budget for fraud and trading decisions made in tens of milliseconds. Mitigations include approximate Shapley methods, pre-computed reason codes for common decision paths, model surrogates, or pushing full SHAP to an asynchronous audit channel while a lightweight explanation surfaces at decision time. 
+
+Dataiku's approach to real-time explainability for fraud detection addresses this directly, separating the speed of the decision from the completeness of the audit record. 
+
+Regulatory complexity: differing jurisdictional standards 
+
+Multi-jurisdictional institutions operate under overlapping obligations: EU AI Act high-risk rules, SR 26-2 governance, ECOA reason codes, GDPR Article 22, DORA, and APAC frameworks. 
+
+Map the strictest applicable regulation per use case as a starting ceiling rather than splitting controls per market. Then run an alignment exercise across all applicable frameworks: the strictest standard does not automatically subsume every requirement, and timing obligations and reporting structures vary by jurisdiction. 
+
+UX and user fatigue: explanation overload 
+
+Too many explanations dilute the few that matter. Use selective disclosure (full explanation on adverse outcomes, summary on approvals), targeted stakeholder training, and an explanation style guide, so reviewers see the same shape each time. 
+
+GenAI and agent-specific explainability: a distinct challenge 
+
+Chain-of-thought is not an audit trail. Attention weights are not explanations. Prompt-based reasoning is not reproducible across sessions. These are not limitations of current tools. They are structural properties of how generative models and autonomous agents work . 
+
+The defensible posture for regulated finance is to restrict GenAI to use cases where output is reviewed before action, and where source citation and retrieval lineage are captured with every output. 
+
+For agents, require action-trace logging at every step and human-in-the-loop checkpoints for any decision with regulatory consequences. Maintaining audit trails at scale, version-controlling GenAI prompts and agent configurations, and ensuring logs are complete enough to satisfy regulators are the three operational challenges institutions face most often when extending explainability beyond traditional models. 
+
+Best practice and regulatory readiness converge in the same place: the compliance officer's approval and audit process. Working through those hurdles positions explainability as a control that reduces audit work, rather than another audit liability. 
+
+Make explainability your compliance advantage 
+
+Examiner expectations changed across 2025 and 2026. Adverse-action specificity, model documentation, lineage, and explanation validation are baseline requirements, not optional audit requests. The cost of opacity surfaces on every cycle — and that cost now extends to GenAI outputs and agent decisions, not just traditional model predictions. 
+
+Institutions that build explainability and auditability infrastructure before deployment, rather than reconstructing it under examiner pressure, spend less time on each audit cycle and carry less regulatory exposure as their AI footprint grows. 
+
+The five-step framework, plus clear ownership, gives compliance teams a practical path to cover all three system types. Dataiku Govern and Dataiku Visual ML provide the model records, lineage, explainability, and audit trails needed across credit, fraud, AML, insurance, and trading — and extend that governance to GenAI applications and agent deployments running on the same platform. 
+
+FAQs about explainable AI in finance 
+
+What qualifies as a high-risk AI system in financial services under the EU AI Act? 
+
+Credit scoring, creditworthiness assessment, and insurance risk pricing, when applied to natural persons rather than assets, are classified as high-risk. The regulation applies to the AI system, not just the underlying model. Agents automating these decisions carry the same documentation, oversight, and transparency obligations. 
+
+How do SHAP and LIME improve AI explainability in financial models? 
+
+SHAP assigns consistent feature-level attributions to every prediction, making it the standard for production models in regulated finance. LIME builds a local surrogate for a single decision. They are complements: Use SHAP for documentation and LIME for fast spot checks. 
+
+Can explainable AI be applied to legacy risk and credit scoring models in finance? 
+
+Yes. Legacy scorecards and logistic regression models are already interpretable; the work is proper documentation. Opaque legacy GBMs can be paired with SHAP and counterfactuals, or replaced with monotonic-constrained challengers that are interpretable by construction. 
+
+What is the difference between explainable AI and auditable AI in financial services, and do regulators require both? 
+
+Explainable AI answers why a decision was made. Auditable AI proves how: which system, which version, which data, who signed off. Regulators require both. ECOA and GDPR demand explanations; EU AI Act and SR 26-2 demand documented audit trails. 
+
+How does Dataiku Govern support auditable AI workflows for models, GenAI, and agents in regulated financial institutions? 
+
+Dataiku Govern provides version control, lineage tracking, risk classification, and approval workflows across models, GenAI, and agents in one environment. Every deployment requires sign-off and every output is traceable, giving compliance teams a continuous audit record ready for examiner review. 
+
+Tags 
+
+GenAI & agents Financial services & insurance 
+
+Share 
+
+Your path to AI success starts now 
+Start free trial 
+
+Keep reading 
+
+Decision intelligence platforms: what they are and how enterprises use them 
+
+Jul 9, 2026 
+
+Manufacturing AI has moved beyond pilots. Now comes the execution layer. 
+
+Jul 9, 2026 
+
+The invisible fleet: why agent sprawl is now a compliance liability 
+
+Jul 2, 2026 
+
+Agentic AI tools in 2026: what to look for when choosing an enterprise-grade solution 
+
+Jun 18, 2026 
+
+What is an AI orchestration layer? Architecture, benefits, and enterprise use cases 
+
+Jun 14, 2026 
+
+Discover Dataiku Cobuild: the queue stops here 
+
+Jun 10, 2026 
+
+Enterprise AI transformation: how leading organizations are redesigning operations around AI 
+
+Jun 9, 2026 
+
+Finance analytics and AI: How decision intelligence platforms improve fp&a, risk, and reporting 
+
+Jun 2, 2026 
+
+Enterprise agent systems: How to design, deploy, and govern AI agent networks at scale 
+
+May 28, 2026 
+
+I have snowflake, why do I need Dataiku? 
+
+May 27, 2026 
+
+AI decision automation: How enterprises use AI to make faster, more consistent decisions 
+
+May 25, 2026 
+
+3 ways Dataiku makes AI agents on Databricks production-ready 
+
+May 25, 2026 
+
+Agent orchestration explained: How enterprises manage multi-agent AI workflows 
+
+May 21, 2026 
+
+Introducing Dataiku Cobuild on Snowflake 
+
+May 19, 2026 
+
+Your AI agents have never met. introduce them. 
+
+May 17, 2026 
+
+Scale business expertise with trusted AI agents 
+
+May 10, 2026 
+
+Data quality for machine learning, generative AI, and agentic AI 
+
+May 4, 2026 
+
+Machine learning in finance: AI and automation use cases 
+
+Apr 30, 2026 
+
+Enterprise AI agents: architecture, use cases, and ROI guide 
+
+Apr 23, 2026 
+
+Building production-ready AI agents: an enterprise guide 
+
+Apr 21, 2026 
+
+Practical transformation: How Dataiku is modernizing the actuarial workflow 
+
+Apr 15, 2026 
+
+Recursive AI: When models start managing their own context 
+
+Apr 8, 2026 
+
+3 AI trends reshaping healthcare and life sciences in 2026 
+
+Mar 31, 2026 
+
+Agent memory: The missing layer in enterprise AI systems 
+
+Mar 30, 2026 
+
+Context engineering: Building AI systems that scale 
+
+Mar 24, 2026 
+
+AI observability: How enterprises control autonomous agents 
+
+Mar 23, 2026 
+
+Agentic workflows guide: definition, patterns, and use cases 
+
+Mar 22, 2026 
+
+Single-agent vs. multi-agent systems: Enterprise AI tradeoffs 
+
+Mar 17, 2026 
+
+Euronext: Driving market share insights with AI agents 
+
+Mar 16, 2026 
+
+Explaining AI agent decisions with the kiji inspector™ 
+
+Mar 15, 2026 
+
+AI in business: driving operational efficiency 
+
+Mar 10, 2026 
+
+Introducing The Platform for AI Success 
+
+Mar 8, 2026 
+
+AI success in accounting: How DigiKey turned backlogs into business value 
+
+Mar 3, 2026 
+
+Why traditional evaluation doesn't work for agentic AI 
+
+Feb 18, 2026 
+
+Dataiku joins the agentic AI foundation to strengthen AI trust 
+
+Feb 17, 2026 
+
+How Roche cut patent research costs with scalable, governed agentic AI 
+
+Feb 3, 2026 
+
+Financial services AI trends 2026: Closing the production value gap 
+
+Feb 2, 2026 
+
+Supply chain AI trends 2026: Building resilient operations 
+
+Feb 1, 2026 
+
+Before AI agents: The technology foundations cios can’t skip 
+
+Jan 29, 2026 
+
+My AWS re:Invent takeaway: the end of “just build an agent” 
+
+Jan 7, 2026 
+
+How ZS Associates used AI agents to reduce risk, cut costs, & improve model reliability 
+
+Dec 28, 2025 
+
+How beinex strengthened compliance & reduced operational delays with AI agents 
+
+Dec 22, 2025 
+
+Tis the season to reflect and revamp your AI strategy 
+
+Dec 15, 2025 
+
+How Wisr uses AI agents for faster, value-driven lending decisions 
+
+Dec 9, 2025 
+
+Why you should stop building RAG chatbots from scratch 
+
+Dec 8, 2025 
+
+From AI wild west to main street: Sustainability for enterprise agents 
+
+Dec 4, 2025 
+
+How European Air Transport built AI agents for 80x operational efficiency 
+
+Dec 3, 2025 
+
+How Softbank scaled an AI agent-powered sales model, saving 250k hours a year 
+
+Nov 24, 2025 
+
+Churn prediction: predict customer churn before it happens 
+
+Nov 19, 2025 
+
+Marketing mix modeling: optimize marketing spend with ai 
+
+Nov 19, 2025 
+
+Building agents with Snowflake Cortex AI at every level 
+
+Nov 3, 2025 
+
+AI horror stories: from scheming models to zombie automations 
+
+Oct 30, 2025 
+
+Why analyst attention is the scarce rrsource of 2025 
+
+Oct 26, 2025 
+
+Mit says 95% of genai pilots fail: Here’s how to beat the odds 
+
+Oct 16, 2025 
+
+Introducing Agent Hub: The workspace for enterprise agents 
+
+Oct 6, 2025 
+
+Agent sprawl is the new it sprawl, here's how to control it 
+
+Oct 1, 2025 
+
+Everything to know: AI agents for supplier risk assessment 
+
+Sep 25, 2025 
+
+Avoid AI agent washing: 4 CEO priorities for signal over noise 
+
+Sep 23, 2025 
+
+What is mcp and why does IT matter in the age of genai? 
+
+Sep 17, 2025 
+
+Build vs. buy for AI agents: A practical guide 
+
+Sep 16, 2025 
+
+Evaluating AI agents effectively for enterprise use 
+
+Sep 14, 2025 
+
+Building AI agents for life sciences: from silos to synthesis 
+
+Sep 8, 2025 
+
+Scaling GenAI in financial services with Dataiku and NVIDIA 
+
+Sep 3, 2025 
+
+Perturbing prompts to assess bias in LLM tasks 
+
+Aug 17, 2025 
+
+The agentic AI cost iceberg 
+
+Aug 12, 2025 
+
+CIB: AI-powered insights boost lending CX & call centers 
+
+Aug 4, 2025 
+
+From reactive to proactive: How AI agents transform enterprise decision cycles 
+
+Aug 4, 2025 
+
+Build responsible GenAI applications with the RAFT framework 
+
+Jul 7, 2025 
+
+3 Ways banks can up their data game 
+
+Jul 1, 2025 
+
+2025 Dataiku Frontrunner Awards: Honoring real-world impact 
+
+Jun 30, 2025 
+
+How to select high-impact AI agent use cases 
+
+Jun 18, 2025 
+
+Scaling AI agents with Dataiku 
+
+Jun 16, 2025 
+
+5 AI agent use cases to kickstart your team's transformation 
+
+Jun 13, 2025 
+
+Create and control AI agents at scale with Dataiku 
+
+Jun 12, 2025 
+
+From workflow to autonomy: How to build AI agents that deliver 
+
+Jun 11, 2025 
+
+Why 46% of AI models fail — and how to fix IT 
+
+Jun 10, 2025 
+
+Dataiku turns untapped AI potential into real-world business impact with NVIDIA 
+
+May 18, 2025 
+
+Beyond the engine: Why the whole AI “car” matters 
+
+May 8, 2025 
+
+How AW Rostamani Group applies AI across the customer lifecycle 
+
+May 7, 2025 
+
+AI agents: Turning business teams from AI consumers to AI creators 
+
+May 6, 2025 
+
+You may also like 
+More Updates 
+
+Decision intelligence platforms: what they are and how enterprises use them 
+
+Jul 9, 2026 
+
+Manufacturing AI has moved beyond pilots. Now comes the execution layer. 
+
+Jul 9, 2026 
+
+The invisible fleet: why agent sprawl is now a compliance liability 
+
+Jul 2, 2026 
+
+Ready for AI success? 
+
+Request a demo Start trial 
+
+Product 
+
+Run enterprise AI as one system 
+
+Deliver AI agents 
+
+Govern AI everywhere 
+
+Deliver trusted analytics 
+
+Scale machine learning impact 
+
+Watch the Dataiku platform demo 
+
+Solutions 
+
+Banking & FSI 
+
+Life sciences 
+
+Retail & CPG 
+
+Manufacturing 
+
+Utilities & energy 
+
+Telecommunications 
+
+Public sector 
+
+Solutions catalog 
+
+Stories 
+
+Dataiku in action 
+
+The Dataiku blog 
+
+AI success stories 
+
+Aviva: Powering insurance with data, machine learning, & AI 
+
+Johnson & Johnson: Transforming vision care with generative AI 
+
+Roche: Transforming patent workflows with agentic AI 
+
+Novartis: Streamlining analytics & AI across the organization 
+
+Perdue Farms: From data chaos to clarity with Dataiku 
+
+Company 
+
+About Dataiku 
+
+Join Dataiku 
+
+Dataiku partners 
+
+Events calendar 
+
+Customers 
+
+Newsroom 
+
+Dataiku for the future 
+
+575 Lab – Dataiku's Open Source Office 
+
+Get the latest from our team 
+
+Find us on social media 
+
+© 2026 Dataiku. All Rights Reserved. 
+Privacy Trust Legal Your Privacy Settings 
+
+English

@@ -1,0 +1,485 @@
+{
+  "downloaded_at": "2026-07-10T23:52:48.938758",
+  "resources": [
+    {
+      "cat": "regulatory_rbi",
+      "name": "rbi_commercial_banks_credit_debit_card_directions_2025",
+      "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13155",
+      "type": "html",
+      "note": "Commercial bank credit/debit card issuance, conduct, grievance redressal, 30-day escalation.",
+      "ok": false,
+      "error": "<HTTPError 418: 'Unknown Code'>"
+    },
+    {
+      "cat": "regulatory_rbi",
+      "name": "rbi_small_finance_banks_credit_debit_card_directions_2025",
+      "url": "https://rbi.org.in/SCRIPTS/BS_ViewMasDirections.aspx?id=13123",
+      "type": "html",
+      "note": "Small finance bank credit/debit card issuance and conduct directions.",
+      "ok": false,
+      "error": "<HTTPError 418: 'Unknown Code'>"
+    },
+    {
+      "cat": "regulatory_rbi",
+      "name": "rbi_nbfc_credit_card_directions_2025",
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12956",
+      "type": "html",
+      "note": "NBFC credit card issuance and conduct directions.",
+      "ok": false,
+      "error": "<HTTPError 418: 'Unknown Code'>"
+    },
+    {
+      "cat": "regulatory_rbi",
+      "name": "rbi_kyc_direction_2016_updated_2025",
+      "url": "https://www.rbi.org.in/SCRIPTS/BS_ViewMasDirections.aspx?id=11566",
+      "type": "html",
+      "note": "KYC/AML/CFT master direction, broad reference for identity and due diligence questions.",
+      "ok": false,
+      "error": "<HTTPError 418: 'Unknown Code'>"
+    },
+    {
+      "cat": "regulatory_rbi",
+      "name": "rbi_commercial_banks_kyc_directions_2025",
+      "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13141",
+      "type": "html",
+      "note": "Commercial banks KYC directions, useful for KYC update and CDD questions.",
+      "ok": false,
+      "error": "<HTTPError 418: 'Unknown Code'>"
+    },
+    {
+      "cat": "regulatory_rbi",
+      "name": "rbi_nbfc_kyc_directions_2025",
+      "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=12943",
+      "type": "html",
+      "note": "NBFC KYC directions, useful for regulated entity coverage.",
+      "ok": false,
+      "error": "<HTTPError 418: 'Unknown Code'>"
+    },
+    {
+      "cat": "regulatory_rbi",
+      "name": "rbi_integrated_ombudsman_scheme_2026_faq",
+      "url": "https://www.rbi.org.in/commonperson/English/Scripts/FAQs.aspx?Id=3407",
+      "type": "html",
+      "note": "FAQs explaining RB-IOS 2026 complaint eligibility, CMS, CRPC, and escalation.",
+      "ok": false,
+      "error": "<HTTPError 418: 'Unknown Code'>"
+    },
+    {
+      "cat": "regulatory_rbi",
+      "name": "rbi_integrated_ombudsman_scheme_2026_pdf",
+      "url": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/SCHEME16012026_A.pdf",
+      "type": "pdf",
+      "note": "Full Reserve Bank Integrated Ombudsman Scheme 2026 PDF.",
+      "ok": true,
+      "status": 200,
+      "content_type": "text/html",
+      "final_url": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/SCHEME16012026_A.pdf",
+      "saved": [
+        "regulatory_rbi/rbi_integrated_ombudsman_scheme_2026_pdf.pdf"
+      ],
+      "bytes": 45074
+    },
+    {
+      "cat": "regulatory_rbi",
+      "name": "rbi_failed_transactions_tat_compensation_2019",
+      "url": "https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=11693&Mode=0&fn=9",
+      "type": "html",
+      "note": "RBI TAT and compensation framework for failed payment transactions.",
+      "ok": false,
+      "error": "<HTTPError 418: 'Unknown Code'>"
+    },
+    {
+      "cat": "npci_upi",
+      "name": "npci_upi_help_brand_guidelines_2023",
+      "url": "https://www.npci.org.in/uploads/UPI_Help_Brand_Guidelines_86c8c28922.pdf",
+      "type": "pdf",
+      "note": "UPI Help user journey, complaint status, failed transaction help, fraud note.",
+      "ok": true,
+      "status": 200,
+      "content_type": "application/pdf",
+      "final_url": "https://www.npci.org.in/uploads/UPI_Help_Brand_Guidelines_86c8c28922.pdf",
+      "saved": [
+        "npci_upi/npci_upi_help_brand_guidelines_2023.pdf"
+      ],
+      "bytes": 1167282
+    },
+    {
+      "cat": "npci_upi",
+      "name": "npci_upi_help_assistant_pilot_2025",
+      "url": "https://www.npci.org.in/uploads/UPI_OC_No_227_FY_2025_26_Introduction_of_UPI_HELP_Assistant_pilot_an_AI_powered_support_for_UPI_payments_cd501de8f3.pdf",
+      "type": "pdf",
+      "note": "NPCI circular introducing AI-powered UPI Help Assistant pilot.",
+      "ok": true,
+      "status": 200,
+      "content_type": "application/pdf",
+      "final_url": "https://www.npci.org.in/uploads/UPI_OC_No_227_FY_2025_26_Introduction_of_UPI_HELP_Assistant_pilot_an_AI_powered_support_for_UPI_payments_cd501de8f3.pdf",
+      "saved": [
+        "npci_upi/npci_upi_help_assistant_pilot_2025.pdf"
+      ],
+      "bytes": 151237
+    },
+    {
+      "cat": "npci_upi",
+      "name": "npci_upi_chargeback_archive",
+      "url": "https://www.npci.org.in/what-we-do/upi/chargeback/archive",
+      "type": "html",
+      "note": "NPCI chargeback archive and UPI chargeback data page.",
+      "ok": false,
+      "error": "timeout('timed out')"
+    },
+    {
+      "cat": "npci_upi",
+      "name": "npci_upi_circulars",
+      "url": "https://www.npci.org.in/what-we-do/upi/circular",
+      "type": "html",
+      "note": "NPCI UPI circular index for later manual expansion.",
+      "ok": false,
+      "error": "timeout('timed out')"
+    },
+    {
+      "cat": "bank_documents",
+      "name": "hdfc_credit_card_mitc_english",
+      "url": "https://www.hdfc.bank.in/content/dam/hdfcbankpws/in/en/personal-banking/discover-products/cards/credit-cards/personal-mitc/mitc-in-english.pdf",
+      "type": "pdf",
+      "note": "HDFC credit card MITC with grievance/compensation sections.",
+      "ok": true,
+      "status": 200,
+      "content_type": "application/pdf",
+      "final_url": "https://www.hdfc.bank.in/content/dam/hdfcbankpws/in/en/personal-banking/discover-products/cards/credit-cards/personal-mitc/mitc-in-english.pdf",
+      "saved": [
+        "bank_documents/hdfc_credit_card_mitc_english.pdf"
+      ],
+      "bytes": 823108
+    },
+    {
+      "cat": "bank_documents",
+      "name": "hdfc_credit_card_policy",
+      "url": "https://www.hdfc.bank.in/content/dam/hdfcbankpws/in/en/personal-banking/discover-products/cards-services/credit-card-policy.pdf",
+      "type": "pdf",
+      "note": "HDFC policy for issuance and conduct of credit cards.",
+      "ok": true,
+      "status": 200,
+      "content_type": "application/pdf",
+      "final_url": "https://www.hdfc.bank.in/content/dam/hdfcbankpws/in/en/personal-banking/discover-products/cards-services/credit-card-policy.pdf",
+      "saved": [
+        "bank_documents/hdfc_credit_card_policy.pdf"
+      ],
+      "bytes": 362626
+    },
+    {
+      "cat": "bank_documents",
+      "name": "hdfc_grievance_redressal_policy",
+      "url": "https://www.hdfcbank.com/content/bbp/repositories/723fb80a-2dde-42a3-9793-7ae1be57c87f/?path=%2FFooter%2FUseful+Links%2FOur+Corporate+Commitment%2Fpdfs%2FGrievance_Redressal_Policy_Version_1_1_3.pdf",
+      "type": "pdf",
+      "note": "HDFC grievance redressal policy.",
+      "ok": false,
+      "error": "timeout('The read operation timed out')"
+    },
+    {
+      "cat": "bank_documents",
+      "name": "axis_grievance_redressal_policy_2026",
+      "url": "https://www.axis.bank.in/docs/default-source/default-document-library/grievance-redressal/grievance-redressal-policy.pdf?sfvrsn=3866ba1d_16",
+      "type": "pdf",
+      "note": "Axis Bank grievance redressal policy.",
+      "ok": true,
+      "status": 200,
+      "content_type": "application/pdf",
+      "final_url": "https://www.axis.bank.in/docs/default-source/default-document-library/grievance-redressal/grievance-redressal-policy.pdf?sfvrsn=3866ba1d_16",
+      "saved": [
+        "bank_documents/axis_grievance_redressal_policy_2026.pdf"
+      ],
+      "bytes": 354827
+    },
+    {
+      "cat": "bank_documents",
+      "name": "axis_credit_card_mitc",
+      "url": "https://www.axisbank.com/docs/default-source/default-document-library/mitc-credit-cards.pdf?sfvrsn=3e341456_8",
+      "type": "pdf",
+      "note": "Axis Bank credit card MITC.",
+      "ok": true,
+      "status": 200,
+      "content_type": "application/pdf",
+      "final_url": "https://www.axis.bank.in/docs/default-source/default-document-library/mitc-credit-cards.pdf?sfvrsn=3e341456_8",
+      "saved": [
+        "bank_documents/axis_credit_card_mitc.pdf"
+      ],
+      "bytes": 686647
+    },
+    {
+      "cat": "bank_documents",
+      "name": "axis_code_of_commitment",
+      "url": "https://www.axisbank.com/docs/default-source/default-document-library/code-of-commitment.pdf",
+      "type": "pdf",
+      "note": "Axis Bank code of commitment, includes complaints/grievance handling.",
+      "ok": true,
+      "status": 200,
+      "content_type": "application/pdf",
+      "final_url": "https://www.axis.bank.in/docs/default-source/credit-cards/terms-and-conditions/code-of-commitment.pdf",
+      "saved": [
+        "bank_documents/axis_code_of_commitment.pdf"
+      ],
+      "bytes": 658916
+    },
+    {
+      "cat": "bank_documents",
+      "name": "axis_support_grievance_page",
+      "url": "https://axisbank.com/support",
+      "type": "html",
+      "note": "Axis support page with grievance escalation and PNO references.",
+      "ok": true,
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "final_url": "https://application.axisbank.co.in/webforms/axis-support/index.aspx",
+      "saved": [
+        "bank_documents/axis_support_grievance_page.html",
+        "bank_documents/axis_support_grievance_page.txt"
+      ],
+      "bytes": 771
+    },
+    {
+      "cat": "bank_documents",
+      "name": "icici_credit_card_mitc",
+      "url": "https://www.icicibank.com/content/dam/managed-assets/docs/personal/cards/MITC_cc.pdf",
+      "type": "pdf",
+      "note": "ICICI credit card MITC with grievances, escalations, customer care.",
+      "ok": true,
+      "status": 200,
+      "content_type": "application/pdf",
+      "final_url": "https://www.icici.bank.in/content/dam/managed-assets/docs/personal/cards/MITC_cc.pdf",
+      "saved": [
+        "bank_documents/icici_credit_card_mitc.pdf"
+      ],
+      "bytes": 476577
+    },
+    {
+      "cat": "bank_documents",
+      "name": "icici_customer_grievance_redressal_policy",
+      "url": "https://www.icicibank.com/content/dam/icicibank/managed-assets/docs/complaint/customergrievance-redressal-policy.pdf",
+      "type": "pdf",
+      "note": "ICICI grievance redressal policy PDF linked from official complaints page.",
+      "ok": true,
+      "status": 200,
+      "content_type": "application/pdf",
+      "final_url": "https://www.icici.bank.in/content/dam/icicibank/managed-assets/docs/complaint/customergrievance-redressal-policy.pdf",
+      "saved": [
+        "bank_documents/icici_customer_grievance_redressal_policy.pdf"
+      ],
+      "bytes": 385301
+    },
+    {
+      "cat": "bank_documents",
+      "name": "icici_feedback_complaint_page",
+      "url": "https://www.icicibank.com/feedback",
+      "type": "html",
+      "note": "ICICI online complaint/service request flow.",
+      "ok": true,
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "final_url": "https://www.icici.bank.in/complaint?ITM=nli_c1034_na_headerComponent_2_CMS_help_informationCenter_feedback_NLI",
+      "saved": [
+        "bank_documents/icici_feedback_complaint_page.html",
+        "bank_documents/icici_feedback_complaint_page.txt"
+      ],
+      "bytes": 1042021
+    },
+    {
+      "cat": "bank_documents",
+      "name": "sbi_card_customer_grievance_policy",
+      "url": "https://www.sbicard.com/sbi-card-en/assets/docs/pdf/footer/fair-practice-code/customer-grievance-policy.pdf",
+      "type": "pdf",
+      "note": "SBI Card customer grievance policy.",
+      "ok": true,
+      "status": 200,
+      "content_type": "application/pdf",
+      "final_url": "https://www.sbicard.com/sbi-card-en/assets/docs/pdf/footer/fair-practice-code/customer-grievance-policy.pdf",
+      "saved": [
+        "bank_documents/sbi_card_customer_grievance_policy.pdf"
+      ],
+      "bytes": 389734
+    },
+    {
+      "cat": "bank_documents",
+      "name": "sbi_card_mitc_english",
+      "url": "https://www.sbicard.com/sbi-card-en/assets/docs/pdf/most-important-terms-and-conditions/English%20MITC.pdf",
+      "type": "pdf",
+      "note": "SBI Card MITC.",
+      "ok": true,
+      "status": 200,
+      "content_type": "application/pdf",
+      "final_url": "https://www.sbicard.com/sbi-card-en/assets/docs/pdf/most-important-terms-and-conditions/English%20MITC.pdf",
+      "saved": [
+        "bank_documents/sbi_card_mitc_english.pdf"
+      ],
+      "bytes": 128963
+    },
+    {
+      "cat": "bank_documents",
+      "name": "sbi_card_contact_grievance_page",
+      "url": "https://www.sbicard.com/en/contact-us/personal.page",
+      "type": "html",
+      "note": "SBI Card contact and grievance redressal page.",
+      "ok": true,
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "final_url": "https://www.sbicard.com/en/contact-us/personal.page",
+      "saved": [
+        "bank_documents/sbi_card_contact_grievance_page.html",
+        "bank_documents/sbi_card_contact_grievance_page.txt"
+      ],
+      "bytes": 421561
+    },
+    {
+      "cat": "datasets",
+      "name": "banking77_readme",
+      "url": "https://huggingface.co/datasets/PolyAI/banking77/raw/main/README.md",
+      "type": "text",
+      "note": "BANKING77 dataset card: 13,083 banking queries across 77 intents.",
+      "ok": true,
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "final_url": "https://huggingface.co/datasets/PolyAI/banking77/raw/main/README.md",
+      "saved": [
+        "datasets/banking77_readme.txt"
+      ],
+      "bytes": 9779
+    },
+    {
+      "cat": "datasets",
+      "name": "banking77_train_parquet",
+      "url": "https://huggingface.co/datasets/PolyAI/banking77/resolve/main/data/train-00000-of-00001.parquet",
+      "type": "binary",
+      "note": "BANKING77 train split if available via Hugging Face resolve URL.",
+      "ok": false,
+      "error": "<HTTPError 404: 'Not Found'>"
+    },
+    {
+      "cat": "datasets",
+      "name": "banking77_test_parquet",
+      "url": "https://huggingface.co/datasets/PolyAI/banking77/resolve/main/data/test-00000-of-00001.parquet",
+      "type": "binary",
+      "note": "BANKING77 test split if available via Hugging Face resolve URL.",
+      "ok": false,
+      "error": "URLError(ConnectionResetError(54, 'Connection reset by peer'))"
+    },
+    {
+      "cat": "datasets",
+      "name": "cfpb_consumer_complaints_sample_200",
+      "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/api/v1/?size=200&format=json",
+      "type": "json",
+      "note": "Official CFPB complaint API sample for classification/prototyping. Full dataset is much larger and should be downloaded separately only if needed.",
+      "ok": false,
+      "error": "timeout('The read operation timed out')"
+    },
+    {
+      "cat": "datasets",
+      "name": "cfpb_huggingface_dataset_card",
+      "url": "https://huggingface.co/datasets/CFPB/consumer-finance-complaints/raw/main/README.md",
+      "type": "text",
+      "note": "CFPB Hugging Face dataset card/metadata.",
+      "ok": true,
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "final_url": "https://huggingface.co/datasets/CFPB/consumer-finance-complaints/raw/main/README.md",
+      "saved": [
+        "datasets/cfpb_huggingface_dataset_card.txt"
+      ],
+      "bytes": 16834
+    },
+    {
+      "cat": "research_references",
+      "name": "aws_amazon_finance_regulatory_inquiry_genai",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-amazon-finance-streamlines-regulatory-inquiries-by-using-generative-ai-on-aws/",
+      "type": "html",
+      "note": "Architecture reference: regulatory inquiries using RAG, Claude, vector store, observability, audit.",
+      "ok": true,
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "final_url": "https://aws.amazon.com/blogs/machine-learning/how-amazon-finance-streamlines-regulatory-inquiries-by-using-generative-ai-on-aws/",
+      "saved": [
+        "research_references/aws_amazon_finance_regulatory_inquiry_genai.html",
+        "research_references/aws_amazon_finance_regulatory_inquiry_genai.txt"
+      ],
+      "bytes": 1083924
+    },
+    {
+      "cat": "research_references",
+      "name": "aws_stripe_financial_compliance_agents",
+      "url": "https://aws.amazon.com/blogs/machine-learning/production-grade-ai-agents-for-financial-compliance-lessons-from-stripe/",
+      "type": "html",
+      "note": "Architecture/reference for AI agents in financial compliance with human oversight and audit trail.",
+      "ok": true,
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "final_url": "https://aws.amazon.com/blogs/machine-learning/production-grade-ai-agents-for-financial-compliance-lessons-from-stripe/",
+      "saved": [
+        "research_references/aws_stripe_financial_compliance_agents.html",
+        "research_references/aws_stripe_financial_compliance_agents.txt"
+      ],
+      "bytes": 1085640
+    },
+    {
+      "cat": "research_references",
+      "name": "dataiku_ai_explainability_finance",
+      "url": "https://www.dataiku.com/blog/ai-explainability-for-financial-services",
+      "type": "html",
+      "note": "Explainability/auditability reference for finance AI systems.",
+      "ok": true,
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "final_url": "https://www.dataiku.com/blog/ai-explainability-for-financial-services",
+      "saved": [
+        "research_references/dataiku_ai_explainability_finance.html",
+        "research_references/dataiku_ai_explainability_finance.txt"
+      ],
+      "bytes": 396369
+    },
+    {
+      "cat": "research_references",
+      "name": "american_express_connectchain_genai_open_source",
+      "url": "https://americanexpress.io/generative-ai-meets-open-source-at-american-express/",
+      "type": "html",
+      "note": "Enterprise GenAI orchestration/security reference from American Express.",
+      "ok": true,
+      "status": 200,
+      "content_type": "text/html",
+      "final_url": "https://americanexpress.io/generative-ai-meets-open-source-at-american-express/",
+      "saved": [
+        "research_references/american_express_connectchain_genai_open_source.html",
+        "research_references/american_express_connectchain_genai_open_source.txt"
+      ],
+      "bytes": 24531
+    },
+    {
+      "cat": "research_references",
+      "name": "ragas_paper_html",
+      "url": "https://arxiv.org/html/2309.15217v1",
+      "type": "html",
+      "note": "RAGAS evaluation paper reference.",
+      "ok": true,
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "final_url": "https://arxiv.org/html/2309.15217v1",
+      "saved": [
+        "research_references/ragas_paper_html.html",
+        "research_references/ragas_paper_html.txt"
+      ],
+      "bytes": 130645
+    },
+    {
+      "cat": "research_references",
+      "name": "langfuse_ragas_eval_guide",
+      "url": "https://langfuse.com/guides/cookbook/evaluation_of_rag_with_ragas",
+      "type": "html",
+      "note": "Practical RAGAS evaluation with Langfuse guide.",
+      "ok": true,
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "final_url": "https://langfuse.com/guides/cookbook/evaluation_of_rag_with_ragas",
+      "saved": [
+        "research_references/langfuse_ragas_eval_guide.html",
+        "research_references/langfuse_ragas_eval_guide.txt"
+      ],
+      "bytes": 588877
+    }
+  ]
+}

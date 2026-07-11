@@ -1,0 +1,581 @@
+617 Master Directions - Reserve Bank of India
+
+Skip to main content
+
+Change Language हिंदी
+
+Search the Website Search
+
+# Master Directions
+
+## Master Direction – Reserve Bank of India (Credit Information Reporting) Directions, 2025
+
+RBI/DoR/2024-25/125 DoR.FIN.REC.No.55/20.16.056/2024-25
+
+January 06, 2025
+
+All Commercial Banks including Small Finance Banks, Local Area Banks and Regional Rural Banks and excluding Payment BanksAll Primary (Urban) Co-operative Banks/ State Co-operative Banks/ Central Co-operative BanksAll India Financial Institutions (Exim Bank, NABARD, NHB, SIDBI and NaBFID)All Non-Banking Financial Companies including Housing Finance CompaniesAll Asset Reconstruction CompaniesAll Credit Information Companies
+
+Dear Sir/ Madam,
+
+Master Direction – Reserve Bank of India (Credit Information Reporting) Directions, 2025
+
+The Reserve Bank of India (RBI) has, from time to time, issued several instructions / directives to its regulated entities (REs) on credit information reporting.
+
+2. The enclosed Master Direction – Reserve Bank of India (Credit Information Reporting) Directions, 2025 consolidates the instructions issued to REs on reporting of the credit information.
+
+3. These Directions are issued by RBI in exercise of the powers conferred under Section 11 of the Credit Information Companies (Regulation) Act, 2005.
+
+Yours faithfully,
+
+(J. P. Sharma) Chief General Manager
+
+Encl: Reserve Bank of India (Credit Information Reporting) Directions, 2025
+
+---
+
+| Table of Contents |
+| --- |
+| CHAPTER - I: PRELIMINARY |
+| 1 Short Title and Commencement |
+| 2 Applicability |
+| 3 Definitions |
+| CHAPTER - II: MEMBERSHIP |
+| 4 Membership of the CICs |
+| CHAPTER - III: CREDIT INFORMATION REPORTING AND DISSEMINATION |
+| 5 Data Formats for reporting of Credit Information |
+| 6 Submission of Data by CIs |
+| 7 Data Validation by CICs and Rectification of Rejected Data |
+| 8 Data Quality Index |
+| 9 Credit Information dissemination by CICs |
+| 10 Correction of Credit Information Report |
+| 11 Use of credit information reports in credit appraisal |
+| 12 Display of information by CIs |
+| 13 Applicability of other instructions issued by Department of Regulation |
+| CHAPTER - IV: TECHNICAL WORKING GROUP |
+| 14 Instructions on Technical Working Group |
+| 15 Standing Sub-Group of TWG |
+| CHAPTER - V: CUSTOMER SERVICE AND GRIEVANCE REDRESSAL |
+| 16 Strengthening of customer service rendered by CICs and CIs |
+| 17 Framework for compensation to customers for delayed updation/ rectification of credit information |
+| 18 Miscellaneous Instructions |
+| 19 Reserve Bank- Integrated Ombudsman Scheme, 2021 |
+| 20 Appointment of Internal Ombudsman |
+| CHAPTER - VI: BEST PRACTICES FOR CIs AND CICs |
+| 21 Best Practices for CIs |
+| 22 Best Practices for CICs |
+| CHAPTER - VII: REPEAL PROVISIONS AND INTERPRETATIONS |
+| Annex - I: List of the CICs registered with the RBI |
+| Annex- II: Eligibility criteria for entities to be categorised as SU under clause (j) of Regulation 3 of CIC Regulations |
+| Annex- III: Operational guidelines to be observed by CICs while entering into a membership agreement with entities eligible to become SU under clause (j) of Regulation 3 of CIC Regulations |
+| Annex - IV: Uniform Credit Reporting Format |
+| Annex - V: Guidelines for reporting of Credit Information in the UCRF |
+| Annex - VI: Credit information reporting regarding members of the SHGs |
+| Annex - VII: Provisions of the credit information reporting mechanism subsequent to cancellation of licence or Certificate of Registration |
+| Annex - VIII: Consumer Data Quality Index |
+| Annex - IX: Commercial Data Quality Index |
+| Annex - X: Microfinance Data Quality Index |
+| Annex - XI: Information on secured assets possessed under the SARFAESI Act, 2002 |
+| Annex - XII: Disclosure by CICs |
+| Annex - XIII: Illustrative examples for apportionment of Compensation amount |
+| Annex - XIV: Best Practices for CIs |
+| Annex - XV: Best Practices for CICs |
+| Annex - XVI: List of Circulars repealed with the issuance of Master Direction |
+
+Master Direction – Reserve Bank of India (Credit Information Reporting) Directions, 2025
+
+In exercise of the powers conferred by Section 11 of the Credit Information Companies (Regulations) Act, 2005 (hereinafter referred to as CICRA), the Reserve Bank of India (hereinafter referred to as ‘the RBI’) being satisfied that it is necessary and expedient in the public interest to do so, hereby issues the Master Direction – Reserve Bank of India (Credit Information Reporting) Directions, 2025, hereinafter specified.
+
+Objective
+
+These directions aim to establish a standardised framework for reporting and dissemination of credit information; safeguard the confidentiality and security of sensitive credit data; provide mechanisms for consumers to access their credit information and grievance redressal on matters related to credit information reporting.
+
+CHAPTER – I: PRELIMINARY
+
+1. Short Title and Commencement
+
+(1) These Directions shall be called the Master Direction – Reserve Bank of India (Credit Information Reporting) Directions, 2025.
+
+(2) These Directions shall come into force with immediate effect, unless otherwise specified.
+
+2. Applicability
+
+The provisions of these Directions shall be applicable to credit institutions (CIs) and credit information companies (CICs) as defined in these Directions.
+
+3. Definitions
+
+(1) For the purpose of these directions, unless the context otherwise requires:
+
+(a) “Company” means a company defined under section 3 of the Companies Act, 1956 or corresponding section under the Companies Act, 2013.
+
+(b) “Credit Information Companies (CICs)” means companies that have been granted a certificate of registration under section 5 of the CICRA. The CICs registered with RBI under Section 5 of the CICRA are listed in Annex I.
+
+(c) “Credit Institutions (CIs)” means the following institutions:
+
+(i) Banks -
+
+All Commercial Banks (including Small Finance Banks, Local Area Banks and Rural Banks, and excluding Payment Banks)
+
+All Primary (Urban) Co-operative Banks, State Co-operative Banks and Central Co-operative Banks
+
+(ii) All India Financial Institutions (AIFIs) regulated by the Reserve Bank, viz.,
+
+Export Import Bank of India (EXIM Bank)
+
+National Bank for Agriculture and Rural Development (NABARD)
+
+National Housing Bank (NHB)
+
+Small Industries Development Bank of India (SIDBI) and
+
+National Bank for Financing Infrastructure and Development (NaBFID)
+
+(iii) All Non-Banking Financial Companies1 (including Housing Finance Companies)
+
+(iv) All Asset Reconstruction Companies (ARCs)
+
+(d) “Specified User (SU)” shall have the same meaning assigned to it under clause (l) of section 2 of CICRA and those notified under regulation 3 of the Credit Information Companies Regulations, 2006 (as amended from time to time).
+
+(2) Words or expressions used in these Directions and not defined herein, but defined in CICRA, 2005, the Credit Information Companies Rules, 2006 (hereinafter referred to as “CIC Rules”) and the Credit Information Companies Regulations, 2006, (hereinafter referred to as “CIC Regulations”), shall have the same meanings as assigned to them in these Statute/ Rules/ Regulations. Any other words or expressions used and not defined in these directions or aforesaid Statute/ Rules/ Regulations and defined in Reserve Bank of India Act, 1934 or Banking Regulation Act, 1949 or the Companies Act, 2013 shall have the same meanings as assigned to them in these Acts.
+
+CHAPTER - II: MEMBERSHIP
+
+4. Membership of the CICs
+
+(1) All CIs shall become members of all the CICs registered with the RBI.
+
+(2) One-time membership fee charged by the CICs from the CIs to become their members shall not exceed ₹10,000/- each.
+
+(3) The annual fees charged by the CICs from the CIs shall not exceed ₹5,000/- each.
+
+(4) While entering into a membership agreement with entities eligible to become Specified Users (SUs) under clause (j) of Regulation 3 of the CIC Regulations2 (as amended from time to time), CICs shall ensure the following:
+
+CICs shall adhere to the guidelines on the eligibility criteria for entities to be categorized as SU under clause (j) of Regulation 3 of the CIC Regulations issued vide press release dated January 05, 2022 as mentioned at Annex II.
+
+CICs shall put in place an appropriate due diligence and control mechanism while giving membership, and also share credit information with entities that are eligible to become SU under the aforesaid clause.
+
+A broad set of operational guidelines to be observed by CICs while entering into a membership agreement with entities eligible to become SU under the aforesaid clause is mentioned at Annex III.
+
+CICs should monitor the compliance of the entities categorized as SU under the aforesaid clause to the eligibility criteria and other operational guidelines issued by RBI on an annual basis. CICs shall obtain an undertaking on a quarterly basis from these entities stating that they are complying with the eligibility criteria and other operational guidelines issued by RBI on the matter.
+
+CHAPTER - III: CREDIT INFORMATION REPORTING AND DISSEMINATION
+
+5. Data Formats for reporting of Credit Information
+
+The reporting of credit information by CIs to the CICs, shall be undertaken in standardised data formats as prescribed in Annex IV. These standardised data formats would be a non-proprietary reporting format and shall be known as “Uniform Credit Reporting Format” (UCRF) as denoted below:
+
+Form 1: Uniform Credit Reporting Format (Consumer) – for consumer segment.
+
+Form 2: Uniform Credit Reporting Format (Commercial) – for commercial segment
+
+Form 3: Uniform Credit Reporting Format (MFI) – for microfinance segment.
+
+6. Submission of Data by CIs
+
+(1) Reporting of Credit Information by CIs
+
+(a) CIs shall submit data on credit information of its borrowers (including historical data) to all CICs.
+
+(b) CICs and CIs shall keep the credit information collected/ maintained by them, updated regularly on a fortnightly basis (i.e., as on 15th and last day of the respective month) or at shorter intervals as mutually agreed upon between the CI and CIC. The fortnightly submission of credit information by CIs to CICs shall be ensured within seven (7) calendar days of the relevant reporting fortnight. CICs shall provide a list of CIs which are not adhering to the fortnightly data submission timelines to Department of Supervision, Reserve Bank of India, Central Office at half yearly intervals (as on March 31 and September 30 each year) for information and monitoring purposes.
+
+(c) CIs shall ensure that the records submitted to CICs are updated regularly and that no instances of repayment, including that of the last instalment, are left unreported.
+
+(d) The CICRA provides statutory backing for sharing of credit information by CIs with CICs subject to conditions stipulated therein. Therefore, with CICRA coming into force, the "consent clause" has become redundant and hence consent of the borrower prescribed vide Annexure-I and II of the circular DBOD.No.DL.BC.29/20.16.002/2002-03 dated October 1, 2002 need not be insisted upon by banks.
+
+(e) While reporting the credit information in the UCRF, among others, the guidelines mentioned in Annex V shall be adhered to by CIs.
+
+(2) Credit information reporting in respect of Self Help Group (SHG) members
+
+(a) CIs financing SHGs shall report the SHG member level data to CICs in the Uniform Credit Reporting Format (MFI) as mentioned in Annex IV.
+
+(b) The structure of the credit information in respect of SHG members to be collected and reported by CIs to CICs is mentioned at Annex VI.
+
+(3) Credit Information Reporting Mechanism subsequent to cancellation of licence or Certificate of Registration
+
+(a) In case of cancellation of Certification of Registration (CoR)/ licence of a CI by RBI, either through voluntary submission or supervisory action, CICs shall insert a suitable disclaimer in the records of the CI’s borrowers to reflect non-updatability of the record due to closure of the CI in their CIR.
+
+(b) In order to address the challenges in updating credit information of borrowers of CI whose Certification of Registration (CoR)/ licence has been cancelled, CICs and CIs shall implement, before April 10, 2025, a credit information reporting mechanism subsequent to cancellation of licence/ CoR of banks/ NBFCs as given in Annex VII.
+
+7. Data Validation by CICs and Rectification of Rejected Data
+
+(1) The CICs shall share with the CIs, the logic and validation processes involved in data acceptance, so that instances of data rejection are minimised. The reasons for rejection shall be parameterised by the CICs and circulated among the concerned CIs.
+
+(2) Rejection reports issued by CICs shall be simple and understandable so that they can be used for fixing reporting and data level issues by the CIs.
+
+(3) CIs shall rectify the rejected data and upload the same with the CICs within seven days of receipt of such rejection report.
+
+(4) CICs shall undertake periodic exercises/checks, at least once in a quarter, to identify identifier inconsistencies in its database and share the findings of such identifier inconsistencies with the respective CIs for confirming the accuracy of the same. The list of CIs who do not respond in timely manner (say within a month) to such data cleansing exercises shall be sent to Department of Supervision, Central Office at half yearly intervals (as on March 31 and September 30) for information.
+
+Explanation: CICs shall not share the data received from CIs under CICRA for ascertaining identifier inconsistencies with its respective nodal authorities and also not make changes to its database without obtaining confirmation from the respective CIs.
+
+8. Data Quality Index
+
+(1) CICs shall prepare and provide Data Quality Index (DQI) for Consumer, Commercial and Microfinance segments as given in Annex VIII, IX and X, respectively, for assessing the quality of data submissions by CIs to CICs and improving the same over a period of time.
+
+(2) CICs shall provide DQIs for the three reporting segments (Consumer, Commercial and Microfinance) in the form of numeric scores on a monthly basis to all member CIs.
+
+(3) DQI score for the Consumer segment shall be provided at CI level as an average of demographic and trade data scores and such DQI score shall be computed as an average of file level DQI scores of that CI.
+
+(4) DQI scores for Commercial and Microfinance segments shall also be provided at CI and file level. The DQI scores for Commercial and Microfinance segments at CI level shall be computed as weighted average of file level DQI scores of Commercial and Microfinance segments, respectively, of that CI.
+
+(5) CICs shall compute industry level DQIs for each of the three reporting segments as weighted average of the CI level DQI in their respective category (e.g. Public-Sector Banks, Private Sector Banks, Foreign Banks, Co-operative Banks, RRBs, NBFCs etc.) on monthly basis. Further, a half yearly Industry Benchmark shall be calculated as a rolling average of preceding six months Industry level DQI score of the respective category of CIs.
+
+(6) CICs shall provide reasons for decline in score to each CI, if its (a) CI level score has declined over the previous month or (b) CI level score is lower than the half yearly industry benchmark.
+
+(7) CICs shall provide monthly data of CI level DQI and industry level DQI of all segments to Department of Supervision, Reserve Bank of India, Central Office at half yearly intervals as on September 30 and March 31 each year, for information and monitoring purposes.
+
+(8) CIs are advised to undertake half yearly review of the DQI for all segments to improve the quality of the data being submitted to CICs. A report consisting of issues identified and corrective steps taken shall be placed before its top management by each CI for review within two months from the end of that half-year.
+
+9. Credit Information dissemination by CICs
+
+(1) Credit Information Report (CIR)
+
+(a) It is not considered necessary to standardise the format of the CIR as some differentiation is essential for promoting competition in the market. However, CICs shall standardise the CIR terminology and also have some mandatory key fields. This would facilitate comparison between CIRs received from two or more CICs, by the users.
+
+(b) CICs shall provide a single credit information report (CIR) for one borrower, even if the firm/ person has more than one address, by utilising a unique identification number such as PAN number, Voter ID number, Passport number, Driving License number, etc., provided by the CI.
+
+(c) CICs shall capture details of co-borrowers and guarantors, wherever applicable, in the CIR. This would facilitate deciding on the extent of exposure a CI can consider on an entity. The CIR shall give details of the loans availed by the customers in their capacity as borrower/co-borrower/guarantor.
+
+(d) In the case of multiple borrowings by the same customer, involving both current and closed accounts, the CICs shall provide information on various accounts in the order of live accounts, closed accounts and overall position of NPA status/ wilful default/ suit filed, with limits and liabilities for each account.
+
+(e) CIR shall provide appropriate disclosures, if any information contained therein has been disputed and the matter has not been satisfactorily resolved. If the customer so desires, his/ her comment could also be added to the CIR. Certain fields pertaining to consumer disputes viz. dispute code, dispute description, dispute date and consumer comments on disputes (as listed in Annex 5 of the Aditya Puri Committee Report3) may be included in the CIR.
+
+(f) Information relating to loans declined previously to customers shall not be reported by CICs, as such information could be prejudicial to the interests of the customer as rejection in one CI could be used as a ground for rejection of the same by another CI.
+
+(g) In addition to the existing CIR, the CICs may provide a comprehensive credit information report (CCIR) incorporating the credit information in respect of a borrower available in all the modules, i.e., the consumer, commercial and MFI, as an additional option for usage by CIs. This would provide the CIs with an option to consume either the CIR or the CCIR, based on their respective credit appraisal requirements.
+
+(h) To facilitate the understanding and interpretation of credit scores in an easy and consistent manner, the credit scores shall be calibrated from 300 to 900 by all CICs, so that they have a common classification of credit scores.
+
+(i) The CICs shall provide access in an electronic format, upon request and after due authentication of the requester, to one free full credit report (FFCR) including credit score, once, at any time, during a year (January – December), to individuals whose credit score is available with them. FFCR shall show the latest position of the CIs exposure to the individual as per the records available with the CICs. The contents of the FFCR shall be the same as appearing in the most detailed version of the reports of the individual provided to CIs, including the credit score. CICs shall prominently display the link for accessing the FFCR on their website (on the homepage itself) so that individuals are able to access their FFCR conveniently. The CICs shall have a Board approved policy on making available the FFCR.
+
+(j) The enquiry module of CICs for generation of CIRs shall have appropriate sub-fields (with not more than 5-7 options each) for the SUs to choose from while selecting the purpose of enquiry. Further, one of the sub-fields in the enquiry module of CICs shall be invariably designated as ‘Business Loan - Director Search - soft enquiry - score unaffected’. CICs shall conduct awareness programmes to sensitize SUs on the importance of choosing correct enquiry parameters and its implications.
+
+(2) Sharing of credit information with third party entities based on consent of individuals
+
+It is observed that the CICs are sharing credit information based on consent of an individual, with entities which are not SUs, by entering into an agreement with such entities. Given the sensitivity and possible misuse while sharing such credit information, the CICs shall put in place a suitable mechanism for the purpose.
+
+(a) CICs shall put in place a robust due diligence and control mechanism while sharing credit information of an individual based on his/her consent with entities which are not specified users, by entering into agreement with such entities. This shall involve an evaluation of all the available information about the entity, including but not limited to the following:
+
+The general character of management should not be prejudicial to public interest.
+
+Business reputation, ownership structure, compliance/ governance standards, grievance redressal mechanism and outstanding litigation.
+
+Financial soundness and ability to service commitments even under adverse conditions.
+
+Necessary technological, entrepreneurial and managerial resources to support the proposed activity of the customers over the contracted period.
+
+Information security and internal control, audit coverage, monitoring and reporting environment and business continuity management.
+
+(b) CICs while sharing credit information of an individual with an entity based on consent shall ensure from the entity that:
+
+The entity, in its capacity as an authorized representative of the individual, shall use the CIR solely for the limited end use as agreed between them and shall not use or sell or resell or pass on information to any other person or engage itself in obtaining CIR other than for the consented purpose. "Individual Consent" means the prior written consent of the individual by any documented means, stored as an electronic or physical record verifiable from time to time and permanent in nature.
+
+The credit information shared by CICs with these entities is stored only for a limited time period of six months, or till such time the credit information is required to be retained to satisfy the purpose for which it was intended, or the individual withdraws his/her consent to store such credit information, whichever is earlier and thereafter, the stored credit information shall be deleted. If the purpose for which such credit information so obtained by the entities is not fulfilled, then these entities would be required to seek a fresh consent from the concerned individual for retaining credit information beyond a period of six months as stated above. The Information System auditor appointed for the purpose shall examine compliance to the above.
+
+There is no unauthorized use by any other third party including but not limited to any of its group companies, subsidiaries, affiliates or associates in violation of the provisions of CICRA, 2005 and other applicable laws.
+
+Such information is shared with its employees or agents on a ‘need to know basis’ only, while ensuring that such employees or agents with access to the said information are subjected to obligation of confidentiality.
+
+The credit information received is duly protected both online and offline against any unauthorized access or use, to ensure the confidentiality and security of all transactions except for disclosures made as agreed to between the entity and the individual.
+
+The credit information received shall be processed and stored in India and not transferred outside India.
+
+(c) With respect to Information System (IS) Audit –
+
+The CICs shall incorporate a clause in their agreement that a CISA certified auditor appointed by the entity would conduct IS audit of the entities with whom CICs have entered into agreement for sharing of credit information based on consent of the individual and the IS audit reports in this regard shall be submitted to CICs. Such audit shall be undertaken annually or even earlier, if warranted.
+
+The scope of IS audit or appointed IS auditor would be to ensure that the entities are adhering to Section 19, 20 and 22 of CICRA, 2005 and Rules 18(b), 23, 28 and 29 of the CIC Rules, 2006 and are using the credit information for the permitted purposes.
+
+The IS audit reports and the review undertaken by the Board of the CIC shall be shared with the supervisory team of RBI.
+
+(d) CICs while entering into an agreement with these entities may incorporate appropriate provisions in the contract/ agreement for enforcement of these guidelines. Violation of any clause of the agreement by the entities or any adverse observations of the IS auditor against the entities would warrant CICs to initiate stringent action which may include, inter alia, termination of the agreement.
+
+10. Correction of Credit Information Report
+
+(1) CIs and CICs shall abide by the time periods stipulated under CICRA and the Rules and Regulations framed thereunder in respect of updation, alteration of credit information, resolving disputes, etc. Procedure prescribed under Rules 20, 21, 25 and 26 of the CIC Rules, 2006 in this regard shall be adhered to. Deviations from stipulated time limits shall be monitored and commented upon in the periodical reports/reviews put up to the Board/ Committee of Board on customer service.
+
+(2) The CIs as well as the CICs shall have arrangements in place to receive customer requests for rectification of data in CIRs. In order to maintain high data quality, all erroneous data shall be corrected at the source by the CI that originally submitted the data. The CIC shall not change borrower data unless the CI submitting the data has rectified it at the source to obviate the risk of updated data being overwritten by erroneous data in the next submission cycle by the CI.
+
+(3) The CICs shall provide a special ‘view’ / ‘read only’ access to the member CIs to view account level updates in their database through a front-end interface to enable CIs to confirm or upload account updates/ correction requests and also in speedy resolving of discrepancies in CIRs. The CICs shall operationalise a full-fledged online data correction mechanism, in the interest of customer service.
+
+(4) In case any correction is carried out in the CIR, the CICs shall provide a free copy of the corrected report to whom the report had been issued during the previous six months. However, the cost of the CIR may be borne by the members of CICs, if they are responsible for the inaccurate data.
+
+11. Use of credit information reports in credit appraisal
+
+(1) The CIs shall include in their loan policies/ credit appraisal processes, suitable provisions for obtaining CIRs from one or more CICs so that the credit decisions are based on credit information available in the system.
+
+(2) CICs should regularly hold workshops for CIs, in association with Indian Banks Association (IBA) or Micro Finance Institutions Network (MFIN)/ Sa-Dhan, as the case may be, for creating awareness about use of CIRs in credit appraisal and in better screening of loan applicants.
+
+12. Display of information by CIs4
+
+CIs, which are secured creditors as per the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002, shall display, on their website, information in respect of the borrowers whose secured assets have been taken into possession by the CIs under the SARFAESI Act, 2002 as per the format given in Annex XI. The list consisting of this information shall be updated on monthly basis.
+
+13. Applicability of other instructions issued by Department of Regulation
+
+CIs and CICs shall ensure compliance with the applicable instructions on credit information reporting, as prescribed in the following Directions/ Circulars:
+
+(1) Master Direction – Credit Card and Debit Card – Issuance and Conduct Directions, 2022 dated April 21, 2022, as amended from time to time.
+
+(2) Master Direction – Classification, Valuation and Operation of Investment Portfolio of Commercial Banks, Directions, 2023, dated September 12, 2023, as amended from time to time.
+
+(3) Master Direction – Standalone Primary Dealers (Reserve Bank) Directions, 2016, dated August 23, 2016, as amended from time to time.
+
+(4) Master Direction – Reserve Bank of India (Prudential Regulations on Basel III Capital Framework, Exposure norms, Significant Investments, Classification, Valuation and Operation of Investment Portfolio Norms for All India Financial Institutions) Directions, 2023, dated September 21, 2023, as amended from time to time.
+
+(5) Guidelines on Digital Lending dated September 02, 2022, as amended from time to time.
+
+(6) Master Direction – Reserve Bank of India (Non-Banking Financial Company– Scale Based Regulation) Directions, 2023 dated October 19, 2023 as amended from time to time.
+
+(7) Master Direction – Reserve Bank of India (Transfer of Loan Exposures) Directions, 2021 dated September 24, 2021, as amended from time to time.
+
+(8) Master Direction - Reserve Bank of India (Financial Services provided by Banks) Directions, 2016 dated May 26, 2016, as amended from time to time.
+
+(9) Master Direction – Non-Banking Financial Company – Peer to Peer Lending Platform (Reserve Bank) Directions, 2017 dated October 04, 2017, as amended from time to time.
+
+CHAPTER – IV: TECHNICAL WORKING GROUP
+
+14. Instructions on Technical Working Group
+
+(1) In order to institutionalize a continuing mechanism for reviewing and making changes where necessary in the data formats, a Technical Working Group (TWG) shall be formed. The TWG shall carry out the following functions:
+
+(a) Review the data reporting formats, at least once a year, and make recommendations, if any, to the Reserve Bank in this regard.
+
+(b) Frame rules on data fields for all data reporting formats, viz., consumer, commercial, micro finance (MFI) segments. The data formats after finalisation by the Group will be submitted to RBI for approval.
+
+(c) Any other matter relating to collection and dissemination of credit information as the Reserve Bank may assign from time to time.
+
+(2) The TWG shall comprise of representatives from Public Sector Banks, Private Sector Banks, Foreign Banks, Primary (Urban) Cooperative Banks (UCBs), Regional Rural Banks (RRBs), All India Notified Financial Institutions (AIFIs), Non-Banking Financial Companies (NBFCs), Housing Finance Companies (HFCs), Asset Reconstruction Companies (ARCs) India Banks’ Association (IBA), Micro Finance Institutions Network (MFIN), Sa-Dhan and CICs.
+
+(3) Meetings of the TWG shall be held at least once in a calendar year. The four CICs shall act as convenor of the TWG by rotation (for each calendar year), in alphabetical order of the name.
+
+15. Standing Sub-Group of TWG
+
+(1) A Standing Sub-Group of TWG shall be constituted to function as an advisory and collaborative body to offer expert insights and make recommendations on technical aspects of credit information reporting. Its purpose would be to support in-depth discussions regarding challenges encountered by CIs and CICs in relation to credit information reporting. This includes necessary modifications, including changes in the IT systems, that may be required in the data reporting formats. The Sub-Group shall work to support the broader TWG to ensure a holistic approach to strengthening the credit information reporting ecosystem.
+
+(2) The Sub-Group of TWG would consist of representatives from Public-Sector Banks, Private Sector Banks, Foreign Banks, Small Finance Banks, Regional Rural Banks, Urban Cooperative Banks, Non-Banking Financial Companies, Asset Reconstruction Companies, Self-Regulating Organizations (SROs), viz., MFIN and Sa-Dhan, and all CICs.
+
+(3) Members of the Sub-Group shall be selected by the convenor with prior approval of the Reserve Bank. To enhance the overall expertise and effectiveness of the discussions, members of the Sub-Group shall nominate subject matter experts to its meetings.
+
+(4) The Sub-Group of TWG shall meet at least on a half yearly basis to discuss credit information reporting issues and seek potential resolutions.
+
+(5) To ensure effective coordination, the CIC that assumes the role of TWG convenor for a specific year shall also act as convenor of the Sub-Group in that particular calendar year.
+
+(6) To ensure proper preparation and informed discussions, the convenor shall send the meeting agenda and notes at least fifteen (15) days before the scheduled meeting. Additionally, if members desire to introduce a new issue or item for discussion, they should send a note outlining the points of discussion and proposed solutions to the convenor.
+
+(7) Action points emanating from discussions of the Sub-Group shall contain specific timelines required for their implementation by CICs and CIs.
+
+(8) Recommendations of the Sub-Group of TWG shall be forwarded to the Department of Regulation, Central Office, Reserve Bank of India for perusal. If required, RBI may seek TWG’s opinion on these recommendations.
+
+CHAPTER - V: CUSTOMER SERVICE AND GRIEVANCE REDRESSAL
+
+16. Strengthening of customer service rendered by CICs and CIs
+
+In order to strengthen and improve the efficacy of the grievance redress mechanism and customer service provided by the CIs and CICs, the following measures shall be put in place by CIs and CICs.
+
+(1) Intimation of access to CIR and updation of credit information with CICs
+
+(a) CICs shall send alerts through SMS/ email to customers when their CIR is accessed by the SUs, wherever mobile number/ email ID details of the customers are available. The alerts shall be sent by CICs only when the CIR enquiry reflects in the CIR of the customer.
+
+(b) CIs shall send alerts through SMS/ email to customers while submitting information to CICs regarding default/ days past due (DPD) in existing credit facilities, wherever the mobile number/email ID details are available.
+
+(c) To enable sending of alerts through SMS/ email, the Uniform Credit Reporting Format for reporting credit information by CIs to CICs has been modified as detailed in Annex XII(Item 1).
+
+(d) CIs are advised to organize special awareness campaigns to sensitize their customers about benefits of submission of their mobile numbers/ email IDs.
+
+(2) Setting up of Nodal points/ officials by CIs
+
+(a) CIs shall have a dedicated nodal point/ official of contact for CICs for redress of customer grievances. Details of the nodal point/ official along with email ID and telephone/ mobile number shall be furnished by CIs to CICs.
+
+(b) CIs shall inform CICs of any changes in the nodal points/ official within five (5) calendar days of such a change.
+
+(3) Reasons for rejection of requests for data correction by CIs
+
+(a) CIs shall inform the customers the reasons for the rejection of their request for data correction, if any, to enable such customers to better understand the issues in the CIR.
+
+(b) A list of reasons for rejection of requests shall be circulated by CICs to all CIs. CIs shall use the same while communicating the rejections of the request for data correction made by customers/ CICs during the grievance redress process.
+
+(4) Root Cause Analysis of the Complaints by CIs
+
+(a) CIs shall undertake Root Cause Analysis (RCA) of the customer grievances at least on a half yearly basis. CIs shall also use, among others, information on data rejected by the CICs and DQI provided by CICs as sources of information for carrying out RCA.
+
+(b) Analysis of the RCA shall be reviewed by the Top Management of CIs, at least, on an annual basis.
+
+(5) Periodic review of match logic algorithm by CICs
+
+(a) CICs shall have a board-approved policy for undertaking periodic review (at least on a half-yearly basis) of the ‘Search & Match’ logic algorithm implemented by them to provide CIR of a borrower.
+
+(b) CICs shall have a system of conducting Root Cause Analysis (RCA) of complaints. RCA of the complaints being undertaken by CICs shall be used to identify issues in the existing ‘Search & Match’ logic algorithm.
+
+(c) Results of the RCA and subsequent changes in the search and match logic shall be placed before the Board of Directors of the CIC for review.
+
+(6) Ingestion of credit information data by CICs
+
+(a) CICs shall ingest credit information data received from the CIs as per its data acceptance rules, into their databases within five (5) calendar days of its receipt from the CIs.
+
+(b) In case of data rejection, CICs shall communicate to the concerned CI, regarding rejection of the data with reasons, within seven (7) calendar days of receipt of the data.
+
+(7) Disclosure of complaints on credit information reporting by CICs
+
+CICs shall disclose on their websites, details of complaints registered against them and CIs as per the format given in Annex XII(Table 1 and 2).
+
+17. Framework for compensation to customers for delayed updation/ rectification of credit information
+
+CICs and CIs are directed to implement the following compensation mechanism for delayed updation/ rectification of credit information:
+
+(1) Complainants shall be entitled to a compensation of ₹100 per calendar day in case their complaint is not resolved within a period of thirty (30) calendar days from the date of the initial filing of the complaint by the complainant with a CI/ CIC.
+
+Explanation:
+
+(a) Section 21 (3) of CICRA, 2005 provides that a complainant may request a CIC or CI to update the credit information by making an appropriate correction, addition or otherwise, and on such request the CI or CIC shall take steps to update the credit information within thirty (30) days after being requested to do so.
+
+(b) Rule 20 (3) (c) of CIC Rules, 2006 provides that the CI shall forward the corrected particulars of the credit information to the CIC or complainant within a period of twenty-one (21) days from the date when the CI was informed of the inaccuracy in the credit information.
+
+(c) The combined reading of Section 21(3) of CICRA, 2005 and Rule 20 (3) (c) of CIC Rules, 2006 provide the CI and the CIC, collectively, an overall limit of thirty (30) days to resolve/ dispose of the complaint. In effect, this would mean that a CI would get twenty-one (21) days and CICs would effectively get the remainder of nine (9) days for complete resolution of the complaint.
+
+(2) A CI shall pay compensation to the complainant if the CI has failed to send updated credit information to the CICs by making an appropriate correction or addition or otherwise within twenty-one (21) calendar days of being informed by the complainant or a CIC.
+
+(3) A CIC shall pay compensation to the complainant if the CIC has failed to resolve the complaint within thirty (30) calendar days of being informed by the complainant or a CI, despite the CI having furnished the updated credit information to the CIC within twenty-one (21) calendar days of being informed by the complainant or the CIC.
+
+(4) The complainant shall be advised by the CI/ CIC of the action taken on the complaint in all cases, including the cases where the complaint has been rejected. In cases of rejection, the reasons for rejection shall also be provided by CI and CIC.
+
+(5) Compensation to be provided by the CICs/ CIs to the complainant (for delayed resolution beyond thirty (30) calendar days of filing the complaint) shall be apportioned among the CIs/ CICs concerned proportionately. Illustrative examples of the same are given in Annex XIII.
+
+(6) Where the grievance/ complaint involves inaccurate credit information provided by more than one CI, the complaint shall be registered by the complainant with the concerned CIC. The CIC shall coordinate with all the CIs concerned and furnish the complainant with a comprehensive resolution of the grievance.
+
+(7) Where the complaint has been received and registered by a CIC and there has been a delay in the resolution of the complaint, the CIC shall inform the concerned CI(s) and the complainant after the final resolution, regarding total delay (in calendar days) and the amount of compensation to be paid by the CI(s) and/ or CIC.
+
+(8) Where the complaint has been received and registered by a CI and there has been a delay in the resolution of the complaint, the CI shall inform the concerned CIC(s) and the complainant after the final resolution, regarding total delay (in calendar days) and the amount of compensation to be paid by the CI and/ or CIC(s).
+
+(9) The date of the resolution of the grievance shall be the date when the rectified CIR has been sent by the CIC or CI to the postal address or email ID provided by the complainant.
+
+(10) The CICs/ CIs shall make appropriate provision in their complaint submission format (both online and offline) for enabling the complainant to submit the contact details, email ID, and bank account details/ Unified Payment Interface (UPI) ID for crediting the compensation amount. The onus of providing accurate details will lie with the complainant and the CIs/ CICs will not be held responsible for any incorrect information provided by the complainant.
+
+(11) The compensation amount shall be credited to the bank account of the complainant within five (5) working days of the resolution of the complaint.
+
+(12) The complainant can approach RBI Ombudsman, under the Reserve Bank - Integrated Ombudsman Scheme, 2021, in case of wrongful denial of compensation by CIs or CICs.
+
+(13) In case of wrongful denial of compensation by CIs which are yet to be covered under the Reserve Bank - Integrated Ombudsman Scheme, 2021, the complainant can approach Consumer Education and Protection Cell (CEPC) functioning from Regional Offices (ROs) of Reserve Bank of India.
+
+(14) The compensation framework shall not be applicable in the following cases:
+
+(a) disputes for which remedy has been provided under Section 18 of CICRA, 2005. The Section 18 of CICRA, 2005 provides that for disputes arising amongst, CICs, CIs, borrowers, and clients on matters relating to the business of credit information and for which no remedy has been provided under CICRA, 2005, such disputes shall be settled by conciliation or arbitration as provided in the Arbitration and Conciliation Act, 1996.
+
+(b) complaints/ references relating to (i) internal administration, (ii) human resources, (iii) pay and emoluments of staff, and (iv) references in the nature of suggestions and commercial decisions of the CIC/CI.
+
+(c) complaints pertaining to disputes/ grievances regarding the computation of the credit score/ credit score model.
+
+(d) complaints that have been decided by or are already pending in other fora such as Consumer Disputes Redressal Commission, Courts, Tribunals, etc.
+
+18. Miscellaneous Instructions
+
+CICs shall share with the complainant, if he/she desires, the details of action taken with respect to their complaint, the relevant correspondences/follow-up done with the CIs and the reply received from CIs. This would not only help in tracking of complaint by the complainant but also go a long way in making the grievance redressal mechanism more robust.
+
+19. Reserve Bank- Integrated Ombudsman Scheme, 2021
+
+CICs and CIs covered under the Reserve Bank – Integrated Ombudsman Scheme, 2021 (RBIOS, 2021) shall comply with the directions provided under the said Scheme.
+
+20. Appointment of Internal Ombudsman
+
+CIC and CIs covered under the Internal Ombudsman framework shall adhere to the instructions issued vide Master Direction – Reserve Bank of India (Internal Ombudsman) Directions, 2023 dated December 29, 2023(as amended from time to time).
+
+CHAPTER – VI: BEST PRACTICES FOR CIs AND CICs
+
+21. Best Practices for CIs
+
+(1) CIs (other than ARCs) shall take into account the best practices as detailed in Annex XIV, while formulating or reviewing their policies and procedures under the CICRA with the approval of their Board of Directors.
+
+(2) ARCs shall adhere to the instructions best practices issued vide circular on Submission of information to Credit Information Companies (CICs) by ARCs dated October 10, 2024, as amended from time to time.
+
+22. Best Practices for CICs
+
+CICs shall take into account the best practices as detailed in Annex XV and put in place a system for consumer complaint redressal with the approval of their Board of Directors. Such policy shall be displayed on their websites.
+
+CHAPTER – VII: REPEAL PROVISIONS AND INTERPRETATIONS
+
+23. With these Directions coming into force, instructions / guidelines contained in the circulars mentioned in Annex XVI, issued by the Reserve Bank stand repealed.
+
+24. All approvals / acknowledgements given under the above circulars shall be deemed as given under these directions.
+
+25. All the repealed circulars are deemed to have been in force prior to the coming into effect of these directions.
+
+26. For the purpose of giving effect to the provisions of these Directions, the RBI may, if it considers necessary, issue clarifications in respect of any matter covered herein and the interpretation of any provision of these directions given by the RBI shall be final and binding on all the parties concerned. Violation of these directions shall invite penal action under the provisions of CICRA, 2005. Further, these provisions shall be in addition to, and not in derogation of the provisions of any other laws, rules, regulations or directions, for the time being in force.
+
+---
+
+Annex - XVI: List of Circulars repealed with the issuance of Master Direction
+
+| Sr No | Circular No. | Date | Subject |
+| --- | --- | --- | --- |
+| 1 | DBOD.No.DL.11590/20.16.034/2007-08 | 27.02.2008 | Credit Information Companies (Regulation) (Removal of Difficulties) Order, 2008 |
+| 2 | DBOD.No.DL.BC.138/20.16.042/2008-09 | 24.06.2009 | Access to own credit Report |
+| 3 | RPCD.CO.RRB.No.32/03.05.33/2009-10 | 20.10.2009 | Credit Information Companies (Regulation) (Removal of Difficulties) Order, 2008 |
+| 4 | RPCD.CO.RF.BC.No.44/07.40.06/2009-10 | 01.12.2009 | Credit Information Companies (Regulation) Act, 2005 |
+| 5 | UBD.BPD(PCB).Cir No.25/09.11.200/2009-10 | 03.12.2009 | Credit Information Companies (Regulation) Act, 2005 |
+| 6 | DBOD.No.DL.15214/20.16.042/2009-10 | 04.03.2010 | Grant of 'Certificate of Registration' - for Commencing Business of Credit Information - Experian Credit Information Company of India Private Ltd |
+| 7 | RPCD.CO.RRB.BC.No.62/03.05.33/2009-10 | 23.03.2010 | Grant of 'Certificate of Registration' - For commencing Business of Credit Information - Experian Credit Information Company of India Private Ltd. |
+| 8 | DBOD.No.DL.BC.83/20.16.042/2009-10 | 31.03.2010 | Grant of 'Certificate of Registration' - For Commencing Business of Credit Information - Equifax Credit Information Services Private Ltd. |
+| 9 | RPCD.CO.RRB.BC.No.70/03.05.33/2009-10 | 19.04.2010 | Grant of 'Certificate of Registration' for Commencing Business of Credit Information - Equifax Credit Information Services Private Ltd. |
+| 10 | UBD.CO.BPD.Cir.No. 60/09.11.200/2009-10 | 29.04.2010 | Credit Information Companies (Regulation) Act, 2005 – List of Credit Information Companies |
+| 11 | UBD.CO.BPD.Cir.No. 6/09.11.200/2010-11 | 09.08.2010 | Submission of data to Credit Information Companies |
+| 12 | RPCD.CO.RF.BC.No.17/07.40.06/2010-11 | 06.09.2010 | Submission of Data to Credit Information Companies |
+| 13 | DBOD.No.CID.BC.64/20.16.042/2010-11 | 01.12.2010 | Grant of 'Certificate of Registration' - For Commencing Business of Credit Information - High Mark Credit Information Services Private Limited |
+| 14 | RPCD.CO.RCB.BC.No.33/07.40.06/2010-11 | 07.12.2010 | Submission of Data to Credit Information Companies |
+| 15 | RPCD.CO.RRB.BC.No.36/03.05.33/2010-11 | 08.12.2010 | Grant of 'Certificate of Registration' - For commencing Business of Credit Information - High Mark Credit Information Services Private Limited |
+| 16 | UBD.BPD.(PCB).Cir.No.30/09.11.200/2010-11 | 22.12.2010 | Credit Information Companies (Regulation) Act, 2005 - Grant of 'Certificate of Registration' for Commencing Business of Credit Information - High Mark Credit Information Services Private Limited |
+| 17 | RPCD.CO.RRB.BC.No.41/03.05.33/2010-11 | 24.12.2010 | Submission of Data to Credit Information Companies - Format of Data to be submitted by Credit Institutions |
+| 18 | RPCD.CO.RCB.BC.No.45/07.40.06/2010-11 | 05.01.2011 | Submission of Data to Credit Information Companies -Format of Data to be submitted by Credit Institutions |
+| 19 | DBOD.No.CID.BC.84/20.16.042/2011-12 | 05.03.2012 | Grant of 'Certificate of Registration' - For carrying on the business of Credit Information - Credit Information Bureau (India) Limited |
+| 20 | RPCD.CO.RRB.BC.No.71/03.05.33/2011-12 | 18.04.2012 | Grant of 'Certificate of Registration' - For Carrying on the Business of Credit Information - Credit Information Bureau (India) Limited |
+| 21 | DBOD.No.CID.BC.27/20.16.042/2013-14 | 01.07.2013 | Submission of Credit Information to Credit Information Companies - Withdrawal of 'Consent Clause' |
+| 22 | RPCD.CO.RRB.BC.No.14/03.05.33/2013-14 | 23.07.2013 | Credit Information Companies (Regulation) Act, 2005 - Compliance |
+| 23 | RPCD.CO.RCB.BC.No.19/07.51.010/2013-14 | 07.08.2013 | Credit Information Companies (Regulation) Act, 2005 - Compliance |
+| 24 | UBD.CO.BPD.PCB.Cir.No.4/16.74.000/2013-14 | 27.08.2013 | Compliance with Credit Information Companies (Regulation) Act, 2005 |
+| 25 | DBOD.CID.BC.127/20.16.056/2013-14 | 27.06.2014 | Data Format for furnishing of credit information to Credit Information Companies and other Regulatory Measures |
+| 26 | RPCD.RRB.RCB.BC.No. 13/03.05.33/2014-15 | 15.07.2014 | Data Format for furnishing of credit information to Credit Information Companies and other Regulatory Measures |
+| 27 | UBD. CO. BPD. PCB. Cir. No. 4 /16.74.000/2014-15 | 15.07.2014 | Data Format for furnishing of credit information to Credit Information Companies and other Regulatory Measures |
+| 28 | DBOD.CID.BC.34/20.16.042/2014-15 | 22.08.2014 | Grant of 'Certificate of Registration' - For carrying on the business of Credit Information - CRIF High Mark Credit Information Services Private Limited |
+| 29 | RPCD.CO.RRB.RCB.BC.No.27/03.05.33/2014-15 | 04.09.2014 | Grant of 'Certificate of Registration' - CRIF High Mark Credit Information Services Private Limited |
+| 30 | DBR.No.CID.BC.60/20.16.056/2014-15 | 15.01.2015 | Membership of Credit Information Companies (CICs) |
+| 31 | DCBR.BPD.(PCB/RCB).Cir No.13/16.74.000/2014-15 | 29.01.2015 | Membership of Credit Information Companies (CICs) by Co-operative Banks |
+| 32 | DBR.No.CID.BC.28/20.16.056/2015-16 | 09.07.2015 | Data Format for furnishing of credit information to Credit Information Companies and other Regulatory measures |
+| 33 | DBR.CID.BC.35/20.16.042/2015-16 | 27.08.2015 | Grant of 'Certificate of Registration' - For carrying on the business of Credit Information - CRIF High Mark Credit Information Services Private Limited |
+| 34 | DBR.CID.BC.73/20.16.056/2015-16 | 14.01.2016 | Credit information reporting in respect of Self Help Group (SHG) members |
+| 35 | DCBR.BPD.Cir.No.17/16.74.000/2015-16 | 26.05.2016 | Credit information reporting in respect of Self Help Group (SHG) members |
+| 36 | DBR.CID.BC.No.104/20.16.56/2015-16 | 16.06.2016 | Credit Information Reporting in respect of Self Help Group (SHG) members |
+| 37 | DBR.CID.BC.107/20.16.056/2015-16 | 23.06.2016 | Reporting of Information on Investment in Commercial Papers and Unhedged Foreign Currency Exposures of the Borrowers to Credit Information Companies |
+| 38 | DBR.CID.BC.No.11/20.16.042/2016-17 | 01.09.2016 | Free Annual Credit Report to Individuals |
+| 39 | DBR.CID.BC.16/20.16.040/2016-17 | 29.09.2016 | Grant of 'Certificate of Registration' - For carrying on the Business of Credit Information - Transunion CIBIL Limited |
+| 40 | DBR.CID.BC.27/20.16.040/2016-17 | 20.10.2016 | Grant of 'Certificate of Registration' – For carrying on the business of credit information - Experian Credit Information Company of India Private Limited (ECICI) |
+| 41 | DBR.CID.BC.60/20.16.040/2016-17 | 13.04.2017 | Grant of 'Certificate of Registration' - For Carrying on the Business of Credit Information - Transunion CIBIL Limited |
+| 42 | DBR.CID.BC.No.79/20.16.042/2017-18 | 02.08.2017 | Issue of comprehensive Credit Information Reports |
+| 43 | DBR.CID.BC.24/20.16.042/2018-19 | 07.02.2019 | Grant of 'Certificate of Registration' - For carrying on the business of credit information - CRIF High Mark Credit Information Services Private Limited |
+| 44 | DoR.FIN.REC.46/20.16.056/2020-21 | 12.03.2021 | Data Format for Furnishing of Credit Information to Credit Information Companies and other Regulatory Measures |
+| 45 | DoR.FIN.REC.59/20.16.056/2021-22 | 14.10.2021 | Data Format for Furnishing of Credit Information to Credit Information Companies |
+| 46 | DoR.FIN.REC.90/20.16.056/2022-23 | 13.12.2022 | Data Format for Furnishing of Credit Information to Credit Information Companies and other Regulatory Measures |
+| 47 | DoR.FIN.REC.39/20.16.056/2023-24 | 20.09.2023 | Data Quality Index for Commercial and Microfinance Segments by Credit Information Companies |
+| 48 | DoR.FIN.REC.41/20.16.003/2023-24 | 25.09.2023 | Display of information - Secured assets possessed under the SARFAESI Act, 2002 |
+| 49 | DoR.FIN.REC.48/20.16.003/2023-24 | 26.10.2023 | Framework for compensation to customers for delayed updation/ rectification of credit information |
+| 50 | DoR.FIN.REC.49/20.16.003/2023-24 | 26.10.2023 | Strengthening of customer service rendered by Credit Information Companies and Credit Institutions |
+| 51 | DoR.FIN.REC.32/20.16.056/2024-25 | 08.08.2024 | Frequency of reporting of credit information by Credit Institutions to Credit Information Companies |
+| 52 | DoR.FIN.REC.47/20.16.042/2024-25 | 10.10.2024 | Implementation of Credit Information Reporting Mechanism subsequent to cancellation of licence or Certificate of Registration |
+
+---
+
+1 Except those which are purely into investment activities without any customer interface.
+
+2 Credit Information Companies (Amendment) Regulations, 2021, published in the Gazette of India vide notification CG-DL-E-30112021-231472 dated November 29, 2021, expanded the definition of ‘Specified Users’ under Regulation 3 of CIC Regulations, 2006 to include “an entity engaged in the processing of information, for the support or benefit of credit institutions, and satisfying the criteria laid down by the Reserve Bank from time to time.”
+
+3 The Report of the Committee can be accessed through the link: https://rbi.org.in/scripts/PublicationReportDetails.aspx?UrlPage=&ID=763
+
+4 Frequently asked questions (FAQs) on this aspect are available on the following link: https://rbi.org.in/Scripts/FAQView.aspx?Id=163
+
+| () |
+| --- |
+
+## Archives
+
+- 2017
+- 2016
+- 2015
+
+Top

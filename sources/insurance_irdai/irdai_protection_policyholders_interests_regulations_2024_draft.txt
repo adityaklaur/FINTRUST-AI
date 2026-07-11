@@ -1,0 +1,789 @@
+Insurance Regulatory and Development Authority of India (Protection of Policyholders’ Interests and Allied Matters of Insurers) Regulations, 2024
+
+In exercise of the powers conferred by sub-section (2) of section 114A, section 14, section 38 (7), section 39 (3), section 64VC, section 64VB (6) of the Insurance Act, 1938 (4 of 1938) read with section 14 and section 26 of the Insurance Regulatory and Development Authority Act, 1999 (41 of 1999), the Authority, in consultation with the Insurance Advisory Committee, hereby makes the following regulations, namely:
+
+1. Short Title and Commencement
+
+(1) These regulations shall be called the Insurance Regulatory and Development Authority of India (Protection of Policyholders’ interests and Allied Maters of Insurers) Regulations, 2024.
+
+(2) These regulations shall come into force from the date of their publication in the official Gazette of the Government of India and supersede the following regulations:
+
+(i) The Insurance Regulatory and Development Authority (Manner of Receipt of Premium) Regulations, 2002
+
+(ii) The Insurance Regulatory and Development Authority of India (Places of Business) Regulations, 2015
+
+(iii) The Insurance Regulatory and Development Authority of India (Fee for registering cancellation or change of nomination) Regulations 2015
+
+(iv) The Insurance Regulatory and Development Authority of India (Fee for granting written acknowledgement of receipt of Notice of Assignment or Transfer) Regulations, 2015
+
+(v) The Insurance Regulatory and Development Authority of India (Issuance of e Insurance Policies) Regulations, 2016
+
+(vi) Insurance Regulatory and Development Authority of India (Outsourcing of Activities by Indian Insurers) Regulations, 2017
+
+(vii) The Insurance Regulatory and Development Authority of India (Protection of Policyholders’ Interests) Regulations, 2017
+
+(viii) The Insurance Regulatory and Development Authority of India (Insurance Advertisements and Disclosure) Regulations, 2021
+
+2. Objective
+
+(1) To ensure fair treatment of prospects at the stage of solicitation and sale of insurance policies.
+
+(2) To ensure that interests of policyholders are protected, and the conduct of the insurer and its distribution channel are not prejudicial to the interests of policyholders.
+
+(3) To ensure that insurers, and distribution channel fulfil their obligations towards policyholders and have in place standard procedures respectively including best practices for sale and service of policyholders.
+
+(4) To ensure policyholder-centric governance by insurers and distribution channels with emphasis on grievance redressal.
+
+(5) To ensure that insurers follow prudent practices on management of risks arising out of outsourcing with a view to preventing negative systemic impact and to protect the interests of the policyholders. To ensure sound and responsive management practices for effective oversight and adequate due diligence with regard to outsourcing of activities by insurers.
+
+(6) To ensure that opening or closing of places of business within or outside India by insurers is conducted in a manner which is not prejudicial to the interests of policyholders.
+
+3. These Regulations shall be inforce for a period of 3 years from the date of their publication in the Official Gazette, unless reviewed or amended earlier.
+
+4. The present Regulations shall be divided into the following parts:
+
+(1) Part A covers provisions relating to protection of the interest of the policyholders;
+
+(2) Part B covers provisions relating to Operation and allied matters of the insurers.
+
+Part-A
+
+Provisions relating to Protection of Interests of Policyholders
+
+5. The present Regulations shall be divided into the following parts:
+
+(1) Chapter 1 : Activities prior to sale of insurance policies (2) Chapter 2 : Proposal for sale of insurance policies (3) Chapter 3 : Issuance of Insurance Policies (4) Chapter 4 : Provisions relating to payment and refund of Premium,
+
+Nomination and Assignment
+
+(5) Chapter 5 : Free Look Period and Servicing of Policyholders (6) Chapter 6 : Settlement of Policyholder Claims (7) Chapter 7 : Grievance Redressal (8) Chapter 8 : Miscellaneous issues
+
+6. Applicability
+
+(1) These regulations shall be applicable to all insurers and distribution channels except for those engaged exclusively in reinsurance business, unless otherwise specified.
+
+7. Definitions
+
+In these regulations, unless the context otherwise requires:
+
+(1) “Act” means the Insurance Act, 1938 (4 of 1938).
+
+(2) “Authority” means the Insurance Regulatory and Development Authority of India established under the provisions of Section 3 of the Insurance Regulatory and Development Authority Act, 1999 (41 of 1999).
+
+(3) “Bank Rate” means Bank rate fixed by the Reserve Bank of India (RBI) at the beginning of the financial year in which claim has fallen due.
+
+(4) “Competent Authority” means Chairperson or Whole-Time Member or Committee of the Whole-Time Members or Officer(s) of the Authority, as may be determined by the Chairperson.
+
+(5) “Complaint” or “Grievance” means written expression (includes communication in the form of electronic mail or other electronic scripts) of dissatisfaction by a complainant with respect to solicitation or sale of an insurance policy or related services by insurer and /or by distribution channel.
+
+Explanation: An inquiry or service request would not fall within the definition of the “complaint” or “grievance”.
+
+(6) “Complainant” means a policyholder or prospect or nominee or any beneficiary of an insurance policy who has filed a complaint or grievance against an insurer and /or distribution channel.
+
+(7) “Cover” means an insurance contract whether in the form of a policy or policy document or a cover note or a Certificate of Insurance or any other form as may be specified to evidence the existence of an insurance contract.
+
+(8) “Distribution Channels” include insurance agents and intermediaries or
+
+insurance intermediaries ascribed to such term under clause (f) of sub-section (1) of Section 2 of IRDA Act, 1999, persons and entities authorised by the Authority to involve in sale and service of insurance products;
+
+(9) “Mis-selling” means sale or solicitation of policies by the insurer or through distribution channels, directly or indirectly by
+
+a. forcefully exercising undue influence, use of dominance position or otherwise; or
+
+b. knowingly making a false or misleading statement or misrepresenting the facts or benefits, or
+
+c. knowingly concealing or omitting facts, features, benefits with respect to products, or
+
+d. not taking reasonable care to ensure suitability of the policy to the policyholders.
+
+(10) "Proposal form” means a form to be filled in by the prospect in written or electronic or any other forms for furnishing the information including material information, if any, as required by the insurer in respect of a risk, in order to enable the insurer to take informed decision in the context of underwriting the risk, and in the event of acceptance of the risk, to determine the rates, advantages, terms and conditions of the cover to be granted;
+
+Explanation: (i) “Material Information” for the purpose of these regulations shall mean all important, essential and relevant information and documents explicitly sought by insurer in the proposal form.
+
+(ii) The requirements of “disclosure of material information” regarding a proposal or policy apply both to the insurer and the insured, under these regulations.
+
+(11) "Prospect” means any person who is a potential customer and likely to enter into an insurance contract either directly with the insurer or through the distribution channel involved in the solicitation.
+
+(12) “Prospectus”: means a document either in physical or electronic or any other format issued by the insurer to sell or promote the insurance product.
+
+Explanation: Insurance product referred herein shall also include the riders offered, if any. Where a rider is tied to a base policy, all the terms and conditions of the rider shall be mentioned in the prospectus. Where a standalone rider is
+
+offered to a base product, a reference to the rider shall be made in the prospectus of the base policy indicating the nature of benefits flowing thereupon.
+
+(13) “Solicitation” means the act of approaching a prospect or a policyholder by an insurer or by a distribution channel with a view to persuade the prospect or a policyholder to purchase or to renew an insurance policy.
+
+(14) “Unfair trade practice” shall have the meaning ascribed to such term in the Consumer Protection Act, 2019, as amended from time to time.
+
+(15) Words and expressions used and not defined in these regulations, but defined in the Act, or the Insurance Regulatory and Development Authority Act, 1999 (41 of 1999) or the Insurance Rules, 1939 or any other regulations issued by the Authority shall have the meanings respectively assigned to them in those Acts or Rules or Regulations.
+
+Chapter-1 ACTIVITIES PRIOR TO SALE OF INSURANCE POLICIES
+
+8. Every insurer shall ensure that:
+
+a. the prospect or the policyholder has equitable and inclusive access to the insurance 
+products and services either directly or through its distribution channel. 
+b. The solicitation process is transparent and has built-in practices to enable fair and 
+equitable treatment of the prospect or the policyholder at all points of time and 
+provide all necessary information about the products to enable them to take suitable 
+decision about purchasing insurance policies. 
+
+9. BOARD APPROVED POLICY FOR PROTECTION OF INTERESTS OF POLICYHOLDERS:
+
+1) Every insurer shall have in place a board approved policy for protection of policyholders’ interests which shall at the minimum, include:
+
+i. Ensuring that during policy solicitation and sale stages, prospects are made aware of the benefits of the product being sold vis-a-vis the product features attached thereto and the terms and conditions of the product, so that the benefits / returns of the product are not mis-stated / mis-represented to prospects.
+
+ii. ensuring inclusivity and accessibility of insurance cover to persons with disabilities.
+
+iii. enhancing service and process efficiencies including grievance redressal by
+
+adopting technological solutions.
+
+iv. preventing mis-selling and unfair business practices by building suitable conduct measures.
+
+v. setting reasonable turnaround times for various activities and services;
+
+vi. enhancing Insurance Awareness so as to educate prospects and policyholders about insurance products, benefits and their rights and responsibilities.
+
+vii. Manner for expeditious settlement of claims.
+
+viii. Mechanism for resolution of complaints and grievances in relation to mis-selling, publishing service parameters including turnaround times for various services rendered.
+
+2) Every Insurer shall
+
+i. review the board approved policy on an annual basis.
+
+ii. display the service parameters and turnaround times in its website prominently and keep the same updated as and when the service parameters are revised by the Board.
+
+10. Disclosure of Products on Offer/ Products Withdrawn
+
+1) Every insurer shall place on its website an updated list of every insurance product along with the applicable terms and conditions and its Unique Identification Number, that is offered for sale by the insurer, including products modified or products withdrawn.
+
+2) Every distribution channel maintaining a website shall provide a link prominently on its website to directly access the insurer’s website wherein products on offer are displayed with respect to insurers. 11. Prospectus of Insurance Products
+
+1) Every insurer shall ensure that the information given to the prospect or the policyholder about the product offerings shall reflect true and correct picture about the features, benefits, exclusions, risks, options, exit options including grievance redressal in clear and simple terms.
+
+2) Every insurer shall develop and maintain a prospectus for every individual insurance product including riders or add-ons thereto and make available such prospectus on their website.
+
+3) The Competent Authority may specify information to be incorporated in the prospectus.
+
+4) Insurers shall be responsible for the contents of the prospectus and shall ensure that a. No sale of insurance product is made without prospectus, explaining all the benefits, features, terms and conditions of the product and providing benefit illustration to the prospect, wherever applicable;
+
+Explanation: Except for life insurance products where all the benefits are assured in absolute amounts at the outset of the contract, all other life insurance products shall provide the prospective policyholder a customized benefit illustration at the point of sale, illustrating the guaranteed and non-guaranteed benefits at gross investment returns as may be specified.
+
+b. The prospectus enables the prospects or the policyholders to make informed decisions. The benefits and features of the product considering the nuances of the products are explained in clear and concise terms including giving illustration.;
+
+c. There is no misleading or false information; and d. Details of the grievance redressal processes are provided.
+
+e. An insurer or distribution channel shall provide all necessary information including any material information in respect of a proposed cover(s) to the prospect to enable the prospect to decide on the best cover(s).
+
+5) Where the prospect depends upon the advice of the insurer or distribution channel, such a person must advise the prospect in an unbiased and objective manner.
+
+12. Sale of Insurance Products through Distance Modes of Solicitation
+
+1) Insurers and distribution channels as may be permitted by the Authority, shall ensure, that sale executed over distance mode of solicitation is undertaken in the manner specified.
+
+2) The insurers and distribution channels which operate though any technological platform shall at all times adhere to data protection and cyber security laws and code of conduct as per extant legislative framework.
+
+Chapter 2 PROPOSAL FOR SALE OF INSURANCE POLICIES
+
+13. Proposal for Insurance
+
+1) A proposal for grant of insurance cover, for any class of insurance business, must be evidenced by a proposal form in written or electronic form. The Authority may specify any exemption to the requirement of proposal form as it may deem fit.
+
+2) In case the proposal form is not filled in by the prospect, the distribution channel shall explain the contents of the form, and a statement shall be incorporated at the end of the proposal form from the prospect that the contents of the proposal form have been fully explained to him and he has fully understood.
+
+3) In case of marine insurance cover or other insurance covers, if a proposal form is not used, the insurer shall record the information obtained orally or in writing or electronically, and confirm it within a period of 7 days thereof with the prospect and incorporate the information in its cover note or policy.
+
+4) Where the insurer claims that the prospect suppressed any material information or provided misleading or false information on any matter material to the grant of a cover, then the onus of proof rests with the insurer.
+
+5) Any proposal form seeking information for grant of life cover shall prominently state therein the requirements of Section 45 of the Act. Every insurer shall ensure that all the information sought in the proposal form is complete, to its satisfaction before making an underwriting decision on the proposal form.
+
+6) Every insurer shall process the proposals with speed and efficiency and communicate in writing to the proposer the decision on the proposal within a reasonable period but not exceeding 7 days from the date of receipt of proposal or any requirements called for by the insurer.
+
+7) Insurer shall furnish to the insured, free of charge, within 30 days of the acceptance of a proposal, a copy of the proposal submitted by the Insured and where the proposal has been accepted by the insurer, the proposal form may be sent along with the policy document within a reasonable period but not exceeding 30 days from the date of receipt of proposal or any requirements called by the insurer.
+
+8) Where any amount received towards premium is refundable to a prospect under any circumstances, the same shall be refunded, fully or in part after adjusting the premium as the case may be, within 7 days from the date of underwriting decision on
+
+9 | P a g e the proposal.
+
+Chapter 3 ISSUANCE OF INSURANCE POLICIES 14. Every insurer shall ensure that:
+
+(1) The policy terms and conditions are written in simple and clear terms to understand, avoid jargon and avoid coercive, unfair and one-sided clauses. (2) All necessary and relevant details are included in the policy.
+
+15. Insurers shall ensure that the insurance policies issued to the policyholders contain such minimum details as may be specified from time to time.
+
+16. Issuance of Insurance policies in electronic form (1) Board approved policy - All insurers shall have in place a Board approved policy for insurance policies issued in electronic form. The policy shall cover the following at the minimum: a. Measures to safeguard the privacy of the data, b. Adequacy of systems to prevent manipulation of records and transactions, c. Broad framework on security of data, d. IT related processes, e. Data and record reconciliation amongst multiple systems, and f. Continuous review and upgradation of the cyber security safeguards put in place. (2) Notwithstanding whether the proposal is received in electronic form or otherwise, every insurer shall issue insurance policies only in the electronic form, where the following one or more condition(s) are met:
+
+a. sums insured under the policy exceeds Rs.100; or b. the single/annual premium is not less than Rs.10.
+
+Provided that the Competent Authority, on being satisfied that it is in the interest of policyholders and for orderly growth of insurance industry, allow such other exemptions to this requirement.
+
+(3) Electronic Insurance Policies shall be deemed valid only when issued with digital signature.
+
+(4) All policies issued in electronic form by the Insurer directly to the policyholder shall also be issued in physical form, if requested by the policyholder.
+
+(5) The operational framework for issuance of electronic insurance policies may be
+
+10 | P a g e specified.
+
+17. Group Insurance Polices
+
+(1) No group shall be formed for the sole purpose of availing insurance.
+
+Explanation: A group should consist of persons who assemble together with a commonality of purpose or engaging in a common economic activity such as employees of a company or an association of a building society.
+
+(2) Where a person is negotiating “group” rates and then finding members to insure, such groups shall not be considered as a legitimate group for the purpose of availing group insurance.
+
+(3) Where an employer buys a group insurance policy for its employees, the employer shall be treated as the master policyholder with the employees being treated as the beneficiaries. In such cases, the employer shall issue confirmation of insurance protection to individual employees with clear reference to the group insurance policy;
+
+(4) In case of a non-employer-employee group purchasing a group policy:
+
+a. the group policyholder shall have authority from the members to arrange insurance on their behalf.
+
+b. the individual group member would be treated as the insured beneficiary and the master policyholder will only be the holder of the policy.
+
+c. it shall be the duty of the insurer to issue certificate of insurance to the members of the group. Such certificate shall contain information on the schedule of benefits, the premium charged and important terms and conditions of the insurance contract.
+
+(5) Issuance of policies of group insurance shall be in a manner as specified.
+
+Privacy and Confidentiality
+
+18. Subject to ensuring compliance with the provisions and norms notified under Digital Personal Data Protection Act 2023, insurers and distribution channels shall ensure that the information and documents collected during the solicitation or subsequently during the policy term or at the claims stage are maintained with utmost confidentiality, privacy and protected manner.
+
+19. Information collected from the proposal form during the course of solicitation of an insurance policy or issuance of an insurance policy shall not be parted or shared with any third party, except
+
+(1) with the statutory authorities in accordance with the existing statutory laws; or (2) for the purpose of underwriting the policy or settling a claim under the policy.
+
+20. No Insurer shall insert any clause or condition in the proposal form, express or implied, thereby obligating the prospect to part or share information.
+
+Chapter 4 Provisions relating to payment and refund of Premium, Nomination and Assignment
+
+21. Manner of Payment of Premium
+
+Subject to ensuring compliance with the provisions and norms notified under Prevention of Money Laundering Act, 2002, insurers shall allow for the following manner of payment of premium:
+
+(1) as prescribed in the Insurance Rules, 1939;
+
+(2) as recognized by the Reserve Bank of India as a valid mode of payment; and (3) any other manner of payment as may be specified.
+
+22. Refund of Premium
+
+(1) In the event of any refund of premium becomes due on account of policy cancellation 
+or alteration of any terms and conditions of the contract of insurance or otherwise, 
+such refund shall be made only to the policyholder or nominee bank account, as the 
+case may be, through electronic transfer. 
+(2) In order to enable electronic transfer of refund and for payment of claims, the insurer 
+shall mandatorily collect the details of bank account of the policyholder at the 
+proposal stage. 
+
+23. Nomination (1) Provisions applicable to Life insurers (i) No proposal shall be accepted unless nomination is obtained as per Section 39 of the Act.
+
+(ii) Insurers shall provide a facility for changing the nominee.
+
+(iii) The fee for Registering Cancellation or Change of Nomination shall not be exceeding Rs. 100/- (Rs. One Hundred only).
+
+(2) Provisions applicable to General and Health insurers:
+
+With respect to all individual and group policies, as applicable, the insurer shall obtain nomination at the time of issuance of new policies and at the time of renewal for existing policies.
+
+(3) Provisions applicable for insurers:
+
+(i) No fee shall be collected for registering a nomination at the time of effecting a policy of insurance.
+
+(ii) The nomination effected by a policyholder at the inception of the policy through the proposal form and recorded by the Insurer in the schedule of a policy document or through an endorsement issued accepting change in nomination shall be considered as a valid acknowledgement by the Insurer.
+
+Assignment 
+24. Fee for Granting Written Acknowledgement of the Receipt of Notice of Assignment or 
+Transfer: 
+
+(1) The fee for granting a written acknowledgement of the receipt of notice of assignment or transfer assignment shall not exceed Rs. 100/- (Rs. One Hundred only).
+
+(2) No other fee shall be collected for rendering any other services in relation to the assignment or transfer of insurance policy in accordance with Section 38 of the Act.
+
+Chapter 5 Free Look Period and Servicing of Policyholders
+
+25. Free Look Period of Life and Health Policies (1) Every policyholder of life and new individual health insurance policies except those with tenure of less than a year, shall be provided a free look period from the date of receipt of policy document, whether received electronically or otherwise, to review
+
+the terms and conditions of such policy.
+
+(2) The insurer shall inform clearly and explicitly to the policyholder about the free look period. The free look period for the policies, obtained through any mode, shall be 30 days from the date of receipt of the policy document.
+
+(3) In the event a policyholder disagrees to any of the policy terms or conditions, or otherwise, he shall have the option to return the policy to the insurer for cancellation, stating the reasons for the same. Thereafter, he or she shall be entitled to a refund of the premium paid subject only to a deduction of a proportionate risk premium for the period of cover and the expenses incurred by the insurer on medical examination of the proposer and stamp duty charges.
+
+(4) In respect of a linked insurance product, in addition to the deductions under sub 
+regulation (3) above, the insurer shall also be obligated to repurchase the units at 
+the price of the units on the date of cancellation. 
+(5) A request received by insurer for free look cancellation of the policy shall be 
+processed and premium shall be refunded within 7 days of receipt of such request, 
+as stated at sub clause (3) and (4) above. 
+
+26. Principles for Policyholder Servicing
+
+(1) Every insurer shall ensure that the prospect or the policyholders are provided with necessary information about various services and shall widely disseminate information about all the services that may be availed along with the procedure for availing such services including the turnaround times.
+
+(2) The insurer shall deliver the services requested for within a reasonable time with speed and efficiency and establish a mechanism to obtain feedback for continuous improvements.
+
+(3) Every insurer and distribution channel involved in servicing of the policyholders shall ensure that all the dealings with policyholders are conducted in a manner such that it achieves the following outcomes:
+
+(i) Policyholders are a. treated with fairness and impartiality;
+
+b. provided with clear and prompt information in relation to their policies at all times;
+
+c. not faced with unreasonable pressure or advice to change products or switch providers; and
+
+d. not barred from submitting claims or making complaints.
+
+(ii) Post-sale servicing of policyholders may be enabled through technological solutions to provide prompt and efficient services;
+
+(iii) Policyholders’ reasonable expectations are met on servicing standards.
+
+(4) Every insurer and distribution channel involved shall be responsible to achieve the outcomes specified in sub-regulation (3).
+
+(5) Distribution channel shall ensure that all policyholders are serviced in accordance with code of conduct as may be specified.
+
+(6) No additional fee shall be charged by the insurer or distribution channel or group master policyholder for servicing of policyholders in relation to an insurance policy, except for such services as may be specified.
+
+Chapter 6 SETTLEMENT OF POLICYHOLDER CLAIMS 27. Procedure for Settlement of Claims
+
+(1) Insurers must ensure that all claims raised by policyholders are settled in a timely manner.
+
+(2) The processing and turnaround times for settlement of claims shall be as specified by the Competent Authority.
+
+(3) All distribution channels shall comply with the code of conduct with respect to services related to settlement of claims, if any, specified.
+
+28. Treatment of Policyholders and Claimants (1) While settling claims of policyholders or claimants, the insurer or distribution channel, as the case may be, shall inter alia ensure the following:
+
+(i) Provide necessary support and guidance for registering claim;
+
+(ii) Provide fair treatment at all times in processing the claim;
+
+(iii) Provide information at various stages of claim settlement;
+
+(iv) Call for all necessary documents as specified in the policy document at one go and avoid calling such documents/information in a piece meal manner;
+
+(v) Settle the claims with speed and efficiency within a reasonable time.
+
+(2) The insurer shall call for any additional documents/information, if necessary, with
+
+respect to claim settlement, only in case where fraud is suspected. In all other cases, the documents listed in the policy terms and conditions shall only be called for by the insurer.
+
+CHAPTER 7
+
+GRIEVANCE REDRESSAL 29. Grievance Redressal Procedure
+
+(1) Every insurer shall have a system, including IT systems, and a procedure for receiving, registering and disposing of grievances in each of its offices. Every insurer shall publicize its grievance redressal procedure and ensure that it is specifically made available on its website.
+
+(2) Every insurer and where relevant, the distribution channel, shall have in place robust procedures and effective mechanism to resolve grievances of policyholders and/ or claimants efficiently, effectively and in timely manner.
+
+(3) No insurer or distribution channel shall prohibit, bar or discourage any policyholder or claimant from lodging any grievance on the electronic platform put in place by the Authority.
+
+(4) The Grievance Redressal Procedure as specified shall be followed scrupulously by all insurers and distribution channels.
+
+Chapter 8 Miscellaneous issues
+
+30. GENERAL PRINCIPLES:
+
+(1) Every life insurer shall inform policyholders through a letter/e- mail/any other electronic mode:
+
+a. for participating policies, at least once in a year, the bonus accrued to their policies during the year and total bonuses accrued till the year end.
+
+b. for linked policies, all the charges levied, value of the linked policy at the beginning and end of the year,
+
+(2) Every insurer shall comply with the guidelines issued by the Competent Authority on:
+
+a. Mis-selling and unfair trade practice;
+
+b. Unclaimed amount.
+
+31. Power of the Authority to Issue Clarifications
+
+In order to remove any difficulties in application or interpretation of any of the provisions of these regulations, the Competent Authority may issue clarifications, directions and guidelines in the form of circulars/guidelines.
+
+Part-2 Operation and Allied matters of the insurers.
+
+Chapter-1
+
+32. DEFINITIONS:
+
+In these regulations, unless the context otherwise requires:
+
+(1) “Act” means the Insurance Act, 1938 (4 of 1938).
+
+(2) “Authority” means the Insurance Regulatory and Development Authority of India established under the provisions of section 3 of the Insurance Regulatory and development Authority Act, 1999 (41 of 1999).
+
+(3) “Advertisement” means a communication, issued through any mode or medium, addressed to the public or section of it, the purpose of which is to influence the opinion or behaviour of prospects for facilitating solicitation or sale of insurance products and includes insurance advertisements and institutional advertisements.
+
+(4) “Competent Authority” means Chairperson or Whole-Time Member or Committee of the Whole-Time Members or Officer(s) of the Authority, as may be determined by the Chairperson.
+
+(5) “e-Insurance Account” or “eIA” means an electronic insurance account for maintaining insurance policies issued in electronic form.
+
+(6) “e-proposal” or “electronic proposal” means a proposal form for an insurance policy filed in electronic form and the free consent of the prospect obtained in accordance with the guidelines issued from time to time.
+
+(7) “e-insurance policy” or “electronic insurance policy” shall mean a digitally signed policy document evidencing the insurance contract issued to the policyholder by an insurer in an electronic form.
+
+(8) “e-signature or electronic signature” shall have the same meaning as specified in the Information Technology Act, 2000 as amended from time to time.
+
+(9) “Foreign Branch Office” shall mean a ‘branch office’ of the insurer set up outside India which means (a) any establishment described as a branch by the insurer; and (b) any establishment carrying on either the same or substantially the same activity as that carried on by the Head Office of the insurer.
+
+(10) "Insurance advertisement" means and includes any communication issued by insurers, insurance intermediaries, through any mode, related to an insurance product and intended to result in the eventual sale or solicitation of an insurance product from the members of the public, or which urges a prospect or a policyholder to purchase, a policy of insurance.
+
+(11) “Institutional advertisement” means an advertisement which is not intended to solicit the purchase of insurance policies, but only promotes the brand image of the insurers and/or its intermediaries or insurance intermediaries.
+
+(12) “Invitation to Contract” means an insurance advertisement containing the detailed information regarding the insurance/insurance products mainly to induce the public to purchase a policy.
+
+(13) “Invitation to Inquire”: means an insurance advertisement which highlights the basic features of insurance/insurance products issued in any mode to generate interest or create a desire to inquire further about them.
+
+(14) “Joint Sale Advertisement” means any insurance advertisement brought out jointly by an insurer with its intermediaries or insurance intermediaries as allowed by the Competent Authority from time to time.
+
+(15) “Material Outsourcing” means outsourcing of such activities which are assessed by the insurers as “material”, based on the factors as may be specified by the Competent Authority.
+
+(16) “Misleading Advertisement” shall have the meaning ascribed to such term in the Consumer Protection Act, 2019, as amended from time to time.
+
+(17) “Outsourcing” is defined as the use of third party services by the Insurer to perform activities that would normally be undertaken by the Insurer, either now or in future but does not include services which are generally not expected to be carried out internally by the insurers such as Legal services, Banking Services, Courier Services, Medical examination, Forensic analysis.
+
+(18) “Outsourcing Service Provider” means third party service provider who carries out the activities outsourced, for Insurers.
+
+(19) “Outsourcing Agreement” means a written agreement entered into between the Insurer and outsourcing service provider outlining the terms and conditions for services which may be rendered by the Outsourcing service provider.
+
+(20) “Place of Business” means, a regional office, a zonal office, a divisional office, branch office or any subordinate office or any other office by whatever name called set up within India or a representative or a liaison office of Indian Insurer or a Foreign Branch Office of an Insurer set up outside India by the Insurers registered in India.
+
+(21) “Representative or a Liaison Office" would mean a place of business of insurer outside India to act as a channel of communication with the principal place of business or Head Office by whatever name called and entities in India, but which does not undertake any commercial or trading or industrial activity, directly or indirectly, and maintains itself out of inward remittances received from abroad through normal banking channel.
+
+(22) “Trade Logo” for the purpose of these regulations is a name or a market, such as symbol monogram or logo which uses the name of an Insurer as an acronym for the purpose of promoting, canvassing and publicizing the Insurer or the products and services offered.
+
+(23) Words and expressions used and not defined in these regulations, but defined in the Act, or the Insurance Regulatory and Development Authority Act, 1999 (41 of 1999) or the Insurance Rules, 1939 or any other regulations issued by the Authority shall have the meanings respectively assigned to them in those Acts or Rules or Regulations.
+
+33. Part B of the Regulations shall be divided into the following parts:
+
+(i) Chapter 2 : Advertisement (ii) Chapter 3 : Places of business of insurers (iii) Chapter 4 : Outsourcing
+
+Chapter 2 Advertisement
+
+34. Advertisements
+
+(1) The information being advertised reflect fair and true picture along with potential risks within the products offered and shall not mislead or misrepresent the facts or
+
+19 | P a g e features.
+
+(2) Every insurer, while publishing advertisements, shall necessarily include its registered name along with its trade name or monogram or logo visible prominently.
+
+(3) Every distribution channel may publish advertisements only as soliciting insurance products offered by insurers and not give any impression in the advertisement, as if the products are offered by it directly.
+
+(4) No insurer or distribution channel shall publish or cause to publish any misleading advertisement. No advertisement shall make any claims or display such information which:
+
+(a) affects the ability of a prospect to identify and discern the benefits of insurance products;
+
+(b) disguises or obscures terms and conditions of insurance product;
+
+(c) makes claims beyond the ability of the policy to deliver beyond the reasonable expectation of performance;
+
+(d) uses words or phrases such that it hides or underplays the risks inherent in the policy from the prospect;
+
+(e) omits to disclose or discloses insufficiently the important exclusions, limitations and conditions of the policy;
+
+(f) contains illegible text (including on account of font size) forming part of the advertisement, including a reference to conditions where applicable; or
+
+(g) contains blatantly false or fabricated facts, figures and features.
+
+(5) All insurers and distribution channels shall ensure that mandatory disclosures as specified by these Regulations and applicable Guidelines/Circulars are clear, conspicuous and legible.
+
+(6) All insurers and distribution channels shall ensure that static or interactive content posted by them on their social media platform or page satisfies the provisions of these Regulations and the guidelines issued in this regard.
+
+(7) All insurers shall ensure that advertisement activities that are conducted through their distribution channels are subject to adequate controls and oversight such that all such advertisements that pertain to the insurer or its products or performance are not unfair, deceptive or misleading.
+
+(8) Every insurer and distribution channel shall ensure that they do not engage in any unfair trade practices.
+
+35. Every advertisement must be approved by the insurer in writing prior to its issue if the advertisement is issued by
+
+(1) A distribution channel representing the insurer; or (2) An insurance intermediary representing the customer if it relates to any insurance product.
+
+36. Compliance and Control of Advertisements
+
+Every insurer and distribution channel shall ensure that it establishes such internal controls, compliances and such other measures as may be specified.
+
+Chapter 3 PLACES OF BUSINESS OF INSURERS 37. Opening Place of Business Within India
+
+(1) All the Insurers shall have in place the Board approved “Plan on Places of Business” to be reviewed on periodic basis.
+
+(2) The plan on places of business, shall contain:
+
+a. the total number of new places of business proposed to be opened within India in the Metro, Urban, Semi-Urban and Rural centres.
+
+b. the names of places of business proposed to be opened within India.
+
+c. the proposed capital and operational expenditure expected to be incurred initially and at regularly in opening each of the places of business at least for next five years.
+
+d. the staff requirement for each of the places of business and its associated costs at least for the next five years.
+
+e. the premium revenue expected to be generated from the proposed places of business for the next five years.
+
+38. Every insurer shall have in place Board approved Annual Business Plan for the Financial year April-March before the end of its first Quarter.
+
+39. Insurers that fulfil the following conditions are permitted to open places of business within India and inform the Authority in a manner as specified:
+
+(1) Minimum control level of Solvency in the preceding three financial years.
+
+(2) Expenses of Management are:
+
+i. within the limits specified under the regulations on expenses of management in
+
+the preceding Financial Year, in case of insurers who have completed five years of operations.
+
+ii. as proposed in the business plan submitted to the Authority through R1 and R2 applications and/or has received forbearance for noncompliance of Expenses of Management Regulations within the first five years of commencement of operations.
+
+40. If the insurer is not compliant with the conditions stipulated at regulation 39, such insurer shall open a places of business only after obtaining approval of the Competent Authority in accordance with the Regulations. Proposals for opening places of business shall be submitted in such form and in such manner as may be specified.
+
+41. New places of business proposed at regulation 40 and approved by the Competent Authority shall be opened within a period of one year from the date of approval.
+
+(1) After the expiry of the time limit, the approval of the Competent Authority stands lapsed.
+
+(2) Fresh approval may be sought depending on the extant requirements of regulation 40 at the time of taking fresh approval
+
+42. All places of business, not being specialized places where back-end operations are proposed with no customer interface, such as Zonal Offices, Regional Offices or Back-up Centres etc., shall at the minimum offer policyholders’ services such as collection of premium, proposal deposits or attending policies service requests.
+
+43. Closure or Relocation of Places of Business within India (1) Closure or relocation of the places of business within India by the Insurers shall be after due consideration of all the factors, including the possible inconvenience to its policyholders. a. Closure of any place of business or relocation of any place of business, shall be approved in advance either by the respective Boards of Insurers or by the Board appointed Policyholders' Protection Committee.
+
+Provided if the closure of any place of business or relocation of any place of business beyond the city, is within two years from the date of opening such places of business, prior approval of Competent Authority shall be obtained.
+
+b. Relocation or change of any place of business, otherwise than within the same city, 
+town or village shall be subject to the prior approval of the Competent Authority and 
+every Insurer shall submit the proposal of such relocation or change to the 
+Competent Authority's consideration in the form to be specified as and when 
+required. 
+c. Minimum of two months advance notice on all the proposed relocations or the 
+closures, whether within the same city, town or village or otherwise, shall be given to 
+the policyholders serviced by that place of business along with the information on 
+alternate arrangements being made to provide services to them. 
+
+(2) The conditions on closure of places of business and relocation of places of business are also applicable to the places of business opened by the insurers in accordance to regulation 39 or 40, as the case may be.
+
+44. NORMS FOR PLACES OF BUSINESS OUTSIDE INDIA (1) An Insurer registered with Insurance Regulatory and Development Authority of India may open a 'Foreign Branch Office' or a 'Representative or a Liaison Office' outside India subject to prior approval granted by the Competent Authority. The cost of opening and maintaining the ‘Representative or a Liaison Office’ outside India shall be met out of insurer’s shareholders’ funds beyond solvency margin requirements.
+
+(2) Opening of 'a Representative or a Liaison Office' or a 'Foreign Branch Office by Insurer shall be subject to obtaining the approval or an in-principle clearance from the regulator of the host country where such office is proposed to be opened.
+
+(3) Norms for Opening a Liaison Office or a Representative Office. — Insurers meeting the following norms, desirous of opening a representative or a liaison office outside India shall apply to the Authority in specified Form.
+
+(a) Compliance with control level of solvency in the preceding Financial Year.
+
+(b) Having a satisfactory track record on market conduct, regulatory compliances, redress of complaints, etc. and that there are no serious adverse observations on the functioning of the company in the records of the Authority.
+
+Provided that Liaison Office shall only engaged in the activities as specified.
+
+45. At the close of the financial year, insurers as a part of its annual report shall furnish such detail as may be specified.
+
+46. Norms for Opening a Foreign Branch Office or Office at IFSCA—The Insurer desiring to open a foreign branch office to carry on life insurance or general insurance or health insurance or reinsurance business shall make an application in form and manner as may be specified.
+
+Provided the Insurer shall seek approval of the Competent Authority to open a Foreign Branch Office outside India to transact the class of business for which the Insurer has been granted the certificate of registration.
+
+Eligibility Criteria of Insurers for Opening a Foreign Branch Office
+
+47. The Insurers seeking to set-up foreign branch office outside India or Office at IFSCA shall comply with the following norms:
+
+(1) The Insurer should have been in operations for at least 3 years. The number of years of operations shall be reckoned from the date of issuance of R3.
+
+(2) The Insurers should have the following financials in the preceding financial year:
+
+(a) Solvency requirements for Life insurance, General insurance, Health insurance and Reinsurance companies as specified.
+
+(b) Profit for Life insurance, General Insurance, Health Insurance and reinsurance companies for 3 years out of the last 5 years.
+
+(c) Having a satisfactory track record on market conduct, regulatory compliances, redress of complaints, etc.
+
+(d) Insurer should not suffer from any adverse report of the Authority on its track record of regulatory compliances, for 3 years out of the preceding 5 years from the date of application.
+
+(3) Where the Insurer is closely held, the Board Resolution in support of the commitment to support the operations of the foreign branch office shall be furnished. Where the same is widely held, a resolution of the shareholders to support the operations of the foreign branch office shall be furnished.
+
+(4) Any other requirement that may be required.
+
+48. Terms and Conditions Governing the Approval of the Foreign Branch office.—The approval to open a foreign branch office of the Insurers shall be subject to the following terms and conditions:
+
+(1) Initial and further augmentation of capital and liabilities of the Foreign Branch Office shall be met out of the Insurer's Shareholders' funds. .
+
+(2) Compliance with Foreign Exchange Management Act, 1999 and any other law in force governing the operations of such offices outside India.
+
+(3) Compliance with host country's solvency requirements.
+
+(4) The Insurer shall file a copy of the license or the certificate of registration upon receipt of the same from the host country.
+
+(5) The Insurer shall immediately report to the Authority any regulatory or supervisory action taken by the host country regulator with full details along with the penalties imposed and other administrative actions, if any, and the remedial steps taken thereafter.
+
+(6) Any adverse report or findings shall be communicated to the Authority as soon as it is observed.
+
+(7) The Competent Authority may impose any other terms and conditions while granting the approval for opening the foreign branch office outside India.
+
+49. The Insurer shall immediately inform the Authority any adverse findings on the foreign branch office operations that are brought to its notice during the course of its monitoring or during the course of the review of the reports referred under these Regulations.
+
+Sources of Meeting the Capital Requirements of the Foreign Branch Office Set up by Indian Insurers
+
+50. The insurer shall have in place appropriate arrangements to ensure that the policyholder's liabilities that arise out of
+
+(1) foreign operations are adequately ring-fenced in order to protect the Indian policyholder.
+
+(2) Wherever the Insurer's foreign branch office operations result or likely to result into a loss, then additional capital requirements for meeting such loss or for meeting the capital or other regulatory requirements, shall be contributed out of the Shareholders' funds of the Insurer and no contributions from the policyholders' funds shall be utilized to meet the capital requirement of the foreign branch office.
+
+51. Further Powers of the Authority
+
+(1) The Competent Authority reserves the right to call, inspect or investigate any document, record or communication pertaining to the foreign branch office set up by the Insurer. The Insurer shall furnish such requirements within the timelines specified therein.
+
+(2) Notwithstanding the above, where the Competent Authority is of the opinion that the operations of a foreign branch office are not in the interests of the Insurer, the Competent Authority reserves the right to direct the Insurer to close the said foreign operations or to completely divest its stake in the said foreign branch office after giving an adequate opportunity of being heard to the Insurer.
+
+52. All insurers shall comply with the directions as may be specified while opening, closing or relocating the places of business.
+
+Chapter 4 OUTSOURCING OF ACTIVITIES BY INSURERS
+
+53. Applicability
+
+(1) These Regulations are applicable to all Insurers registered with the Authority excluding those engaged in reinsurance business.
+
+(2) These regulations are applicable to outsourcing arrangements entered into by an Insurer with an outsourcing service provider located in India or outside India as allowed by the Competent Authority.
+
+54. Activities prohibited from Outsourcing
+
+The Insurers are prohibited from outsourcing any of the following activities mentioned 
+under : 
+(1) Investment and related functions; 
+
+(2) Fund Management Including NAV calculations;
+
+(3) Compliance with AML and KYC;
+
+Provided, KYC verification through third party service providers is allowed as per guidelines specified from to time; (4) Product designing, all actuarial functions and enterprise-wide risk management;
+
+(5) Decision making in Underwriting and Claims functions excluding procedural activities related to payment of Survival Benefit claims in Life Insurance;
+
+(6) Policyholders Grievances Redressal;
+
+(7) Decision to appoint Insurance Agents, Surveyors and Loss Assessors;
+
+(8) Approving Advertisements.
+
+55. Outsourcing Activities Supporting Policy Servicing (1) Insurers shall remain ultimately responsible for any such activities that have been outsourced for supporting policyholder servicing.
+
+(2) Where collection of premiums is outsourced by the Insurer, it shall put in place procedures and ensure issuance of premium acknowledgements to the policyholders at the point of collection of premiums through such outsourced service providers.
+
+Responsibilities of the Board of Directors
+
+56. The Board of the Insurer shall be responsible for the following functions under these Regulations:
+
+(1) The Board of Directors shall approve and put in place an Outsourcing Policy. The Board of Directors, may delegate, the mandate of approving the outsourcing policy, to the Product Management Committee constituted under IRDAI (Products) Regulations as amended from time to time. The outsourcing policy shall cover the following:
+
+i. Framework for assessment of risks involved in outsourcing including the confidentiality of data, quality of services rendered under outsourcing contracts; ii. Parameters for determining the cost-benefit analysis for each outsourced activity; iii. Guiding principles for evaluation of the outsourced service provider including its ability and capability to provide the required services; iv. Norms for implementation and review of the outsourcing policy, determining the management’s responsibility for approving, determining the consideration amount involved and monitoring the outsourcing arrangements, and delegation of authority within the Insurer’s hierarchy; v. The degree of due diligence required for other than-material outsourcing activities. (2) Annual review of the summary of the outsourced activities of the Insurer and approval of changes to the policy on the basis of the reviewed report.
+
+(3) Review of exceptions, if any, arising out of the annual review of outsourcing contracts by the outsourcing committee.
+
+(4) Ensuring that the pricing for outsourcing arrangements with related parties or group entities are consistent with accepted arms’ length principles.
+
+(5) Conflict of interest with related parties of insurers and distributional channels.
+
+57. Role of Product Management Committee (1) The Product Management Committee shall inter-alia be responsible for:
+
+(a) Effective implementation of the policy on outsourcing as approved by the Board of Directors;
+
+(b) Validating the Insurer’s need to perform the activities proposed for outsourcing. Evaluation of key risk associated with outsourcing contracts as specified in the guidelines issued in this regard.
+
+(c) Coverage of the scope of services within the objects’ clause of the Deed of constitution of the outsourcing service provider;
+
+(d) Ensuring that the decision to outsource a material activity is supported by a sound business case taking into account the cost and the potential benefits of outsourcing against risks that may arise, having regard to all relevant prudential matters as well as short-term and long term implications.
+
+(e) Ensuring that the approval to the outsourcing arrangements entered into / proposed to be entered into by the Insurer is as per the Outsourcing Policy approved by the Board of Directors;
+
+(f) Annual performance evaluation of each of the outsourcing service providers and reporting exceptions to the Board of Directors;
+
+(g) Ensuring compliance with the Outsourcing Policy and applicable laws, regulations;
+
+(h) Annual review of Outsourcing Policy and submit a review report recommendations changes in the policy for board approval;
+
+(i) Identifying risks associated with activities proposed to be outsourced;
+
+(j) Communicating information pertaining to risks associated with material activities to the Risk Management Committee of the Board in a timely manner; and
+
+(k) Ensuring that outsourcing does not in any way prejudice the interests of policyholders.
+
+DUE DILIGENCE OF OUTSOURCING SERVICE PROVIDERS 
+58. Among other things, an outsourcing arrangement shall be considered material if the 
+estimated annual expenditure under an outsourcing contract is likely to exceed 5 % of the 
+total expenditure incurred during preceding financial year on all outsourcing activities. All 
+insurers shall evaluate the outsourcing arrangements based on the detailed parameters 
+for materiality assessment as may be specified. 
+
+59. All outsourcing arrangements assessed as material shall be subject to evaluation of the risks. The Competent Authority shall specify:
+
+(1) The risks which, at minimum, shall be evaluated by the insurer;
+
+(2) Due diligence criteria and documentation to be maintained for due diligence process carried out.
+
+CONTENTS OF OUTSOURCING AGREEMENT AND OUTSOURCING TO RELATED PARTIES 60. Insurer shall comply with the guidelines specified from time to time on the following:
+
+(1) Mandatory conditions or clauses to be made part of the outsourcing agreement;
+
+(2) Principles to be followed where outsourcing service providers are related parties or group entities of insurer or of distribution channels; and
+
+(3) Maintenance of Records.
+
+61. Confidentiality and Security
+
+(1) The insurer shall satisfy itself that the outsourcing service provider’s security policies, procedures and controls will enable the insurer to protect confidentiality ad security of policyholders’ information even after the contract terminates.
+
+(2) The insurer shall ensure that the data or information parted to any outsourcing service provider under the outsourcing contracts remains confidential at all times.
+
+(3) An insurer shall take into account any legal or contractual obligations on the part of the outsourcing service provider to disclose the outsourcing arrangement and circumstances under which Insurer’s customer data may be disclosed. In the event of termination of the outsourcing agreement, the insurer should ensure that the customer data is retrieved from the service provider and ensure there is no further use of customer data by the service provider.
+
+(4) Outsourcing service providers shall handle data shared by insurers in such manner as may be specified.
+
+(5) In the event of termination of the outsourcing contracts, the insurer should ensure that the customer data is retrieved from the outsourcing service provider and ensure there
+
+is no further use or misuse of policyholder data by the outsourcing service provider.
+
+62. INSPECTION AND AUDIT BY THE INSURER (1) The insurer shall conduct periodic inspection or audit on the outsourcing service providers either by internal auditors or by Chartered Accountant firms appointed by the insurer to examine the compliance of the outsourcing agreement while carrying out the activities outsourced.
+
+(2) The outsourcing committee of the Insurer may decide on the periodicity and service providers to be inspected taking into account the risks associated with the activity outsourced. Insurer shall ensure that enabling provisions for the Inspection by the Insurer shall be included in the Agreement with outsourcing service provider. Measures shall be taken to arrest the deficiencies noticed if any in the inspection or audit report.
+
+63. LEGAL AND REGULATORY OBLIGATIONS (1) Insurers shall ensure that outsourcing arrangements do not, a. diminish their ability to fulfil their obligations to Policyholders and the IRDAI;
+
+b. impede effective supervision by the IRDAI;
+
+c. result in their internal control, business conduct or reputation being compromised or weakened. (2) These Regulations apply irrespective of whether the outsourcing arrangements are entered into with an affiliated entity within the same group as the Insurer, or an outsourcing service Provider external to the group or the one who has been given sub contract.
+
+(3) Outsourcing shall not diminish the obligations of an insurer and those of its Board and Senior Management to comply with the relevant law/s and regulations. The Insurer is ultimately accountable for all acts of commission and omission of the outsourcing service providers. The Insurer’s liability shall not in any way be restricted or limited by way of outsourcing.
+
+(4) All the outsourcing service providers engaged by insurers are subject to the provisions of the Insurance Act,1938, IRDA Act 1999, Rules, Regulations and any other orders issued thereunder.
+
+(5) The regulated activities of the Insurance Agents, Insurance Intermediaries including TPAs, Insurance Repositories and other regulated entities, as provided in the Insurance Act, 1938, IRDA Act 1999 and Regulations, guidelines made thereunder are not considered as outsourcing and therefore not covered by these Regulations.
+
+(6) Subject to these Regulations, Insurance Agents, Insurance Intermediaries and other regulated entities of the Authority shall not be contracted for performing any activity other than those activities that are allowed under the respective regulations or guidelines specified governing their registration or functioning.
+
+The Competent Authority may issue guidelines with regard to permitting or restricting outsourcing of specific activities to certain categories of unregulated entities.
+
+64. CONTINGENCY PLANS
+
+(1) Insurers shall establish and maintain adequate contingency plans where the outsourced activity is material. These include disaster recovery plans and backup facilities to support the continuation of an outsourced activity with minimal business disruption in the event of reasonably foreseeable events.
+
+(2) The contingency plans should be appropriate to the potential consequences of a business disruption resulting from problems at the outsourcing service provider. It should consider contingency plans maintained by the outsourcing service provider and their coordination with the Insurer's own contingency arrangements. In particular, contingency plans should ensure that the Insurer can readily access all the records necessary to allow it to sustain business operations, meet statutory obligations, and provide any information relating to the outsourced activity as may be required by the IRDAI.
+
+(3) Contingency plans should also be regularly reviewed and tested to ensure that they remain robust, particularly under changing operating conditions.
+
+65. REGULATORY ACCESS
+
+(1) Insurers shall, in all cases, obtain an undertaking from their outsourcing Service providers or include a provision within the outsourcing agreement, giving authorized representatives of the IRDAI the right to: a. examine the books, records, information, systems and the internal control environment in the outsourcing service provider (or sub-contractor as applicable), to the extent that they relate to the service being performed for the Insurer, and b. access any internal audit reports or external audit findings of the outsourcing service Provider that concern the service being performed for the Insurer.
+
+(2) In cases where Insurer outsources to the service providers outside India, if allowed by the Competent Authority, the Insurers shall ensure that the terms of the agreement are in compliance with respective local regulations governing the outsourcing service provider and laws of the country concerned and such laws and regulations do not impede the
+
+regulatory access and oversight by the Authority. All original policyholder records continue to be maintained in India.
+
+PROHIBITION 66. These regulations shall not be construed to be authorizing any activity which otherwise is prohibited by any law or Regulation or Guidelines specified for the time being in force.
+
+67. REPORTING REQUIREMENTS
+
+(1) Insurers shall make such disclosure in its annual report as may be specified.
+
+(2) Notwithstanding with the above, the Competent Authority may call for details, cause inspection in respect of any outsourcing arrangements.
+
+Chapter 5 MISCELLANEOUS
+
+68. Trade logo An insurer using the trade logo shall comply with the guidelines specified in this regard from time to time.
+
+69. Power of the Authority to Issue Clarifications In order to remove any difficulties in application or interpretation of any of the provisions of these regulations, the Competent Authority may issue clarifications, directions and guidelines in the form of circulars/guidelines.
+
+___***___
+

@@ -1,0 +1,278 @@
+Database - Historical Data- Reserve Bank of India
+
+Skip to main content
+
+Change Language हिंदी
+
+Search the Website Search
+
+DRAFT CIRCULAR
+
+RBI/2025-26/ DoR.MCS.REC. /01.01.003/2025-26
+
+August xx, 2025
+
+Reserve Bank of India (Settlement of Claims in respect of Deceased Customers of Banks) Directions, 2025
+
+I. Introduction
+
+The nomination facility in deposit accounts, safe deposit lockers and articles in safe custody under the provisions of Sections 45ZA to ZF of the Banking Regulation Act, 1949 read with Section 56 of the Act ibid is intended to facilitate expeditious settlement of claims by banks upon death of a deceased customer and to minimise hardship caused to the family members. Further, in cases where nomination is not registered, the extant instructions require banks to adopt a simplified procedure up to a threshold limit. However, it is observed that divergent practices are being followed by banks. Hence, it has been decided to review the extant instructions and issue revised regulations to streamline the procedures and standardise the documentation to bring improvement in the quality of customer service in this regard.
+
+II. Preliminary
+
+A. Preamble
+
+2. These Directions are issued to provide a harmonized framework and to standardise the documentation for settlement of claims in respect of deposit accounts, safe deposit locker and articles in safe custody of a deceased customer and to minimise the difficulties faced by the nominees/ survivors/ legal heirs.
+
+B. Powers Exercised
+
+3. In exercise of the powers conferred by Section 35A of the Banking Regulation Act, 1949 read with Section 56 of the Act ibid, the Reserve Bank of India (hereinafter called the Reserve Bank), being satisfied that it is necessary and expedient in public interest to do so, hereby, issues the Directions hereinafter specified.
+
+C. Short Title
+
+4. These Directions shall be called the Reserve Bank of India (Settlement of Claims in respect of Deceased Customers of Banks) Directions, 2025.
+
+D. Effective Date
+
+5. Instructions issued vide these Directions shall be complied with as expeditiously as possible but no later than January 1, 2026.
+
+E. Applicability
+
+6. These Directions shall apply to all commercial banks and co-operative banks.
+
+F. Definitions
+
+7. In these Directions, unless the context otherwise requires,
+
+(a) ‘Accounts with survivorship clause’ refers to joint deposit accounts styled as ‘either or survivor’, or ‘anyone or survivor’, or ‘former or survivor’ or ‘latter or survivor’ or any other such clause.
+
+(b) ‘Apostille’ refers to a certificate that authenticates the origin of a public document (e.g., a birth, marriage or death certificate, a judgment, an extract of a register or a notarial attestation). Apostilles can only be issued for documents issued in one country party to the Apostille Convention and that are to be used in another country which is also a party to the Convention. In India, such attestations are done by Ministry of External Affairs.
+
+(c) ‘Customer’ refers to an individual(s) who may be a depositor or a locker hirer or has placed articles in safe custody with a bank.
+
+(d) ‘Depositor’ refers to an individual(s) that has any type of deposit accounts with a bank such as Savings account, Current account, Term Deposit account, etc.
+
+(e) ‘Equivalent e-document’ shall have the same meaning as defined in paragraph 3(a)x of the Master Direction - Know Your Customer (KYC) Direction, 2016 as amended from time to time.
+
+(f) ‘Officially Valid Document’ refers to the documents as detailed in paragraph 3(a)(xiv) of the Master Direction - Know Your Customer (KYC) Direction, 2016.
+
+(g) ‘Probate’ shall have the same meaning as defined in Section 2(f) of the Indian Succession Act, 1925.
+
+(h) ‘Will’ shall have the same meaning as defined in Section 2(h) of the Indian Succession Act, 1925.
+
+III. Settlement of Claims in Deposit Accounts of Deceased Depositor
+
+G. Accounts with nominees/ survivorship clause
+
+8. Deposit accounts where a depositor had made a nomination in terms of the provisions of the Banking Regulation Act, 1949 or where the account was opened with survivorship clause, the payment of the outstanding balance upon the death of the depositor to the nominees/ survivors shall be considered a valid discharge of a bank’s liability, provided:
+
+the bank has exercised due care and caution in establishing the identity of the nominees/ survivors and the deceased status of the account holder by obtaining appropriate documentary evidence (physical or equivalent e-document);
+
+there is no order from the competent court, as on the date of settlement/ payment, restraining the nominees/ survivors or the bank from receiving/ making the payment from the account of the deceased depositor;
+
+it has been made clear in writing to the nominees/ survivors that they would be receiving the payment from the bank as a trustee of the legal heirs of the deceased depositor, i.e., such payment to her/ him shall not affect the right or claim which any person may have against the nominees/ survivors to the extent of the payment made to them; and
+
+there is no ‘Will’ left behind by the deceased depositor.
+
+9. Payment made to the nominees/ survivors, subject to the foregoing conditions, shall constitute a full discharge of a bank's liability. Therefore, in such cases, while making payment to the nominees/ survivors of the deceased depositor, a bank shall not insist on production of other legal documents such as succession certificate, letter of administration, probate of Will, etc., or seek any bond of indemnity/ surety from the nominees/ survivors/ third-party, irrespective of the amount standing to the credit of the deceased account holder. A bank shall require submission of the following documents in such cases:
+
+Claim form, as given in Annex I-A, duly signed by the nominees/ survivors;
+
+Death certificate; and
+
+Officially Valid Document of the nominee/ survivor towards verifying her/ his identity and address.
+
+H. Accounts without nominee/ survivorship clause
+
+10. Simplified Procedure for settlement of claims
+
+A bank shall adopt a simplified procedure for settlement of claims in deposit accounts where a deceased depositor had not made any nomination or in cases of joint accounts without nominee/ survivorship clause, keeping in view the imperative need to avoid inconvenience and undue hardship to the claimant/ legal heir. For settlement of such claims, a bank, based on its risk management systems, shall fix a threshold limit, subject to a minimum of ₹15 lakh.
+
+(a) Claim amount up to the threshold limit
+
+In case, there is no ‘Will’ left behind by the deceased depositor nor is there any contesting claim nor an order from a competent court restraining the claimants nor the bank from receiving/ making the payment, the bank shall settle the claim in cases up to the threshold limit, based on
+
+Claim form, as given in Annex I-B, duly filled and signed by the claimants other than those who have signed the letter of disclaimer/ no objection;
+
+Death certificate;
+
+Officially Valid Document of the claimants towards verifying his/ her identity and address;
+
+Bond of indemnity/ surety, as given in Annex I-C, signed by the claimants;
+
+Letter of disclaimer/ no objection, as given in Annex I-D, from non-claimant legal heirs, if applicable; and
+
+Legal Heir Certificate issued by a competent authority or Declaration regarding the legal heirs of the deceased depositor as given in Annex I-E, by an independent person who is well known to the family of the deceased but unconnected with it and acceptable to the bank.
+
+No bond of indemnity/ surety from a third-party shall be obtained in case of claims up to the threshold limit.
+
+(b) Claim amount above the threshold limit
+
+In case where claim amount is above the threshold limit, in addition to the documents mentioned at paragraph 10(a)(i) to (v) above, the claim shall be settled based on
+
+Succession certificate; or
+
+Legal Heir Certificate issued by a competent authority or Declaration regarding the legal heirs of the deceased depositor as given in Annex I-E, sworn as an affidavit before a Judge/ Judicial Magistrate, by an independent person who is well known to the family of the deceased but unconnected with it and acceptable to the bank. The claim may be accompanied by a Bond of Indemnity/ surety from third-party individuals, as given in Annex I-C, acceptable to the bank and good for the claim amount.
+
+11. Settlement of Claims not falling under the Simplified Procedure
+
+(a) Claims involving ‘Will’ without any dispute
+
+A bank shall settle claims involving ‘Will’ left behind by a deceased depositor on the basis of Probate of Will/ Letter of Administration, as applicable, in addition to documents mentioned at paragraph 10(a)(i) to (v) above. A bank may act as per ‘Will’ of the deceased without insisting on production of the probate of such Will, provided the same is not inconsistent with applicable laws, there is no dispute regarding the Will and the bank is otherwise satisfied as to the genuineness of the Will.
+
+(b) Cases involving contesting claim/ dispute
+
+A bank shall settle claims, where there are contesting claims or dispute among the claimants/ legal heirs with respect to the Will of the deceased depositor, on the basis of Probate of Will or Letter of Administration or Succession Certificate or Court decree, as applicable, in addition to documents mentioned at paragraph 10(a)(i) to (v) above. Further, where there is an order from a Court restraining the bank from making the payment, the claim shall be settled based on subsequent Court decree to that effect.
+
+(c) No bond of indemnity/ surety shall be insisted from a third party in cases falling under either paragraph 11(a) or 11(b).
+
+I. Treatment of pipeline flows in the name of a deceased depositor
+
+12. In order to avoid hardship to the nominees/ survivors/ legal heirs of a deceased depositor, a bank shall obtain appropriate agreement/ authorisation from the nominees/ survivors/ legal heirs with regard to the treatment of pipeline flows in the name of the deceased account holder. In this regard, the bank shall adopt either of the following two approaches:
+
+(i) The bank could be authorized by the nominees/ survivors/ legal heirs of a deceased account holder to open an account styled as 'Estate of Shri/ Smr/ Kum. ________________, the Deceased' where all the pipeline flows in the name of the deceased account holder could be allowed to be credited, provided no withdrawals are made.
+
+OR
+
+(ii) The bank could be authorized by the nominees/ survivors/ legal heirs to return the pipeline flows to the remitter with the remark 'Account holder deceased' and to intimate the nominees/ survivors/ legal heirs accordingly. The nominees/ survivors/ legal heirs could then approach the remitter to effect payment through a negotiable instrument or through electronic transfer.
+
+J. Premature termination of term deposit accounts in case of depositor’s death
+
+13. A bank shall incorporate a clause in the account opening form itself to the effect that in the event of the death of the depositor, premature termination of term deposits would be allowed without any penal charge, even if the deposit is within the lock-in-period.
+
+14. Premature termination of term deposits opened jointly, with or without survivorship clause, shall require the consent of all the account holders, when all of them are alive, and that of the surviving depositors and the legal heirs of the deceased joint holder, in case of death of one of the depositors. However, if a specific mandate is furnished by all the depositors jointly to the bank, either at the time of placing the term deposit, or anytime subsequently during the tenure of the deposit, then premature withdrawal option shall be allowed to the survivors, on the death of any of the depositors, without seeking the concurrence of the legal heirs of the deceased joint deposit holder.
+
+K. Settlement of claims in respect of missing persons
+
+15. The settlement of claims in respect of missing persons shall be governed by the provisions of Sections 110 and 111 of the Bharatiya Sakshya Adhiniyam, 2023. As such, the nominee/ legal heir has to raise an express presumption of death of the depositor under the said legal provisions before a competent court. If the court presumes that she/he is dead, then the claim in respect of a missing person can be settled on the basis of court orders as per the procedure applicable for settlement of claims in respect of a deceased depositor.
+
+16. A bank shall formulate a policy which would enable it to settle the claims of a missing person after considering the legal opinion and taking into account the facts and circumstances of each case. Further, keeping in view the imperative need to avoid inconvenience and undue hardship to the common person, a bank, keeping in view their risk management systems, shall fix a threshold limit, up to which claims in respect of missing persons could be settled without insisting on production of any documentation other than (i) First Information Report (FIR) and the non-traceable report issued by police authorities and (ii) letter of indemnity from the claimant.
+
+IV. Settlement of Claims in Safe Deposit Locker and Articles in Safe Custody kept by Deceased Customer
+
+L. Claims with Nominees/ Survivors
+
+17. If a sole locker hirer nominates an individual(s) to receive the contents in the locker in case of her/ his death, a bank shall give access of the locker to such nominees with liberty to remove the contents of the locker. In case of a minor nominee, bank shall ensure that, the contents of locker, when sought to be removed on behalf of the minor nominee, are handed over to a person who is, in law, competent to receive the contents of safe deposit locker on behalf of such minor.
+
+18. In case the locker was hired jointly with the instructions to operate it under joint signatures, and the locker hirers nominates any other individual(s), in the event of death of any of the locker hirers, the bank shall give access of the locker and the liberty to remove the contents jointly to the nominees and the survivors. In case the locker was hired jointly with survivorship clause and the hirers instructed that the access of the locker should be given to "either or survivor", "anyone or survivor" or "former or survivor" or according to any other survivorship clause permissible under the provisions of the Banking Regulation Act, 1949, the bank shall follow the mandate in the event of death of one or more of the joint locker hirers.
+
+19. The following documents shall be obtained by a bank in this regard for processing the claim:
+
+Claim form, as given in Annex I-A, duly signed by the survivors/ nominees;
+
+Death certificate; and
+
+Officially Valid Document of the survivor/ nominee towards verifying her/ his identity and address.
+
+20. A bank shall, however, ensure the following before giving access to the contents to the nominees/ survivors:
+
+Exercise due care and caution in establishing the identity of the nominees/ survivors and deceased status of the locker hirers by obtaining appropriate documentary evidence (physical or equivalent e-document);
+
+There is no order or direction as on date from Courts/ Forums restraining the nominees/ survivors or the bank from giving access to the locker of the deceased customer and liberty to remove the contents of such locker; and
+
+Make it clear to the nominees/ survivors that access to and liberty to remove the contents of the locker is given to them only as a trustee of the legal heirs of the deceased locker hirer, i.e., such access and liberty to remove the contents given to them shall not affect the right or claim which any person may have against the nominees/ survivors to whom the access is given.
+
+21. After receipt of the documents mentioned at paragraph 18 above and being satisfied to the genuineness of the claim, the bank shall correspond with the nominees/ survivors in writing and fix a date and time for making an inventory of the contents of the safe deposit locker. The same shall be undertaken in the presence of the nominees and/or survivor sand/ or their authorised representatives, two independent witnesses (should not be employee or ex-employee of the bank), the safe deposit vault custodian and another employee of the bank not associated with locker operations, and recorded as per the inventory form given in Annex I-F. The bank shall then hand over the possession of the contents of the locker to the nominees/ survivors/ the person competent to receive the contents on behalf of the minor, as the case may be, and obtain an acknowledgment, as given in Annex I-F, that all the contents in the locker of the deceased hirer have been removed and the locker is empty, and they have no objection to allotment of the locker to any other locker hirer as per norms of the bank.
+
+22. Production of legal documents, viz., succession certificate, letter of administration, probate of Will, etc., or bond of indemnity/ surety from the nominees/ survivors shall not be required unless there is any discrepancy in nomination.
+
+23. Similar procedure shall be followed for return of articles kept by the deceased customer in the safe custody of the bank. However, inventory form given in Annex I-G shall be used in such cases.
+
+M. Cases without nominee/ survivor
+
+24. In case where the deceased locker hirer had not made any nomination or where the joint hirers had not given any mandate that the access may be given to one or more of the survivors by a clear survivorship clause, a bank may obtain the following documents to settle the claims without obtaining any legal documentation such as succession certificate, letter of administration, etc. provided there is no dispute amongst the legal heirs:
+
+Claim form, as given in Annex I-B, duly filled and signed by the claimant legal heirs;
+
+Death certificate;
+
+Officially Valid Document of the claimants towards verifying his/ her identity and address;
+
+Letter of disclaimer/ no objection, as given in Annex I-D, from non-claimant legal heirs, if applicable; and
+
+Legal Heir Certificate issued by a competent authority or Declaration regarding the legal heirs of the deceased locker hirer as given in Annex I-E, sworn as an affidavit before a Judge/ Judicial Magistrate, by an independent person who is well known to the family of the deceased but unconnected with it and acceptable to the bank.
+
+25. After receipt of the above documents and being satisfied to the genuineness of the claim, the bank shall correspond with the claimants in writing and fix a date and time for making an inventory of the contents of the safe deposit locker, as given in form prescribed in Annex I-F, in the presence of all legal heirs or their duly authorised representatives, two independent witnesses (should not be employee or ex-employee of the bank), the safe deposit vault custodian and another employee of the bank not associated with locker operations. The claimants may remove the contents of the locker subsequent to submission of the Bond of Indemnity, as given in Annex I-H, signed by all legal heirs.
+
+26. Cases involving dispute amongst the legal heirs shall be settled based on Probate of Will or succession certificate or letter of administration or court order/ decree, as the case may be.
+
+27. Similar procedure, as prescribed in paragraphs 22 and 23 above, shall be followed for return of articles kept by the deceased customer in the safe custody of the bank. However, inventory form given in Annex I-G shall be used in such cases.
+
+V. Operational and Compensation related aspects
+
+N. Standardisation of procedure for submission of claims
+
+28. A bank shall use the standardized forms for receiving the claims and other documents as per the formats provided in Annex I-A to I-H.
+
+29. The standardised forms and other documents required for settlement of claims with respect to the deposit accounts/ safe deposit locker/ articles in safe custody kept by a deceased customer shall be made available in all the branches as well as on the bank’s website for the convenience of the claimants. Further, a bank shall also display, on its website, the list of documents to be submitted by a claimant and the procedure to be followed for settlement of claims in various scenarios.
+
+30. A claimant shall be allowed to lodge the claim at any of the bank’s branches against acknowledgment. In case all requisite documents required for processing of the claim have been submitted by the claimant, the bank shall also issue a confirmation in this regard. However, in case of pending or incomplete/ incorrect documents, the bank shall intimate the claimant about the list of such documents along with the acknowledgement. On subsequent submission of all the required documents, the bank shall issue a confirmation to the claimant that all requisite documents have been received for processing of the claim.
+
+31. A bank may provide the facility for online lodgement of such claims through its website. Upon a claimant uploading the claim form along with the requisite documents, the bank shall send acknowledgement/ confirmation through appropriate channels and also make available the provision for online tracking of the status of the claim. In such cases, if the bank requires the claimant to produce original documents for submission or verification, the same shall be allowed to be done at any of its branches.
+
+O. Time limit for settlement of claims
+
+32. A bank shall settle a claim in respect of deposit accounts of a deceased customer within a period not exceeding 15 calendar days from the date of receipt of all the requisite documents associated with the claim.
+
+33. In case of safe deposit locker/ articles in safe custody, the bank shall, within 15 days of receipt of all the requisite documents, process the claim and issue communication to the claimant for fixing the date for taking inventory of the locker/ articles in safe custody.
+
+P. Compensation for delay in settlement of claims
+
+34. If any deposit related claim is not settled within the timeframe stipulated at paragraph 32 above, then the bank shall communicate to the claimants the reasons for such delay. Further, in cases of delay attributable to the bank, compensation shall be paid to the claimants by the bank in the form of interest, at a rate not less than the prevailing Bank Rate + 4% per annum, on the settlement amount due for the period of delay. The reference date for reckoning the amount due and the prevailing Bank rate shall be the date of receipt of all requisite documents from the claimant.
+
+35. In claims related to safe deposit locker/ articles in safe custody, the bank shall be required to pay compensation to the claimants at the rate of ₹5,000 for each day of delay, in cases where it doesn’t adhere to the timeline prescribed in paragraph 33 above.
+
+VI. Miscellaneous
+
+Q. Authentication modes for ‘proof of death’ document issued outside India
+
+36. In cases involving death of a customer outside India, ‘proof of death’ document is issued by an authority outside the country. In such cases, a bank shall accept the certified copy of the document issued for ‘proof of death’, authenticated in the country of its issuance in any one or more of the following modes:
+
+verified by authorised officials of overseas branches of Scheduled Commercial Banks registered in India;
+
+verified at branches of overseas banks with whom Indian banks have correspondent banking relationships;
+
+verified by a Court Magistrate or Judge;
+
+consularised by Indian Embassy/ Consulate General in the country of issuance;
+
+apostilled.
+
+R. Customer Awareness and Publicity
+
+37. A bank shall create awareness among its customers about the benefits of the nomination facility/ survivorship clause and give wide publicity to these facilities along with the procedure for settlement of claims.
+
+S. Repeal Provisions
+
+38. With the issuance of these Directions, the instructions contained in the circulars mentioned in Annex II, issued by the Reserve Bank, shall stand repealed from the effective date of these Directions.
+
+39. Notwithstanding the repeal provisions under paragraph 38 above, anything done or any action taken or purported to have been done or taken, or any direction given or any proceeding taken or any penalty or fine imposed under the repealed enactments shall, insofar as it is not inconsistent with the provisions of these Directions, be deemed to have been done or taken under the corresponding provisions of these Directions.
+
+---
+
+Annex II
+
+List of circulars/ Part of the circulars repealed
+
+| Sl. No. | Circular No. | Date | Subject |
+| --- | --- | --- | --- |
+| 1. | DBOD.No.Leg.BC.95/09.07.005/2004-05 | 09/06/2005 | Settlement of Claims in respect of Deceased Depositors - Simplification of Procedure |
+| 2. | RPCD.CO.RF.BC.No.12/07.38.01/2005-06 | 12/07/2005 | Settlement of Claims in respect of Deceased Depositors - Simplification of Procedure |
+| 3. | UBD.BPD.Cir.No.4/13.01.00/2005-06 | 14/07/2005 | Settlement of Claims in respect of Deceased Depositors - Simplification of Procedure - UCBs |
+| 4. | RPCD.CO.RRB.BC.22/03.05.33/2005-06 | 19/07/2005 | Settlement of Claims in respect of Deceased Depositors - Simplification of Procedure |
+| 5. | DBOD.No.Leg.BC.80/09.07.005/2007-08 | 02/05/2008 | Settlement of Claims in respect of Missing Persons |
+| 6. | UBD (PCB) BPD Cir No:45/13.01.000/2007-08 | 12/05/2008 | Settlement of Claims in respect of Missing Persons |
+| 7. | RPCD.CO.RF.BC.No.70/07.38.01/2007-08 | 14/05/2008 | Settlement of Claims in respect of Missing Persons |
+| 8. | RPCD.CO.RRB.BC.No.26/03.05.33/2008-09 | 12/09/2008 | Settlement of Claims in respect of Missing Persons |
+| 9. | UBD.BPD.(PCB).CIR.No.32/13.01.000/2012-13 | 21/01/2013 | Settlement of Claims in Respect of Deceased Depositors - Simplification of Procedure - UCBs |
+| 10. | DBOD.No.Leg.BC.48/09.07.005/2013-14 | 03/09/2013 | Settlement of Claims of Deceased Depositor - Simplification of Procedure - Placing of Claim Forms on Bank's Website |
+| 11. | UBD.BPD.(PCB)CIR No.10/13.01.000/2013-14 | 05/09/2013 | Settlement of Claims of Deceased Depositor - Simplification of Procedure - Placing of Claim Forms on Bank's Website |
+| 12. | RPCD.CO.RRB.BC.No.33/03.05.33/2013-14 | 10/09/2013 | Settlement of Claims of Deceased Depositor - Simplification of Procedure - Placing of Claim Forms on Bank's Website |
+| 13. | RPCD.CO.RCB.BC.No.30/07.51.014/2013-14 | 10/09/2013 | Settlement of Claims of Deceased Depositor - Simplification of Procedure - Placing of claim forms on bank’s Website |
+| 14. | DOR.LEG.REC/40/09.07.005/2021-22 | 18/08/2021 | Paragraphs 5.2 and 5.3 of Circular on Safe Deposit Locker/Safe Custody Article Facility provided by the banks- Revised Instructions |
+
+| () |
+| --- |
+| Draft Circular - Reserve Bank of India (Settlement of Claims in respect of Deceased Customers of Banks) Directions, 2025 |
+
+Top

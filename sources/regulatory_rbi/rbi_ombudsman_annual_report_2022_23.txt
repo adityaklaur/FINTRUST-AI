@@ -1,0 +1,1208 @@
+617 Publications - Reserve Bank of India
+
+Skip to main content
+
+Search the Website Search
+
+# Publications
+
+| CONTENTS |
+| --- |
+| Select Abbreviations |
+| Foreword |
+| Executive Summary |
+| Chapter 1 The Reserve Bank – Integrated Ombudsman Scheme, 2021: Activities during April 1, 2022 to March 31, 2023 |
+| Receipt of complaints |
+| Ombudsman Office wise allocation of complaints |
+| Geographic dispersion of complaints across the states |
+| Mode of receipt of complaints at ORBIOs |
+| Population group-wise receipt of complaints at ORBIOs |
+| Complainant type-wise receipt of complaints |
+| Regulated Entity type-wise receipt of complaints |
+| Disposal of complaints |
+| Mode of disposal of maintainable complaints |
+| Reasons for closure of complaints under non-maintainable clauses |
+| Receipt of Appeals |
+| Cost of handling a complaint |
+| Turn Around Time (TAT) for disposal of complaints |
+| Bank group-wise complaint conversion ratio |
+| Chapter 2 Centralised Receipt and Processing Centre |
+| Receipt and disposal of complaints at CRPC |
+| Mode of receipt of complaints at CRPC |
+| Reasons for closure of complaints at CRPC |
+| Calls received at the Contact Centre |
+| Handling of calls at CC |
+| Language-wise receipt of calls |
+| Broad-basing and Upgrade of the Reserve Bank Contact Centre |
+| Chapter 3 Complaints received through Centralised Public Grievance Redress and Monitoring System (CPGRAMS) and applications under Right to Information Act, 2005 |
+| Complaints received through Centralised Public Grievance Redress and Monitoring System (CPGRAMS) |
+| Applications received under the Right to Information (RTI) Act, 2005 |
+| Chapter 4 Other Developments |
+| Widening the coverage of the RB-IOS, 2021 by inclusion of Credit Information Companies |
+| Rolling out the Internal Ombudsman Scheme for Credit Information Companies |
+| Committee for Review of Customer Service Standards in RBI Regulated Entities |
+| G20 High-Level Principles on Financial Consumer Protection |
+| Pan India Intensive Awareness Campaign |
+| Review of the framework for Strengthening of Grievance Redress Mechanism in banks |
+| Opening / reorganisation of ORBIOs |
+| Digitalisation of data compiled through incognito visits |
+| Important regulatory measures relating to Customer Service and Protection taken by RBI |
+| Root Cause Analysis (RCA) of major areas of complaints |
+| Way forward |
+| APPENDICES |
+
+| TABLES |
+| --- |
+| Table No. | Table Title |
+| Table 1.1 | Total receipt of complaints under the Ombudsman framework |
+| Table 1.2 | Office-wise allocation of complaints at the ORBIOs |
+| Table 1.3 | Complainant type-wise receipt of complaints at the ORBIOs |
+| Table 1.4 | Regulated Entity type-wise receipt of complaints at the ORBIOs |
+| Table 1.5 | Category wise receipt of complaints at ORBIOs |
+| Table 1.6 | Disposal and Pendency position at the ORBIOs |
+| Table 1.7 | Mode of disposal of maintainable complaints by ORBIOs |
+| Table 1.8 | Receipt and disposal of Appeals under the Ombudsman Schemes for past three years |
+| Table 2.1 | Receipt, Disposal and Pendency position at the CRPC |
+| Table 2.2 | Call Data at Contact Centre (April 2022 – March 2023) |
+
+| CHARTS |
+| --- |
+| Chart No. | Chart Title |
+| Chart 1.1 | Geographic dispersion of complaints received per lakh accounts |
+| Chart 1.2 | Mode of receipt of complaints for the past three years |
+| Chart 1.3 | Population group-wise receipt of complaints at ORBIOs |
+| Chart 1.4 | Reasons for non-maintainable complaints |
+| Chart 1.5 | Total volume of disposed complaints along with their TAT |
+| Chart 1.6 | Complaint Conversion Ratio |
+| Chart 2.1 | Complaints received at the CRPC (April 2022 - March 2023) |
+| Chart 2.2 | Number of complaints received at the CRPC (April 2022 - March 2023) |
+| Chart 2.3 | Mode of receipt of complaints at CRPC (April 2022 - March 2023) |
+| Chart 2.4 | Reason for closure of complaints at CRPC (April 2022 - March 2023) |
+| Chart 2.5 | Total Calls received at Contact Centre (April 1, 2022 - March 31, 2023) |
+| Chart 2.6 | Language-wise calls at Contact Centre (April 2022 - March 2023) |
+| Chart 2.7 | Calls received in Regional Languages (April 2022 - March 2023) |
+| Chart 2.8 | Contact Centre – Journey so far |
+
+| APPENDICES |
+| --- |
+| Appendix 1.1: Mode of receipt of complaints at the ORBIOs for the past three years |
+| Appendix 1.2: Office-wise receipt of Appeals during April 1, 2022 to March 31, 2023 |
+| Appendix 1.3: Office-wise Cost of handling complaints |
+| Appendix 1.4: Mode of disposal of Maintainable Complaints against Scheduled Commercial Banks |
+| Appendix 2.1: Receipt of complaints at CRPC |
+| Appendix 2.2: Month wise receipt of complaints at CRPC |
+| Appendix 2.3: Mode of receipt of complaints at CRPC |
+| Appendix 3.1: Position of complaints received through CPGRAMS |
+| Appendix 3.2: Applications received by ORBIOs and CRPC under RTI Act, 2005 |
+| Appendix 4.1: Number of awareness programmes conducted during April 1, 2022 to March 31, 2023 |
+| Appendix 4.2: Important policy initiatives relating to Customer Service issued by RBI in 2022-23 (April – March) |
+
+| ANNEXURES |
+| --- |
+| Annexure No. | Annexure Title |
+| Annexure 1 | Statement of complaints received against banks by the ORBIOs during April 1, 2022 to March 31, 2023 |
+| Annexure 2 | Statement of complaints received against NBFCs by the ORBIOs during April 1, 2022 to March 31, 2023 |
+| Annexure 3 | Statement of complaints received against NBPSPs by the ORBIOs during April 1, 2022 to March 31, 2023 |
+| Annexure 4 | Statement of complaints received against CICs by the ORBIOs during April 1, 2022 to March 31, 2023 |
+
+---
+
+Select Abbreviations
+
+| AEPS | Aadhar Enabled Payment System |
+| --- | --- |
+| AFA | Additional Factor of Authentication |
+| AGR | Alternate Grievance Redress |
+| AI | Artificial Intelligence |
+| ATM | Automated Teller Machine |
+| BBPOU | Bharat Bill Payment Operating Unit |
+| BOS | Banking Ombudsman Scheme |
+| CC | Contact Centre |
+| CEPC | Consumer Education and Protection Cell |
+| CEPD | Consumer Education and Protection Department |
+| CIC | Credit Information Company |
+| CMS | Complaint Management System |
+| CPGRAMS | Centralised Public Grievance Redress and Monitoring System |
+| CRPC | Centralised Receipt and Processing Centre |
+| DC | Debit Card |
+| DLA | Digital Lending Application |
+| FPC | Fair Practices Code |
+| FRC | First Resort Complaint |
+| FSWM | Financially Sound and Well Managed |
+| GoI | Government of India |
+| IO | Internal Ombudsman |
+| IVRS | Interactive Voice Response System |
+| NBFC | Non-Banking Financial Company |
+| NBPSP | Non-Bank Payment System Participant |
+| NIAP | Nationwide Intensive Awareness Programme |
+| NPCI | National Payments Corporation of India |
+| OECD | Organisation for Economic Co-operation and Development |
+| ORBIO | Office of Reserve Bank of India Ombudsman |
+| OSDT | Ombudsman Scheme for Digital Transactions |
+| OSNBFC | Ombudsman Scheme for NBFCs |
+| PPI | Prepaid Payment Instrument |
+| PSO | Payment System Operator |
+| PSU | Public Sector Undertaking |
+| RBI | Reserve Bank of India |
+| RBIO | Reserve Bank of India Ombudsman |
+| RB-IOS | Reserve Bank – Integrated Ombudsman Scheme |
+| RCA | Root Cause Analysis |
+| RE | Regulated Entity |
+| RRB | Regional Rural Bank |
+| RTI | Right to Information |
+| SCB | Scheduled Commercial Bank |
+| SMS | Short Message Service |
+| TAT | Turn Around Time |
+| UCB | Urban Cooperative Bank |
+| UPI | Unified Payments Interface |
+
+---
+
+Foreword
+
+The year 2022 marked a significant juncture in the financial consumer protection landscape as the G20/OECD High Level Principles (HLPs) on Financial Consumer Protection were updated for the first time after their introduction in 2011. The major changes to the Principles were inclusion of two new Principles, viz., ‘Access and Inclusion’ and ‘Quality Financial Products’ and three new cross-cutting themes namely ‘Digitalisation’, ‘Financial Well-being’ and ‘Sustainable Finance’, which are relevant to the consideration and implementation of each and all of the Principles. These Principles are the leading international standards guiding effective and comprehensive financial consumer protection frameworks across the globe.
+
+On the domestic front, as India set a vision for an empowered and inclusive economy, the consumers of the banking and financial sector need to be aware of their rights, responsibilities and safe banking practices as well as avenue for redress of their grievances. RBI has taken series of initiatives to achieve this objective and the Alternate Grievance Redress framework of RBI aims just that backed by a revamped, restructured and integrated Ombudsman mechanism put in place in November 2021.
+
+The Annual Report of the Ombudsman Scheme 2022-23 sheds light on the activities and functioning of the Ombudsmen, awareness initiatives undertaken through Ombudsman Speak and focused Nationwide Intensive Awareness Programme, additional Contact Centres with Business Continuity and Disaster Recovery capabilities and various policy initiatives to strengthen the customer protection framework.
+
+This Annual Report is the second after the launch of the Reserve Bank – Integrated Ombudsman Scheme (RB-IOS) in 2021 and the first full-year report under the RB-IOS, 2021. I hope all the stakeholders would find it useful.
+
+Sd/- (Neeraj Nigam) Executive Director & Appellate Authority
+
+---
+
+Executive Summary
+
+The Annual Report of the Ombudsman Scheme 2022-23 is the first stand-alone report under the Reserve Bank – Integrated Ombudsman Scheme (RB-IOS), 2021(the Scheme) elucidating the activities of the 22 Offices of the RBI Ombudsman (ORBIOs), Centralised Receipt and Processing Centre (CRPC) and the Contact Centre during the year.
+
+The RB-IOS, 2021 was rolled out in November 2021 by integrating the three erstwhile Ombudsman Schemes viz., Banking Ombudsman Scheme, 2006, Ombudsman Scheme for Non-Banking Financial Companies (OSNBFC), 2018, and Ombudsman Scheme for Digital Transactions (OSDT), 2019. Initially, the Scheme covered all Commercial Banks, Regional Rural Banks, Scheduled Primary (Urban) Co-operative Banks and Non-Scheduled Primary (Urban) Co-operative Banks with deposits size of ₹50 crore and above as on the date of the audited balance sheet of the previous financial year, all Non-Banking Financial Companies (excluding Housing Finance Companies) which (a) are authorised to accept deposits; or (b) have customer interface, with an assets size of ₹100 crore and above as on the date of the audited balance sheet of the previous financial year, and all Payment System Participants as defined under the Scheme.
+
+With the experience gained ensuing the launch and implementation of RB-IOS, 2021, Credit Information Companies (CICs) were brought under the ambit of the Scheme from September 1, 2022.
+
+Receipt of Complaints under the RB-IOS, 2021 framework
+
+Under the RB-IOS, 2021, 7,03,544 complaints were received at the ORBIOs and the CRPC between April 1, 2022 and March 31, 2023, showing an increase of 68.24% over last year. Of these, 2,34,690 complaints were allocated to and handled by the 22 ORBIOs, whereas 4,68,270 complaints were closed by CRPC as non-complaints / non-maintainable complaints. Around 85.64% of the total complaints were received through digital modes, including on the online Complaint Management System (CMS) portal, email, and Centralised Public Grievance Redress and Monitoring System (CPGRAMS). The overall disposal rate for the year at the ORBIOs stood at 97.99% with an average Turn Around Time (TAT) of 33 days. RB-IOS, 2021 envisages settlement of complaints through facilitation / conciliation / mediation and thereby, majority of the maintainable complaints (57.48%) disposed by ORBIOs were resolved through mutual settlement / conciliation / mediation. During the year, a total of 122 Appeals were received against the decisions of the RBI Ombudsmen, of which 119 Appeals were received under the RB-IOS, 2021 and the remaining three were received under the erstwhile Ombudsman Schemes.
+
+Other developments during the year
+
+The major initiatives undertaken during the year in the consumer education and protection vertical are listed below:
+
+A month long ‘ Nationwide Intensive Awareness Programme’ was launched in November 2022 in collaboration with the Regulated Entities (REs) to reach the hitherto excluded / isolated sections of populations and remotest areas in the country, especially in the Tier-III and IV cities, rural areas, etc. The event was a huge success covering approximately three crore people through physical mode and 25 crore people through digital mode.
+
+The second edition of the ‘Ombudsman Speak’ event was conducted on March 15, 2023 on the occasion of ‘World Consumer Rights Day’ and all the 22 RBI Ombudsmen interacted with local / regional multimedia channels in their respective regions.
+
+The RBIOs conducted 48 town-hall events and 238 awareness programmes during the year. These events were carried out on avenues of grievance redress and consumer protection issues with special focus on specific audience group viz., servicemen, school / college students, consumer groups.
+
+A Committee for Review of Customer Service Standards in RBI Regulated Entities (REs) was set up on May 23, 2022, under the Chairmanship of Shri B P Kanungo, former Deputy Governor, RBI, for examining and reviewing the standards of customer service in REs, assessing adequacy of customer service regulation and suggest measures for improving the same. The committee submitted its report on April 24, 2023 and the recommendations are being examined and will be considered for implementation after taking into consideration, the suggestions and feedback received from stakeholders.
+
+The Internal Ombudsman Scheme, rolled out by RBI in 2015 and mandated to all scheduled commercial banks (excluding Regional Rural Banks) in 2018, Non-Bank Payment System Participants in 2019 and select NBFCs in 2021, was extended to all the CICs in October 2022.
+
+To develop Business Continuity and Disaster Recovery capabilities, the project for the development of State-of-the-Art Contact Centre at two more locations viz., Bhubaneshwar and Kochi is underway along with upgradation of the existing Contact Centre at Chandigarh.
+
+Way forward
+
+During the period April 1, 2023 to March 31, 2024, as part of the Reserve Bank’s medium-term strategy framework for 2023-25 (Utkarsh 2.0), CEPD will:
+
+Review, consolidate and update the extant Reserve Bank regulatory guidelines on customer service;
+
+Review and integrate the internal ombudsman schemes, applicable to different RE types;
+
+Establish Reserve Bank Contact Centre at two additional locations for local languages, including disaster recovery and business continuity facility.
+
+Additionally, the recommendations made by the Committee for Review of Customer Service Standards in RBI Regulated Entities will be examined for suitable implementation.
+
+---
+
+Chapter 1 The Reserve Bank – Integrated Ombudsman Scheme, 2021: Activities during April 1, 2022 to March 31, 2023
+
+The Reserve Bank of India, as part of its commitment to consumer protection and maintaining trust in the banking system, had introduced the Banking Ombudsman Scheme (BOS) in 1995, followed by Ombudsman Scheme for Non-Banking Financial Companies (OSNBFC) in 2018 and the Ombudsman Scheme for Digital Transactions (OSDT) in 2019. The Ombudsman Schemes by RBI provided an expeditious and cost-free Alternate Grievance Redress platform for customer complaints that had not been satisfactorily redressed by the Regulated Entities (REs). Since inception, the Ombudsman Schemes have become an essential instrument in enhancing customer protection and encouraging REs to adopt better practices in resolving customer grievances.
+
+In November 2021, the three erstwhile Ombudsman schemes were integrated into a single scheme viz. the Reserve Bank - Integrated Ombudsman Scheme (RB-IOS), 2021(the Scheme), based on the recommendations made by an Internal Working Group. The Scheme was launched by the Hon’ble Prime Minister on November 12, 2021. The Scheme adopts “One Nation One Ombudsman” principle and provides single window for resolution of complaints against the REs viz. banks, Non-Banking Financial Companies (NBFCs), Payment System Participants and Credit Information Companies. The Scheme has moved away from the multiple and diverse grounds of complaints under the old schemes, to ‘deficiency in service’ as the sole ground for lodging complaints, thereby reducing complexities and facilitating speedy resolution of complaints.
+
+Under RB-IOS, 2021, the redressal / adjudication of complaints is presently handled by 24 Offices of RBI Ombudsman (ORBIOs) and the Centralised Receipt and Processing Centre (CRPC). During the year 2022-23, the total number of complaints received by the ORBIOs and CRPC was 7,03,544 complaints as against 4,18,184 complaints during 2021-22, showing an increase of 68.24%. Of these, 2,34,690 complaints were handled by the ORBIOs and 4,68,854 complaints were disposed at the CRPC. The complaints disposed at the ORBIOs have an average Turn Around Time (TAT) of 33 days during 2022-23, which improved significantly from 44 days during 2021-22.
+
+Majority (57.48%) of maintainable complaints disposed under RB-IOS, 2021 were resolved through mutual settlement / conciliation / mediation. Rest of the maintainable complaints were either rejected by RBIOs or withdrawn by the complainants or adjudicated by passing of Awards. Complaints relating to Mobile / Electronic Banking were the highest contributor to the total number of complaints received against banks as well as non-bank payment system participants, while complaints relating to Non-adherence to Fair Practices Code were the highest in respect of NBFCs.
+
+1.1 The Reserve Bank – Integrated Ombudsman Scheme (RB-IOS), 2021 (the Scheme) was launched on November 12, 2021 by the Hon. Prime Minister Shri Narendra Modi as part of the Alternate Grievance Redress (AGR) Framework of RBI for resolving customer grievances in relation to services provided by the Regulated Entities of Reserve Bank in an expeditious and cost-effective manner. On the date of the launch, the Scheme covered the following regulated entities:
+
+all Commercial Banks, Regional Rural Banks, Scheduled Primary (Urban) Co-operative Banks and Non-Scheduled Primary (Urban) Co-operative Banks with deposits size of ₹50 crore and above as on the date of the audited balance sheet of the previous financial year;
+
+all Non-Banking Financial Companies (excluding Housing Finance Companies) which (a) are authorised to accept deposits; or (b) have customer interface, with an assets size of ₹100 crore and above as on the date of the audited balance sheet of the previous financial year;
+
+all Payment System Participants as defined under the Scheme.
+
+1.2 The Credit Information Companies (CICs) were brought under the Scheme with effect from September 1, 2022 to provide an avenue for AGR to the customers of REs covered under the RB-IOS, 2021 in respect of their complaints against CICs. The Scheme is being administered by the Consumer Education and Protection Department of the Reserve Bank through 24 Ombudsmen offices within the overarching principle of ‘One Nation One Ombudsman’.
+
+Receipt of complaints
+
+1.3 Under RB-IOS, 2021, there was a significant increase in number of complaints and a total of 7,03,544 complaints were received at the ORBIOs and CRPC in 2022-23, showing an increase of 68.24%, due to intense public awareness initiatives and the simplified process for lodging of complaints under RB-IOS. Of these, 2,34,690 complaints were handled by the ORBIOs and 4,68,854 complaints were disposed at the CRPC. It was observed that the number of complaints dealt at the ORBIOs declined from 3,04,496 complaints in 2021-22 to 2,34,690 complaints in 2022-23 as structural changes in the Ombudsman framework under RB-IOS, 2021 led to filtering out of non-maintainable complaints by both, the CRPC and the Complaint Management System (CMS) portal.
+
+1.4 The details relating to the total number of complaints received under the erstwhile Ombudsman Schemes and RB-IOS, 2021 during the past three years are provided in Table 1.1 below:
+
+| Table 1.1: Total receipt of complaints under the Ombudsman framework |
+| --- |
+| Scheme | 2020-21 (Apr-Mar) | 2021-22 (Apr-Mar) | 2022-23 (Apr-Mar) |
+| Number | Share (%) | Number | Share (%) | Number | Share (%) |
+| BOS | 3,41,747 | 89.39 | 2,09,196 | 50.02 | - | - |
+| OSNBFC | 36,951 | 9.67 | 20,439 | 4.89 | - | - |
+| OSDT | 3,594 | 0.94 | 2,281 | 0.54 | - | - |
+| RB-IOS | - | 72,580 | 17.35 | 2,34,690 | 33.36% |
+| Sub Total | 3,82,292 | 100.00 | 3,04,496 | 72.81 | 2,34,690 | 33.36% |
+| CRPC1 | - | 113,688 | 27.19% | 4,68,8542 | 66.64% |
+| Total | 3,82,292 | 100.00% | 4,18,184 | 100.00% | 7,03,544 | 100.00% |
+| % Change | 15.7% | 9.39% | 68.24% |
+
+Ombudsman Office wise allocation of complaints
+
+1.5 RB-IOS, 2021 has done away with the territorial jurisdiction of the ORBIOs and thereby, complaints from any region can be processed at any ORBIO. Under the ‘One Nation One Ombudsman’ approach, a pre-defined algorithm embedded in the CMS portal allocates complaints to all the ORBIOs in an equitable manner3, which can be observed in Table 1.2 below.
+
+| Table 1.2: Office-wise allocation of complaints at the ORBIOs |
+| --- |
+| ORBIO | 2020-21# (Apr-Mar) | 2021-22$ (Apr-Mar) | 2022-23 (Apr-Mar) & |
+| Volume | Share |
+| Ahmedabad | 21,078 | 16,426 | 11,467 | 4.89% |
+| Bengaluru | 17,407 | 13,996 | 10,996 | 4.68% |
+| Bhopal | 15,787 | 12,841 | 10,364 | 4.42% |
+| Bhubaneswar | 6,920 | 7,806 | 10,728 | 4.57% |
+| Chandigarh | 36,619 | 20,270 | 11,177 | 4.76% |
+| Chennai | 27,446 | 21,396 | 11,613 | 4.95% |
+| Dehradun | 7,970 | 8,342 | 10,462 | 4.46% |
+| Guwahati | 3,543 | 5,444 | 8,753 | 3.73% |
+| Hyderabad | 22,161 | 15,212 | 10,713 | 4.56% |
+| Jaipur | 22,094 | 18,145 | 10,639 | 4.53% |
+| Jammu | 1,767 | 4,300 | 10,068 | 4.29% |
+| Kanpur | 26,499 | 24,214 | 10,259 | 4.37% |
+| Kolkata | 17,160 | 14,766 | 11,455 | 4.88% |
+| Mumbai I | 22,479 | 18,806 | 11,847 | 5.05% |
+| Mumbai II | 30,999 | 20,672 | 12,313 | 5.25% |
+| New Delhi I | 23,238 | 15,310 | 11,234 | 4.79% |
+| New Delhi II | 34,673 | 24,259 | 8,921 | 3.80% |
+| New Delhi III | 11,091 | 8,883 | 8,474 | 3.61% |
+| Patna | 17,456 | 13,606 | 10,675 | 4.55% |
+| Raipur | 4,018 | 5,362 | 10,660 | 4.54% |
+| Ranchi | 4,765 | 6,307 | 10,495 | 4.47% |
+| Thiruvananthapuram | 7,122 | 8,133 | 11,377 | 4.85% |
+| TOTAL | 3,82,292 | 3,04,496 | 2,34,690 |
+| # Data pertains to complaints received during the year under BOS, OSNBFC and OSDT. $ Data pertains to complaints received during the year under BOS, OSNBFC, OSDT and RB-IOS, 2021. & Data pertains to complaints received during the year under RB-IOS, 2021. Note: The data for the three years is not strictly comparable as the complaints received from November 12, 2021 to March 31, 2022 and FY 2022-23 exclude the complaints handled at CRPC. |
+
+Geographic dispersion of complaints across the states
+
+1.6 The geographic dispersion of complaints received against banks at the ORBIOs under RB-IOS, 2021 during the year across the states in the country, vis-à-vis the total number of accounts held (deposit and credit) by the customers with Scheduled Commercial Banks (SCB) in the respective states is depicted in the map (Chart 1.1) below. The figure presented is based on complaints received per lakh accounts held in the SCBs of the respective States / Union Territories (UTs), as on March 31, 2023.
+
+1.7 It is observed that the States / UTs of Chandigarh, NCT of Delhi, Haryana, Rajasthan, and Gujarat were the top five contributors to Ombudsman complaints, while the States of Mizoram, Nagaland, Meghalaya, Manipur, and Arunachal Pradesh were the lowest contributors during the year.
+
+Mode of receipt of complaints at ORBIOs
+
+1.8 Complaints can be received at the ORBIOs either through CMS portal or CRPC. After preliminary scrutiny, CRPC assigns the actionable complaints received through email, physical mode and CPGRAMS (the GoI portal for receipt and monitoring of complaints from the public) to the ORBIOs. A total of 85.64% of the complaints received at the ORBIOs were lodged through digital mode using CMS Portal / email / CPGRAMS portal. A breakup on complaints received through the different modes of receipt in the past three years is provided in Appendix 1.1 and depicted in Chart 1.2.
+
+Population group-wise receipt of complaints at ORBIOs
+
+1.9 In 2022-23, majority of complaints at the ORBIOs were received from Metropolitan Centres (45.77%), followed by Urban (24%) and Semi Urban Centres (18.46%). The complaints reflect a proportionate rise with the size of population and bank branches. The share of complaints from Urban, Semi Urban and Rural areas saw a decent uptick during the year. The population group-wise receipt of complaints under the Ombudsman framework for the past three years is depicted in Chart 1.3.
+
+Complainant type-wise receipt of complaints
+
+1.10 Despite drop in the absolute number of complaints from individuals as compared to the previous year, the same constituted 85.92% of total complaints received at the ORBIOs. Notably, complaints lodged by senior citizens declined to 2.16% of total complaints as compared to 3.04% in the previous year. The complainant type-wise receipt of complaints at the ORBIOs during the past three years is provided in Table 1.3.
+
+| Table 1.3: Complainant type-wise receipt of complaints at the ORBIOs |
+| --- |
+| Complainant type | 2020-21 # (Apr-Mar) | 2021-22 $ (Apr-Mar) | 2022-23 & (Apr-Mar) |
+| Individual | 3,05,093 | 2,43,244 | 2,01,646 |
+| 79.81% | 79.88% | 85.92% |
+| Individual – Business | 13,614 | 10,400 | 5,252 |
+| 3.56% | 3.42% | 2.24% |
+| Proprietorship / Partnership | 7,505 | 6,712 | 3,869 |
+| 1.96% | 2.20% | 1.65% |
+| Limited Company | 8,381 | 7,427 | 6,501 |
+| 2.19% | 2.44% | 2.77% |
+| Trust | 665 | 613 | 390 |
+| 0.17% | 0.20% | 0.17% |
+| Association | 372 | 427 | 275 |
+| 0.10% | 0.14% | 0.12% |
+| Government Department | 6,447 | 4,993 | 2,387 |
+| 1.69% | 1.64% | 1.02% |
+| PSU | 1,475 | 1,799 | 2,364 |
+| 0.39% | 0.59% | 1.01% |
+| Senior Citizen | 10,061 | 9,244 | 5,081 |
+| 2.63% | 3.04% | 2.16% |
+| Others | 28,679 | 19,637 | 6,925 |
+| 7.50% | 6.45% | 2.94% |
+| Total4 | 3,82,292 | 3,04,496 | 2,34,690 |
+| # Data pertains to complaints received during the year under BOS, OSNBFC and OSDT. $ Data pertains to complaints received during the year under BOS, OSNBFC, OSDT and RB-IOS, 2021. & Data pertains to complaints received during the year under RB-IOS, 2021. Note: The data for the three years is not strictly comparable as the complaints received from November 12, 2021 to March 31, 2022 and FY 2022-23 exclude the complaints handled at CRPC. |
+
+Regulated Entity type-wise receipt of complaints
+
+1.11 Regulated Entity-type wise receipt of complaints for the past three years under the Ombudsman framework is provided in Table 1.4.
+
+| Table 1.4: Regulated Entity type-wise receipt of complaints at the ORBIOs |
+| --- |
+| Entity type | 2020-21 # (Apr-Mar) | 2021-22 $ (Apr-Mar) | 2022-23 & (Apr-Mar) |
+| Public Sector Banks | 1,74,974 | 1,54,725 | 1,02,144 |
+| 45.77% | 50.81% | 43.52% |
+| Private Sector Banks | 1,26,303 | 94,275 | 73,764 |
+| 33.04% | 30.96% | 31.43% |
+| Payments and Small Finance Banks | 6,918 | 8,076 | 7,888 |
+| 1.81% | 2.65% | 3.36% |
+| Foreign Banks | 6,157 | 4,464 | 5,639 |
+| 1.61% | 1.47% | 2.40% |
+| RRBs/ Urban Co-op. Banks | 6,382 | 6,508 | 7,200 |
+| 1.67% | 2.14% | 3.07% |
+| NBFC | 31,158 | 22,317 | 33,072 |
+| 8.15% | 7.33% | 14.09% |
+| PPI/BBPOU | 3,168 | 3,040 | 3,456 |
+| 0.83% | 1.00% | 1.47% |
+| Credit Information Companies5 | - | - | 1,039 |
+| - | - | 0.44% |
+| Others | 27,232 | 11,091 | 488 |
+| 7.12% | 3.64% | 0.22% |
+| Total | 3,82,292 | 3,04,496 | 2,34,690 |
+| # Data pertains to complaints received during the year under BOS, OSNBFC and OSDT $ Data pertains to complaints received during the year under BOS, OSNBFC, OSDT and RB-IOS, 2021 & Data pertains to complaints received during the year under RB-IOS, 2021. Note: The data for the three years is not strictly comparable as the complaints received from November 12, 2021 to March 31, 2022 and FY 2022-23 exclude the complaints handled at CRPC. |
+
+1.12 Complaints against banks formed the largest portion (1,96,635 complaints), accounting for 83.78% of complaints received by the ORBIOs. The categories of complaints against each entity type, compared to previous years are furnished in Table 1.5.
+
+| Table 1.5: Category wise receipt of complaints at ORBIOs |
+| --- |
+| Nature of Complaints | 2020-21 # (Apr-Mar) | 2021-22 $ (Apr-Mar) | 2022-23 & (Apr-Mar) |
+| Complaints against banks |
+| Mobile / electronic banking | 44,385 | 39,388 | 39,855 |
+| 12.99% | 14.69% | 20.27% |
+| Loans and advances | 20,218 | 24,507 | 39,579 |
+| 5.92% | 9.14% | 20.13% |
+| Deposit Accounts related | 8,580 | 16,388 | 33,612 |
+| 2.51% | 6.11% | 17.09% |
+| ATM / Debit Cards | 60,203 | 41,375 | 28,635 |
+| 17.62% | 15.43% | 14.56% |
+| Credit Cards | 40,721 | 32,162 | 24,549 |
+| 11.92% | 12.00% | 12.48% |
+| Pension payments | 4,966 | 6,179 | 4,377 |
+| 1.45% | 2.30% | 2.23% |
+| Remittances | 3,394 | 3,235 | 2,937 |
+| 0.99% | 1.21% | 1.49% |
+| Para banking | 1,236 | 1,480 | 2,476 |
+| 0.36% | 0.55% | 1.26% |
+| Notes and Coins | 332 | 296 | 505 |
+| 0.10% | 0.11% | 0.26% |
+| Others | 157,712 | 103,075 | 20,110 |
+| 46.15% | 38.45% | 10.23% |
+| Total (Banks) | 3,41,747 | 2,68,085 | 1,96,635 |
+| Complaints against NBFCs |
+| Loans & Advances related / Non-adherence to FPC | 17,915 | 18,729 | 18,657 |
+| 48.48% | 56.22% | 56.41% |
+| Others | 19,036 | 14,585 | 14,415 |
+| 51.52% | 43.78% | 43.59% |
+| Total (NBFCs) | 36,951 | 33,314 | 33,072 |
+| Complaints against PSOs/PSPs |
+| Mobile/Electronic Fund Transfers / Mobile/Electronic Banking | 2,599 | 2,160 | 2,246 |
+| 72.31% | 69.74% | 64.99% |
+| Others | 995 | 937 | 1,210 |
+| 27.69% | 30.26% | 35.01% |
+| Total (PSOs/PSPs) | 3,594 | 3,097 | 3,456 |
+| Complaints against Credit Information Companies |
+| Loans and advances | - | - | 754 |
+| - | - | 72.57% |
+| Credit Cards | - | - | 63 |
+| - | - | 6.06% |
+| Others | - | - | 222 |
+| - | - | 21.37% |
+| Total (CICs) | - | - | 1,039 |
+| # Data pertains to complaints received during the year under BOS, OSNBFC and OSDT $ Data pertains to complaints received during the year under BOS, OSNBFC, OSDT and RB-IOS, 2021 & Data pertains to complaints received during the year under RB-IOS, 2021. Note: The data for the three years is not strictly comparable as the complaints received from November 12, 2021 to March 31, 2022 and FY 2022-23 exclude the complaints handled at CRPC. |
+
+Disposal of complaints
+
+1.13 The ORBIOs maintained a healthy disposal rate of 97.99% during the year. Further, there was a significant decline in the number of complaints pending beyond 30 days, from 0.26% as on March 31, 2022 to 0.04% as on March 31, 2023.
+
+1.14 The position of disposal of complaints at the ORBIOs for the past three years, along with their age-wise pending position as at the end of respective years is given in Table 1.6.
+
+| Table 1.6: Disposal and Pendency position at the ORBIOs |
+| --- |
+| Number of Complaints | 2020-21 # (Jul-Mar) | 2021-22 $ (Apr-Mar) | 2022-23 & (Apr-Mar) |
+| Received during the year | 3,03,107 | 3,04,496 | 2,34,690 |
+| Brought forward from previous year | 25,636 | 11,429 | 6,447 |
+| Complaints received by Email / from CEPCs before the start of the year but registered / assigned to ORBIOs on or after start of the year | 6,302 | 1,589 | 4,254 |
+| Handled during the year | 3,35,045 | 3,17,514 | 2,45,391 |
+| Disposed during the year | 3,23,616 | 3,11,067 | 2,40,453 |
+| Rate of Disposal (%) | 96.59% | 97.97% | 97.99% |
+| Carried forward to the next year | 11,429 | 6,447 | 4,938 |
+| Complaints pending for less than one month (30 days) | 7,220 | 5,622 | 4,829 |
+| 2.15% | 1.77% | 1.97% |
+| Complaints pending for one to two months | 2,232 | 582 | 92 |
+| 0.67% | 0.18% | 0.04% |
+| Complaints pending for two to three months | 948 | 86 | 9 |
+| 0.28% | 0.03% | 0.00% |
+| Complaints pending for more than three months | 1,029 | 157 | 8 |
+| 0.31% | 0.05% | 0.00% |
+| # Data pertains to overall complaints received during the year under BOS, OSNBFC and OSDT $ Data pertains to overall complaints received during the year under BOS, OSNBFC, OSDT and RB-IOS, 2021 & Data pertains to complaints received during the year under RB-IOS, 2021. Note: The data for the three years is not strictly comparable as the complaints received from November 12, 2021 to March 31, 2022 and FY 2022-23 exclude the complaints handled at CRPC. All pending complaints from FY 2022-23 have since been disposed. |
+
+Mode of disposal of maintainable complaints
+
+1.15 The maintainable complaints disposed by ORBIOs stood at 1,72,568 consisting 71.77% of the total complaints disposed by ORBIOs. The RB-IOS, 2021 envisages settlement of complaints by agreement through conciliation and / or mediation and thereby, majority of the maintainable complaints were resolved through mutual settlement / agreement. If the parties fail to arrive at an acceptable resolution of the complaint, the RBIO gives a decision, which includes passing the Award. The mode of disposal of maintainable complaints for the past three years is provided in Table 1.7 below:
+
+| Table 1.7: Mode of disposal of maintainable complaints by ORBIOs |
+| --- |
+| Disposal of maintainable complaints | 2020-21 # (Jul-Mar) | 2021-22 $ (Apr-Mar) | 2022-23 & (Apr-Mar) |
+| By Mutual Settlement/ Agreement | 1,34,504 | 1,11,820 | 99,184 |
+| 72.67% | 63.63% | 57.48% |
+| Disposal by Award | 65 | 33 | 38 |
+| 0.04% | 0.02% | 0.02% |
+| Maintainable Complaints Rejected | 50,326 | 62,936 | 70,729 |
+| 27.19% | 35.81% | 40.99% |
+| Maintainable Complaints Withdrawn | 197 | 952 | 2,617 |
+| 0.11% | 0.54% | 1.51% |
+| Total | 1,85,092 | 1,75,741 | 1,72,568 |
+| # Data pertains to overall complaints received during the year under BOS, OSNBFC and OSDT $ Data pertains to overall complaints received during the year under BOS, OSNBFC, OSDT and RB-IOS, 2021 & Data pertains to complaints received during the year under RB-IOS, 2021. Note: The data for the three years is not strictly comparable as the complaints received from November 12, 2021 to March 31, 2022 and FY 2022-23 exclude the complaints handled at CRPC. |
+
+Reasons for closure of complaints under non-maintainable clauses
+
+1.16 67,885 complaints were closed as non-maintainable, largely due to (i) complaints having been already dealt at ORBIOs, (ii) First Resort Complaints (FRCs), and (iii) complaints not being represented properly. FRCs are those complaints which are received at the ORBIOs without the complainant having approached the concerned RE first. These complaints are sent to the concerned RE for redress at their end. The complainants are advised through closure letters that they could lodge the complaint again under RB-IOS, 2021, in case no reply is received from RE within 30 days or the reply received from RE is not satisfactory.
+
+1.17 The reasons for closure of the complaints at the ORBIOs as non-maintainable complaints is depicted in the Chart 1.4.
+
+Receipt of Appeals
+
+1.18 The RB-IOS, 2021 provides for an appellate mechanism for the complainant as well as the RE for complaints closed under appealable clauses of the Scheme. The Executive Director-in-Charge of CEPD has been designated as the Appellate Authority for such appeal cases.
+
+1.19 The complainant aggrieved by the Award under Clause 15 (1) or rejection of a complaint under any of the Clauses 16(2) (c) to 16 (2)(f) of the Scheme, can file their appeal before the Appellate Authority in Reserve Bank, within 30 days of the date of receipt of the Award or rejection of the complaint. The REs aggrieved by the Award under Clause 15 (1)(b) or closure of complaint under any of the Clauses 16(2) (c) to 16 (2) (f) of the Scheme, can file their appeal within 30 days from the date of receipt of communication of Award or closure of the complaint. The receipt of appeals cases under the erstwhile Ombudsman Schemes and the RB-IOS, 2021 during the past three years is provided in Table 1.8.
+
+| Table 1.8: Receipt and disposal of Appeals under the Ombudsman Schemes for past three years |
+| --- |
+| Particulars | 2020-21# (Jul-Mar) | 2021-22$ (Apr-Mar) | 2022-23 (Apr-Mar) | Break-up of 2022-23 |
+| BOS | OS-NBFC | RB-IOS |
+| Appeals pending at the beginning of the year | 48 | 45 | 62 | 25 | 8 | 29 |
+| Appeals received during the year from complainants | 14 | 80 | 118 | 2 | 0 | 116 |
+| Appeals received during the year from REs | 10 | 12 | 4 | 0 | 1 | 3 |
+| Total appeals handled during the year | 72 | 137 | 184 | 27 | 9 | 148 |
+| Appeal disposed during the year | 27 | 75 | 103 | 27 | 9 | 67 |
+| Pending at the end of the year | 45 | 62 | 81 | 0 | 0 | 81 |
+| Mode of Disposal |
+| Appeals remanded to the RBIO | 2 | 1 | 0 | 0 | 0 | 0 |
+| Appeals withdrawn / settled / infructuous | 5 | 14 | 24 | 0 | 1 | 23 |
+| Appeals rejected | 10 | 33 | 54 | 24 | 3 | 27 |
+| Appeals allowed | 10 | 27 | 25 | 3 | 5 | 17 |
+| Appeals Disposed |
+| i. In favour of appellants | 11 | 20 | 24 | 6 | 1 | 17 |
+| ii. In favour of REs | 5 | 22 | 13 | 4 | 3 | 6 |
+| iii. Neither in favour of appellants nor in favour of REs (Remanded back to RBIO / infructuous) | 11 | 33 | 66 | 17 | 5 | 44 |
+| # Data pertains to overall appeals received during the year under BOS, OSNBFC and OSDT. $ Data pertains to overall appeals received during the year under BOS, OSNBFC, OSDT and RB-IOS, 2021. |
+
+1.20 The Office wise receipt of appeals during 2022-23 is given in the Appendix 1.2.
+
+Cost of handling a complaint
+
+1.21 For the year 2022-23, the average cost of handling a complaint at the ORBIOs reduced to ₹2,041 per complaint from ₹2,895 per complaint during 2021-22. This reduction in average cost per complaint can be attributed to increased receipt of complaints on account of simplified procedure for lodging of complaints. The office wise cost of handling complaints has been provided at Appendix 1.3.
+
+Turn Around Time (TAT) for disposal of complaints
+
+1.22 The average TAT for disposal of complaints at the ORBIOs has improved continuously from 95 days in 2019-20 to 33 days 2022-23. This decline is in consonance with the enhanced efficiencies brought about in the system on the back of the process re-engineering and structural changes introduced under the RB-IOS, 2021. Focused efforts are being made to further optimize the TAT while ensuring quality disposal.
+
+1.23 The average TAT for disposal of complaints under the erstwhile Ombudsman Schemes and the RB-IOS, 2021 is depicted in the Chart 1.5.
+
+Bank group-wise complaint conversion ratio
+
+1.24 The complaint conversion ratio represents the proportion of complaints received against the concerned bank group at the ORBIOs vis-à-vis the total number of complaints received at the respective bank group from their customers. As seen from the Chart 1.6 given below, all bank groups have improved on the conversion rates except Small Finance Banks.
+
+---
+
+Chapter 2 Centralised Receipt and Processing Centre
+
+The Reserve Bank set up a Centralised Receipt and Processing Centre (CRPC) at Chandigarh, along with the roll out of RB-IOS 2021 in November 2021 with an objective to make the RBI Alternate Grievance Redress (AGR) mechanism simpler, easier and more approachable for the customers of its Regulated Entities (REs). CRPC serves as a focal point for receipt of all physical and email complaints lodged by the complainants against the REs, in any language, for digitalizing and initial processing in the Complaint Management System (CMS) portal. While the maintainable complaints are assigned to the Offices of Reserve Bank of India Ombudsmen (ORBIOs) and the REs, the non-maintainable complaints are closed by the CRPC.
+
+The CRPC also houses a Contact Centre with toll free facility #14448 for providing information to customers on RB-IOS 2021, complaint lodging mechanism, status of complaints already lodged with the Reserve Bank as well as imparting education relating to the do’s and don’ts for safeguarding themselves against digital and electronic transaction frauds. The Contact Centre facility is available through the Reserve Bank staff on all working days from 8:00 am to 10:00 pm in Hindi and English and 9:30 am to 5:15 pm in 10 regional languages and 24x7x365 through Interactive Voice Response System (IVRS) facility.
+
+Since its launch in November 2021, in addition to the CMS portal, the CRPC has turned into an important pillar of the AGR mechanism instituted by the Reserve Bank and emerged as a leading channel for lodging complaints by the customers of the REs for expeditious resolution.
+
+2.1 The Reserve Bank - Integrated Ombudsman Scheme, 2021 (RB-IOS, 2021) launched in November 2021 envisaged filing of complaints through three channels, viz., online, email and physical mode. Accordingly, the Centralised Receipt and Processing Centre (CRPC) was established at Reserve Bank of India, Chandigarh, as a focal point for receipt and processing of email and postal complaints, in any language. Along with the CRPC, a Contact Centre also started functioning to provide information / clarifications to the public regarding the AGR mechanism of RBI, guide complainants in filing of complaints, as well as for obtaining the status of complaints already filed with the Reserve Bank, in Hindi, English and ten regional languages.
+
+Receipt and disposal of complaints at CRPC
+
+2.2 During the year 2022-23, the number of complaints received at the CRPC witnessed a steady increase reflecting the growing awareness among public about the AGR mechanism of the Reserve Bank. A total of 5,95,371 complaints were handled at the CRPC during the year, out of which 5,94,787 were disposed as on March 31, 2023. With improved efficiency, the pendency at CRPC declined significantly and the disposal rate improved remarkably to 99.90% during 2022-23 from 96.07% during 2021-22 (since launch of CRPC in November 2021). The disposal and pendency position at the CRPC is provided in Table 2.1.
+
+| Table 2.1: Receipt, Disposal and Pendency position at the CRPC |
+| --- |
+| Particulars | November 12, 2021 to March 31, 2022 | April 1, 2022 to March 31, 2023 |
+| Received during the period (A) | 1,49,419 | 5,89,504 |
+| Brought forward from previous year (B) | - | 5,867 |
+| Handled during the period (A+B) | 1,49,419 | 5,95,371 |
+| Disposed during the period (C) | 1,43,552 | 5,94,787 |
+| Rate of Disposal at CRPC (C/A+B) | 96.07% | 99.90% |
+| Carried forward to the next year (A+B-C) | 5,867 | 584 |
+| Note: 584 complaints have since been disposed. |
+
+2.3 A total of 5,89,504 fresh complaints were received at the CRPC during the year. Of these, 4,68,270 complaints were closed at the CRPC as non-complaints / non-maintainable complaints, while 1,20,650 complaints were assigned to ORBIOs and CEPCs for further redress. The details are provided in Appendix 2.1 and Chart 2.1.
+
+2.4 As regards 5,867 complaints, which were brought forward from the last year 2021-22, 4,533 complaints were closed at the CRPC as non-complaints / non-maintainable complaints. The remaining 1,334 complaints were assigned to the ORBIOs and the CEPCs for redress during the year 2022-23.
+
+2.5 Month-wise receipt of complaints at the CRPC during 2022-2023 is given in Appendix 2.2 and depicted in Chart 2.2.
+
+Mode of receipt of complaints at CRPC
+
+2.6 Complaints are received at CRPC either through e-mail, physical letter or Centralised Public Grievance Redress and Monitoring System (CPGRAMS). The break-up of complaints received at the CRPC through different modes during the year 2022-23 is depicted in Chart 2.3.
+
+A comparative position of various modes through which complaints were received at the CRPC since its inception is given in Appendix 2.3.
+
+Reasons for closure of complaints at CRPC
+
+2.7 The reasons for closure of 4,68,270 complaints at the CRPC as non-complaints/ non-maintainable complaints is depicted in Chart 2.4.
+
+2.8 Out of 4,68,270 complaints closed at the CRPC, 47.46% complaints were closed as First Resort Complaints whereas 22.65% complaints were closed on account of being addressed to other authorities. The average Turn Around Time for closure of complaints at the CRPC improved significantly, which stood at 4 days during the year 2022-23 as against 12 days during the year 2021-22.
+
+Calls received at the Contact Centre
+
+2.9 The CRPC at Chandigarh also houses a Contact Centre (CC) with toll free facility #14448 for providing information to customers on RB-IOS 2021 and complaint lodging mechanism, status of complaints already lodged with the Reserve Bank as well as imparting education relating to the do’s and don’ts for safeguarding themselves against digital and electronic transaction frauds. The CC is available through the Reserve Bank staff on all working days from 8.00 am to 10.00 pm in Hindi and English and 9.30 am to 5.15 pm in ten6 regional languages and 24x7x365 through the IVRS facility.
+
+2.10 During the year 2022-23, 8,18,958 calls were received at the CC, of which 33.59% calls were received in November 2022 during the NIAP. The impact of NIAP was also observed in subsequent months, as 74.16% of the calls were received during November 2022 to March 2023. The month-wise call distribution at the CC during the year 2022-23 is presented in Chart 2.5.
+
+Handling of calls at CC
+
+2.11 Of the 8,18,958 calls received during the year 2022-23, 66.27% of the calls were attended through the IVRS facility, 23.16% of the calls were attended directly by the Reserve Bank staff at the CC and 10.57% of calls were abandoned. The details of the calls handled at the CC are provided in Table 2.2.
+
+| Table 2.2: Call Data at Contact Centre (April 2022 - March 2023) |
+| --- |
+| Details | Number of calls |
+| Calls attended through IVRS (A) | 5,42,702 (66.27%) |
+| Calls attended by the RBI Staff (B) | 1,89,690 (23.16%) |
+| Calls abandoned7 (C) | 86,566 (10.57%) |
+| Total Calls received (A+B+C) | 8,18,958 |
+
+Language-wise receipt of calls
+
+2.12 A total of 2,76,256 calls (including abandoned calls) were received in various languages at the CC during the year 2022-23. It was observed that 71.51% of calls were received in Hindi, 19.63% calls were received in regional languages and 8.86% of calls were received in English. The month-wise trend in receipt of calls at the CC in Hindi, English and regional languages is depicted in Chart 2.6.
+
+2.13 Among the ten regional languages, the highest number of calls were received in Tamil (29.22%) followed by Telugu (22.10%), Malayalam (10.31%), Kannada (10.26%) and Bengali (9.80%). The breakup of calls received in ten regional languages during 2022-23 is depicted in Chart 2.7.
+
+Broad-basing and Upgrade of the Reserve Bank Contact Centre
+
+2.14 The CC, set up in RBI, Chandigarh, began its operations in November 2021. At the time of launch, the CC timings for interaction with the Reserve Bank staff was 9:30 a.m. to 5:15 p.m. (7 hours and 45 minutes) in Hindi, English as well as the eight regional languages (Bengali, Gujarati, Kannada, Malayalam, Marathi, Odia, Tamil and Telugu), while the IVRS facility was available on 24×7×365 basis. With effect from November 7, 2022, the timings of CC for interaction with the staff in Hindi and English was extended to 8.00 A.M. to 10.00 P.M. (14 hours) on all weekdays except national holidays. Punjabi and Assamese8 were also added to the menu of the regional languages.
+
+2.15 In view of the surge in the number of calls at the CC and to develop Business Continuity and Disaster Recovery capabilities, the project for development of State-of-the-Art CC at two more locations viz., Bhubaneshwar and Kochi is underway. CC would be staffed as per a hybrid model where the operations will be handled by an outsourced agency, under the overall supervision of the Reserve Bank. The evolution of CC since inception is depicted in Chart 2.8.
+
+---
+
+Chapter 3 Complaints received through Centralised Public Grievance Redress and Monitoring System (CPGRAMS) and applications under Right to Information Act, 2005
+
+| During the year, 8,453 complaints were received through CPGRAMS and 1,372 applications were received under the RTI Act, 2005 in the 22 RBIO offices and the Centralised Receipt and Processing Centre (CRPC), which were replied to. |
+| --- |
+
+Complaints received through Centralised Public Grievance Redress and Monitoring System (CPGRAMS)
+
+3.1 CPGRAMS is a mechanism to receive and address consumer complaints regarding different products and schemes offered by the Government of India or its agencies. The CPGRAMS portal has been developed by the Department of Administrative Reforms and Public Grievances of Government of India. Government departments and banks are subordinate offices in this portal. CEPD is the Nodal Office for the Reserve Bank, and the ORBIOs, inter-alia, are its subordinate offices.
+
+3.2 During the year, 8,453 CPGRAMS complaints were received by the 22 Ombudsman offices of RBI. A comparative position of the complaints received through this portal and handled by the ORBIOs during the last three years is given at Appendix 3.1.
+
+Applications received under the Right to Information (RTI) Act, 2005
+
+3.3 The RBI Ombudsmen are the Central Public Information Officers under the RTI Act, 2005 to receive applications and furnish information related to complaints handled by the ORBIOs. During the year, 1,372 RTI applications were received by all the ORBIOs and CRPC. The office-wise position of such applications received during the last three years is detailed at Appendix 3.2.
+
+---
+
+Chapter 4 Other Developments
+
+RBI continued its endeavours towards spreading awareness on customer rights, consumer protection, grievance redress mechanism and prevention of financial frauds with greater fervour and intensity, through a wide range of innovative strategies during the year 2022-23. The Nationwide Intensive Awareness Programme and Ombudsman Speak event on ‘World Consumer Rights Day’ during the months of November 2022 and March 2023, respectively, were conducted under the aegis of the Pan India Intensive Awareness Campaign by employing diverse strategies to reach out to the most isolated segments of population and remotest locations of the country to create awareness on the nuances of the Customer Protection as well as the Alternate Grievance Redress (AGR) facilities laid out by the Reserve Bank, including with RB-IOS, 2021, and to raise public awareness on the modus operandi of digital frauds. A booklet, namely, ‘Raju and the Forty Thieves’ was released in multiple languages to provide glimpses of fraudulent financial incidents to the customers for safeguarding themselves from retail transaction frauds.
+
+The year also witnessed a series of policy initiatives to strengthen the customer protection framework and facilitate better customer services across the Regulated Entities (REs). A Committee, under the Chairmanship of Shri B.P. Kanungo, former Deputy Governor, RBI, was constituted to examine and review the standards of customer service in the REs, assess adequacy of customer service regulation and suggest measures for improving the same. As part of the AGR mechanism, Credit Information Companies were brought under the ambit of the RB-IOS, 2021 for raising grievances. The Internal Ombudsman Scheme was further extended to the Credit Information Companies.
+
+On the global front, G20 / OECD reviewed and updated the High-Level Principles on Financial Consumer Protection to include two new Principles, i.e., ‘Access and Inclusion’ and ‘Quality Financial Products’, with a view to provide holistic approach for financial consumer protection across jurisdictions.
+
+Widening the coverage of the RB-IOS, 2021 by inclusion of Credit Information Companies
+
+4.1 In order to make the RB-IOS, 2021 more broad based, the Credit Information Companies (CICs) were brought under RB-IOS, 2021 with effect from September 1, 2022 for raising grievances against CICs if the complaints are not resolved to the satisfaction of the complainant or not replied within a period of 30 days by CICs. This provides an avenue for cost free AGR to customers of REs for grievances against CICs.
+
+Rolling out the Internal Ombudsman Scheme for Credit Information Companies
+
+4.2 Reserve Bank of India had mandated implementation of the Internal Ombudsman mechanism for banks in 2018, Non-Bank Payment System Participants in 2019 and select NBFCs in 2021. The Internal Ombudsman mechanism serves as an apex level review mechanism for disposal of complaints which are partially or wholly rejected, with a view to strengthen the internal customer grievance redressal structure at the REs. In October 2022, the Internal Ombudsman mechanism was also extended to the Credit Information Companies (CICs) as a step towards strengthening the internal grievance redressal system of CICs. All CICs holding a Certificate of Registration under sub-section (2) of Section 5 of the Credit Information Companies (Regulation) Act, 2005, were directed to comply with the Reserve Bank (Credit Information Companies - Internal Ombudsman) Directions, 2022 by April 1, 2023. The direction, inter alia, covers the appointment/tenure, role and responsibilities, procedural guidelines, and oversight mechanism for the Internal Ombudsman. All complaints that are partly or wholly rejected by the CICs will be reviewed by the Internal Ombudsman before the final decision of the CIC is conveyed to the complainant.
+
+Committee for Review of Customer Service Standards in RBI Regulated Entities
+
+4.3 Considering the rapid transformation in the financial landscape consequent to the rising customer base of the banks, the number of service providers, advent of new technology and digital products, as also keeping in view the increase in volume of digital transactions emerging from innovations in payment systems, it was announced in the bi-monthly Monetary Policy Review Statement on April 08, 2022 to set up a Committee to examine and review the standards of customer service in the REs, assess adequacy of customer service regulation and suggest measures for improving the same. Accordingly, the Committee under chairmanship of Shri B P Kanungo, former Deputy Governor, Reserve Bank of India was constituted on May 23, 2022. The Committee has since submitted its report to RBI, suggesting measures for strengthening customer service regulation, improving customer service in REs and leveraging technology for better customer service delivery and fraud prevention. The report of the Committee was uploaded on the Reserve Bank website on June 05, 2023 inviting comments and feedback from the stakeholders and members of the public by July 7, 2023. The recommendations of the committee are under examination and will be considered for implementation after taking into consideration, the suggestions and feedback received.
+
+G20 High-Level Principles on Financial Consumer Protection9
+
+4.4 In 2022, the G20 High-Level Principles on Financial Consumer Protection, which were first released in 2011, were reviewed and updated. The update was undertaken by the G20/OECD Task Force on Financial Consumer Protection, in collaboration with the Global Partnership on Financial Inclusion. The updated Principles were endorsed by G20 Leaders at the Bali Summit on November 15-16, 2022 and adopted by OECD Governments on December 12, 2022. The major change to the Principles were inclusion of two new Principles, viz., ‘Access and Inclusion’ and ‘Quality Financial Products’, with a view to ensuring a holistic approach to financial consumer protection. Further, three new cross-cutting themes namely ‘Digitalisation’, ‘Financial Well-being’ and ‘Sustainable Finance’ were enumerated, which are relevant to the consideration and implementation of each of the Principles. These Principles are the leading international standard for effective and comprehensive financial consumer protection frameworks.
+
+Pan India Intensive Awareness Campaign
+
+4.5 RBI launched a Pan India Awareness Campaign during the year 2022-2023 to ensure deeper percolation of the financial consumer awareness on safe banking practices, RBI’s AGR mechanism and extant regulations for protection of consumer interests. The campaign was run as a multi-phased, multi-pronged financial awareness campaign in the wake of the “Azadi ka Amrut Mahotsav” and covered three phases, viz., i) the Ombudsman Speak events, ii) Talkathon by Top Management and iii) a month long Nationwide Intensive Awareness Programme (NIAP). The objective of the campaign was to reach the hitherto excluded/ isolated sections of populations and remotest areas in the country, especially in the Tier-III and IV cities, rural areas, etc.
+
+4.6 The NIAP encompassed month long awareness events from November 1 to 30, 2022 in collaboration with the REs to leverage on their extensive reach across the nooks and corners of the country. During the campaign awareness messages were broadcast through print, multimedia channels, RBI website, ‘RBI-says’, interactive voice response system and ‘RBI Kehta Hai’, etc., in addition to various physical interactions / interface programmes with the common public. Majority of the campaigns were carried out in regional / local languages using channels with local outreach. Several innovative strategies along with regular public awareness campaigns were deployed to reach out to the public, a few of which included, folk arts, nukkad nataks, puppet shows, skits, magic shows, street plays, sports competitions, flash mobs, rallies, half-marathons, cyclethon, formation of human chains, crosswords, etc.
+
+4.7 During the NIAP campaign, approx. 1.63 lakh programmes were carried out, of which around 1.28 lakh programmes were carried out in physical mode. Approximately three crore persons participated physically in these programmes and the online channel reached out to near-about 25 crore people. Special drives were conducted for vulnerable sections of the population and around 16,000 differently abled and over 82,000 senior citizens participated in these activities. Focused drives were organised for around 22,000 recovery agents on fair practices and extant guidelines on loan recovery.
+
+4.8 Further, Talkathon / Media Interaction by Senior Management of RBI on August 29, 2022 at New Delhi Office was held to generate awareness on AGR framework of RBI, inter alia, covering salient features of RB-IOS, 2021, procedure to lodge complaint, Do’s and Don’ts for filing a complaint, different modes of resolution of complaints, etc.
+
+4.9 The second edition of ‘Ombudsman Speak’ event on March 15, 2023 on the occasion of ‘World Consumer Rights Day’ was conducted during India’s ongoing presidency of G20. The 22 RBI Ombudsmen across the country interacted with the local / regional multimedia channels in their respective regions and employed diverse strategies for spreading awareness in regional languages for vulnerable sections, such as senior citizens, women, members of Self-Employed Women’s Organization, differently abled citizens, members of merchant associations, etc.
+
+4.10 In addition, 238 awareness programmes and 48 town-hall meetings were conducted through the ORBIOs and CEPCs with focus on specific groups such as servicemen, school / college students, consumer groups, etc. A list of the awareness programmes conducted is provided in the Appendix 4.1.
+
+4.11 A booklet, namely, ‘Raju and the Forty Thieves’ in Hindi and English was released to provide glimpses of the modus operandi in fraudulent financial events and simple tips about Do’s and Don’ts as safeguards against such incidents. The booklet is also available in multiple regional languages such as Marathi, Punjabi, Tamil, Kannada, Oriya, Malayalam, Gujrati, Bengali, Telugu, Assamese, and Urdu, and on the RBI website.
+
+Review of the framework for Strengthening of Grievance Redress Mechanism in banks
+
+4.12 Reserve Bank had rolled out the ‘ Framework for Strengthening the Grievance Redress mechanism in banks’ in January 2021, comprising enhanced disclosure requirements on complaints, recovery of cost of redress of complaints from outlier banks, intensive review of banks’ internal grievance redress mechanism and supervisory actions against banks having persistent issues in their grievance redress mechanism. For the year 2022-23, recoveries to the tune of ₹5.9 crore shall be made from 32 banks.
+
+4.13 The Reserve Bank has reviewed the existing framework on the basis of feedback received from the REs as well as the experience gained in implementing the framework since January 2021. Based on the outcomes, further enhancement to the mechanism is being examined.
+
+Opening / reorganisation of ORBIOs
+
+4.14 All Ombudsman offices operate under the overarching ';One Nation One Ombudsman'; principle. In 2022-23, the Reserve Bank reviewed the geographic presence of the Offices of RBI Ombudsman (ORBIOs) in an attempt to spread them across the country and also make them available in different regions keeping in view the volume of origination of complaints. Accordingly, a new ORBIO was operationalized at Shimla with effect from April 01, 2023. The opening of the new ORBIO at Shimla shall also give a fillip to the focused awareness activities in the distant regions of Himachal Pradesh. Further, considering the higher volume of complaints received from the states of Tamil Nadu and West Bengal, additional ORBIOs have been operationalized at Chennai and Kolkata with effect from April 17, 2023 and June 01, 2023, respectively. ORBIO, New Delhi I and ORBIO, New Delhi III were merged into single office i.e. ORBIO, New Delhi I.
+
+Digitalisation of data compiled through incognito visits
+
+4.15 Incognito Visits play an important role in assessing compliance to regulatory guidelines on customer service aspects at field level and as an effective tool of supervision for protection of consumers through appropriate action against poor customer service by the REs. The Regional Offices of RBI, conduct Incognito Visits of bank branches on half yearly basis, to assess the level of customer service through a checklist. The checklist for Incognito Visits consists of a questionnaire to assess overall customer service standards in banks, with focused assessment of customer services in specific areas as identified on basis of complaints received. During the year, in order to capture granular details, expedite the compilation of reports submitted, and effective resource utilization at offices, the process was digitalised for enhanced data utility and analysis.
+
+Important regulatory measures relating to Customer Service and Protection taken by RBI
+
+4.16 The most important regulatory measures during the year 2022-23, for improving customer experience of banking services, covered guidelines / instructions relating to establishment of Digital Banking Units to facilitate customers in adopting digital modes / channels and create awareness on digital banking, Interoperable Card-less Cash Withdrawal facility at ATMs through use of Unified Payments Interface, provision of doorstep banking services by financially sound and well managed (FSWM) Primary (Urban) Co-operative banks (UCB) on voluntary basis and non-FSWM UCBs with the approval of RBI, enhancement of per transaction limit for subsequent transactions (without additional factor of Authentication) under the e-mandate framework for recurring transactions from ₹5000/- to ₹15,000/-, revised eligibility criteria for Regional Rural Banks to offer Internet Banking Facility and extension of timeline for renewal of existing agreements for the safe deposit lockers in a phased manner till December 31, 2023.
+
+4.17 Steps were also taken to address issues related to customer protection and grievance redress, which included issuance of guidelines for digital lending to address concerns arising out of unbridled engagement of outsourced agents, specification of permissible hours for calling the borrowers for recovery of overdue loans by the RBI’s regulated entities and their Recovery Agents and restrictions on Storage of Actual Card Data to prevent misuse of card data.
+
+4.18 A chronology of the salient policy initiatives is given in the Appendix 4.2.
+
+Root Cause Analysis (RCA) of major areas of complaints
+
+4.19 The RCA of major grounds of complaints undertaken by the ORBIOs and CEPCs are compiled in CEPD with the objective of identifying and addressing the underlying deficiencies in customer service and initiating actions to address them. The root causes of the complaints also serve as inputs for policy interventions. The major findings from RCAs undertaken during the year are summarized below:
+
+Occurrence of unauthorized / fraudulent digital transactions due to lack of robust fraud prevention mechanisms in REs as well as customers divulging sensitive information.
+
+Inordinate delay in reversal of failed transaction due to lack of daily reconciliation by the REs.
+
+Lack of proper communication from REs / DLAs regarding terms and conditions of the loan such as applicable interest rate, foreclosure and other charges.
+
+Non-availability of adequate and centralised bank-level mechanism for resolution of pension related issues.
+
+Levying charges on non-maintenance of minimum balance in deposit accounts due to gap in the Board approved policy of the bank.
+
+Cross selling / mis-selling of products due to information asymmetry between the customer and the REs.
+
+Inordinate delay in reporting updated credit information to the CICs resulting in wrong credit report.
+
+REs’ failure to sensitize their recovery agents regarding extant regulatory guidelines on the recovery operations.
+
+Way forward
+
+4.20 During the period April 1, 2023 to March 31, 2024, Consumer Education and Protection Department has identified the following goals, under the Reserve Bank’s medium-term strategy framework (Utkarsh 2.0), for enhancing consumer protection and improving grievance redress mechanisms:
+
+Review, consolidate and update the extant Reserve Bank regulatory guidelines on customer service;
+
+Review and integrate the internal ombudsman schemes, applicable to different RE types;
+
+Establish Reserve Bank Contact Centre at two additional locations for local languages, including disaster recovery and business continuity facility.
+
+4.21 RBI will also explore leveraging Artificial Intelligence in Complaint Management System for better complaint categorisation, decision-making support and better customer experience with a view to strengthening customer protection and improving expediency of grievance redressal.
+
+4.22 Further, the recommendations of the Committee for Review of Customer Service Standards in RBI Regulated Entities will be pursued for enriching the experience of customers and quality customer service by the Regulated Entities.
+
+---
+
+APPENDICES
+
+| Appendix 1.1: Mode of receipt of complaints at the ORBIOs for the past three years |
+| --- |
+| Mode of receipt | 2020-21 # | 2021-22 $ | 2022-23 |
+| Number | Share | Number | Share | Number | Share |
+| Complaint Portal / Online | 2,21,911 | 58.05% | 1,83,887 | 60.39% | 1,31,569 | 56.06% |
+| Email | 1,25,859 | 32.92% | 86,541 | 28.42% | 69,419 | 29.58% |
+| Physical Letter | 34,522 | 9.03% | 34,068 | 11.19% | 33,702 | 14.36% |
+| TOTAL | 3,82,292 | 3,04,496 | 2,34,690 |
+| Note: Excludes complaints handled at CRPC during FY 2021-22 and 2022-23 # Data pertains to overall appeals received during the year under BOS, OSNBFC and OSDT $ Data pertains to overall appeals received during the year under BOS, OSNBFC, OSDT and RB-IOS, 2021 |
+
+| Appendix 1.2: Office-wise receipt of Appeals during April 1, 2022 to March 31, 2023 |
+| --- |
+| ORBIO | Overall | RBIOS | BOS | OSNBFC |
+| Ahmedabad | 3 | 3 |
+| Bangalore | 7 | 7 |
+| Bhopal | 4 | 4 |
+| Bhubaneswar | 10 | 10 |
+| Chandigarh | 1 | 1 |
+| Chennai | 11 | 11 |
+| Dehradun | 3 | 3 |
+| Guwahati | 15 | 14 | 1 |
+| Hyderabad | 5 | 5 |
+| Jaipur | 3 | 3 |
+| Jammu | 7 | 7 |
+| Kanpur | 6 | 5 | 1 |
+| Kolkata | 2 | 2 |
+| Mumbai-I | 4 | 4 |
+| Mumbai-II | 4 | 4 |
+| New Delhi-I | 12 | 12 |
+| New Delhi-II | 5 | 4 | 1 |
+| New Delhi-III | 11 | 11 |
+| Patna | 1 | 1 |
+| Raipur | 5 | 5 |
+| Ranchi | 2 | 2 |
+| Thiruvananthapuram | 1 | 1 |
+| Total | 122 | 119 | 2 | 1 |
+
+| Appendix 1.3: Office-wise Cost of handling complaints |
+| --- |
+| ORBIO | Average Cost (in ₹) | Total Cost (in ₹) |
+| Ahmedabad | 8,637 | 9,90,41,231 |
+| Bengaluru | 5,336 | 5,86,78,714 |
+| Bhopal | 6,685 | 6,92,85,773 |
+| Bhubaneswar | 5,067 | 5,43,63,232 |
+| Chandigarh | 5,300 | 5,92,33,060 |
+| Chennai | 6,245 | 7,25,18,101 |
+| Dehradun | 5,386 | 5,63,50,000 |
+| Guwahati | 9,153 | 8,01,18,000 |
+| Hyderabad | 4,067 | 4,35,66,781 |
+| Jaipur | 4,610 | 4,90,50,696 |
+| Jammu | 4,965 | 4,99,87,750 |
+| Kanpur | 5,561 | 5,70,45,882 |
+| Kolkata | 5,188 | 5,94,23,145 |
+| Mumbai-I | 5,883 | 6,97,01,694 |
+| Mumbai-II | 6,681 | 8,22,60,322 |
+| New Delhi-I | 5,485 | 6,16,15,371 |
+| New Delhi-II | 6,248 | 5,57,35,347 |
+| New Delhi-III | 6,449 | 5,46,48,020 |
+| Patna | 5,703 | 6,08,82,199 |
+| Raipur | 1,081 | 1,15,26,054 |
+| Ranchi | 2,501 | 2,62,50,100 |
+| Thiruvananthapuram | 4,573 | 5,20,27,048 |
+| CRPC Cost | 247 | 11,60,13,302 |
+| CMS Cost | 39 | 3,62,99,710 |
+| Cost of handling a complaint | 2,041 | 143,56,21,531 |
+
+| Appendix 1.4: Mode of disposal of Maintainable Complaints against Scheduled Commercial Banks |
+| --- |
+| Name of the Bank | Total Maintainable Complaints disposed during the year 2022-23 | Of (2), Complaints resolved through conciliation/ mediation/ issuance of advisories | Of (2) Complaints resolved through Awards | Of (4), Awards unimplemented within stipulated time (other than appealed) |
+| (1) | (2) | (3) | (4) | (5) |
+| Public Sector Banks |
+| STATE BANK OF INDIA | 30,011 | 17,354 | 3 | 0 |
+| BANK OF BARODA | 7,216 | 4,557 | 7 | 0 |
+| BANK OF INDIA | 4,636 | 3,200 | 0 | 0 |
+| BANK OF MAHARASHTRA | 1,473 | 970 | 1 | 0 |
+| CANARA BANK | 5,938 | 3,719 | 0 | 0 |
+| CENTRAL BANK OF INDIA | 3,393 | 2,323 | 2 | 0 |
+| INDIAN BANK | 4,044 | 2,644 | 0 | 0 |
+| INDIAN OVERSEAS BANK | 1,432 | 804 | 1 | 0 |
+| PUNJAB AND SIND BANK | 401 | 241 | 0 | 0 |
+| PUNJAB NATIONAL BANK | 9,766 | 6,282 | 2 | 0 |
+| UCO BANK | 2,042 | 1,465 | 2 | 0 |
+| UNION BANK OF INDIA | 6,167 | 3,924 | 2 | 0 |
+| All Public Sector Banks | 76,519 | 47,483 | 20 | 0 |
+| Private Sector Banks |
+| AXIS BANK LIMITED | 10,482 | 5,640 | 0 | 0 |
+| BANDHAN BANK LIMITED | 490 | 268 | 0 | 0 |
+| CSB BANK LIMITED | 78 | 50 | 0 | 0 |
+| CITY UNION BANK LIMITED | 148 | 82 | 0 | 0 |
+| DCB BANK LIMITED | 268 | 159 | 0 | 0 |
+| DHANLAXMI BANK LIMITED | 32 | 16 | 0 | 0 |
+| FEDERAL BANK LIMITED | 1073 | 581 | 0 | 0 |
+| HDFC BANK LIMITED | 10,187 | 4,622 | 2 | 0 |
+| ICICI BANK LIMITED | 12,114 | 6,486 | 0 | 0 |
+| IDBI BANK LIMITED | 1,264 | 702 | 0 | 0 |
+| IDFC FIRST BANK LIMITED | 3,045 | 1,939 | 0 | 0 |
+| INDUSIND BANK LIMITED | 3,049 | 1,508 | 0 | 0 |
+| JAMMU & KASHMIR BANK LIMITED | 364 | 221 | 0 | 0 |
+| KARNATAKA BANK LIMITED | 353 | 192 | 0 | 0 |
+| KARUR VYSYA BANK LIMITED | 369 | 225 | 0 | 0 |
+| KOTAK MAHINDRA BANK LIMITED | 4,921 | 2,654 | 0 | 0 |
+| NAINITAL BANK LIMITED | 48 | 30 | 0 | 0 |
+| RBL BANK LIMITED | 2,802 | 1,660 | 0 | 0 |
+| SOUTH INDIAN BANK LIMITED | 279 | 117 | 0 | 0 |
+| TAMILNAD MERCANTILE BANK LIMITED | 169 | 77 | 0 | 0 |
+| YES BANK LIMITED | 1,922 | 1061 | 1 | 0 |
+| All Private Sector Banks | 53,457 | 28,290 | 3 | 0 |
+| Payment Banks |
+| AIRTEL PAYMENTS BANK LIMITED | 1,070 | 753 | 0 | 0 |
+| FINO PAYMENTS BANK LIMITED | 147 | 88 | 0 | 0 |
+| INDIA POST PAYMENTS BANK LIMITED | 188 | 89 | 0 | 0 |
+| PAYTM PAYMENTS BANK LIMITED | 2,399 | 1356 | 0 | 0 |
+| All Payment Banks | 3,804 | 2,286 | 0 | 0 |
+| Small Finance Banks |
+| AU SMALL FINANCE BANK LIMITED | 671 | 307 | 0 | 0 |
+| CAPITAL SMALL FINANCE BANK LIMITED | 21 | 10 | 0 | 0 |
+| EQUITAS SMALL FINANCE BANK LIMITED | 221 | 108 | 0 | 0 |
+| ESAF SMALL FINANCE BANK LIMITED | 40 | 19 | 0 | 0 |
+| FINCARE SMALL FINANCE BANK LIMITED | 92 | 62 | 0 | 0 |
+| JANA SMALL FINANCE BANK LIMITED | 208 | 111 | 0 | 0 |
+| NORTH EAST SMALL FINANCE BANK LIMITED | 6 | 5 | 0 | 0 |
+| SHIVALIK SMALL FINANCE BANK LIMITED | 29 | 17 | 0 | 0 |
+| SURYODAY SMALL FINANCE BANK LIMITED | 51 | 33 | 0 | 0 |
+| UJJIVAN SMALL FINANCE BANK LIMITED | 155 | 82 | 0 | 0 |
+| UNITY SMALL FINANCE BANK LIMITED | 10 | 5 | 0 | 0 |
+| UTKARSH SMALL FINANCE BANK LIMITED | 71 | 44 | 0 | 0 |
+| All Small Finance Banks | 1,575 | 803 | 0 | 0 |
+| Foreign Banks |
+| AB BANK LIMITED | - | - | 0 | 0 |
+| ABU DHABI COMMERCIAL BANK PJSC | 1 | 1 | 0 | 0 |
+| AMERICAN EXPRESS BANKING CORP. | 252 | 128 | 0 | 0 |
+| BARCLAYS BANK PLC | 11 | 8 | 0 | 0 |
+| BANK OF AMERICA NATIONAL ASSOCIATION | 7 | 6 | 0 | 0 |
+| BNP PARIBAS | 2 | 2 | 0 | 0 |
+| CITIBANK N.A | 1,061 | 404 | 0 | 0 |
+| DBS BANK INDIA LIMITED | 263 | 163 | 5 | 0 |
+| DEUTSCHE BANK AG | 71 | 39 | 0 | 0 |
+| HONGKONG AND SHANGHAI BANKING CORPN. LIMITED | 252 | 140 | 0 | 0 |
+| JPMORGAN CHASE BANK NATIONAL ASSOCIATION | 1 | 1 | 0 | 0 |
+| MUFG BANK LIMITED | 1 | 1 | 0 | 0 |
+| NATWEST MARKETS PLC (ERSTWHILE THE ROYAL BANK OF SCOTLAND PLC) | 1 | 1 | 0 | 0 |
+| SBER BANK | 1 | 1 | 0 | 0 |
+| SBM BANK (INDIA) LIMITED | 796 | 611 | 0 | 0 |
+| SHINHAN BANK | 1 | 1 | 0 | 0 |
+| STANDARD CHARTERED BANK | 1,538 | 914 | 0 | 0 |
+| WOORI BANK | 4 | 2 | 0 | 0 |
+| All Foreign Banks | 4,263 | 2,423 | 5 | 0 |
+| All Regional Rural Banks | 3,774 | 1,777 | 1 | 0 |
+| All Scheduled Commercial Banks | 1,43,392 | 83,062 | 29 | 0 |
+| Others (Including Co-operative Banks, NBFCs and NB-PSPs) | 29,176 | 16,122 | 9 | 0 |
+| GRAND TOTAL | 1,72,568 | 99,184 | 38 | 0 |
+
+| Appendix 2.1: Receipt of complaints at CRPC |
+| --- |
+| Particulars | November 12, 2021 to March 31, 2022 | April 1, 2022 to March 31, 2023 |
+| Complaints received during the period | 1,49,419 | 5,89,504 |
+| Out of above, complaints which were: |
+| (a) Assigned to ORBIOs | 32,551 | 1,11,574 |
+| (b) Assigned to CEPCs | 3,180 | 9,076 |
+| (c) Closed at CRPC as non-complaint / non-maintainable complaints | 1,07,821 | 4,68,270 |
+| Complaints pending at the end of the period | 5,867 | 584 |
+| Note: 584 complaints have since been disposed. |
+
+| Appendix 2.2: Month wise receipt of complaints at CRPC |
+| --- |
+| Month | 2021-22 | 2022-23 |
+| Received during the month | Disposed during the month | % of complaints disposed during the month | Received during the month | Disposed during the month | % of complaints disposed during the month |
+| April | 43,176 | 21,739 | 50.35% |
+| May | 41,809 | 42,392 | 101.39% |
+| June | 42,615 | 45,307 | 106.32% |
+| July | 42,699 | 47,080 | 110.26% |
+| August | 50,498 | 49,522 | 98.07% |
+| September | 54,453 | 54,621 | 100.31% |
+| October | 48,754 | 46,918 | 96.23% |
+| November | 16,565 | 2,446 | 14.77% | 51,774 | 54,386 | 105.05% |
+| December | 27,745 | 15,379 | 55.43% | 54,159 | 52,412 | 96.77% |
+| January | 29,399 | 27,268 | 92.75% | 56,988 | 58,866 | 103.30% |
+| February | 32,026 | 45,648 | 142.53% | 49,170 | 49,193 | 100.05% |
+| March | 43,684 | 52,811 | 120.89% | 53,409 | 66,484 | 124.48% |
+| Total | 1,49,419 | 1,43,552 | 5,89,504 | 5,88,920 |
+
+| Appendix 2.3: Mode of receipt of complaints at CRPC |
+| --- |
+| Mode of Receipt | November 12, 2021 to March 31, 2022 | % to total complaints | April 1, 2022 to March 31, 2023 | % to total complaints |
+| Email | 1,24,367 | 83.23% | 5,19,484 | 88.12% |
+| Physical Letter | 23,027 | 15.41% | 58,794 | 9.97% |
+| CPGRAMS | 2,025 | 1.36% | 11,226 | 1.91% |
+| Total | 1,49,419 | 5,89,504 |
+
+| Appendix 3.1: Position of complaints received through CPGRAMS |
+| --- |
+| Name of the RBIO | 2020-21 (Apr – Mar) | 2021-22 (Apr – Mar) | 2022-23 (Apr – Mar) |
+| Ahmedabad | 107 | 156 | 395 |
+| Bengaluru | 106 | 123 | 350 |
+| Bhopal | 54 | 111 | 524 |
+| Bhubaneswar | 31 | 33 | 323 |
+| Chandigarh | 62 | 102 | 324 |
+| Chennai | 1,063 | 629 | 293 |
+| Dehradun | 27 | 55 | 390 |
+| Guwahati | 16 | 44 | 228 |
+| Hyderabad | 49 | 74 | 326 |
+| Jaipur | 59 | 94 | 437 |
+| Jammu | 4 | 56 | 322 |
+| Kanpur | 152 | 141 | 534 |
+| Kolkata | 737 | 568 | 451 |
+| Mumbai-I | 145 | 178 | 369 |
+| Mumbai-II | 1,324 | 765 | 507 |
+| New Delhi-I | 146 | 144 | 544 |
+| New Delhi-II | 1,779 | 1,292 | 401 |
+| New Delhi-III | 50 | 66 | 240 |
+| Patna | 55 | 102 | 552 |
+| Raipur | 8 | 82 | 290 |
+| Ranchi | 15 | 85 | 409 |
+| Thiruvananthapuram | 24 | 56 | 244 |
+| Total | 6,013 | 4,956 | 8,453 |
+
+| Appendix 3.2: Applications received by ORBIOs and CRPC under RTI Act, 2005 |
+| --- |
+| Name of the RBIO | 2020-21 (Apr – Mar) | 2021-22 (Apr – Mar) | 2022-23 (Apr - Mar) |
+| Ahmedabad | 25 | 39 | 35 |
+| Bengaluru | 55 | 76 | 49 |
+| Bhopal | 28 | 18 | 26 |
+| Bhubaneswar | 35 | 21 | 41 |
+| Chandigarh | 150 | 156 | 47 |
+| Chennai | 101 | 96 | 73 |
+| Dehradun | 39 | 48 | 54 |
+| Guwahati | 15 | 13 | 36 |
+| Hyderabad | 34 | 48 | 28 |
+| Jaipur | 123 | 80 | 56 |
+| Jammu | 3 | 11 | 40 |
+| Kanpur | 190 | 187 | 90 |
+| Kolkata | 69 | 61 | 41 |
+| Mumbai-I | 106 | 114 | 56 |
+| Mumbai-II | 105 | 68 | 57 |
+| New Delhi-I | 108 | 81 | 61 |
+| New Delhi-II | 160 | 132 | 72 |
+| New Delhi-III | 46 | 42 | 60 |
+| Patna | 79 | 72 | 57 |
+| Raipur | 7 | 7 | 33 |
+| Ranchi | 9 | 9 | 46 |
+| Thiruvananthapuram | 12 | 18 | 47 |
+| Total (A) | 1,499 | 1,397 | 1,105 |
+| CRPC (B) | - | 99 | 267 |
+| Total (A+B) | 1,499 | 1,496 | 1,372 |
+| Note: Where a single RIA is marked to more than one ORBIO or to CRPC; that RIA is counted for all the Ombudsman offices concerned / CRPC for that particular RIA. Further, RIAs which were dealt by Ombudsman Office of BOS, NBFC and Digital Transactions have been clubbed for the year 2020-21 and 2021-22 |
+
+| Appendix 4.1: Number of awareness programmes conducted during April 1, 2022 to March 31, 2023 |
+| --- |
+| ORBIO | No. of Townhall Events | No. of Awareness Programmes |
+| Ahmedabad | 2 | 13 |
+| Bengaluru | 2 | 12 |
+| Bhopal | 2 | 12 |
+| Bhubaneswar | 2 | 8 |
+| Chandigarh | 2 | 9 |
+| Chennai | 3 | 13 |
+| Dehradun | 2 | 6 |
+| Guwahati | 2 | 12 |
+| Hyderabad | 2 | 7 |
+| Jaipur | 2 | 22 |
+| Jammu | 4 | 9 |
+| Kanpur | 2 | 12 |
+| Kolkata | 2 | 11 |
+| Mumbai-I | 3 | 13 |
+| Mumbai - II | 2 | 18 |
+| New Delhi I | 2 | 12 |
+| New Delhi II | 1 | 4 |
+| New Delhi-III | 2 | 15 |
+| Patna | 2 | 8 |
+| Raipur | 2 | 6 |
+| Ranchi | 2 | 4 |
+| Thiruvananthapuram | 3 | 12 |
+| Total | 48 | 238 |
+
+| Appendix 4.2: Important policy initiatives relating to Customer Service issued by RBI in 2022-23 (April – March) |
+| --- |
+| Date of Announcement | Policy Initiative |
+| April 01, 2022 | Master Circular - Disbursement of Government Pension by Agency Banks (RBI/2022-23/09 DGBA.GBD.No.S2/31.02.007/2022-23): The Master Circular mandated prompt implementation of Government order relating to payment of Dearness Relief to pensioners, procedure for recovery of excess pension payment, acknowledgement for receipt of life certificate, compensate the pensioner for delay in crediting pension/ arrears, compensation to the pensioner for delay in crediting pension/ arrears, etc., in order to obviate the difficulty faced by the pensioners. |
+| April 01, 2022 | Master Circular– Facility for Exchange of Notes and Coins (RBI/2022-23/01/DCM(NE)No.G-5/08.07.18/2022-23): Mandates, inter-alia, all branches of banks in all parts of the country to issue fresh/ good quality notes and coins of all denominations, exchange soiled/ mutilated/ defective notes and accept coins and notes either for transactions or exchange to the members of public, so that there is no need for them to approach the RBI Regional Offices for this purpose. |
+| April 01, 2022 | Master Direction – Scheme of Penalties for bank branches and Currency Chests for deficiency in rendering customer service to the members of public (RBI/2022-23/04/DCM (CC) No.G-5/03.44.01/2022-23): The Scheme of Penalties for bank branches including currency chests has been formulated in order to ensure that all bank branches / currency chests provide better customer service to the members of public / linked bank branches keeping in view the objectives of Clean Note Policy and enhancing operational efficiency. |
+| April 07, 2022 | Establishment of Digital Banking Units (DBUs) (RBI/2022-23/19 DOR.AUT.REC.12/22.01.001/2022-23): Guidelines on establishment of Digital Banking Units (DBUs) were issued to all domestic scheduled commercial banks (excluding regional rural banks, payments banks and local area banks). The guidelines define digital banking, DBU, digital banking products and digital banking segment, and cover the infrastructure and resources required by DBUs, and the products and services that could be offered by them. The DBUs shall facilitate customers in adopting digital modes/channels and create awareness on digital banking. |
+| April 21, 2022 | Master Direction – Credit Card and Debit Card – Issuance and Conduct Directions, 2022 (RBI/2022-23/92 DoR.AUT.REC.No.27/24.01.041/2022-23): The instructions contained in Master Circular (July 2015) on credit card, debit card and rupee denominated co-branded pre-paid card operations of banks and credit card issuing NBFCs, were updated and issued in the form of Master Direction (MD) - Credit Card and Debit Card - Issuance and Conduct. Aspects such as closure of a credit card account, issuance of credit card for business purpose, billing issues, adjustment of credit transactions, new form factors, issues relating to co-branded arrangement, mis-selling, etc., have been strengthened in the circular. |
+| May 19, 2022 | Interoperable Card-less Cash Withdrawal (ICCW) at ATMs (RBI/2022-23/54 CO.DPSS.POLC.No.S-227/02-10-002/2022-23): All banks, ATM networks and WLAOs were advised to provide the option of ICCW at their ATMs. NPCI was advised to facilitate Unified Payments Interface (UPI) integration with all banks and ATM networks. While UPI would be used for customer authorisation in such transactions, settlement would be through the National Financial Switch (NFS) / ATM networks. Withdrawal limits for ICCW transactions is in-line with the limits for regular on-us / off-us ATM withdrawals. |
+| May 23, 2022 | Committee for Review of Customer Service Standards in RBI Regulated Entities: A Committee (Chairman: Shri B P Kanungo, Former Deputy Governor, RBI) for Review of Customer Service Standards in RBI Regulated Entities (REs) was constituted for examining and reviewing the customer service standards in the REs and adequacy of customer service regulations and suggest measures to improve customer protection. |
+| June 16, 2022 | Processing of e-mandates for recurring transactions (RBI/2022-23/73 CO.DPSS.POLC.No.S-518/02.14.003/2022-23): The e-mandate framework for recurring transactions was revised enhancing the limit for subsequent transactions without additional factor of authentication (AFA) from ₹5,000 to ₹15,000. |
+| July 28, 2022 | Restriction on Storage of Actual Card Data [i.e. Card-on-File (CoF)] (RBI/2022-2023/95/CO.DPSS.POLC.No.S-760/02-14-003/2022-23): For ease of transition to an alternate system in respect of transactions where cardholders decide to enter the card details manually at the time of undertaking the transaction, merchants or their Payment Aggregator (PAs) were permitted to store card data till settlement or T+4 days (whichever is earlier) and acquiring banks were permitted to store card data till January 31, 2023. |
+| August 05, 2022 | Extension of Reserve Bank - Integrated Ombudsman Scheme, 2021 (RB-IOS, 2021) to Credit Information Companies (CICs) (CEPD.PRD.No.S544/13.01.001/2022-23): To provide an avenue for expeditious and cost free Alternate Grievance Redress to the customers of REs covered under the RBIOS, 2021 for grievances relating to credit information, the CICs have been brought under the ambit of RB-IOS, 2021 with effect from September 1, 2022. |
+| August 12, 2022 | Outsourcing of Financial Services - Responsibilities of regulated entities employing Recovery Agents (RBI/2022-23/108/DOR.ORG.REC.65/21.04.158/2022-23): Regulated Entities of RBI shall strictly ensure that they or their agents do not resort to intimidation or harassment of any kind, either verbal or physical, against any person in their debt collection efforts, including acts intended to humiliate publicly or intrude upon the privacy of the debtors' family members, referees and friends, sending inappropriate messages either on mobile or through social media, making threatening and/ or anonymous calls, persistently calling the borrower and / or calling the borrower before 8:00 a.m. and after 7:00 p.m. for recovery of overdue loans, making false and misleading representations, etc. |
+| September 02, 2022 | Guidelines on Digital Lending (RBI/2022-23/111 DOR.CRE.REC.66/21.07.001/2022-23): Guidelines on Digital Lending were issued to address concerns such as, mis-selling, breach of data privacy, customer grievance redressal, unfair business conduct, and unethical recovery practices, arising out of unbridled engagement of outsourced agents (lending service providers) to carry out various lending activities. |
+| September 21, 2022 | MANI (Mobile Aided Note Identifier) – Introduction of multi-lingual audio notification (Press Release: 2022-2023/899): MANI which identifies the denomination of banknotes through audio notification in Hindi and English, is now capable of notifying the banknote denomination in 11 other languages (Assamese, Bengali, Gujarati, Kannada, Malayalam, Marathi, Odia, Punjabi, Tamil, Telugu, Urdu). The MANI application is free and can be downloaded from the Android Play Store and iOS App Store without any charges/payment. |
+| October 06, 2022 | Appointment of Internal Ombudsman (IO) by the Credit Information Companies (CICs) (RBI/2022-23/124 CEPD.PRD.No.S806/13-01-008/2022-23): To strengthen and improve the efficiency of the internal grievance redressal mechanism of CICs, all CICs were directed to appoint an Internal Ombudsman (IO) by April 1, 2023. The IO is an independent authority at the apex of the CIC’s internal grievance redress mechanism and reviews consumer complaints rejected wholly or partly by the CIC. |
+| November 01, 2022 | Eligibility Criteria for offering Internet Banking Facility by Regional Rural Banks, 2022 (RBI/2022-23/135 DoR.AUT.REC.81/24.01.001/2022-23): Keeping in view the need to promote the spread of digital banking for customers in rural areas, the eligibility criteria applicable to Regional Rural Banks for offering Internet Banking with transactional facility to their customers have been revised. |
+| November 02, 2022 | Nation-wide Awareness Programme: The Reserve Bank, in collaboration with REs, initiated a nation-wide consumer financial awareness programme with deeper outreach covering all segments of population, especially those in rural and semi-urban areas. The campaign was customised regionally for a better connect. While emphasising information on customer rights, customer protection and grievance redress framework under RB-IOS, 2021, the campaign also endeavored to deepen percolation of awareness on protection against digital and electronic financial transaction frauds covering do’s and don’ts, safeguards and prevention. |
+| December 07, 2022 | Enhancements to Unified Payments Interface (UPI) – Processing Mandates with Single-Block-and-Multiple-Debits: To ease making payments in e-commerce space and towards investments in securities, RBI has announced enhancements to UPI to facilitate processing mandates with single-block-and-multiple-debits. |
+| January 23, 2023 | RBI extends time for renewal of agreements for existing Safe Deposit Locker/Safe Custody Article Facility Provided by Banks (RBI/2022-23/168 CO.CEPD.PRS.No.S1233/13-01-018/2022-2023): In order to alleviate the difficulties faced by customers in renewing their locker agreement with banks, the deadline for banks to complete the process of renewal of existing agreements for the safe deposit lockers was extended by an year to December 31, 2023, with intermediate milestones of 50 per cent by June 30, 2023, and 75 per cent by September 30, 2023. The banks were advised to facilitate execution of the fresh/supplementary stamped agreements with their customers by taking measures such as arranging stamp papers, franking, electronic execution of agreement, e-stamping, etc. and provide a copy of the executed agreement to the customer. Where operations in lockers had been frozen for non-execution of agreement by January 1, 2023, the same were advised to be unfrozen with immediate effect. |
+| February 10, 2023 | Issuance of PPIs to Foreign Nationals / Non-Resident Indians (NRIs) visiting India (RBI/2022-23/176 CO.DPSS.POLC.No.S–1907/02.14.006/2022-23): NRIs and foreign nationals (from G20 countries) were permitted access to UPI for their merchant payments [peer-to-merchant (P2M)] in India. |
+
+---
+
+| Annex 1: Statement of complaints received against banks by the ORBIOs during April 1, 2022 – March 31, 2023 |
+| --- |
+| Name of the Bank | Total Complaints | Complaints per branch | Complaints related to ATM/DC* per 1000 ATM/DC* Outstanding | Complaints related to CC* per 1000 CC* Outstanding | Digital Complaints per 1000 digital transactions executed through the bank | Non-digital Complaints per 1000 accounts # | ATM / Debit Cards | Mobile / electronic banking | Credit Cards | Loans and advances | Deposit Accounts related | Pension payments | Remittances | Para banking | Notes and Coins | OTHERS |
+| Public Sector Banks |
+| STATE BANK OF INDIA | 40,345 | 1.61 | 0.027 | 0.084 | 0.00039 | 0.036 | 7,470 | 10,202 | 1,405 | 6,599 | 7,516 | 1,517 | 603 | 603 | 131 | 4,299 |
+| BANK OF BARODA | 9,944 | 1.18 | 0.022 | 0.289 | 0.00038 | 0.030 | 1,807 | 2,045 | 562 | 1,736 | 2,052 | 224 | 186 | 146 | 24 | 1,162 |
+| BANK OF INDIA | 5,958 | 1.10 | 0.030 | 1.128 | 0.00067 | 0.034 | 1,403 | 1,011 | 87 | 1,082 | 1,205 | 187 | 121 | 86 | 16 | 760 |
+| BANK OF MAHARASHTRA | 1,920 | 0.84 | 0.041 | 0.388 | 0.00034 | 0.029 | 555 | 357 | 13 | 309 | 294 | 46 | 31 | 29 | 8 | 278 |
+| CANARA BANK | 7,925 | 0.78 | 0.025 | 0.232 | 0.00031 | 0.044 | 1,274 | 1,217 | 145 | 1,975 | 1,774 | 261 | 144 | 118 | 25 | 992 |
+| CENTRAL BANK OF INDIA | 4,412 | 0.95 | 0.036 | - | 0.00055 | 0.028 | 1,014 | 685 | 48 | 787 | 860 | 322 | 78 | 39 | 19 | 560 |
+| INDIAN BANK | 5,332 | 0.87 | 0.035 | 0.470 | 0.00040 | 0.028 | 1,103 | 770 | 80 | 1,197 | 1,087 | 293 | 95 | 85 | 17 | 605 |
+| INDIAN OVERSEAS BANK | 2,080 | 0.63 | 0.019 | 0.288 | 0.00019 | 0.024 | 312 | 309 | 23 | 612 | 415 | 64 | 51 | 21 | 3 | 270 |
+| PUNJAB AND SIND BANK | 552 | 0.34 | 0.034 | - | 0.00080 | 0.027 | 126 | 75 | 1 | 140 | 105 | 12 | 11 | 7 | - | 75 |
+| PUNJAB NATIONAL BANK | 12,850 | 1.14 | 0.069 | 0.511 | 0.00061 | 0.036 | 2,818 | 2,157 | 162 | 2,170 | 2,724 | 934 | 214 | 216 | 57 | 1,398 |
+| UCO BANK | 2,629 | 0.81 | 0.028 | - | 0.00061 | 0.028 | 352 | 894 | 16 | 447 | 430 | 100 | 49 | 18 | 6 | 317 |
+| UNION BANK OF INDIA | 8,197 | 0.93 | 0.036 | 0.338 | 0.00032 | 0.030 | 1,823 | 1,606 | 218 | 1,500 | 1,482 | 277 | 153 | 101 | 28 | 1,009 |
+| All Public Sector Banks | 1,02,144 | 1.13 | 0.031 | 0.134 | 0.00041 | 0.033 | 20,057 | 21,328 | 2,760 | 18,554 | 19,944 | 4,237 | 1,736 | 1,469 | 334 | 11,725 |
+| Private Sector Banks |
+| AXIS BANK LIMITED | 13,713 | 2.70 | 0.041 | 0.379 | 0.00063 | 0.081 | 1,254 | 1,668 | 4,593 | 2,417 | 2,295 | 24 | 167 | 193 | 28 | 1,074 |
+| BANDHAN BANK LIMITED | 666 | 0.11 | 0.017 | - | 0.00030 | 0.012 | 92 | 125 | 6 | 220 | 113 | - | 7 | 19 | 4 | 80 |
+| CITY UNION BANK LIMITED | 237 | 0.31 | 0.007 | 0.660 | 0.00009 | 0.026 | 18 | 43 | 4 | 79 | 51 | 1 | 1 | 2 | - | 38 |
+| CSB BANK LIMITED | 145 | 0.20 | 0.010 | 0.310 | 0.00017 | 0.044 | 9 | 8 | 2 | 66 | 39 | 1 | 2 | - | - | 18 |
+| DCB BANK LIMITED | 388 | 0.87 | 0.021 | - | 0.00048 | 0.131 | 20 | 18 | 2 | 244 | 78 | - | 4 | 4 | 1 | 17 |
+| DHANLAXMI BANK LIMITED | 55 | 0.20 | 0.011 | 0.219 | 0.00022 | 0.022 | 6 | 4 | 2 | 16 | 21 | - | 1 | 1 | - | 4 |
+| FEDERAL BANK LIMITED | 1,468 | 1.04 | 0.020 | 0.172 | 0.00044 | 0.030 | 256 | 422 | 95 | 243 | 310 | 1 | 16 | 16 | 1 | 108 |
+| HDFC BANK LIMITED | 14,979 | 1.90 | 0.029 | 0.201 | 0.00046 | 0.053 | 1,490 | 3,273 | 3,516 | 3,124 | 1,909 | 13 | 205 | 175 | 33 | 1,241 |
+| ICICI BANK LIMITED | 16,602 | 2.87 | 0.046 | 0.317 | 0.00075 | 0.072 | 1,515 | 3,096 | 4,581 | 3,189 | 2,254 | 27 | 291 | 173 | 34 | 1,442 |
+| IDBI BANK LIMITED | 1,658 | 0.77 | 0.019 | 0.660 | 0.00022 | 0.076 | 215 | 313 | 29 | 491 | 322 | 5 | 36 | 38 | 2 | 207 |
+| IDFC FIRST BANK LIMITED | 4,158 | 3.71 | 0.032 | 0.295 | 0.00077 | 0.066 | 200 | 680 | 456 | 2,003 | 441 | 1 | 39 | 43 | 3 | 292 |
+| INDUSIND BANK LIMITED | 3,954 | 1.68 | 0.044 | 0.457 | 0.00100 | 0.044 | 368 | 493 | 1,017 | 1,046 | 587 | 1 | 80 | 38 | 8 | 316 |
+| JAMMU & KASHMIR BANK LIMITED | 483 | 0.48 | 0.036 | 0.116 | 0.00208 | 0.011 | 138 | 128 | 9 | 83 | 53 | 6 | 4 | 6 | - | 56 |
+| KARNATAKA BANK LIMITED | 440 | 0.47 | 0.018 | - | 0.00026 | 0.016 | 95 | 112 | 2 | 112 | 59 | - | 5 | 1 | 5 | 49 |
+| KARUR VYSYA BANK LIMITED | 530 | 0.59 | 0.009 | 0.384 | 0.00014 | 0.035 | 40 | 101 | 4 | 203 | 89 | - | 8 | 4 | 1 | 80 |
+| KOTAK MAHINDRA BANK LIMITED | 7,414 | 3.82 | 0.017 | 0.245 | 0.00057 | 0.093 | 495 | 2,845 | 1,203 | 1,438 | 808 | 7 | 87 | 59 | 6 | 466 |
+| NAINITAL BANK LIMITED | 61 | 0.35 | 0.053 | - | 0.01308 | 0.042 | 11 | 10 | - | 18 | 13 | - | 1 | - | 1 | 7 |
+| RBL BANK LIMITED | 3,486 | 6.52 | 0.085 | 0.529 | 0.00442 | 0.060 | 137 | 149 | 2,335 | 471 | 227 | 1 | 11 | 13 | 2 | 140 |
+| SOUTH INDIAN BANK LIMITED | 427 | 0.44 | 0.014 | 0.143 | 0.00039 | 0.024 | 50 | 100 | 29 | 122 | 78 | 1 | 6 | 3 | - | 38 |
+| TAMILNAD MERCANTILE BANK LIMITED | 302 | 0.55 | 0.028 | 0.049 | 0.00034 | 0.026 | 62 | 45 | 2 | 104 | 51 | - | 3 | 1 | 1 | 33 |
+| YES BANK LIMITED | 2,598 | 2.13 | 0.038 | 0.394 | 0.00037 | 0.146 | 168 | 440 | 559 | 747 | 335 | 2 | 40 | 39 | 2 | 266 |
+| All Private Sector Banks | 73,764 | 1.74 | 0.031 | 0.310 | 0.00059 | 0.057 | 6,639 | 14,073 | 18,446 | 16,436 | 10,133 | 91 | 1,014 | 828 | 132 | 5,972 |
+| Payment Banks |
+| AIRTEL PAYMENTS BANK LIMITED | 1,370 | 41.52 | 0.014 | - | 0.00029 | 0.011 | 57 | 801 | 20 | 8 | 309 | 2 | 4 | 5 | 2 | 162 |
+| FINO PAYMENTS BANK LIMITED | 226 | 2.94 | 0.008 | - | 0.00010 | 0.014 | 50 | 68 | 2 | 4 | 63 | - | 3 | 2 | - | 34 |
+| INDIA POST PAYMENTS BANK LIMITED | 364 | 0.56 | 0.006 | - | 0.00016 | 0.003 | 57 | 131 | 1 | 11 | 106 | 1 | 3 | 12 | 1 | 41 |
+| JIO PAYMENTS BANK LIMITED | 43 | 3.91 | - | - | 0.00124 | - | 3 | 26 | 1 | - | 4 | - | 1 | - | - | 8 |
+| NSDL PAYMENTS BANK LIMITED | 107 | 107.00 | 0.006 | - | 0.00037 | - | 3 | 36 | 1 | 16 | 32 | - | - | 1 | - | 18 |
+| PAYTM PAYMENTS BANK LIMITED | 3,513 | 501.86 | 0.006 | - | 0.00025 | 0.042 | 219 | 1,851 | 136 | 311 | 487 | 1 | 20 | 26 | 5 | 457 |
+| All Payment Banks | 5,623 | 7.22 | 0.007 | - | 0.00024 | 0.014 | 389 | 2,913 | 161 | 350 | 1,001 | 4 | 31 | 46 | 8 | 720 |
+| Small Finance Banks |
+| AU SMALL FINANCE BANK LIMITED | 899 | 1.13 | 0.014 | 0.450 | 0.00074 | 0.153 | 36 | 103 | 227 | 340 | 112 | - | 9 | 5 | 1 | 66 |
+| CAPITAL SMALL FINANCE BANK LIMITED | 32 | 0.18 | 0.005 | 0.000 | 0.00050 | 0.031 | 1 | 8 | - | 10 | 7 | - | 1 | - | - | 5 |
+| EQUITAS SMALL FINANCE BANK LIMITED | 375 | 0.40 | 0.010 | - | 0.00038 | 0.051 | 33 | 55 | 7 | 173 | 72 | - | 4 | 3 | - | 28 |
+| ESAF SMALL FINANCE BANK LIMITED | 63 | 0.09 | 0.003 | - | 0.00023 | 0.003 | 14 | 14 | 1 | 14 | 9 | - | 2 | - | - | 9 |
+| FINCARE SMALL FINANCE BANK LIMITED | 122 | 0.14 | 0.001 | - | 0.00025 | 0.013 | 4 | 12 | 1 | 46 | 42 | - | 1 | 4 | - | 12 |
+| JANA SMALL FINANCE BANK LIMITED | 310 | 0.52 | 0.010 | - | 0.00176 | 0.035 | 27 | 28 | 3 | 127 | 97 | - | - | 5 | - | 23 |
+| NORTH EAST SMALL FINANCE BANK LIMITED | 6 | 0.03 | 0.005 | 0.000 | 0.00018 | 0.003 | 2 | - | - | 1 | 1 | - | - | - | - | 2 |
+| SHIVALIK SMALL FINANCE BANK LIMITED | 42 | 1.17 | 0.059 | 0.000 | 0.00178 | 0.082 | 5 | 6 | - | 17 | 5 | - | - | - | 1 | 8 |
+| SURYODAY SMALL FINANCE BANK LIMITED | 71 | 0.14 | 0.007 | 0.000 | 0.00026 | 0.020 | 4 | 4 | - | 25 | 29 | - | - | - | - | 9 |
+| UJJIVAN SMALL FINANCE BANK LIMITED | 229 | 0.36 | 0.003 | 0.000 | 0.00013 | 0.014 | 29 | 29 | - | 81 | 60 | - | 1 | 1 | - | 28 |
+| UNITY SMALL FINANCE BANK LIMITED | 33 | 0.10 | - | 0.000 | - | 0.017 | 1 | - | - | 13 | 9 | - | - | 1 | - | 9 |
+| UTKARSH SMALL FINANCE BANK LIMITED | 83 | 0.10 | 0.007 | - | 0.00079 | 0.012 | 11 | 11 | 1 | 32 | 18 | - | - | 2 | - | 8 |
+| All Small Finance Banks | 2,265 | 0.34 | 0.006 | 0.476 | 0.00045 | 0.027 | 167 | 270 | 240 | 879 | 461 | - | 18 | 21 | 2 | 207 |
+| Foreign Banks |
+| AB BANK LIMITED | 2 | 2.00 | - | - | - | 3.125 | - | - | 1 | - | 1 | - | - | - | - | - |
+| ABU DHABI COMMERCIAL BANK PJSC | 3 | - | - | - | - | - | - | 2 | - | - | - | - | 1 | - | - | - |
+| AMERICAN EXPRESS BANKING CORP. | 311 | 155.50 | - | 0.194 | 0.00580 | 0.027 | 5 | 4 | 260 | 15 | 5 | - | 1 | 2 | - | 19 |
+| BARCLAYS BANK PLC | 18 | 4.50 | 1.101 | - | 0.00293 | 0.373 | 1 | - | 6 | 5 | 4 | - | - | - | - | 2 |
+| BANK OF AMERICA NATIONAL ASSOCIATION | 6 | 1.50 | - | - | 0.00015 | 0.248 | - | 2 | - | 1 | 1 | - | 2 | - | - | - |
+| BANK OF CHINA LIMITED | 1 | 0.50 | - | - | - | 30.303 | - | - | - | - | 1 | - | - | - | - | - |
+| BNP PARIBAS | 2 | 0.29 | - | - | 0 | 0.639 | - | - | - | - | - | - | 1 | - | - | 1 |
+| CITIBANK N.A | 1,409 | 88.06 | - | 5.428 | 0.00211 | 0.358 | 82 | 134 | 882 | 113 | 111 | - | 29 | 8 | - | 50 |
+| DBS BANK INDIA LIMITED | 382 | 0.69 | 0.016 | 0.103 | 0.00029 | 0.066 | 30 | 96 | 23 | 69 | 107 | 2 | 8 | 5 | 1 | 41 |
+| DEUTSCHE BANK AG | 105 | 5.25 | 0.009 | - | 0.00009 | 0.312 | 1 | 4 | 2 | 73 | 15 | - | 2 | - | - | 8 |
+| DOHA BANK Q.P.S.C. | 1 | 0.33 | - | - | 0 | 0.045 | - | - | - | - | - | - | - | - | - | 1 |
+| EMIRATES NBD BANK (P.J.S.C.) | 1 | 0.33 | - | - | 0 | 0.381 | - | - | - | - | - | - | - | - | - | 1 |
+| FIRST ABU DHABI BANK PJSC | 2 | 2.00 | - | - | 2.63158 | 7.353 | - | - | 1 | - | - | - | - | - | - | 1 |
+| FIRSTRAND BANK LTD | 2 | 2.00 | - | - | 0 | - | - | - | - | 2 | - | - | - | - | - | - |
+| HONGKONG AND SHANGHAI BANKING CORPN.LTD. | 346 | 11.93 | 0.024 | 0.255 | 0.00059 | 0.088 | 14 | 24 | 178 | 66 | 38 | - | 4 | 2 | - | 20 |
+| JPMORGAN CHASE BANK NATIONAL ASSOCIATION | 2 | 0.40 | - | - | 0 | 0.046 | - | - | - | - | - | - | - | - | - | 2 |
+| MUFG BANK LTD. | 1 | 0.20 | - | - | 0 | 0.237 | - | - | - | 1 | - | - | - | - | - | - |
+| NATWEST MARKETS PLC. | 4 | 2.00 | - | - | 0 | - | - | - | - | - | 2 | - | - | - | - | 2 |
+| QATAR NATIONAL BANK (Q.P.S.C) | 1 | 1.00 | - | - | 0 | 9.709 | - | - | - | 1 | - | - | - | - | - | - |
+| SBERBANK | 1 | 1.00 | - | - | 0 | 2.809 | - | - | - | - | - | - | - | - | - | 1 |
+| SBM BANK (INDIA) LIMITED | 1,054 | 58.56 | 0.144 | 0.459 | 0.02458 | 0.169 | 87 | 82 | 492 | 180 | 134 | - | 9 | 1 | - | 69 |
+| SHINHAN BANK | 2 | 0.33 | - | - | 0.00222 | 0.000 | - | 2 | - | - | - | - | - | - | - | - |
+| SONALI BANK | 2 | 1.00 | - | - | 0 | 0.638 | - | - | - | 1 | - | - | - | - | - | 1 |
+| STANDARD CHARTERED BANK | 1,972 | 18.96 | 0.084 | 0.962 | 0.00336 | 0.271 | 96 | 143 | 1,021 | 389 | 189 | - | 17 | 4 | 2 | 111 |
+| UNITED OVERSEAS BANK LIMITED | 2 | 1.00 | - | - | 0 | 55.556 | - | - | - | - | 1 | - | 1 | - | - | - |
+| WOORI BANK | 7 | 2.33 | 0 | - | 0 | 1.188 | - | - | - | 5 | 1 | - | - | - | - | 1 |
+| All Foreign Banks | 5,639 | 7.10 | 0.073 | 0.629 | 0.00188 | 0.153 | 316 | 493 | 2,866 | 921 | 610 | 2 | 75 | 22 | 3 | 331 |
+| All Regional Rural Banks | 3,665 | 820 | 498 | 45 | 982 | 695 | 32 | 35 | 47 | 15 | 496 |
+| All Co-operative Banks | 3,535 | 247 | 280 | 31 | 1,457 | 768 | 11 | 28 | 43 | 11 | 659 |
+| GRAND TOTAL | 1,96,635 | 28,635 | 39,855 | 24,549 | 39,579 | 33,612 | 4,377 | 2,937 | 2,476 | 505 | 20,110 |
+| * DC – Debit Card; CC – Credit Card; # Sum of deposit and credit accounts. |
+
+| Annex 2: Statement of complaints received against NBFCs by the ORBIOs during April 1, 2022 – March 31, 2023 |
+| --- |
+| Name of the NBFC | Non-adherence to fair practices code / loans & advances related | Others | TOTAL |
+| SBI Cards & Payment Services Pvt. Ltd. | 228 | 9,227 | 9,455 |
+| Bajaj Finance Limited | 2,534 | 416 | 2,950 |
+| Indiabulls Consumer Finance Limited (Erstwhile IVL Finance Limited) | 1,264 | 358 | 1,622 |
+| Dmi Finance Pvt Ltd. | 913 | 306 | 1,219 |
+| Aditya Birla Finance Limited | 920 | 152 | 1,072 |
+| HDB Financial Services Limited | 629 | 123 | 752 |
+| Hero Fincorp Limited (Erstwhile Hero Honda Finlease Limited) | 612 | 105 | 717 |
+| Home Credit India Finance Private Limited (Erstwhile Rajshree Auto Finance Limited) | 572 | 86 | 658 |
+| Fullerton India Credit Company Limited | 483 | 106 | 589 |
+| Cholamandalam Investment and Finance Company Limited | 448 | 88 | 536 |
+| Bhanix Finance & Investment Ltd | 465 | 62 | 527 |
+| IIFL Finance Limited (Erstwhile IIFL Holdings Limited) | 413 | 93 | 506 |
+| Hinduja Leyland Finance Limited | 367 | 94 | 461 |
+| PayU Finance India Private Limited (Erstwhile Sidvik Leasing Private Limited) | 308 | 146 | 454 |
+| TVS Credit Services Ltd | 357 | 97 | 454 |
+| Tata Capital Financial Services Limited | 382 | 58 | 440 |
+| Muthoot Finance Limited | 332 | 99 | 431 |
+| Bob Financial Solutions Limited (Erstwhile Bobcards Limited) | 15 | 375 | 390 |
+| Krazybee Services Private Limited | 317 | 68 | 385 |
+| L&T Finance Limited | 311 | 65 | 376 |
+| Shriram City Union Finance Limited | 292 | 80 | 372 |
+| Mahindra & Mahindra Financial Services Ltd | 294 | 52 | 346 |
+| Clix Capital Services Private Limited | 253 | 30 | 283 |
+| Capfloat Financial Services Private Limited. | 207 | 53 | 260 |
+| Navi Finserv Private Limited | 219 | 39 | 258 |
+| Quadrillion Finance Private Limited | 94 | 147 | 241 |
+| Manappuram Finance Limited | 195 | 36 | 231 |
+| Shriram Transport Finance Company Limited | 180 | 49 | 229 |
+| Bajaj Finserv Limited | 149 | 46 | 195 |
+| SBFC Finance Private Limited (Erstwhile Small Business Fincredit India Private Limited) | 160 | 33 | 193 |
+| SI Creva Capital Services Private Limited | 142 | 40 | 182 |
+| Kotak Mahindra Prime Ltd. | 143 | 35 | 178 |
+| Lendingkart Finance Limited (Erstwhile Aadri Infin Limited) | 148 | 28 | 176 |
+| India Infoline Finance Limited (Erstwhile India Infoline Investment Services Ltd.) | 136 | 37 | 173 |
+| Akara Capital Advisors Private Limited | 123 | 40 | 163 |
+| Tata Motors Finance Limited (Erstwhile Sheba Properties Limited) | 135 | 21 | 156 |
+| Avanse Financial Services Ltd | 128 | 20 | 148 |
+| Poonawalla Finance Private Limited (Erstwhile Adar Poonawalla Finvest Private Limited) | 120 | 14 | 134 |
+| Aditya Birla Capital Limited | 103 | 25 | 128 |
+| Magma Fincorp Ltd | 100 | 10 | 110 |
+| InCred Financial Services Limited | 86 | 15 | 101 |
+| Others | 3,380 | 1,441 | 4,821 |
+| Grand Total | 18,657 | 14,415 | 33,072 |
+| Note: Entity-wise complaints have been given only for those NBFCs wherein more than 100 complaints were received at the ORBIOs. |
+
+| Annex 3: Statement of complaints received against NBPSPs by the ORBIOs during April 1, 2022 – March 31, 2023 |
+| --- |
+| Name of the NBPSP | Mobile/Electronic Fund Transfers / Mobile Electronic Banking | Others | TOTAL |
+| Amazon Pay (India) Private Limited | 287 | 106 | 393 |
+| Appnit Technologies Private Limited | 5 | 0 | 5 |
+| Balancehero India Private Limited | 2 | 11 | 13 |
+| CSC e – Governance Services India Ltd | 24 | 9 | 33 |
+| Ebix Payment Services Private Limited (Erstwhile Itz Cash Card Limited) | 0 | 2 | 2 |
+| Eko India Financial Services Private Limited | 0 | 1 | 1 |
+| Eroute Technologies Private Limited | 3 | 0 | 3 |
+| GI Technology Private Limited | 1 | 0 | 1 |
+| Hip Bar Private Limited | 1 | 0 | 1 |
+| India Transact Services Limited. | 3 | 3 | 6 |
+| IndiaIdeas.com Limited | 6 | 3 | 9 |
+| Infibeam Avenues Limited (Erstwhile Avenues India Private Limited) | 4 | 2 | 6 |
+| LivQuik Technology (India) Private Limited | 3 | 3 | 6 |
+| National Payments Corporation of India | 44 | 5 | 49 |
+| Ola Financial Services Pvt. Ltd. (Erstwhile ZipCash Card Services Pvt. Ltd) | 44 | 66 | 110 |
+| One Mobikwik Systems Private Limited | 810 | 665 | 1,475 |
+| Paul Merchants Finance Private Limited | 0 | 6 | 6 |
+| Pay Point India Network Private Limited | 7 | 1 | 8 |
+| PayU Payments Private Limited | 163 | 95 | 258 |
+| Phonepe Private Limited (Erstwhile FX Mart Pvt. Ltd) | 626 | 117 | 743 |
+| Pine Labs Private Limited | 44 | 32 | 76 |
+| QwikCilver Solutions Pvt. Ltd | 5 | 1 | 6 |
+| RapiPay Fintech Private Limited | 17 | 6 | 23 |
+| Razorpay Technologies Private Limited | 95 | 45 | 140 |
+| Sodexo SVC India Pvt. Ltd | 15 | 3 | 18 |
+| Spice Money Limited | 32 | 11 | 43 |
+| Supreme Securities Limited | 0 | 1 | 1 |
+| TranServ Private Limited | 2 | 6 | 8 |
+| Tri O Tech Solutions Private Ltd. | 1 | 0 | 1 |
+| Unimoni Financial Services Limited (Erstwhile UAE Exchange & Financial Services Limited) | 0 | 4 | 4 |
+| Uniorbit Payment Solutions Limited (Erstwhile Weizmann Impex Service Enterprise Limited) | 0 | 3 | 3 |
+| Western Union Financial Services Incorporated USA | 0 | 1 | 1 |
+| Worldline ePayments India Private Limited (Erstwhile Ingenico ePayments India Private Limited and TechProcess Payment Services Limited) | 2 | 2 | 4 |
+| Grand Total | 2,246 | 1,210 | 3,456 |
+
+| Annex 4: Statement of complaints received against CICs by the ORBIOs during April 1, 2022 – March 31, 2023 |
+| --- |
+| NAME OF THE CIC | Credit Card | Loans and Advances | Others | TOTAL |
+| Credit Information Bureau (India) Limited | 42 | 581 | 173 | 796 |
+| CRIF High Mark Credit Information Services Private Limited | 9 | 70 | 20 | 99 |
+| Equifax Credit Information Services Private Limited | 5 | 37 | 8 | 50 |
+| Experian Credit Information Company of India Private Limited | 7 | 66 | 21 | 94 |
+| Grand Total | 63 | 754 | 222 | 1,039 |
+
+---
+
+1 The number provided pertains only to number of complaints that were disposed or pending for processing at CRPC. The complaints that were assigned to ORBIOs/CEPCs post preliminary scrutiny have not been included in the number to avoid duplication.
+
+2 Of the 4,68,854 complaints, 584 complaints were pending as on March 31, 2023. These complaints have since been disposed.
+
+3 Slight differential in auto allocation of complaints is on account of volume of specific regional language complaints, redistribution due to pendency / staff shortages, etc.
+
+4 This decline is in consonance with the process re-engineering and structural changes introduced in the Ombudsman framework subsequent to the launch of RB-IOS, 2021, whereby, only actionable complaints flow to ORBIOs as compared to the erstwhile schemes.
+
+5 The Credit Information Companies (CICs) have been brought under the ambit of the RB-IOS, 2021 w.e.f. September 1, 2022.
+
+6 Assamese, Bengali, Gujarati, Kannada, Oriya, Punjabi, Malayalam, Marathi, Tamil and Telugu.
+
+7 Abandoned calls are those calls wherein all CC personnel were busy on other calls. The caller remains in queue for certain time and then the call gets disconnected by the system. Several of these callers call back again.
+
+8 Punjabi operational from January 6, 2022, Assamese operational from June 21, 2022.
+
+| () |
+| --- |
+| Date : Mar 11, 2024 |
+| Annual Report of Ombudsman Scheme, 2022-23 |
+
+Top

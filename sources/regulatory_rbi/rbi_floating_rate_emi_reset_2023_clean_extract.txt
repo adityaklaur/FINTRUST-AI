@@ -1,0 +1,32 @@
+Title: Reset of Floating Interest Rate on EMI-based Personal Loans
+Source URL: https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12529
+Date: 18/08/2023, updated 01/10/2025
+RBI reference: RBI/2023-24/55 DOR.MCS.REC.32/01.01.003/2023-24
+Source type: RBI notification clean text extract
+
+Purpose for FinTrust AI:
+Use this for floating-rate personal loan / home loan complaints where borrowers say EMI or tenor changed without clear communication or consent.
+
+Key points:
+
+- At sanction of EMI-based floating-rate personal loans, regulated entities must consider repayment capacity and possible future increase in benchmark rate.
+- RBI noted grievances about elongation of loan tenor and/or increase in EMI without proper communication or consent.
+- At the time of sanction, REs must clearly communicate the possible impact of benchmark-rate changes on EMI, tenor, or both.
+- Any increase in EMI or tenor due to rate reset must be communicated immediately through appropriate channels.
+- At the time of interest-rate reset, REs may provide a choice to switch to fixed rate as per board-approved policy.
+- Borrowers must be given choices to:
+  - increase EMI,
+  - extend tenor,
+  - use a combination of EMI increase and tenor extension,
+  - prepay in part or full at any point during the tenor.
+- Foreclosure charges / prepayment penalty are subject to extant RBI instructions.
+- Charges for switching from floating to fixed rate and related administrative costs must be transparently disclosed in the sanction letter and when revised.
+- Tenor extension in floating-rate loans must not result in negative amortisation.
+- REs must provide or make accessible quarterly statements showing principal and interest recovered, EMI amount, number of EMIs left, and annualized rate of interest / APR.
+
+Implementation notes:
+
+- Add classifier category: `floating_rate_emi_reset`.
+- Ask user for loan type, bank/NBFC, sanction date, current EMI, original EMI, tenure change, communication received, and whether KFS/loan agreement disclosed reset impact.
+- Do not tell user that fixed-rate switch is always mandatory. Wording says REs may provide that choice as per board-approved policy.
+- Use this source with KFS/APR and interest-rate-on-advances sources.

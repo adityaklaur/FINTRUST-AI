@@ -1,0 +1,28 @@
+Title: Standard Chartered India - Compensation, Cheque Collection, Ombudsman and Card Policy Links
+Source URLs:
+- https://www.sc.com/in/important-information/policy-procedures/compensation-policy/
+- https://www.sc.com/in/important-information/cheque-collection-policy/
+- https://www.sc.com/in/important-information/banking-ombudsman/
+- https://www.sc.com/in/credit-cards/super-value-titanium/
+Source type: official Standard Chartered India page notes / snapshots
+
+Use for FinTrust AI:
+- Standard Chartered-specific compensation and cheque collection policy discovery.
+- Standard Chartered grievance/Ombudsman escalation.
+- Standard Chartered credit card MITC discovery from product pages.
+
+Key points:
+- Standard Chartered compensation policy page links to:
+  https://av.sc.com/in/content/docs/in-compensation-policy.pdf
+- Standard Chartered cheque collection policy page provides English and Hindi versions.
+- Standard Chartered Ombudsman page describes grievance redressal, Internal Ombudsman, and escalation to RBI CMS if unresolved within a month.
+- Standard Chartered grievance redressal policy PDF already exists in this corpus:
+  bank_documents/standard_chartered_grievance_redressal_policy.pdf
+- Standard Chartered card product pages include terms and "Most Important Document" links for individual cards.
+
+Manual follow-up:
+- Download Standard Chartered:
+  - compensation policy PDF
+  - cheque collection policy PDF
+  - specific credit card MITC PDFs for selected demo cards
+  - deposit/customer service/deceased depositor policy if published separately

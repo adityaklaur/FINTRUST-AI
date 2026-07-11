@@ -1,0 +1,623 @@
+`
+Page 1 of 16
+Grievance Redressal Policy
+(Date: Oct 2025)
+`
+Page 2 of 16
+Contents
+1. Preamble/ Introduction........................................................................................................3
+2. Important definitions: ............................................................................................................3
+I. Definition of a complaint/ concern (and Exclusions therefrom):........................................3
+II. Exclusions from the definition of complaint: .........................................................................3
+3. Objective..................................................................................................................................4
+4. References to Regulations: .................................................................................................4
+5. Applicability.............................................................................................................................4
+6. Communication of the Policy ................................................................................................5
+7. Details of the Policy ...............................................................................................................5
+I. Aspects of the Grievance Redressal Policy: ........................................................................5
+II. Grievance redressal mechanism of the Bank:..........................................................................12
+8. Governance Structure - Roles and Responsibilities of Board of Directors/ Senior 
+Management:......................................................................................................................12
+Grievance Review Mechanism of the Bank: ..................................................................................12
+9. Reporting / Monitoring requirements.............................................................................13
+10. Disclosure Requirement......................................................................................................13
+11. Review of the Policy............................................................................................................14
+12. Annexures...............................................................................................................................14
+Annexure – I: Format of Disclosure ..............................................................................................14
+Annexure – II: Timeframes..............................................................................................................15
+Timeframes:.........................................................................................................................................15
+Annexure – III: Relevant Bank’s Policies: ....................................................................................15
+`
+Page 3 of 16
+1. Preamble/ Introduction
+a) The timely and effective handling of consumer complaints / concerns is fundamental to the Axis Bank’s 
+principles of responsible finance and its commitment to treat the customer fairly. As part of Axis Bank’s 
+Vision and Values statement, Customer Centricity is stated foremost of the five core values of the bank. 
+Axis Bank believes that a customer experience in dealings with the Bank is the critical to ensuring his 
+enduring relationship with the Bank. Axis Bank, and its subsidiaries are committed to promptly responding 
+and addressing customer complaints /concerns and driving appropriate adjustments to its business practices 
+/ processes to improve quality of customer service and strengthen its risk management. 
+b) Axis Bank’s Grievance Redressal Policy has been -framed in accordance with prescriptions and directions 
+as stated in various regulatory guidelines/ frameworks relevant to Customer Service. The extant policy 
+outlines the framework for handling and redressal of customer grievances. 
+2. Important definitions: 
+I. Definition of a complaint/ concern (and Exclusions therefrom): 
+“Complaint” means a representation in writing or through other modes alleging deficiency in service on 
+the part of the regulated entity and seeking relief thereon. 
+i. An allegation of unacceptable employee behaviour 
+ii. An alleged violation of law, regulation, or policy 
+iii. A product issue including product design or performance issues 
+iv. A sales or service practice issue 
+v. Unauthorised Electronic Banking Transaction (UEBT) dispute for investigation 
+vi. Any deficiency or gap in service delivery towards the commitment provided to the customer (e.g., 
+Complaints on account of breach in committed turnaround time or nonfulfillment of the request 
+customer has placed with the bank. 
+II. Exclusions from the definition of complaint: 
+ 
+i. Complaints / concerns raised by customers with the Bank, where the Bank is part of the transactional 
+eco-system, but where the underlying cause for grievance / concern is attributable to deficiency 
+elsewhere in the overall transaction eco-system, beyond the scope of influence of the Bank, would 
+fall outside the scope of the aforesaid definition. Notwithstanding, the Bank as part of its 
+commitment to its customers shall be bound to provide all support to its customers, within the ambit 
+of larger regulatory and internal policies to ensure that the concern raised is logically concluded. 
+ 
+ii. Complaints/ concerns raised by customers with the Bank, for reversal of charges/ levies/ fees applied 
+to his account(s) as part of the previously agreed and accepted terms and conditions, or restoration 
+of charges / fees paid by the customers as part of his application for loan/ credit/ borrower facilities, 
+notwithstanding the fact that the same has not been sanctioned /acceded to by the Bank in accordance 
+with the Bank’s lending norms or assessment practices or restoration of credit limits which stand 
+`
+Page 4 of 16
+reduced on account of usage, terms of lending, diminished value of underlying collaterals, or CVS 
+/ Credit score would fall outside the scope of the aforesaid definition. 
+ 
+iii. Complaints / concerns raised by customers with the Bank, on action taken by the Bank in accordance 
+with regulatory directions, with due notification(s) to the relevant customers, through appropriate 
+channels (as per the information available to the Bank on its records), and where the customers have 
+failed to act in accordance to comply with the directions notified by the Bank shall fall outside the 
+purview of the aforesaid definition. Non-receipt of communication(s), in this regard from the Bank, 
+for reasons where the contact details of the customer have undergone change and the customer has 
+not updated the same on the Banks records, shall not be considered as grounds for grievance. 
+ 
+iv. Customer Queries, Doubts, Inquiries, Status, request and clarifications will not be treated as 
+complaints Ex. non-receipt of deliverable (within TAT) etc. 
+3. Objective
+The Objective of the policy is to ensure that: 
+a. All customers are always treated fairly and without bias, 
+b. All complaints, requests and queries received from customers are responded with courtesy as per 
+defined timelines, 
+c. Customers are made completely aware of their rights so that they can opt for alternative remedies if 
+they are not fully satisfied with our response or resolution to their complaint. 
+4. References to Regulations: 
+Reference No Note Name
+RBI/2015-16/59
+DBR No.Leg.BC. 21/09.07.006/2015-16
+Master Circular on Customer Service 2015
+RBI/CEPD/2023-24/108
+CEPD.PRD.No.S1228/13.01.019/2023-24
+Master Direction - Reserve Bank of India (Internal 
+Ombudsman for Regulated Entities) Directions, 
+2023
+RBI/2022-23/111 
+DOR.CRE.REC.66/21.07.001/2022-23
+Guidelines on Digital Lending
+RBI/DoR/2024-25/125
+DoR.FIN.REC.No.55/20.16.056/2024-25
+Master Direction – Reserve Bank of India (Credit 
+Information Reporting) Directions, 2025
+5. Applicability 
+a. The policy is applicable to all branches of the Bank (including overseas branches) and all personnel 
+involved in functioning of overseas and domestic operations of the Bank. 
+b. Applicable to Business Correspondents, Outsourced employees, collections agencies & bank 
+subsidiaries Third party product distributed/ referred by the Bank. 
+c. All Government sponsored/ backed-up schemes serviced by the Bank. 
+d. All transaction wherein Bank is acting as a NPS trust or an Agency business. 
+`
+Page 5 of 16
+e. All channels across products which the Bank has enabled for the customers for carrying out 
+transactions and providing services (including services rendered through partners / associates of the 
+Bank appointed by the Bank for the purposes of services specified by the Bank) 
+6. Communication of the Policy
+The Grievance Redressal Policy will be published on the comprehensive notice board of the branches and 
+on the Bank’s website
+7. Details of the Policy
+I. Aspects of the Grievance Redressal Policy: 
+ 
+For customers of Domestic Branches 
+ 
+1. Channels available to the customers for registering/ lodgement of the complaints / concerns (Level 1 
+complaints): 
+ 
+a) The Bank has enabled the following front-end touchpoints to customers to register their grievances on 
+any of the products and services rendered by the Bank: 
+ 
+i. Any of the Branches & Loan centers (for loan related complaints) of Axis Bank
+ii. The phone bank center / call centre of the Bank
+iii. Email / Webchat channels of the Bank
+iv. Axis support – Webpage on Axis bank website where customer can lodge complaints
+v. Retail Internet Banking and Mobile Banking serve as a channel for the customers to lodge their 
+complaints.
+vi. Axis Bank Social media handles 
+ 
+b) The responses /resolution shall be provided as per the defined timeframes for various categories of 
+transactions as covered in the Annexure hereto. The Bank uses appropriate system for tracking and 
+reporting the grievances raised by customers. Interactions received through regulator are resolved as per 
+timelines mandated by respective regulator. 
+ 
+c) All Level 1 complaints/ disputes /concerns registered through the Bank’s call centre, email/ chat & walkin at loan centres and branches will acknowledge the customer issue and capture the same in the 
+appropriate system designated by the Bank for the purpose. 
+d) Bank has a defined turnaround time of 10 days for a response related to Level 1 complaints /disputes / 
+concerns. 
+`
+Page 6 of 16
+e) The following are the details for various touchpoints at first level:
+S. 
+No. Details Axis 
+1 Call Centers / Phone banking 1860-419-5555 
+Centers 1860-500-5555 
+2 Website Support www.Axisbank.com /support 
+3 Branches / Loan Centers Please visit www.axisbank.com to 
+locate the nearest branch /loan centre 
+ For Customers of Overseas Branches & Representative offices (Level 1 complaints) 
+ 
+The Chief Executive Officer of the Branch / Chief Representative of the Representative office is the designated 
+Complaints handling Officer. The Branch / Representative Office, if it is mandated by local regulations, should 
+advise the Local Regulator about his / her role as the Complaints Handling Officer. 
+ 
+Country Reason Email ID 
+Abu Dhabi Representative Office For Complaints related to ADRO complaints.adro@axisbank.com
+ 
+Country Reason Email ID 
+Dubai Representative Office For Complaints related to DRO complaints.dro@axisbank.com 
+ 
+Country Reason Email ID 
+Sharjah Representative Office For Complaints related to SRO complaints.sro@axisbank.com 
+ 
+Country Reason Email ID 
+Dubai International Centre Finance (DIFC) For Complaints related to DIFC complaints.difc@axisbank.com 
+ 
+Country Reason Email ID 
+Gift City IBU For Complaints related to Gift City IBU complaints.giftcity@axisbank.com
+ 
+Country Reason Email ID 
+Singapore For Complaints related to Sing complaints.sing@axisbank.com
+Country Reason Email ID 
+Bangladesh Representative Office For Complaints related to BRO complaints.bro@axisbank.com
+ 
+ The Bank has a defined turnaround time of 10 days for a response. 
+`
+Page 7 of 16
+Circle Nodal Officer/Nodal Officer at HO (Level -2):
+The name and contact details (Telephone/mobile number and E-mail ID) of Circle Nodal Officer/Nodal Officer at HO 
+(Level -2) are displayed on Banks website and at branches
+ 
+If the customer is not satisfied with the response offered, customer may choose to refer the matter to Level 2 (Circle 
+Nodal officer/ Nodal Officer at HO) for both domestic and overseas branch customer. 
+1. Nodal office will acknowledge the customer issue and record in the system 
+2. The Bank has a defined turnaround time of 10 days for a response 
+ 
+Write Email Call 
+Nodal Officer, 
+Axis Bank Ltd, NPC1, 
+5th Floor, "Gigaplex", Plot No 
+I.T.5, MIDC, Airoli Knowledge 
+Park, Airoli, 
+Navi Mumbai-400708. 
+nodal.officer@axisbank.com 
+Ph. 91-080-61865200 
+9.30 AM to 5.30 PM Monday 
+to Saturday 
+(Except 2nd & 4th Saturdays and 
+Bank Holidays) 
+ 
+ Nodal Officer for person with disabilities:
+The name and contact details (Telephone/mobile number and E-mail ID) of Nodal Officer for person with disabilities 
+are displayed on Banks website and at branches
+Write Email Call 
+Nodal Officer, 
+Axis Bank Ltd, NPC1, 
+5th Floor, "Gigaplex", Plot No 
+I.T.5, MIDC, Airoli Knowledge 
+Park, Airoli, 
+Navi Mumbai-400708. 
+nodal.officer@axisbank.com 
+Ph. 91-080-61865200 
+9.30 AM to 5.30 PM Monday 
+to Saturday 
+(Except 2nd & 4th Saturdays and 
+Bank Holidays) 
+ 
+ Digital Lending Grievance Redressal Officer (GRO):
+The name and contact details (Telephone/mobile number and E-mail ID) of Digital Lending Grievance Redressal 
+Officer (GRO) are displayed on Banks website and at branches
+Contact details for Grievance Redressal Officer (GRO) designated specifically to assist customer with FinTech / Digital 
+lending related concerns. 
+Write Email Call 
+`
+Page 8 of 16
+Digital Lending Grievance 
+Redressal Officer (GRO), 
+Axis Bank Ltd, NPC1, 
+5th Floor, "Gigaplex", Plot No 
+I.T.5, MIDC, Airoli Knowledge 
+Park, Airoli, 
+Navi Mumbai-400708. 
+nodal.officer@axisbank.com 
+Ph. 91-080-61865200 
+9.30 AM to 5.30 PM Monday 
+to Saturday 
+(Except 2nd & 4th Saturdays and 
+Bank Holidays) 
+ 
+Principal Nodal Officer (PNO) (Level 3): 
+The name and contact details (Telephone/mobile number and E-mail ID) of Principal Nodal Officer are displayed on 
+Banks website and at branches
+If the customer is not satisfied with the response offered, the customer may choose to refer the matter to Level 3 
+(Principal Nodal officer) for both domestic and overseas branch customers 
+1. Principal Nodal office will acknowledge the customer issue and capture the same in the appropriate 
+system. 
+2. Bank has a defined turnaround time of 10 days for a response at this level 
+ 
+ 
+Write Email Call 
+Principal Nodal Officer 
+Axis Bank Ltd, NPC1, 5th 
+Floor, 
+"Gigaplex", Plot No I.T.5, 
+MIDC, Airoli Knowledge Park, 
+Airoli, 
+Navi Mumbai-400708 
+ pno@axisbank.com 
+Ph. 91- 080-61865098 
+9:30 AM to 5:30 PM 
+Monday to Saturday 
+(Except 2nd & 4th Saturdays 
+and Bank Holidays) 
+ 
+Office of the Banking Ombudsman (Level 4): 
+ 
+If the customer’s issue remains unresolved after approaching Level 1 / Level 2 / Level 3 or if the bank has not provided 
+a resolution within 30 days, the customer may choose to refer the matter to the Banking 
+Ombudsman’s office. Details of the same is as under: 
+ 
+https://www.axisbank.com/contact-us/banking-ombudsman 
+ 
+For Freecharge customers: 
+ 
+ Level 1 complaints / disputes: 
+ Customer can raise their grievances/disputes as below: 
+• Chatbot: On Freecharge App - (Profile – Help & Support) 
+• E-mail: care@freecharge.com 
+• Fraudulent Transaction and Account Block 24*7 Helpline: 9773579100 (Standard call charges Apply) 
+ 
+`
+Page 9 of 16
+ For Customer Complaints where a ticket number is generated, the resolution period is 10 Business Days. 
+ 
+Level 2, Grievance Officer: We aim to resolve all complaints at the first point of contact. In case the customer 
+doesn’t get a satisfactory resolution to their query/complaint at Level 1 they can get in touch with the Grievance 
+Officer with the ticket number and details of the grievance. TAT of 5 Business days (excluding time taken by 
+the customer to provide required Information/documentation) for resolution/response 
+Designated Grievance Officer Nemash Simaria 
+Email 
+ 
+Phone 9773840200 
+Working hours 9:30 AM to 6:30 PM (Monday-Friday; except bank 
+holidays) 
+Postal address Freecharge Payment Technologies Private Limited, DLF 
+Cyber Green, 11th Floor, Tower-C, DLF Cyber City, DLF 
+Phase-3, Gurugram-Haryana-122002, India 
+Registered Address 11th Floor, Tower C, DLF Cyber Greens, DLF Cyber City, 
+DLF Phase 3, Gurugram, Haryana - 122022 
+CIN- U74140DL2015PTC275419 
+Contact Number: 0124-6634800 
+ 
+Level 3 Nodal Officer: In case grievance remains unresolved even after contacting various complaint resolution 
+channels or in the timelines mentioned above or if the customer is not satisfied with the response, the customer 
+can approach the Nodal Office along with the ticket number. TAT of 5 Business days (excluding time taken by 
+the customer to provide required Information/documentation) for resolution/response. 
+ 
+Designated Nodal officer Samarth Govila 
+Email nodal.head@freecharge.com 
+Phone 9773974200 
+Working hours 9:30 AM to 6:30 PM (Monday-Friday; except bank 
+holidays) 
+Postal address Nodal Officer, Freecharge Payment Technologies 
+Private Limited, DLF Cyber Green, 11th Floor, Tower-C, 
+DLF Cyber City, DLF Phase-3, GurugramHaryana122022, India 
+Registered Address 11th Floor, Tower C, DLF Cyber Greens, DLF Cyber 
+City, DLF Phase 3, Gurugram, Haryana 122022, India 
+Contact Number: 0124 663 4800 
+For FASTag customers: 
+Customer can raise their queries from registered mail id to “etc.management@axisbank.com” 
+24*7 Customer Care Toll Free number: 1800-419-8585 
+Customers can access the FASTag online portal through following link: 
+`
+Page 10 of 16
+https://fastag.axisbank.co.in/ Customers can access the FASTag FAQs through following link: 
+https://axisbank.com/Fastagfaq
+ 
+Grievance Redressal Mechanism & TAT for Constituent Subsidiary General Ledger Account (CSGL): 
+ 
+• Axis Bank has opened Constituent Subsidiary General Ledger Account (CSGL account) with RBI to 
+accept/release government securities on behalf of constituents. 
+• For any grievance related to Constituent Subsidiary General Ledger account, customers can write to 
+• Maximum TAT for resolution of the complaint is 2 working days. In case additional information is required 
+from the customer, a period of 2 working days will be considered from the receipt of additional information 
+from the customer. 
+ 
+Grievance Redressal Mechanism & TAT for Issuing and Paying Agent (IPA):
+• As a scheduled commercial bank Axis bank acts as IPA for facilitating Commercial Paper issuance of our 
+customers. 
+• For any grievance related to Issuing and Paying Agent, customer can write to 
+• Maximum TAT for resolution of the complaint is 2 working days. In case additional information is required 
+from the customer, the period of 2 days will be considered from the receipt of additional information from the 
+customer. 
+ 
+Grievance Redressal Mechanism & TAT for Custodial Services: 
+ 
+• Bank is registered as a custodian of securities with SEBI and also a custodian-cum-clearing member of Indian 
+Clearing Corporation Limited (ICCL) and NSE Clearing Limited (NCL) in Equity cash segment 
+• For any grievance related to custodial services customer can write to 
+ 
+TAT to resolve complaints: 
+ 
+• Maximum TAT for resolution of the complaint is 15 working days 
+• In case additional information is required from the customer, the period of 15 working days will be considered 
+from the receipt of additional information from the customer, regulator and service provider 
+ 
+Government Agency business and Govt. investment products: 
+The grievance redressal process pertaining to Civil and Defence pensions, Public Provident Fund (PPF) 
+Accounts, Kisan Vikas Patra, Sukanya Samriddhi Scheme and other Government business services will be 
+as per the Grievance Redressal Policy of the Bank. Additionally, dedicated option has been created under 
+the customer service number to handle the grievances of the pensioners. 
+ 
+ National Pension System (POP- Point of Presence) /Atal Pension Yojana: 
+ 
+National Pension Scheme (NPS) Subscriber (Level 1): 
+ Grievance can be lodged through below channels: 
+`
+Page 11 of 16
+1 Online mode CGMS (Centralised Grievance Management System) of 
+CRA_NSDL 
+2 Email 
+3 Physical letters 
+NPS Trustee 
+Address: Axis Bank Ltd. 
+Centralised Collections and Payment HUB (CCPH), 5th 
+Floor, Gigaplex, Building No. 1, Plot No.I.T.5, MIDC, 
+Airoli Knowledge Park, Airoli, Navi Mumbai - 400708. 
+Contact No.:022-71315875 
+ 
+The Bank has a defined turnaround time of 10 days for a response. 
+ 
+Level 2 escalations / complaints/ disputes/ concerns: 
+If the customer is not satisfied with the response offered, the customer may choose to refer the matter to Level 
+2 (Nodal Officer of Axis Bank) 
+ 
+The Bank has a defined turnaround time of 10 days for a response 
+ 
+The address and contact details of the Grievance Redressal officer of the bank for Atal Pension Yojana / 
+National Pension System are as follows: 
+Grievance Redressal Officer (GRO) of the bank: 
+The name and contact details (Telephone/mobile number and E-mail ID) of Grievance Redressal Officer (GRO)
+are displayed on Banks website and at branches
+5th Floor, Gigaplex, Plot No. I.T.5, MIDC, 
+Airoli Knowledge Park, Airoli, 
+Navi Mumbai – 400708 
+Contact: +91 80 61865200 
+(Only working days 9:30 AM to 5:30 PM - Except 2nd & 4th Saturdays and Bank Holidays) 
+ The Bank has a defined turnaround time of 10 days for a response. 
+Level 3 escalations/ complaints/ disputes/ concerns: 
+If the customer is not satisfied with the response offered, the customer may choose to refer the matter to Level 
+3 (Principal Nodal Officer of Axis Bank 
+ 
+ The Bank has a defined turnaround time of 10 days for a response 
+ 
+Level 4 escalations/ complaints /disputes /concerns: 
+In case of any queries pertaining to NPS or APY, if the customer issue remains unresolved after approaching 
+Level 1 /Level 2 /Level 3 or if the bank has not provided a resolution within 30 days, the customer may choose 
+to refer the matter to Ombudsman’s office.
+The complainant can approach RBI Ombudsman, under the Reserve Bank - Integrated Ombudsman Scheme, 
+2021, in case of wrongful denial of compensation by the Bank.
+Details of the same are as mentioned below: 
+`
+Page 12 of 16
+ 
+The Ombudsman, The office of Ombudsman, 
+Pension Fund Regulatory and Development Authority, 
+Tower E, 5th Floor, E-500, World Trade Center, 
+Nauroji Nagar, New Delhi – 110029 
+Phone No. 011-4071 7900 
+Email id: ombudsman@pfrda.org.in 
+ 
+Subscribers can refer to FAQs on Ombudsman under NPS/APY via URL: 
+ 
+https://www.axisbank.com/retail/investment/atal-pension-yojana/faqs#menuTab 
+https://www.axisbank.com/retail/accounts/national-pension-system-nps/download#menuTab 
+II. Grievance redressal mechanism of the Bank: 
+ 
+Registration of Complaints: The Bank enables customers to register a Complaint through multiple 
+channels as mentioned above under ‘Channels available for customers to report grievance’. 
+ 
+Acknowledgement & Receipt: 
+ 
+• Complaints/ Concerns will be acknowledged upon receipt to the customer; acknowledgement will occur 
+depending on the channel received based on regulatory guidelines. 
+ 
+• For all complaints, an acknowledgement will be provided to the customer who has lodged a complaint 
+stating TAT for an update or resolution. 
+ 
+Resolution of Complaints: 
+For complaints, once the case investigation / research is completed, detailed response along with key 
+information/supporting documents (as applicable) is communicated by the bank. 
+In specific to Credit Information Reporting (CIR) related complaints
+▪ the Bank should inform the customers the reasons for the rejection of their request for data 
+correction in the customers CIR, if any, to enable such customers to better understand the issues in 
+the CIR
+▪ The date of the resolution of the grievance shall be the date when the rectified CIR has been sent 
+by the Bank to the postal address or email ID provided by the complainant.
+8. Governance Structure - Roles and Responsibilities of Board of Directors/ Senior Management: 
+Grievance Review Mechanism of the Bank: 
+ 
+The Bank has set up the following committees & review mechanism to monitor and review quality of 
+customer service and grievance redressal mechanism of the Bank. 
+ 
+Customer Service Committee of the Board: This committee of the Board is responsible to oversee & 
+guide implementation of service enhancement initiatives across the Bank. The Committee meets once 
+`
+Page 13 of 16
+every quarter to review customer complaints, regulatory mandates, policy decisions, review banks 
+performance on initiatives to enhance customer experience. 
+ 
+Standing Committee on Customer Service: The Committee meets quarterly and is responsible for 
+orienting, educating & creating awareness among customer, more importantly this serves as a forum to 
+understand customer feedback about banks products & services. Matters deliberated in this meeting are 
+further taken up for service development & product enhancement to elevate the quality of service delivered 
+to customers. This meeting is attended by senior management of the bank and customers are invited to 
+attend the meetings. 
+ 
+Branch Level Customer Service Committee: Bank also conducts monthly branch level customer 
+meetings; this forum encourages customer to share their feedback & experience with the bank. As part of 
+this meeting bank also conducts sessions to educate customers on topics like safe/secure banking, new 
+initiatives bank has launched to ensure convenient banking. Feedback from these sessions is recorded and 
+taken up for implementation. 
+Internal Ombudsman of the Bank: In line with the instructions from the Reserve Bank of India if the 
+bank decides to reject or provide a partial relief, such cases will be referred to the Internal Ombudsman for 
+further examination. 
+ 
+Service Quality Desk: Bank has set up an in-house dedicated quality review team to ensure that all touch 
+points of the bank maintain highest standard of service quality at all times and adheres to the service 
+standards defined by the bank to fulfil the customer expectations. 
+ 
+Customer Service Meet: Bank conducts monthly branch level customer meetings and quarterly standing 
+committee of customer service meeting. As part of these meetings the intent is to get coverage across 
+customer segments to ensure holistic feedback about banks product /services. Bank invites customers from 
+across segments including Mass segment, Affluent segment, Women customers, Senior citizens and 
+pensioners. As part of the mentioned customer composition Bank has a specific quota for pensioners to be 
+invited on an on-going basis. 
+ 
+Further bank has a structured mechanism to record customer feedback, or any other observations/feedback 
+as voiced by customers. 
+ 
+For branch level meetings, branches are provided with a structured instrument to record customer feedback. 
+Further all feedback /observations voiced by customers during such meetings are tabled to Standing 
+Committee on Customer Service and Customer service committee of board and taken up for appropriate 
+actioning and tracked.
+9. Reporting / Monitoring requirements 
+The overview of Gross and Net complaints is presented every quarter to CSCB which includes: 
+Gross Complaint (Product View) and Product wise Top 5 categories. The Committee also reviews the 
+top areas of complaints, product-wise category, complaints trends, root cause analysis, customer service 
+initiatives, etc. and deliberates innovative measures for enhancing the quality of customer service and 
+improving overall service levels.
+10. Disclosure Requirement
+`
+Page 14 of 16
+With a view to strengthen customer grievance redress mechanisms at Banks, the RBI has put in place 
+comprehensive framework of enhanced disclosures by Bank on customer complaints in its Annual Reports. 
+The bank places the said statement of complaints in its yearly annual report to provide relevant and 
+important information to customer and other stakeholders. Please find format of disclosure provided as 
+Annexure 1 for your perusal.
+11. Review of the Policy 
+The policy has been approved by the Board and is reviewed at regular intervals. These reviews shall 
+consider the following: 
+ 
+• Internal factors such as changes in organisational structure or products and services offered 
+• External factors such as changes in legislation or technological innovation 
+• The results of audit, if any conducted during the year by internal / external auditors. 
+ 
+ The policy is made available on the website of the Bank. 
+ Last Reviewed Date: Oct’25
+12. Annexures
+Annexure – I: Format of Disclosure
+Particulars As of
+31st March Financial Year
+ Complaints received by the bank from its customers Total
+1 Number of complaints pending at beginning of the year
+2 Number of complaints received during the year
+3 Number of complaints disposed during the year
+3.1 Of which, number of complaints rejected by the Bank*
+4 Number of complaints pending at the end of the year
+Maintainable complaints received by the Bank from OBOs
+5
+Number of maintainable complaints received by the Bank from 
+OBOs
+5.1 Of 5, number of complaints resolved in favour of the Bank by BO’s
+5.2 Of 5, number of complaints resolved through conciliation/ mediation/ 
+advisories issued by BO’s
+5.3
+Of 5, number of complaints resolved after passing of Awards by BO’s 
+against the Bank
+6
+Number of Awards unimplemented within the stipulated time (other 
+than those appealed)
+Grounds of 
+complaints
+Number of 
+complaints 
+pending at the 
+beginning of the 
+year
+Number of 
+complaints 
+received 
+during the year
+% increase/ 
+decrease in the 
+number of 
+complaints received 
+over the previous 
+year
+Number of 
+complaints 
+pending at the 
+end of the year
+Of 5, number of 
+complaints 
+pending beyond 
+30 days
+`
+Page 15 of 16
+1 2 3 4 5 6
+Ground 1
+Ground 2
+Ground 3
+Ground 4
+Ground 5
+Others
+Total
+Annexure – II: Timeframes
+ Timeframes: 
+ 
+1. Delay in failed ATM/BNA/Recycler transactions: T+5 days 
+2. Delay in crediting failed IMPS/UPI transactions: T+1 day 
+3. Delay in crediting failed card transactions 
+• Card to Card transfer: T+1 day 
+• POS/ Ecommerce: T+5 days 
+4. Delay in crediting failed Aadhaar enabled payment systems: T+5 days 
+5. Delay in crediting failed Aadhaar Payment Bridge systems: T+1 day 
+6. Delay in crediting failed NACH transactions: T+1 day 
+7. Delay in credit of beneficiary account for transactions initiated through Prepaid Instruments - 
+Cards/Wallets 
+• Off-US transactions: transaction will ride on UPI, card network, IMPS, etc., as the case may be. The TAT 
+and compensation rule of respective system shall apply 
+• On-US transaction- PPI debited but transaction confirmation not received at merchant location. Reversal 
+to be effected in T+1 calendar day 
+8. Fraudulent /Unauthorised electronic banking transactions which includes remote /online payment transaction 
+& proximity payment transactions (ATM/POS): 90 days 
+9. POS/Online disputes: 120 days (Network defined timelines) 
+10. NEFT/RTGS: (NPCI defined timeline of T+15 days) 
+11. For all other interactions which do not fall under the above categories, the response time at each level stands 
+as 10 days. 
+12. If the bank has not provided a resolution within 30 days OR if the customer's issue remains unresolved OR if 
+the customer is not satisfied with the resolution provided by Level 1 /Level 2 /Level 3, he/she may choose to 
+refer the matter to the Banking Ombudsman’s office.
+Annexure – III: Relevant Bank’s Policies:
+• Customer Compensation policy
+https://www.axisbank.com/docs/default-source/default-document-library/Customer-CompensationPolicy.pdf?sfvrsn=4
+`
+Page 16 of 16
+• Customer Protection Policy
+https://www.axisbank.com/docs/default-source/noticeboard/customerserviceinformation/customerprotection-policy.pdf
+• Customer Rights Policy
+https://www.axisbank.com/docs/default-source/noticeboard/importantnotice/customer--rightspolicy.pdf

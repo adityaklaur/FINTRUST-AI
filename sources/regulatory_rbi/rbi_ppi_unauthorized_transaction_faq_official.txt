@@ -1,0 +1,435 @@
+Frequently Asked Questions - Reserve Bank of India
+
+Skip to main content
+
+Change Language हिंदी
+
+Search the Website Search
+
+Banker and Debt Manager to Government
+
+Financial Inclusion and Development
+
+Consumer Education and Protection
+
+Payment and Settlement System
+
+Deposit Insurance and Credit Guarantee Corporation
+
+# Frequently Asked Questions
+
+(Updated as on November 22, 2022)
+
+1. Under what powers has the Reserve Bank of India (RBI) issued the Master Directions (MD) on Prepaid Payment Instruments (PPIs) dated August 27, 2021 (MD-PPIs)?
+
+Ans. In exercise of the powers conferred under Section 18 read with Section 10(2) of the Payment and Settlement Systems Act, 2007 (PSS Act), RBI has issued these Master Directions.
+
+2. What are PPIs?
+
+Ans. PPIs are instruments that facilitate purchase of goods and services, conduct of financial services, enable remittance facilities, etc., against the value stored therein.
+
+3. Who are the issuers of PPIs?
+
+Ans. PPIs can be issued by banks and non-banks. Banks can issue PPIs after obtaining approval from RBI. The non-bank PPI issuers are companies incorporated in India and registered under the Companies Act, 1956 / 2013. They can operate a payment system for issuing PPIs to individuals / organisations after receiving authorisation from RBI.
+
+4. Who is a holder of a PPI?
+
+Ans. A holder of a PPI is an individual who obtains / purchases the PPI from the PPI issuer. However, in case of a gift PPI, any other intended / targeted beneficiary, though not being the purchaser, can also be a holder.
+
+5. What do PPI issuer entities do with the monies collected from PPI holders?
+
+Ans. The monies so collected by the PPI issuers are to be used to make payments to merchants who are part of the acceptance arrangement and for facilitating funds transfer / remittance services on behalf of the PPI holders.
+
+6. How many PPI issuers have been approved by RBI? Where can I find the list of authorised bank and non-bank PPI issuers?
+
+Ans. The list of PPI issuers is available on the RBI website at the links https://www.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=2491(bank-PPI issuers) and https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=12043(non-bank PPI issuers).
+
+7. What are Closed System PPIs?
+
+Ans. These PPIs are issued by an entity for facilitating the purchase of goods and services from that entity only. Cash withdrawals are not permitted. These instruments cannot be used for payment or settlement for third party services. The issuance or operation of such instruments is not classified as a payment system requiring approval / authorisation by RBI and are, therefore, not regulated or supervised by RBI.
+
+8. What are the various types of PPIs?
+
+Ans. PPIs that require RBI approval / authorisation prior to issuance are classified under two types:
+
+Small PPIs (or minimum-detail PPIs): These PPIs are issued by banks and non-banks after obtaining minimum details of the PPI holder. These PPIs can be used for purchase of goods and services at a group of clearly identified merchant locations / establishments which have a specific contract with the issuer (or contract through a payment aggregator / payment gateway) to accept the PPIs as payment instruments. Funds transfer or cash withdrawal from such PPIs is not permitted.
+
+Full-KYC PPIs: The PPIs are issued by banks and non-banks after completing Know Your Customer (KYC) of PPI holder. These PPIs can be used for purchase of goods and services, funds transfer or cash withdrawal.
+
+9. What are the types of Small PPIs?
+
+Ans. Small PPIs can be of two types:
+
+PPIs upto ₹10,000/- (with cash loading facility). These PPIs shall be converted into full-KYC PPIs within 24 months.
+
+PPIs upto ₹10,000/- (with no cash loading facility).
+
+10. How can PPIs be loaded?
+
+Ans. PPIs can be loaded / reloaded by cash (not permitted in one type of Small PPI), debit to a bank account, credit and debit cards, PPIs (as permitted from time to time) and other payment instruments issued by entities regulated in India and in Indian Rupees (INR) only.
+
+11. Is there any limit on loading of PPIs by cash or electronic means?
+
+Ans. Yes, the cash loading of PPIs is limited to ₹50,000/- per month subject to overall limit of the PPI (not permitted in one type of Small PPI). The limit on loading of PPIs via electronic / online means is subject to overall limit of the PPI.
+
+12. What are included in details to be obtained in the two types of Small PPIs?
+
+Ans. The minimum details in both types of Small PPIs are same and are as under:
+
+mobile number verified with One Time Password (OTP); and
+
+self-declaration of name and unique identity / identification number of any mandatory document or Officially Valid Document (OVD) or any such document with any name listed for this purpose in the RBI’s Master Direction on KYC. The present list of mandatory document / OVDs include passport, driving licence, voter's identity card, NREGA job card, proof of possession of Aadhaar number and letter issued by the National Population Register.
+
+13. What are the salient features of the two types of Small PPIs?
+
+Ans. Both types of Small PPIs are reloadable and shall be used only for purchase of goods and services. Their salient features are as follows:
+
+PPIs upto ₹10,000/- (with cash loading facility):
+
+The amount loaded during any month shall not exceed ₹10,000/-;
+
+The total amount loaded during the financial year shall not exceed ₹1,20,000/-;
+
+The amount outstanding at any point of time shall not exceed ₹10,000/-;
+
+The total amount debited during any given month shall not exceed ₹10,000/-;
+
+These PPIs shall be converted into full-KYC PPIs within 24 months; and
+
+Loading / Reloading can be by cash or electronic means.
+
+PPIs upto ₹10,000/- (with no cash loading facility):
+
+The amount loaded during any month shall not exceed ₹10,000/-;
+
+The total amount loaded during the financial year shall not exceed ₹1,20,000/-;
+
+The amount outstanding at any point of time shall not exceed ₹10,000/-;
+
+Loading / Reloading shall be from a bank account / credit card / full-KYC PPI; and
+
+The Small PPIs (with cash loading facility) existing as on December 24, 2019 can be converted to this PPI, if desired by the PPI holder.
+
+14. Is cash withdrawal or funds transfer permitted from the two types of Small PPIs?
+
+Ans. Cash withdrawal or funds transfer from these two types of Small PPIs is not permitted.
+
+15. How long can a customer hold a Small PPI (with cash loading facility)?
+
+Ans. A Small PPI (with cash loading facility) can be held for a maximum period of 24 months only. The 24 months shall be counted from the day of opening such a PPI. Within this period of 24 months, it has to be converted into a full-KYC PPI failing which, no further credit in such PPI shall be allowed. However, the PPI holder shall be allowed to use the available balance.
+
+16. Can a closed Small PPI (with cash loading facility) be reopened after exhausting the maximum time limit of 24 months?
+
+Ans. Reissue of such PPIs using the same mobile number and same minimum details is not allowed.
+
+17. What happens to outstanding balance if the Small PPIs (both types) are not required anymore and has to be closed?
+
+Ans. PPI holder has the option to close the PPI at any time and transfer the funds ‘back to source’ (payment source from where the PPI was loaded) at the time of closure. Alternatively, the closure proceeds can be transferred to a bank account after complying with KYC requirements of PPI holder.
+
+18. What are the salient features of a ‘Full-KYC’ PPI?
+
+Ans. The salient features of ‘Full-KYC’ PPIs are as follows:
+
+Reloadable in nature;
+
+The amount outstanding shall not exceed ₹2,00,000/- at any point of time;
+
+There are no limits prescribed for total credits or debits during a month; and
+
+They can be used for purchase of goods and services, cash withdrawal and funds transfer.
+
+19. What is meant by ‘duly verified by the issuer’? How should the PPI issuer ensure that it is the ‘own bank account of the PPI holder’?
+
+Ans. PPI issuer is responsible for verifying that the bank account pertains to the PPI holder for which it may devise suitable methods of verification.
+
+20. Is funds transfer allowed from a ‘Full-KYC’ PPI?
+
+Ans. Yes, funds transfer is allowed from a ‘Full-KYC’ PPI within a limit of ₹10,000/- per month per holder. However, an enhanced limit of up to ₹2,00,000/- per month per beneficiary can be availed if the beneficiary is ‘pre-registered’ by PPI holder. The PPI issuer may, however, set a lower limit after taking into account the risk profile of the PPI holder, other operational risks, etc.
+
+21. Can a PPI holder close the ‘Full-KYC’ PPI? If yes, what will happen to the outstanding amount?
+
+Ans. PPI issuers shall give an option to the ‘Full-KYC’ PPI holders to close the PPI and transfer the balance to bank account as per the applicable limits of this type of PPI. For this purpose, the issuer shall provide an option at the time of issuing the PPI, to the holder to provide details of pre-designated bank account or other PPI to which the balance amount available in the PPI shall be transferred in the event of closure of PPI, expiry of validity period of such PPIs, etc. At the time of closure, a holder can specify a bank account which is different from pre-designated account given earlier.
+
+22. What are the cash withdrawal limits in case of PPIs issued by banks?
+
+Ans. In case of bank issued PPIs, cash withdrawal is permitted at ATMs, PoS devices, BCs, etc. However, cash withdrawal at PoS devices is subject to a limit of ₹2,000/- per transaction within an overall monthly limit of ₹10,000/- across all locations (Tier 1 to 6 centres).
+
+23. What are the cash withdrawal limits in case of PPIs issued by non-banks?
+
+Ans. In case of non-bank issued PPIs, cash withdrawal is permitted upto a limit of ₹2,000/- per transaction within an overall monthly limit of ₹10,000/- per PPI across all channels (agents, ATMs, PoS devices, etc.).
+
+24. What are the other types of PPIs apart from the Small PPIs and Full-KYC PPIs mentioned above?
+
+Ans. Apart from above PPIs, there are the following two categories of PPIs:
+
+Gift PPIs; and
+
+PPIs for Mass Transit Systems (PPI-MTS).
+
+25. What are salient features of a Gift PPI?
+
+Ans. The salient features of Gift PPIs are as follows:
+
+Maximum value of each such prepaid gift instrument shall not exceed ₹10,000/-;
+
+Are not reloadable;
+
+Cash-out or fund transfer is not permitted. However, the funds may be transferred ‘back to source account’ (account from where Gift PPI was loaded) after receiving consent of the PPI holder;
+
+Shall be revalidated (including through issuance of new instrument) as and when requested by the PPI holder; and
+
+The Additional Factor of Authentication (AFA) / Two Factor Authentication (2FA) for transactions using Gift PPIs is not mandatory.
+
+26. What are the salient features of PPIs for Mass Transit Systems (PPI-MTS)?
+
+Ans. The salient features of PPI-MTS are as follows:
+
+These PPIs are issued by MTS operators;
+
+Apart from the MTS, these PPIs can be used only at merchants whose activities are allied / related to / are carried on within the premises of the transit system;
+
+Reloadable in nature;
+
+Maximum outstanding cannot exceed ₹3,000/- at any point of time;
+
+Cash-out or refund or fund transfer is not permitted;
+
+Shall be revalidated (including through issuance of new instrument) as and when requested by the PPI holder; and
+
+The AFA / 2FA for transactions using such PPIs is not mandatory.
+
+27. What is meant by the word KYC mentioned in the MD-PPIs at different places like paragraph numbers 7.12, 9.1 (i) (k), 9.1 (ii) (g), etc.?
+
+Ans. The meaning of KYC is as defined in paragraph 6 of the MD-PPIs. The KYC / Anti-Money Laundering (AML) / Combating Financing of Terrorism (CFT) guidelines issued by the Department of Regulation (DoR), RBI, in “ Master Direction – Know Your Customer Direction, 2016”, shall apply mutatis mutandis to all the entities issuing PPIs.
+
+28. Does a holder earn any interest on PPI balances?
+
+Ans. No interest is payable on PPI balances.
+
+29. In what form can a PPI be issued?
+
+Ans. PPIs can be issued as cards, wallets, and any such form / instrument which can be used to access the PPI and to use the amount therein. PPIs in the form of paper vouchers cannot be issued.
+
+30. What are the disclosures to be made by the PPI issuer at the time of issuance?
+
+Ans. PPI issuers shall disclose all important terms and conditions in clear and simple language to the holders while issuing the instruments. These disclosures shall include:
+
+All charges and fees associated with the use of the instrument; and
+
+The expiry period and terms and conditions pertaining to expiration of the instrument.
+
+31. Can a PPI issuer create new PPIs for each cash-based remittance?
+
+Ans. PPI issuers, including their agents, shall not create new PPIs each time, for facilitating cash-based remittances to other PPIs / bank accounts. PPIs created for previous remittance by the same person shall be used.
+
+32. Can co-branded PPIs be issued?
+
+Ans. Yes. PPIs can be issued on solo basis by a PPI issuer or on co-branded basis with another entity.
+
+33. Who can be a co-branding partner of the PPI Issuer?
+
+Ans. The co-branding partner shall be a company incorporated in India under the Companies Act, 1956 / 2013. The co-branding partner can also be a Government department / ministry. In case the co-branding partner is a bank, then the same shall be licensed by RBI. In case of co-branding arrangement between a bank and a non-bank entity, the bank shall be the PPI Issuer. In case both the entities are non-banks, one of them will be pre-assigned, in advance, the role of issuer among themselves.
+
+34. In case of a co-branded card, who will be responsible for addressing all customer service aspects?
+
+Ans. Between the two partners, one will be designated as a PPI issuer who shall be responsible for addressing all customer service aspects relating to the co-branded PPI.
+
+35. Can PPIs be used for cross-border outward transactions? What are transaction limits and the transactions that are allowed under it?
+
+Ans. Full-KYC PPIs issued by Authorised Dealer Category-I banks, can be used in cross-border outward transactions for permissible current account transactions under FEMA viz. purchase of goods and services. This facility shall be enabled only on explicit request of a PPI holder.
+
+Transaction Limits:
+
+Per transaction limit shall not exceed ₹10,000/-.
+
+Per month limit shall not exceed ₹50,000/-.
+
+Transactions allowed:
+
+Permissible current account transactions under Foreign Exchange Management Act (FEMA) viz. purchase of goods and services, subject to adherence to extant norms governing such transactions.
+
+Transactions not-allowed:
+
+Any cross-border outward fund transfer and / or for making remittances under the Liberalised Remittances Scheme.
+
+Prefunding of online merchant’s account.
+
+36. Can PPIs be used for cross-border inward transactions? What are the transaction limits?
+
+Ans. Bank and non-bank PPI issuers, who are Indian agents of the authorised Overseas Principal (OP), are permitted to issue full-KYC PPIs to beneficiaries of inward remittance under the Money Transfer Service Scheme (MTSS) of the RBI. It means that the entity undertaking this activity needs to be an authorised PPI issuer as well as an Indian Agent under MTSS (authorised by Foreign Exchange Department, RBI).
+
+Amounts upto ₹50,000/- from individual inward MTSS remittances are permitted to be loaded or reloaded in PPIs issued to beneficiaries. Any single transaction amount in excess of ₹50,000/- shall be paid by credit to a bank account.
+
+37. While receiving a cross-border inward remittance of ₹75,000/- under MTSS, can ₹50,000/- be credited in PPI and the remaining in bank account?
+
+Ans. No, splitting of credit is not permitted when funds are loaded in PPIs. Since the amount of transaction is more than ₹50,000/-, the entire amount has to be credited to bank account.
+
+38. Is there a requirement of AFA / 2FA for transactions undertaken using a PPI?
+
+Ans. All wallet transactions involving debit to the wallet, including cash withdrawal transactions, are permitted only by validation through a 2FA. The AFA requirements for PPI Cards (physical or virtual) shall be same as required for debit cards. 2FA / AFA is not mandatory for PPIs issued under PPI-MTS and Gift PPIs.
+
+39. What is the minimum validity period of a PPI?
+
+Ans. All PPIs shall have a minimum validity period of one year from the date of last loading / reloading in the PPI. PPI issuers are, however, free to issue PPIs with a longer validity. Issuers shall clearly indicate the expiry period of the PPI to the customer at the time of issuance of PPIs.
+
+40. What will happen to a PPI that is not used for a certain period?
+
+Ans. A PPI with no financial transaction for a consecutive period of one year shall be made / treated inactive after sending a notice to the PPI holder. It can be reactivated only after validation and applicable due diligence.
+
+41. What will happen to the outstanding balance in such PPIs where the scheme is being wound-up or is directed by RBI to be discontinued?
+
+Ans. The holders of such PPIs shall be permitted to redeem the outstanding balance in the PPI, if for any reason the scheme is being wound-up or is directed by RBI to be discontinued.
+
+42. How shall the refunds in case of failed / returned / rejected / cancelled transactions be dealt with?
+
+Ans. Refunds in case of failed / returned / rejected / cancelled transactions shall be applied to the respective PPI immediately, to the extent that payment was made initially by debit to the PPI, even if such application of funds results in exceeding the limits prescribed for that type / category of PPI.
+
+43. Can refunds in case of failed / returned / rejected / cancelled transactions using any other payment instrument be credited to a PPI?
+
+Ans. Refunds in case of failed / returned / rejected / cancelled transactions using any other payment instrument should not be credited to a PPI.
+
+44. What is the grievance redressal mechanism prescribed for a PPI Issuer?
+
+Ans. PPI issuers shall put in place a formal, publicly disclosed customer grievance redressal framework, including designating a nodal officer to handle the customer complaints / grievances, the escalation matrix and turn-around-time for complaint resolution. The framework shall include, at the minimum, the following:
+
+Dissemination of the information of customer protection and grievance redressal policy of the PPI issuer in simple language;
+
+Clear indication of the customer care contact details of the PPI issuer, including details of nodal official for grievance redressal on website, mobile apps, and cards;
+
+Display of proper signage by the agents of the PPI Issuer and the customer care contact details as at (b) above;
+
+Providing specific complaint numbers for the complaints lodged along with the facility to track the status of the complaint by the customer;
+
+Initiating action to resolve any customer complaint / grievance expeditiously, preferably within 48 hours and endeavour to resolve the same not later than 30 days from the date of receipt of such complaint / grievance;
+
+Display the detailed list of the authorised / designated agents (name, agent ID, address, contact details, etc.) of the PPI issuer on the website / mobile app; and
+
+Provide answers to Frequently Asked Questions (FAQs) on the website / mobile app related to the PPIs.
+
+45. Is there any requirement of providing account statement or transaction history of PPI transactions?
+
+Ans. PPI issuers shall provide an option for the PPI holders to generate / receive account statements for at least past 6 months. The account statement shall, at the minimum, provide details such as date of transaction, debit / credit amount, net balance and description of transaction. Additionally, the PPI issuers shall provide transaction history for at least 10 transactions.
+
+46. Is the Reserve Bank - Integrated Ombudsman Scheme applicable for PPI transactions?
+
+Ans. In case of PPIs issued by banks and non-banks, customers have recourse to the Reserve Bank - Integrated Ombudsman Scheme, 2021 for grievance redressal. This scheme is available on the RBI website at the link - https://cms.rbi.org.in.
+
+47. Can a PPI issuer issue multiple PPIs to same customer?
+
+Ans. A PPI issuer can issue any one of the following three types to a customer:
+
+Small PPIs upto ₹10,000 (with cash loading facility);
+
+Small PPIs upto ₹10,000 (with no cash loading facility); and
+
+Full-KYC PPIs.
+
+48. Within the types mentioned above, in case a PPI issuer is issuing multiple PPIs to same customer due to reasons like multiple co-branding partners, various forms like wallet and card, etc. how will the limits be treated?
+
+Ans. Within the types mentioned above, in case a PPI issuer is issuing multiple PPIs to same customer due to various reasons (e.g. multiple co-branding partners, issuance of PPI in different form factors like wallets / cards), then the PPI issuer shall monitor the limits through centralised database / management information system (MIS).
+
+For example, the limit of ₹2,00,000/- at any point of time shall be calculated after combining the value in all full-KYC PPIs issued to a customer by a particular PPI issuer under various arrangements / form factor. Similarly, the limit of ₹10,000 in paragraph 9.1(i) of MD-PPIs is across all Small PPIs (issued by the PPI issuer under various arrangements / form factor). A PPI issuer cannot issue both types of Small PPIs to same mobile number at the same time.
+
+However, the limits do not include the two categories (Gift PPIs and PPI-MTS) mentioned in paragraph 10 of the MD-PPIs.
+
+49. What is meant by interoperability? Are PPIs interoperable?
+
+Ans. Interoperability is the technical compatibility that enables a payment system to be used in conjunction with other payment systems. Interoperability has been allowed in PPIs through circular dated October 16, 2018 and it has been made mandatory vide circular dated May 19, 2021.
+
+50. Who can provide the facility of PPI interoperability?
+
+Ans. Any authorised bank or non-bank PPI issuer can provide the facility of PPI interoperability.
+
+51. Is it mandatory for a PPI issuer to allow interoperability?
+
+Ans. Yes, it is mandatory for a PPI issuer to allow interoperability. It is mandatory for the PPI issuer to give the holders of full-KYC PPIs interoperability through authorised card networks and UPI. All modes of acceptance (including QR codes) and PPI issuance are required to be interoperable by March 31, 2022.
+
+52. I am having a Small PPI (with cash loading or without cash loading), but my PPI issuer is not allowing interoperability. Why?
+
+Ans. Interoperability is allowed only for full-KYC PPIs.
+
+53. What are the modes of interoperability?
+
+Ans. If the PPI is issued in the form of wallet, interoperability across PPIs shall be enabled through UPI. If the PPI is issued in the form of card, the card shall be affiliated to the authorised card network for interoperability.
+
+54. What is the protection available in case of unauthorised transactions involving PPIs issued by banks?
+
+Ans. Bank PPI issuers shall be guided by RBI circulars DBR.No.Leg.BC.78/09.07.005/2017-18 dated July 6, 2017 or DCBR.BPD.(PCB/RCB).Cir.No.06/12.05.001/2017-18 dated December 14, 2017, as applicable on Customer Protection – Limiting Liability of Customers in Unauthorised Electronic Banking Transactions.
+
+55. What is the protection available in case of unauthorised transactions involving PPIs issued by non-banks?
+
+Ans. The framework to limit the liability of customers (PPI holders) against unauthorised transactions in PPIs issued by non-bank issuers is given in paragraph 17 of the MD-PPIs and has come into effect from March 01, 2019. The FAQs given below relate to PPIs issued by non-bank PPI issuers.
+
+56. Does the framework cover all the types of PPIs issued under the MD-PPIs?
+
+Ans. Except for the PPIs issued under the arrangement of PPI-MTS as per paragraph 10.2 of MD-PPIs, the framework is applicable to all PPIs issued by authorised non-bank PPI issuers. Even in PPI-MTS, the cases of contributory fraud / negligence / deficiency on the part of the issuer are covered.
+
+57. What is meant by electronic payment transactions under this framework?
+
+Ans. For the purpose of this MD, electronic payment transactions can be–
+
+Remote / Online payment transactions: Transactions that do not require physical PPIs to be presented at the point of transactions e.g. wallets, card not present (CNP) transaction, etc.; and
+
+Face-to-face / Proximity payment transactions: Transactions that require physical PPIs to be present at the point of transactions e.g. transactions at ATMs, PoS devices, etc.).
+
+58. Is it mandatory for the customer (PPI holder) to register for SMS alerts?
+
+Ans. In order to get protection under this framework, it is mandatory for the customer (PPI holder) to register for SMS alerts.
+
+59. Is the customer supposed to get an alert of transaction in his / her PPI account?
+
+Ans. It is mandatory for non-bank PPI issuers to send an SMS alert to the customer for any payment transaction in his / her account. In addition, an e-mail alert may also be sent, wherever registered. The transaction alert should have a contact number and / or e-mail id on which the customer can report unauthorised transactions or notify the objection.
+
+60. Where can the customer report an unauthorised transaction in his / her PPI account?
+
+Ans. Non-bank PPI issuers shall provide customers with 24x7 access via website / SMS / e-mail / dedicated toll-free helpline for reporting unauthorised transactions and / or loss or theft of the PPI. Further, a direct link for lodging of complaints, with specific option to report unauthorised electronic payment transactions shall be provided by non-bank PPI issuers on the mobile app / home page of their website / any other evolving acceptance mode.
+
+61. Is the customer protected against any unauthorised transaction after he / she has reported to the issuer about such transactions or loss of instrument?
+
+Ans. On reporting of an unauthorised payment transaction or loss of instrument, non-bank PPI issuers shall take immediate action to prevent further unauthorised payment transactions in the PPI account of the customer. Any further transactions debit on such an instrument will be the liability of the issuer.
+
+62. Is the customer protected against a contributory fraud / negligence / deficiency on the part of the non-bank PPI issuer?
+
+Ans. The liability of a customer in cases of contributory fraud / negligence / deficiency on the part of the non-bank PPI issuer is zero. PPI-MTS issuers are also covered for such acts / events.
+
+63. Does the customer need to report to the issuer in case there is a contributory fraud / negligence / deficiency on the part of the non-bank PPI issuer?
+
+Ans. It is always advisable to report any unauthorised transaction in the account of the customer. However, an issuer cannot deny compensation against contributory fraud / negligence / deficiency on the part of the non-bank PPI issuer, on the ground that the customer has not reported any unauthorised transaction in his / her account.
+
+64. How will the liability of the customer be fixed in cases of third party breach where the deficiency lies neither with the non-bank PPI issuer nor with the customer but lies elsewhere in the system, and the customer notifies the non-bank PPI issuer regarding the unauthorised payment transaction?
+
+Ans. The ‘per transaction customer liability’ in such cases will depend on the number of days lapsed between the receipt of transaction communication by the customer from the non-bank PPI issuer and the reporting of unauthorised transaction by the customer to the non-bank PPI issuer. If the issuer is reported within three days’ of receiving of communication, the customer liability will be zero. Similarly, for any such transaction reported between four and seven days of receiving of communication, the customer liability will be limited to a maximum of ₹10,000/. Reporting beyond seven days’ time will be dealt in accordance with the Board approved policy of the non-bank PPI issuer.
+
+65. From when will be the number of days mentioned above be counted?
+
+Ans. The number of days mentioned above shall be counted after excluding the date of receiving the communication from the non-bank PPI issuer.
+
+66. In cases where the loss is due to negligence by the customer, such as where he / she has shared the payment credentials, who will bear the loss and to what extent?
+
+Ans. In cases where the loss is due to negligence by the customer, such as where he / she has shared the payment credentials, the customer will bear the entire loss until he / she reports the unauthorised transaction to the non-bank PPI issuer.
+
+67. Who will bear the loss on the unauthorised transactions carried after reporting of same to the issuer?
+
+Ans. Any loss occurring after reporting of the unauthorised transaction shall be borne by the non-bank PPI issuer.
+
+68. After how many days will the eligible amount be credited to the customer’s account?
+
+Ans. The non-bank PPI issuer shall credit (notional reversal / shadow reversal) the amount involved in the unauthorised electronic payment transaction to the customer’s PPI within 10 days from the date of such notification by the customer. Such reversal has to be effected even if it breaches the maximum permissible limit applicable to that type / category of PPI. The credit shall be value-dated to be as of the date of the unauthorised transaction.
+
+69. When can one use the notional credit so received?
+
+Ans. The notional credit so received can be used on resolution of complaint and establishing the liability of the customer by the non-bank PPI issuer. However, in any circumstances, this period cannot exceed 90 days from the date of receipt of the complaint.
+
+70. Who is responsible to prove that the transaction is not an unauthorised transaction?
+
+Ans. The burden of proving the customer liability in case of unauthorised electronic payment transactions lies on the non-bank PPI issuer.
+
+These FAQs are issued by the Reserve Bank of India (hereinafter referred to as “Bank”) for information and general guidance purposes only. The Bank will not be held responsible for actions taken and / or decisions made on the basis of the same. For clarifications or interpretations, if any, one may be guided by the relevant circulars, guidelines and notifications issued from time to time by the Bank.
+
+| Date : Nov 22, 2022 |
+| --- |
+| Prepaid Payment Instruments (PPIs) |
+
+Top
+
+Top

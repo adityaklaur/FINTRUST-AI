@@ -1,0 +1,1579 @@
+617 Reports- Reserve Bank of India
+
+Skip to main content
+
+Change Language हिंदी
+
+Search the Website Search
+
+# Reports
+
+| CONTENTS |
+| --- |
+| Sr. No. | Particulars |
+| 1 | Letter of Transmittal |
+| 2 | Constitution of the Committee and Terms of Reference |
+| 3 | Acknowledgements |
+| 4 | List of Abbreviations |
+| 5 | Executive Summary |
+| 6 | Chapter 1 - Introduction |
+| 7 | Chapter 2 - Best Practices in Customer Services |
+| 8 | Chapter 3 - Strengthening Customer Service Regulation |
+| 9 | Chapter 4 - Improving Customer Service in Regulated Entities |
+| 10 | Chapter 5 - Leveraging Technology for better Customer Service and Fraud Prevention |
+| 11 | Chapter 6 - List of Recommendations |
+| Annex |
+| 12 | Annex – Meetings / Field Visits of the Committee |
+
+---
+
+LETTER OF TRANSMITTAL
+
+Shri Shaktikanta Das Governor Reserve Bank of India Mumbai – 400 001
+
+April 24, 2023
+
+Dear Sir,
+
+We are happy to submit the Report of the Committee for Review of Customer Service Standards in RBI Regulated Entities. While working on the subject, the Committee kept in mind the rapid transformation underway in the financial landscape, rising customer base as well as the changes that have taken place since the last Committee on Customer Service was constituted. The Committee obtained feedback from stakeholders concerned for assessing the areas of priority in making its recommendations. We hope the recommendations of the Committee will be implemented by the Bank for facilitating improvements in Customer Service in the Regulated Entities.
+
+We sincerely thank you for entrusting this responsibility to us.
+
+Yours sincerely,
+
+| Sd/-(B P Kanungo)Chairman |
+| --- |
+| Sd/-(Anil Kumar Sharma)Member | Sd/- (A K Goel) Member | Sd/- (A S Ramasastri) Member |
+| Sd/- (Rajeshri N Varhadi) Member | Sd/- (Amitha Sehgal) Member |
+| Sd/- (Anupam Sonal) Member Secretary |
+
+---
+
+Constitution of the Committee and Terms of Reference
+
+Announcement regarding setting-up of the Committee for Review of Customer Service Standards in RBI Regulated Entities was made by the Reserve Bank in its bi-monthly Monetary Policy Review Statement dated April 08, 2022. The Committee was constituted on May 23, 2022 with the following composition:
+
+| Sl. No. | Name | Chairperson / Member |
+| --- | --- | --- |
+| 1. | Shri B P Kanungo, former Deputy Governor, RBI | Chairperson |
+| 2. | Shri A K Goel, Chairman IBA and MD&CEO, PNB | Member |
+| 3. | Dr. A S Ramasastri, former Director, IDRBT | Member |
+| 4. | Dr. Amitha Sehgal, Hon. Secretary, All India Bank Depositors Association (AIBDA) | Member |
+| 5. | Dr. Rajeshri N Varhadi, Professor, Department of Law, University of Mumbai | Member |
+| 6. | Shri Anil Kumar Sharma, Executive Director, RBI | Member |
+| 7. | Smt. Anupam Sonal, CGM, CEPD | Member Secretary |
+
+The terms of reference of the Committee are given below:
+
+Evaluate the efficacy, adequacy and quality of customer service in entities regulated by RBI vis-à-vis the existing RBI guidelines on customer service and identify gaps, if any;
+
+Review the emerging and evolving needs of the customer service landscape, especially in the context of evolving digital / electronic financial products and distribution landscape and suggest suitable regulatory measures;
+
+Identify the best practices, adopted globally and domestically, in customer service and grievance redress, especially for improvement in services rendered to retail and small customers, including pensioners and senior citizens;
+
+Suggest measures to leverage technology for enhancing customer service efficiencies, upgrading internal grievance redress mechanism in REs and strengthening the overall consumer protection framework of RBI;
+
+Any other matter relevant to customer service and consumer protection.
+
+---
+
+ACKNOWLEDGEMENTS
+
+The Committee is grateful to the Governor, Reserve Bank of India for entrusting it with the responsibility for assessing the level of customer service standards in the Reserve Bank’s Regulated Entities (REs) and recommending suitable measures for improvement. The Committee also expresses its gratitude to Shri M.K. Jain, Deputy Governor, Reserve Bank of India, for his valuable guidance on various customer service related areas.
+
+The Committee interacted with diverse REs to understand their perspective, ground realities in day-to-day operations, etc. Further, the Committee also interacted with the senior executives of the National Payments Corporation of India (NPCI), Small Industries Development Bank of India (SIDBI), National Bank for Agriculture and Rural Development (NABARD), Institute for Development and Research in Banking Technology (IDRBT), Payments Council of India (PCI), Reserve Bank Innovation Hub (RBIH), Cyber-Law Enforcement Agencies, representatives from Micro, Small and Medium Enterprises (MSMEs), Self Help Groups, small borrowers, etc.. Valuable inputs were received from Industry Associations such as the Confederation of Indian Industry (CII), Associated Chambers of Commerce and Industry of India (ASSOCHAM), Federation of Indian Micro and Small and Medium Enterprises (FISME) and Federation of Indian Chambers of Commerce and Industry (FICCI). The Committee is thankful to all of them for their feedback.
+
+The Committee had fruitful interfaces with a few well-known consumer activists, viz., Smt. Sucheta Dalal, Shri S.L. Chhatre and Prof. Ashish Das. The Committee acknowledges and places on record its deep appreciation for their valuable inputs.
+
+The feedback and inputs provided by Shri Rajeev Dwivedi, Chief General Manager (CGM) & RBI Ombudsman (RBIO), Chandigarh; Shri Rajesh Jai Kanth, General Manager (GM) & RBIO, Patna; Shri H K Verma, Deputy General Manager (DGM) & Deputy RBIO, Mumbai; Shri Sunil Gupta, DGM and Offices of RBI Ombudsmen and Consumer Education and Protection Cells helped the Committee to obtain a better view of the customer services related issues prevalent in REs. The Committee also acknowledges comments received from Departments of the Reserve Bank viz., Department of Regulation, Department of Supervision, Department of Government and Bank Accounts, Financial Inclusion and Development Department, Department of Payment and Settlement Systems and FinTech Department on topical areas.
+
+Above all, the Committee deeply appreciates the support provided by the Secretariat in Consumer Education and Protection Department (CEPD) comprising of Shri Anand, GM, Shri M. Muralidhar, Assistant General Manager, Shri Nishank Gaur, Smt. Sujeetha G. S. and Shri Nirman Singh Pandher, Managers for providing logistical support and help in drafting of the report.
+
+---
+
+| LIST OF ABBREVIATIONS |
+| --- |
+| AA | Account Aggregator |
+| AA | Appellate Authority |
+| AGR | Alternate Grievance Redress |
+| AI | Artificial Intelligence |
+| ASSOCHAM | Associated Chambers of Commerce and Industry of India |
+| BCSBI | Banking Codes and Standards Board of India |
+| BSBDA | Basic Savings Bank Deposit Account |
+| CCSO | Chief Customer Service Officer |
+| CDD | Customer Due Diligence |
+| CEPC | Consumer Education and Protection Cell |
+| CEPD | Consumer Education and Protection Department |
+| CIC | Credit Information Company |
+| CIF | Customer Information File |
+| CMS | Complaint Management System |
+| CoCR | Charter of Customer Rights |
+| CPPAPS | Committee on Procedures and Performance Audit on Public Services |
+| CRM | Customer Relationship Management |
+| CRPC | Centralised Receipt and Processing Centre |
+| CSC | Customer Service Committee |
+| CSC-B | Customer Service Committee of the Board |
+| CSD | Customer Service Department |
+| DG | Deputy Governor |
+| DICGC | Deposit Insurance and Credit Guarantee Corporation |
+| DoS | Department of Supervision |
+| FB | Foreign Bank |
+| FCP | Financial Consumer Protection |
+| FD | Fixed Deposit |
+| FICCI | Federation of Indian Chambers of Commerce and Industry |
+| FISME | Federation of Indian Micro and Small & Medium Enterprises |
+| FSB | Financial Stability Board |
+| G20 | Group of Twenty (forum for international economic cooperation) |
+| GLC | Gold Loan Company |
+| HLP | High Level Principle |
+| IBA | Indian Banks’ Association |
+| IDRBT | Institute for Development and Research in Banking Technology |
+| IFTAS | Indian Financial Technology and Allied Services |
+| IGR | Internal Grievance Redress |
+| INFE | International Network for Financial Education |
+| IO | Internal Ombudsman |
+| KYC | Know Your Customer |
+| ML | Machine Learning |
+| MOP | Model Operating Procedure |
+| MSME | Micro, Small and Medium Enterprise |
+| NABARD | National Bank for Agriculture and Rural Development |
+| NBFC | Non Banking Financial Company |
+| NBFC-D | Deposit Taking Non Banking Financial Company |
+| NBFC-ND | Non-Deposit Taking Non Banking Financial Company |
+| NPCI | National Payments Corporation of India |
+| OECD | Organisation for Economic Co-operation and Development |
+| ORBIO | Office of RBI Ombudsman |
+| OTP | One Time Password |
+| P2P | Peer to Peer |
+| PCI | Payments Council of India |
+| PPI | Prepaid Payment Instrument |
+| PSB | Public Sector Bank |
+| Pvt.SB | Private Sector Bank |
+| PSP | Payment System Participant |
+| RBIH | Reserve Bank Innovation Hub |
+| RBIO | Reserve Bank of India Ombudsman |
+| RB - IOS | Reserve Bank - Integrated Ombudsman Scheme |
+| RCA | Root Cause Analysis |
+| RD | Recurring Deposit |
+| RE | Regulated Entity |
+| RM | Relationship Manager |
+| SBI | State Bank of India |
+| SEBI | Securities and Exchange Board of India |
+| SIDBI | Small Industries Development Bank of India |
+| SOP | Standard Operating Procedure |
+| SP | Sales Person |
+| SRO | Self-Regulatory Organization |
+| SC-CS | Standing Committee of the Customer Service |
+| STP | Straight Through Process |
+| TAT | Turn Around Time |
+| T&Cs | Terms and Conditions |
+| UCBs | Urban Cooperative Banks |
+| UPI | Unified Payments Interface |
+| V-CIP | Video based Customer Identification Process |
+| WLA | White Label ATM |
+
+---
+
+Executive Summary
+
+1. Background
+
+1.1 The Reserve Bank has taken a number of measures, including laying down an elaborate regulatory framework on customer service and an Internal Grievance Redress (IGR) mechanism in Regulated Entities (REs), to ensure overarching protection for the customers of its REs. In this direction, an Ombudsman framework for customers of banks was also put in place as early as 1995, as an avenue for dealing with customer complaints and grievances not satisfactorily addressed by the banks which was amended from time to time. In the year 2014, the Reserve Bank released the “Charter of Customer Rights” (CoCR) declaring five basic rights of bank customers as broad, overarching principles for customer protection. In 2017, regulation on limiting the liability of customers in fraudulent electronic transactions was issued. Regulatory instructions are issued to REs based on the conditions prevailing in the financial system, findings of conduct supervision, analysis of complaints received, and recommendations received from various committees set up for this purpose. The regulatory framework is periodically reviewed and revised in line with the developments in the financial sector, both domestic and international. The initiatives also include setting up of various committees to study quality of customer service in banks and recommend measures for its improvement. The important committees on customer service set up by the Reserve Bank / Government of India over the years include (i) Talwar Committee on Customer Service (1975), (ii) Goiporia Committee (1990), (iii) Tarapore Committee on Procedures and Performance Audit on Public Services (CPPAPS, 2004) and (iv) Damodaran Committee on Customer Service (2010).
+
+1.2 Considering the rapid transformation in the financial landscape consequent to the rising customer base of the banks and the number of service providers, advent of new technology and digital products, as also keeping in view the increase in volume of digital transactions emerging from innovations in payment systems, it was announced in the bi-monthly Monetary Policy Review Statement on April 08, 2022 to set up a Committee to examine and review the standards of customer service in the REs, assess adequacy of customer service regulation and suggest measures for improving the same. Accordingly, the Committee under chairmanship of Shri B P Kanungo, former Deputy Governor (DG), Reserve Bank of India was constituted on May 23, 2022. The Terms of Reference for the Committee are reproduced under the topic “Constitution of the Committee and Terms of Reference” at page 2 of the report.
+
+2. Approach / Methodology adopted by the Committee
+
+2.1 The Committee extensively deliberated upon the myriad issues relating to good customer service. It held four meetings and four field visits, the details of which are given in the Annex. The Committee also held meetings with various segments of customers and members of staff in REs for understanding their perspectives and obtain their suggestions for improving services to the customers. A survey of customers to identify frequent areas of complaints was also undertaken. The Committee also visited a few bank branches to assess the quality of customer service extended at branches and interacted with branch officials and customers.
+
+3. Observations
+
+3.1 The Committee observed that the Indian regulatory framework and standards on Customer Protection are elaborate and are largely aligned with the international best practices, while taking into account characteristics, risks and diversity of customers, their rights and responsibilities. The regulations are reviewed and updated periodically by the Reserve Bank to keep them relevant to the evolving financial landscape. The Committee reviewed the complaints received under the RE’s Internal Grievance Redress (IGR) mechanism in the last three years and observed that the number of complaints have been range-bound in the region of around one crore complaints per annum. On Alternate Grievance Redress (AGR) framework of the Reserve Bank, the Committee noted that the entire Ombudsman framework and the issues involved therein had been extensively reviewed in the year 2020-21, culminating in the launch of the Reserve Bank - Integrated Ombudsman Scheme (RB-IOS), 2021 based on four pillars of Simplification, Delegation, Centralisation and Integration. However, certain gaps in regulation, as also in compliance by the REs, were identified by the Committee and a number of operational aspects / solutions / measures were considered which are expected to improve customer service. The Committee has accordingly, made recommendations covering regulatory, RE conduct and technology aspects for strengthening customer service in REs. The major recommendations of the Committee are highlighted below.
+
+4. Major Recommendations
+
+4.1 Strengthening Regulation:
+
+4.1.1 The Reserve Bank may consider progressively moving towards “principle-based” regulation with regard to customer service in the REs. These may be based on well-recognised customer - friendly principles, including, but not limited to, Equitable and Fair Treatment, Transparency and Disclosures, Appropriateness and Suitability, Data Protection / Customer Confidentiality, Right to Grievance Redress, etc. [3.2.1.1]
+
+4.1.2 The Reserve Bank may put in place a suitable structure of incentives and disincentives to encourage REs to take proactive steps towards enterprise-wide improvements in customer service and impart systemic strength to overall customer protection efforts in the financial sector while imposing a regulatory cost for entities where the quality of customer service is deficient. [3.2.2.1]
+
+4.1.3 The Reserve Bank may consider making the Charter of Customer Rights enforceable after reviewing and updating it. The Reserve Bank may consider extending the Charter to Non Banking Financial Companies (NBFCs) also. [3.2.3.1]
+
+4.1.4 The customer service regulation should be consolidated on the principle of same activity same regulation and apply to all the REs depending upon the activity being undertaken by them, irrespective of the category of the REs. [3.2.4.1]
+
+4.1.5 With a view to ensure that there is uniformity in classifying, recording and reporting of complaints by the REs, the Reserve Bank should lay down a definition of a complaint under the IGR mechanism which should also capture the complaints which are outside the purview of RB-IOS. An indicative definition could be: “Any reference received formally through electronic or paper mode flagging a “deficiency in service”, as defined in RB-IOS, pertaining to all the activities which the RE undertakes and services it offers.” [3.3.1.1]
+
+4.1.6 The RBI Ombudsmen (RBIOs) should be empowered, based on the facts or a set of similar complaints, to direct the RE concerned to review and undertake suitable corrective action in all such cases and confirm compliance to the Reserve Bank. Being the focal department for Customer Service, Consumer Education and Protection Department (CEPD), may also be empowered to direct all REs to initiate corrective action in such cases, if the deficiency in service, in its view, is widely prevalent. [3.3.3.1]
+
+4.1.7 The Reserve Bank may develop and publish a “Customer Service and Protection Index” with a view to capture, at the system level, the quality / standards of customer service and extent of customer protection in the REs through a single score. The Index may cover dimensions like adequacy of regulatory and institutional framework in place, customer experience, efficacy of grievance redress, under both IGR and AGR, extent of customer education and awareness, etc. [3.3.4.1]
+
+4.1.8 The Reserve Bank should assess the quality of customer service through periodic and regular thematic studies across the REs to ensure better compliance to the customer service guidelines. The findings should feed suitably into the framework to improve IGR and the proposed ratings of REs. [3.3.5.1]
+
+4.1.9 The Reserve Bank, during the supervisory process, should take a view on the reasonableness of charges levied by REs for the services offered. [3.3.6.1]
+
+4.1.10 In order to address the conflict of interests, and to increase the effectiveness of the Internal Ombudsmen (IO) appointed in the REs, the Reserve Bank may nudge the Indian Banks’ Association (IBA) to create a fund to directly pay the salary / compensation to the IOs of the banks. Similar funds can be created by respective Self-Regulatory Organisations (SROs) for other categories of REs. Alternatively, the Reserve Bank itself may consider creating the fund. Cost of the above fund, thus created, may be recovered from the REs, in proportion to the complaints against them referred to the IOs. [3.3.7.1]
+
+4.1.11 An RE - agnostic common portal for lodging complaints may be set up by the Reserve Bank so that the customers of any RE can lodge complaints on a single platform. The portal may allocate the complaints to respective REs, enable facility for tracking of the complaints by the complainant and for automatic escalation of rejected complaints to the IOs. Going forward, the Reserve Bank may also consider integrating this platform with its Complaint Management System (CMS) portal to provide for seamless transfer and movement of complaints and data. [3.3.8.1]
+
+4.2 Improving customer service in REs
+
+4.2.1 Indian Banks’ Association (IBA) may update its Model Operating Procedure (MOP), in line with regulation, for hassle-free settlement of claims in accounts of the deceased account holders, in various scenarios. The MOP may provide for the documents required to be submitted by the claimant. In case nomination exists, the proceeds may be released immediately, upon submission of the required documents. [4.4.1.1]
+
+4.2.2 Obtaining nomination in deposit accounts may be made mandatory to facilitate hassle-free settlement of claims in case of death of the account holder. Several existing accounts do not have nominations at present. The REs should be asked to obtain nominations in all such cases within a reasonable time period, say three years. [4.4.1.2]
+
+4.2.3 To obviate the need for visits to the branches / RE premises, by the nominee / heirs, the process for settling deceased claims may also be made available on-line. The on-line facility may provide for submission of all the required documents and their verification. A system of generating digital reference number upon submission of the claim and supportive documents may be made available. The claims may be settled within a reasonable time period, say 30 days from the date of submission of all necessary documents. The timeframe should also apply when the claims are physically submitted. Beyond 30 days, the REs may be required to pay interest at a rate, say two percent higher than the rate at which the deceased person’s deposit was held. [4.4.1.3]
+
+4.2.4 While the REs should take necessary steps to periodically update KYC, it must be ensured that operations in the account are not stopped. [4.4.2.1]
+
+4.2.5 The RE should maintain a centralised database of Know Your Customer (KYC) documents of all customers, linked to a unique customer identifier, say the Customer Information File (CIF), obviating the need for submitting KYC documents repeatedly for availing multiple facilities from the same RE. Whenever KYC documents are updated by the customer, the same should be reflected for all other facilities availed by the customer from the RE. [4.4.3.1]
+
+4.2.6 The REs may adopt a nuanced approach for risk categorization of the customers. For example, salary earners with inflows and outflows consistent with the customer’s profile need not necessarily be categorised as high risk, even though they may be “high net worth” individuals. Similarly, students can also be categorized as low - risk. [4.4.4.1]
+
+4.2.7 The responsibility for obtaining and renewing the insurance of the primary asset may be an unequivocal responsibility of one of the parties to the agreement, viz., the borrower or the RE, and clearly indicated in the Key Facts Statement / Most Important Terms and Conditions document. [4.5.2.1]
+
+4.2.8 The Reserve Bank may consider stipulating a time limit for the REs to return the property documents to the borrower from the date of closure of the loan account, failing which a penalty / compensation linked to the extent of delay should automatically be paid by the RE to the borrower. [4.5.3.1]
+
+4.2.9 In case of loss of property documents, the RE should not only be obligated to assist in obtaining certified registered copies of documents at their cost but also compensate the customer adequately, keeping in view the time taken to arrange the alternate copies of the documents. [4.5.3.2]
+
+4.2.10 REs may provide an option for the relatives of the senior citizens to pay upfront for the door-step services as well as other such conveniences, if any, to be availed by their elders. [4.6.3.1]
+
+4.2.11 The pensioners should be able to submit Life Certificate (LC) at any branch of the bank in which they maintain their pension account. Moreover, they should be allowed to submit LC in any month of their choice to avoid rush in a particular month. Subsequent LCs can be submitted in the same month at annual intervals. [4.6.4.1]
+
+4.2.12 Compensating the customer in case of any injury suffered while availing services at the premises of the RE, due to inadequate / faulty infrastructure, and bearing the medical expenses, if any, should be a part of customer policy of the RE. The REs should take adequate insurance cover for such eventualities, and the customer and staff should be made aware of the same. [4.7.1.1]
+
+4.2.13 Cross selling of third - party products by the sales team of the RE should be subject to verification by the audit function to ensure that there was no mis-selling and all instructions / guidelines with respect to sale of such products were adhered to. [4.7.2.1]
+
+4.2.14 Till the recommendation for a common complaint portal (para 3.3.8.1) is put in place, the REs should have a system to enable the complainant to track the progress in processing of the complaint. The expected time for resolution of the complaint should invariably be communicated to the complainant. If the Turn Around Time (TAT) for resolution is exceeded, the same should be communicated to the complainant, indicating reasons for the delay. [4.8.1.2]
+
+4.2.15 Customer-facing staff and officers should undergo mandatory training in soft skills to reduce instances of misbehaviour by the errant staff / officers. Adequate knowledge and in-depth understanding of the internal guidelines and the regulatory instructions must be an essential requirement for posting employees in IGR-related positions. [4.8.2.1]
+
+4.3 Leveraging Technology for better service delivery:
+
+4.3.1 REs may use contextual data as an integral part of their Customer Service Strategy. They should use Customer Relationship Management (CRM) technology to collect customer-related information to create a detailed profile of the customer. These can be stored within a central repository in the CRM, enabling more informed decisions such as developing targeted customer awareness campaigns, upselling, and offering ancillary products. [5.2.1.1]
+
+4.3.2 Leveraging Conversational Artificial Intelligence (AI), REs should integrate and personalize ChatBots into mobile apps or websites to answer frequently asked questions and get answers anytime, anywhere. ChatBots may also be provided in multiple languages for vernacular customer base. [5.2.1.2]
+
+4.3.3 REs should look at designing a frictionless journey using Straight Through Processing (STP). They may expand digitisation of branches with paperless journeys and self-help kiosks, enabling customers to carry out faster transactions. [5.2.1.3.2]
+
+4.3.4 Video based Customer Identification Process (V - CIP), an alternate method of customer identification with facial recognition and customer due diligence by an authorised official of the RE by undertaking seamless, secure, live, informed-consent based audio-visual interaction with the customer to obtain identification information required for Customer Due Diligence (CDD) purpose, may be increasingly used. [5.2.1.3.3]
+
+4.3.5 There is a need for standardisation of ATM interface and ensure a minimum set of functionalities at the ATM by all banks / White Label ATM (WLA) operators. For meeting the needs of physically challenged, senior citizens and those who are not tech-savvy, etc., extra care may be provided by deploying ‘text to speech’ software, ChatBots, multi-language supporting software. [5.2.2]
+
+4.3.6 Proper messages should be displayed in respect of unsuccessful OFF - US ATM transactions, so that the customer can identify the exact reason why she is not able to undertake transaction / ascertain the status of the transaction. [5.2.3]
+
+4.3.7 REs may design and deploy safer means of second factor authentication. In this regard, biometric sensors on smartphones such as face / fingerprint / iris scanners can replace physical signatures to make physical presence no longer obligatory. Such integration can also help senior citizens avail banking services with greater ease. Further, such phone-based scanners can augment the OTP based authentication system as an additional factor of authentication and help in reducing frauds. [5.3.3.2]
+
+4.3.8 REs may provide alerts to customers during “teachable moments”. For example, warnings against sharing of credentials. [5.3.3.3]
+
+4.3.9 On-line facility be made available on the Indian Cybercrime Reporting Portal for registering complaints by members of public in respect of fraudulent transactions. The complaint should trigger an automated alert mail from the victim’s bank to beneficiary bank / card issuer / merchants for blocking the flow of funds. The beneficiary bank should immediately block equivalent amount in the account till detailed verification of the reported transaction in the complaint is completed. In case of merchants, sale / dispatch of merchandise should be kept on hold. All these may be implemented as STP, to the extent possible. [5.3.4.1]
+
+4.3.10 The Call Centre of REs may be designed with a dedicated IVRS flow, sharing the important ‘do’s and don’ts’ with the customer, based on the customer profile / queries, including provision of in-house financial advisors for complex queries or sophisticated customers. An automated call back feature in Call Centre, when a call is dropped mid-way, need to be provided. Option to speak to the customer care executive should be part of all menu options. [5.5.1.2]
+
+5. Layout of the Report
+
+5.1 This Report is divided into six chapters. Chapter 1 introduces the past committees on customer service that were set up, lists major initiatives by the Reserve Bank in the area of customer service and outlines the context for setting up of the present Committee. Chapter 2 discusses briefly, some of the best practices in the area of customer service. Chapter 3 covers recommendations for strengthening customer service regulation. Chapter 4 contains measures for strengthening customer service in the REs and Chapter 5 discusses opportunities for leveraging technology for better customer service and fraud prevention. The final Chapter lists all the recommendations made by the Committee. The Annex lists the meetings and consultations held, and field visits undertaken by the Committee.
+
+---
+
+Chapter-1: Introduction
+
+“A satisfied customer is the best business strategy of all.” – Michael LeBoeuf1
+
+1.1 Committees set up in the area of Customer Service
+
+1.1.1 Over the years, Reserve Bank has proactively taken a number of measures to ensure overarching protection for the customers of its Regulated Entities (REs). These include an elaborate regulatory framework on customer service, an internal grievance redress at REs and also a Banking Ombudsman framework put in place in 1995. Regulatory instructions are issued to REs based, inter alia, on (i) conditions prevailing in the financial system, (ii) findings of conduct supervision, (iii) analysis of complaints received, and (iv) recommendations received from various committees set up for this purpose. Reserve Bank / Government of India have set up several committees, in the past on customer service viz., (i) Talwar Committee on Customer Service (1975), (ii) Goiporia Committee (1990), (iii) Tarapore Committee on Procedures and Performance Audit on Public Services (CPPAPS, 2004) and (iv) Damodaran Committee on Customer Service (2010) and implemented most of the recommendations made by these committees.
+
+1.1.2 Talwar Committee (1975): The Government of India appointed a Working Group in 1975, chaired by Shri R. K. Talwar, former Chairman, State Bank of India (SBI), to study the quality of customer service in banks and recommend steps to bring improvements to meet the aspirations of customers. The guidelines issued by the Reserve Bank following the recommendations of this Committee were more or less, the first set of regulatory initiatives requiring the banks to render quality customer service.
+
+1.1.3 Goiporia Committee (1990): The Reserve Bank constituted the Committee on customer service in banks chaired by Shri M. N. Goiporia, the then Chairman of SBI. The Committee reviewed various aspects of customer service in banks and made recommendations on deposit accounts, quick delivery of services, Government business, exchange of mutilated notes, etc.
+
+1.1.4 Committee on Procedures and Performance Audit on Public Services (CPPAPS, 2004): The Committee, headed by Shri S. S. Tarapore, former Deputy Governor, Reserve Bank of India, was set up by the Reserve Bank to look into the issues relating to banking services rendered to the common person. The Committee made several recommendations covering an individual customer's dealings with a bank in the areas of foreign exchange, currency and government transactions including pension payments, besides the main relationship as an account holder. The Committee also recommended setting up of Banking Codes and Standards Board of India (BCSBI) with the objective of formulation of codes of conduct for banks and monitoring the adherence of banks to these codes.
+
+1.1.5 Damodaran Committee on Customer Service (2010): Reserve Bank constituted a Committee in 2010, headed by Shri M. Damodaran, former Chairman, Securities and Exchange Board of India (SEBI) for a review of Customer Service in banks, to look into banking services rendered to retail and small customers, including pensioners, and also to look into the system of grievance redress mechanism prevalent in banks and suggest measures for expeditious resolution of complaints. Its recommendations included implementation of the framework for strengthening the internal grievance redress mechanism of banks, launch of Complaint Management System (CMS), conduct of Root Cause Analysis (RCA) by Reserve Bank Ombudsmen and coordination between Department of Supervision (DoS) and Consumer Education and Protection Department (CEPD) of the Reserve Bank in conduct supervision.
+
+1.1.6 Present Committee (2022) headed by Shri B P Kanungo, former Deputy Governor, Reserve Bank of India, has been set up to examine and review the state of customer service and internal grievance redress in the REs along with the adequacy of extant customer service regulation and suggest measures to bring about improvements, keeping in view the revolutionary transformation underway on account of the rising customer base of the REs, advent of innumerable digital products and services, emergence of new technology platforms and service providers for service delivery as also the rising volumes of digital transactions riding on innovations in payment systems.
+
+1.2 Important initiatives taken by the Reserve Bank to address customer protection in REs
+
+1.2.1 As mentioned earlier, several measures were taken by the Reserve Bank to ensure that the quality of customer service extended by the REs was of high standards and the grievance redress was effective and efficient. The notable initiatives in this direction include:
+
+1.2.1.1 Guidelines on customer service: The Reserve Bank has issued, from time to time, detailed guidelines to the REs on various aspects of customer service, including institutional set-up, policies on customer service, financial inclusion, deposit accounts, levy of service charges, disclosure of information, facilities for persons with disabilities, nomination facility, etc.
+
+1.2.1.2 Introduction of Ombudsman Schemes: Reserve Bank introduced the Banking Ombudsman Scheme (BOS) in the banking sector in 1995. Over the years, the scheme was amended and expanded to include Regional Rural Banks (RRBs) and scheduled Primary (Urban) Co-operative Banks (UCBs). Subsequently, separate Ombudsman Schemes were launched for Non Banking Financial Companies (NBFCs) in 2018 and Non-bank Payment System Participants in 2019. In 2021, the above three schemes were integrated into a new scheme - the Reserve Bank Integrated Ombudsman Scheme (RB - IOS), 2021. The Scheme was also extended to Non-scheduled UCBs with deposit base of ₹50 crore and above and later to Credit Information Companies (CICs). The RB - IOS is jurisdiction neutral, adopts “one nation one ombudsman” approach and is complemented by a Centralised Receipt and Processing Centre (CRPC) set up for receipt of non-portal complaints and their initial processing. The CRPC also hosts a Contact Centre with 24x7x365 Interactive Voice Response System (IVRS). Customer Care executives are available for any clarifications / information etc. between 8:00 AM to 10:00 PM in Hindi and English and between 9:30 AM to 5:30 PM in 10 regional languages2. Complaints from customers of REs not covered under RB-IOS are attended to by the Consumer Education and Protection Cells (CEPCs) of Reserve Bank.
+
+1.2.1.3 Launch of Complaint Management System (CMS): The CMS was setup in 2019 as a 24x7 on-line, end-to-end automated, one-stop solution for lodging and redress of customer complaints including receipt, processing and communication of resolution. It also provides for tracking of complaints and for giving feedback by the customer.
+
+1.2.1.4 Department for Customer Protection and Education: In order to ensure better focus on customer protection, customer service and grievance redress, and to administer the BOS, a new department viz., ‘Customer Service Department’ (CSD) was set up on July 1, 2006. CSD was renamed as ‘Consumer Education and Protection Department’ (CEPD) as a part of the organizational restructuring in the Reserve Bank in 2014. As on date, CEPD oversees the operations of 23 RBI Ombudsmen offices spread across the country and the CEPCs in 30 Regional Offices / Sub-offices of the Bank set up in 2015-16 to deal with complaints falling outside the ambit of BOS. In 2019, CEPD also became the focal department dealing with regulation relating to customer protection.
+
+1.2.1.5 Charter of Customer Rights (CoCR): The CoCR was issued by Reserve Bank on December 03, 2014 as an overarching principle-based guidance for banks on ‘five’ basic rights of bank customers enunciated therein, viz., (i) Right to Fair Treatment; (ii) Right to Transparency, Fair and Honest Dealing; (iii) Right to Suitability; (iv) Right to Privacy; and, (v) Right to Grievance Redress and Compensation.
+
+1.2.1.6 Limiting the liability of customers in fraudulent electronic transactions: The Reserve Bank issued specific regulation in July 2017 for limiting the customer liability in unauthorised electronic transactions resulting in debits to their accounts. The liability has been set according to the type of account held and the time taken by the customer to report the transaction to the RE.
+
+1.2.1.7 Harmonisation of Turn Around Time (TAT) for failed digital transactions: Observing that a large number of complaints emanate on account of unsuccessful transactions, Reserve Bank introduced in September 2019, a framework for bringing uniformity in processing of the failed digital transactions put through authorized payment systems.
+
+1.2.1.8 On-line Dispute Resolution: For resolving customer disputes and grievances pertaining to digital payments, the Reserve Bank mandated, in August 2020, the authorized Payment System Operators to introduce On-line Dispute Resolution systems using a system-driven and rule-based mechanism with zero or minimal manual intervention.
+
+1.2.1.9 Introduction of Internal Ombudsman (IO) mechanism: In line with the recommendations of the Damodaran Committee, in April 2015, Reserve Bank instructed all Public Sector Banks (PSBs), select Private Sector Banks (Pvt.SBs) and Foreign Banks (FBs) to appoint Chief Customer Service Officers (CCSOs) (also known as Internal Ombudsmen (IO)). In September 2018, the IO mechanism was extended to all Scheduled Commercial Banks (excluding RRBs) with more than 10 banking units in India. It has since been made applicable to all deposit taking Non Banking Financial Companies (NBFCs-D) with more than 10 branches, non-deposit taking NBFCs (NBFC-NDs) with retail customer interface and asset size of ₹5,000 crore or more, Non-bank Payment System Participants (PSPs) with more than one crore Prepaid Payment Instruments (PPIs) outstanding and to all CICs.
+
+1.2.1.10 Framework for Strengthening the Internal Grievance Redress (IGR) Mechanism in banks: With a view to strengthen and improve the efficacy of the IGR mechanism of banks, a comprehensive framework was put in place by Reserve Bank with effect from January 2021. It comprises of four pillars, viz., (i) enhanced disclosures by the banks on customer complaints; (ii) recovery of cost of redress of maintainable complaints from the banks against whom the number of complaints received in the Offices of RBI Ombudsmen (ORBIOs) are in excess of their peer group average; (iii) intensive review of the grievance redress mechanism; and, (iv) regulatory and supervisory action against banks identified as having persistent issues in their IGR mechanism.
+
+1.3 Stakeholder consultation by the Committee
+
+1.3.1 The Committee held four meetings at Mumbai and undertook four field visits to Surat, Gurgaon, Hyderabad and Guwahati. In the meetings, and during its visits, the Committee met the following stakeholders:
+
+(i) Customers of REs - at branches / at town-hall events.
+
+(ii) Officials of the REs - Senior executives of banks, UCBs, NBFCs, All India Financial Institutions, etc.
+
+(iii) Technology solutions providers – National Payments Corporation of India (NPCI), Reserve Bank Innovation Hub (RBIH), Indian Financial Technology and Allied Services (IFTAS), Payments Council of India (PCI)
+
+(iv) Micro, Small and Medium Enterprises and Trade / Industry Associations.
+
+(v) Self Help Groups, Non-Government Organisations and domain experts.
+
+(vi) Reserve Bank of India Ombudsmen and other in-charges of regulatory departments in Reserve Bank.
+
+The list of various meetings and interactions by the Committee are given at Annex.
+
+Chapter-2: Best Practices in Customer Services
+
+“… even as the financial landscape evolves and transforms, the underlying principles for good customer service and customer protection namely, transparency, fair pricing, honest dealings, responsible business conduct, protection of consumer data and privacy, etc. continue to be relevant.”
+
+- Shri Shaktikanta Das3
+
+2.1 Globally Accepted Principles
+
+2.1.1 Protection of Customers from unfair practices by Regulated Entities (REs) and spreading awareness amongst consumers regarding their rights and responsibilities, features and risks of products and services and new delivery channels are priority areas for policy makers around the world. Good Practices identified by World Bank and the High Level Principles (HLPs) on Financial Consumer Protection (FCP) recommended by the Organisation for Economic Co-operation and Development (OECD) and adopted by Group of Twenty (G20) and Financial Stability Board (FSB) are summarized hereunder:
+
+2.2 World Bank
+
+2.2.1 The World Bank has identified ‘good’ practices for various financial products offered by the financial service providers such as Deposit and Credit Products and Services, Insurance, Securities, Pensions, etc. in a report published in 20174. Under each product, the identified practices are further classified as Legal, Regulatory and Supervisory framework, Oversight Mechanism, Regulation for Fair Practices, Disclosure and Transparency, Data Protection and Privacy, Dispute Resolution Mechanism, etc.
+
+2.2.2 The practices highlighted by the World Bank require efforts to be made to ensure that the overall legal framework provides sufficiently comprehensive coverage, establishes responsibilities, powers, accountability of the supervisory authority (or authorities) and provides legal protection to the authority. Further, it emphasises the need for coordination between prudential, regulatory and supervisory functions for customer protection and ensuring that these functions and supervision are risk-based, to optimize the use of resources.
+
+2.2.3 All written communication (including in electronic formats) should be easy to read and any unfair terms and conditions, if used, should be void and legally unenforceable. Collection and use of data by REs should be in compliance with the jurisdiction specific laws. Compliance with minimum standards should be ensured within the complaints handling function. Analysis of complaints information should be encouraged to continuously improve policies, procedures, and products.
+
+2.2.4 For an efficient deposit insurance system, the regulator or supervisor should be able to take necessary measures to protect depositors when a deposit-taking financial service provider is unable to meet its obligations.
+
+2.3 Organisation for Economic Co-operation and Development (OECD)
+
+2.3.1 The G20 / OECD HLPs on FCP were developed by the G20 / OECD Task Force on FCP and endorsed by G20 leaders in November 2011. These Principles were updated and endorsed by the G20 leaders in November 2022 and are included in the Financial Stability Board (FSB) Compendium of Standards and are considered as the leading international standard for FCP. All OECD members, G20 countries and FSB jurisdictions were invited to adhere to the HLPs, which are listed below:
+
+(i) Legal, regulatory and supervisory framework
+
+(ii) Role of oversight bodies
+
+(iii) Access and inclusion
+
+(iv) Financial literacy and awareness
+
+(v) Competition
+
+(vi) Equitable and fair treatment of consumers
+
+(vii) Disclosure and Transparency
+
+(viii) Quality Financial Products
+
+(ix) Conduct and culture of providers and intermediaries
+
+(x) Protection of consumer assets against fraud, scams and misuse
+
+(xi) Protection of consumer data and privacy
+
+(xii) Complaints handling and redress
+
+2.3.2 Three cross-cutting themes relevant to the consideration and / or implementation of each and all of the above principles were identified as (i) digitalization, (ii) financial well-being, and (iii) sustainable finance.
+
+2.4 Practices adopted by major Central Banks and Conduct Authorities
+
+2.4.1 The Committee also looked at the various practices and regulation introduced by the Central Banks and Conduct Authorities of different nations. It was seen that all major countries have established mechanisms to address the entire gamut of issues in RE conduct on customer service, including aggressive selling of products, complaint management system, grievance redress, etc. Regulation as obtaining in India has addressed not only these but also several other relevant issues as discussed in the subsequent chapters.
+
+2.5 Some best practices followed by the REs
+
+2.5.1 Some appreciable initiatives by REs which came to the notice of the Committee during its interactions with customers and senior management of REs, and which have informed the recommendations made in the Report, include: (i) some REs have introduced missed call facility for doorstep services; (ii) quite a few REs have deployed Artificial Intelligence (AI) / Machine Learning (ML) capabilities for contextual analysis, Voice Bots, 24x7 on-line assistance platform for customers and digital platform to book appointments for visiting branches, etc.; (iii) In many of the REs, mobile apps, internet banking screens etc. go blank if any screen sharing app / malware is inadvertently used by the customer.
+
+2.6 Conclusion
+
+2.6.1 A review of the regulatory architecture in India on customer service by the Committee revealed that it is largely compliant with the standards laid down by international standard setting bodies and compares well with the consumer protection regulation in other jurisdictions.
+
+Chapter-3: Strengthening Customer Service Regulation
+
+Financial consumer protection should be an integral part of the legal, regulatory and supervisory framework, it should comprehensively cover all types of financial products and services and should reflect the diversity of national circumstances and global market and regulatory developments within the financial sector.5
+
+3.1 Regulatory Framework
+
+3.1.1 The regulatory framework of the Reserve Bank sets the minimum benchmarks, both in the prudential and operational segments, for the Regulated Entities (REs) to achieve. In the area of customer service, the accepted standards require that the regulation reflect, and are proportionate to, the characteristics, type, and variety of the financial products and services and diversity of customers, their rights and responsibilities and are also responsive to new products, services, designs, technologies and delivery channels. The regulatory framework is periodically updated to keep it relevant to the changing landscape of the financial sector.
+
+3.2 Strengthening Regulation
+
+3.2.1 Over a period of time, the Reserve Bank has issued several instructions with a view to improve customer service in the REs. Notwithstanding the same, instances of non-compliance and receipt of large number of complaints, both in the REs and under the Reserve Bank Integrated Ombudsman Scheme (RB-IOS) indicate that the instructions are being observed more in letter than in spirit and the REs, by and large have been implementing the minimum that has been laid down in the guidelines. The Committee felt that in the medium-term, ‘principle-based’ regulation is the way forward in matters relating to customer service. This will require the REs to initiate all measures needed to observe the spirit of regulation rather than merely confining themselves to its letter. Accordingly, the Committee recommends that:
+
+3.2.1.1 The Reserve Bank may consider progressively moving towards “principle-based” regulation with regard to customer service in the REs. These may be based on well-recognised customer-friendly principles, including, but not limited to, Equitable and Fair Treatment, Transparency and Disclosures, Appropriateness and Suitability, Data Protection / Customer Confidentiality, Right to Grievance Redress, etc.
+
+3.2.2 The Committee noted that while an elaborate regulatory framework on customer service is in place, no enforcement action against REs for deficiency in customer service is taken. The current disincentive mechanism through the framework for “Strengthening Internal Grievance Redress Mechanism in banks” is not functioning effectively and the number of complaints received under RB-IOS is consistently rising. The REs are also merely redressing individual complaints. The system also does not provide any regulatory incentive to the REs for bringing about improvements at the enterprise level for better customer service. Accordingly, the Committee recommends that:
+
+3.2.2.1 The Reserve Bank may put in place a suitable structure of incentives and disincentives to encourage REs to take pro-active steps towards enterprise-wide improvements in customer service and impart systemic strength to overall customer protection efforts in the financial sector while imposing a regulatory cost for entities where the quality of customer service is deficient.
+
+3.2.3 The Charter of Customer Rights (CoCR) was issued in 2014. Thereafter, there have been many developments, especially, in areas relating to customer confidentiality and data protection. The emergence of FinTech companies has added a new dimension to the above. Even though the Charter recognised various rights of a customer with respect to suitability, data protection, customer privacy, etc., it is not enforceable. Accordingly, the Committee recommends that:
+
+3.2.3.1 The Reserve Bank may consider making the Charter of Customer Rights enforceable after reviewing and updating it. The Reserve Bank may consider extending the Charter to Non Banking Financial Companies (NBFCs) also.
+
+3.2.4 The banks and the non-banks have been regulated differently in the past but now there is a regulatory convergence which is being pursued by the Reserve Bank as a matter of policy. To minimise opportunities for regulatory arbitrage and ensure fair and equitable treatment of similar category of customers, the Committee recommends that:
+
+3.2.4.1 The customer service regulation should be consolidated on the principle of same activity same regulation and apply to all the REs depending upon the activity being undertaken by them, irrespective of the category of the REs.
+
+3.3 Compliance with Regulation
+
+3.3.1 While analysing the complaints against the REs, the Committee observed that there was lack of uniformity among REs in classifying the complaints and several complaints were being treated as suggestions / queries by some REs. The Committee felt that absence of a uniform definition of complaints under Internal Grievance Redress (IGR) mechanism, unlike under the RB-IOS, gives rise to such divergence. Reserve Bank should lay down a definition of what constitutes a complaint against an RE under IGR, so that the real picture of the volume, types and nature of complaints and the state of customer service in the REs emerges. Accordingly, the Committee recommends that:
+
+3.3.1.1 With a view to ensure that there is uniformity in classifying, recording and reporting of complaints by the REs, the Reserve Bank should lay down a definition of a complaint under the IGR mechanism which should also capture the complaints which are outside the purview of RB-IOS. An indicative definition could be: “Any reference received formally through electronic or paper mode flagging a “deficiency in service”, as defined in RB-IOS, pertaining to all the activities which the RE undertakes and services it offers.”
+
+3.3.2 To ensure that REs classify the complaints as per the definition laid down by the Reserve Bank, any non-compliance in this respect should attract a suitable disincentive. Accordingly, the Committee recommends that:
+
+3.3.2.1 Persisting wrong classification / misclassification of complaints by REs may be taken as one of the parameters in the framework for “Strengthening of Grievance Redress Mechanism in banks” put in place by the Reserve Bank and in the rating of the REs proposed in para 3.3.4.1.
+
+3.3.3 The RB-IOS is currently meant for redress of individual complaints and the complaint is closed upon the redress of the grievance in question. There may be many other customers with a similar grievance, who may not have lodged a complaint or may not even be aware that they can lodge a complaint, or may not know how / where to lodge a complaint. Compliance to the instructions by the Reserve Bank to conduct Root Cause Analysis with a view to initiating corrective action is clearly lacking. The Committee felt that under RB-IOS, there is a need to move beyond complaint-centric redress approach. Accordingly, the Committee recommends that:
+
+3.3.3.1 The RBI Ombudsmen (RBIOs) should be empowered, based on the facts of a complaint or a set of similar complaints, to direct the RE concerned to review and undertake suitable corrective action in all such cases and confirm compliance to the Reserve Bank. Being the focal department for Customer Service, Consumer Education and Protection Department (CEPD), may also be empowered to direct all REs to initiate corrective action in such cases, if the deficiency in service, in its view, is widely prevalent.
+
+3.3.4 Notwithstanding several steps that the Reserve Bank has taken in the past for improving customer service in REs, making the grievance redress mechanism (both IGR and Alternate Grievance Redress (AGR)) effective and efficient, and for making customers aware of their rights and responsibilities, impact of such measures and the actual quality of customer service at the system level or at the RE level is not being captured at present. It will be desirable to develop a comprehensive index of customer service and customer protection at system level. Going forward, performance of individual REs can also be assessed based on Index values which may feed into the rating of the REs on customer service and customer protection. It is understood that there was a move to develop such an index by the Reserve Bank, but no index has been published so far. Accordingly, the Committee recommends that:
+
+3.3.4.1 The Reserve Bank may develop and publish a “Customer Service and Protection Index” with a view to capture, at the system level, the quality / standards of customer service and extent of customer protection in the REs through a single score. The Index may cover dimensions like adequacy of regulatory and institutional framework in place, customer experience, efficacy of grievance redress, under both IGR and AGR, extent of customer education and awareness, etc.
+
+3.3.5 Compliance with customer service guidelines is overseen during the supervisory cycle undertaken by the Department of Supervision (DoS) of the Reserve Bank. In the supervisory process, the thrust is more on prudential aspects, operational matters and on various inherent risks and as a consequence, the customer service aspects may not receive the importance they deserve. Accordingly, the Committee recommends that:
+
+3.3.5.1 The Reserve Bank should assess the quality of customer service through periodic and regular thematic studies across the REs to ensure better compliance to the customer service guidelines. The findings should feed suitably into the framework to improve IGR and the proposed ratings of REs.
+
+3.3.6 At present the REs have been given freedom to levy charges for various types of service offered by them. Complaints of levying very high charges for the services offered, by some REs, came to the notice of the Committee. While the charges of some services can be different between REs due to the cost of offering such services, they need to be reasonable. The Committee accordingly recommends that:
+
+3.3.6.1 The Reserve Bank, during its supervisory process, should take a view on the reasonableness of charges levied by REs for the services offered.
+
+3.3.7 While the Reserve Bank had introduced the Internal Ombudsman (IO) Scheme for major Scheduled Commercial Banks in 2015 and extended it to other REs, the Committee observed that there is scope for improvement in the implementation of the scheme. The RB-IOS data and the appeals received by the Appellate Authority (AA) under RB-IOS reveal that an overwhelming percentage of rejected (fully / partly) complaints are not being referred by the REs to the IO before conveying the decision to the customers. The Committee reviewed the number of complaints processed by Reserve Bank of India Ombudsmen (RBIOs) since the launch of RB-IOS from November 12, 2021 till March 31, 2023 and observed that only 24.73% of complaints processed by RBIOs had been vetted by the IOs. In case of Appeals, the percentage stood at 11.11%. The IO schemes provide for the independence of IOs, certainty of tenure, non-reappointment in the same entity, etc. However, more often than not, despite being experienced bankers, the IOs uphold the decision taken by the REs. Several times such decisions are overturned by the RBIO or the AA. This raises concerns about efficacy of the IO mechanism and independence of the IO. Accordingly, the Committee recommends that:
+
+3.3.7.1 In order to address the conflict of interest, and to increase the effectiveness of the Internal Ombudsmen (IO) appointed in the REs, the Reserve Bank may nudge the Indian Banks’ Association (IBA) to create a fund to directly pay the salary / compensation to the IOs of the banks. Similar funds can be created by respective Self-Regulatory Organisations (SROs) for other categories of REs. Alternatively, the Reserve Bank itself may consider creating the fund. Cost of the above fund, thus created, may be recovered from the REs, in proportion to the complaints against them referred to the IOs.
+
+3.3.8 REs follow diverse practices and Standard Operating Procedures (SOPs) with respect to lodging of complaints and the internal redress systems. While some REs have portals for lodging of complaints, the process is manual in other REs. Tracking of complaints by customers is also not possible in many portals. There is a strong case, therefore, for setting up a common portal for lodging complaints, which is RE-agnostic, so that the customers of any RE can lodge a complaint, and the portal will allocate the complaint to the respective RE at the back-end. The portal may provide for the tracking of the complaint as well as the automatic transfer of a rejected complaint to the IO of the RE. Going forward the Reserve Bank Complaint Management System (CMS) portal can also be integrated with this platform. This will not only address the issue of rejected complaints not being escalated to the IOs by the REs but also obviate the need for re-lodging of complaint on the CMS / RB - IOS. This is also expected to help in reducing TAT under the AGR. Accordingly, the Committee recommends that:
+
+3.3.8.1 An RE-agnostic common portal for lodging complaints may be set up by the Reserve Bank so that the customers of any RE can lodge complaints on a single platform. The portal may allocate the complaints to respective REs, enable facility for tracking of the complaint by the complainant and for automatic escalation of rejected complaints to the IOs. Going forward, the Reserve Bank may also consider integrating this platform with its CMS portal to provide for seamless transfer and movement of complaints and data.
+
+3.3.8.2 The common complaint platform recommended above must also serve as a platform for data consolidation and management on all types of complaints, redress provided / rejected (both under IGR and AGR) and for advanced data analytics, using frontier technologies such as Artificial Intelligence (AI) / Machine Learning (ML) for complaint segregation, decision support and guidance and feeding improvements in customer service and grievance redress systems at the RE level as well as at the system level.
+
+3.4 Deposit Insurance cover
+
+3.4.1 In recent times, a number of Prepaid Payment Instruments (PPI) issuers have been authorised by the Reserve Bank. The money kept in wallets are in the nature of deposits. However, currently the Deposit Insurance and Credit Guarantee Corporation (DICGC) cover extends only to the bank deposits. Being deposits with the PPI issuers who are also regulated by the Reserve Bank, extending deposit insurance to the PPI segment needs examination. To start with, the cover can be extended to bank PPIs and later, based on experience gained, to non-bank PPIs. Accordingly, the Committee recommends:
+
+3.4.1.1 The Reserve Bank may examine whether Deposit Insurance and Credit Guarantee Corporation (DICGC) cover can be extended to bank PPIs and later to non-bank PPIs based on experience gained.
+
+Chapter-4: Improving Customer Service in Regulated Entities
+
+“The customer is the most important visitor to our establishment. He is not dependent on us; we depend on him”
+
+- M.K. Gandhi
+
+4.1 The Reserve Bank Customer Service regulation is designed to ensure that systems and processes of the Regulated Entities (REs) are oriented towards providing efficient customer service. It covers aspects relating to institutional set-up, infrastructural facilities, human resources, training, customer service audit, customer / depositor satisfaction surveys, holding customer relation programmes, processes for new product roll-out, quality assurance, etc. Notwithstanding the same, based on assessment and feedback received, it was observed that the quality of service extended by REs to their customers was below the desired level. The REs approach customer service largely in a compliance mode rather than as a means to address the root cause, and upgrade their systems / processes to extend expected quality of customer service and prevent recurrence of similar complaints in future.
+
+4.2 The Committee looked at the number of complaints received by banks under Internal Grievance Redress (IGR) mechanism in the last three years and found the total number of complaints to be range-bound between 1.04 to 1.11 crore complaints.
+
+| Table: Number of Complaints Received by Banks |
+| --- |
+| Name of Bank | 2019-20 | 2020-21 | 2021-22 |
+| State Bank of India | 38,08,400 (34.24%) | 31,31,509 (30.84%) | 34,52,782 (33.04%) |
+| Bank of Baroda | 17,71,923 (15.93%) | 18,99,415 (18.71%) | 8,63,867 (8.27%) |
+| Bank of India | 5,09,359 (4.58%) | 4,46,920 (04.40%) | 4,92,450 (4.72%) |
+| Bank of Maharashtra | 8,740 (0.08%) | 3,760 (0.04%) | 3,198 (0.03%) |
+| Canara Bank | 53,110 (0.48%) | 1,01,944 (1.00%) | 2,08,960 (1.99%) |
+| Central Bank of India | 3,04,026 (2.73%) | 2,16,312 (2.13%) | 1,83,566 (1.76%) |
+| Indian Bank | 4,29,068 (3.86%) | 3,21,876 (3.17%) | 2,54,183 (2.43%) |
+| Indian Overseas Bank | 1,66,745 (1.50%) | 1,51,084 (1.49%) | 1,69,599 (1.62%) |
+| Punjab and Sind Bank | 22,291 (0.20%) | 14,449 (0.14%) | 23,973 (0.23%) |
+| Punjab National Bank | 13,28,290 (11.94%) | 13,06,250 (12.87%) | 17,38,260 (16.63%) |
+| UCO Bank | 23,067 (0.21%) | 18,385 (0.18%) | 16,220 (1.55%) |
+| Union Bank of India | 3,53,549 (3.18%) | 4,15,035 (4.09%) | 3,28,216 (3.14%) |
+| Public Sector Banks | 87,78,568 (78.93%) | 80,26,939 (79.06%) | 77,35,274 (74.02%) |
+| Axis Bank Limited | 2,00,484 (1.80%) | 3,60,342 (3.55%) | 9,35,005 (8.95%) |
+| Bandhan Bank Ltd | 52,018 (0.47%) | 30,830 (0.30%) | 35,865 (0.34%) |
+| City Union Bank | 1,593 (0.01%) | 2,962 (0.03%) | 2,835 (0.03%) |
+| CSB Bank | 20,839 (0.19%) | 6,555 (0.06%) | 9,071 (0.09%) |
+| DCB Bank | 23,644 (0.21%) | 33,470 (0.33%) | 32,603 (0.31%) |
+| Federal Bank | 2,00,249 (1.80%) | 1,47,914 (1.46%) | 1,60,857 (1.54%) |
+| HDFC Bank | 3,82,235 (3.44%) | 3,25,786 (3.21%) | 3,68,291 (3.52%) |
+| ICICI Bank | 5,08,434 (4.57%) | 4,82,213 (4.75%) | 4,09,670 (3.92%) |
+| IDBI Bank | 1,00,642 (0.90%) | 74,063 (0.73%) | 71,674 (0.69%) |
+| IDFC First Bank | 7,596 (0.07%) | 21,015 (0.21%) | 21,945 (0.21%) |
+| IndusInd Bank | 46,248 (0.42%) | 30,045 (0.29%) | 33,584 (0.32%) |
+| Jammu & Kashmir Bank | 413 (0.00%) | 772 (0.00%) | 35,110 (0.34%) |
+| Karnataka Bank | 54,506 (0.49%) | 41,634 (0.41%) | 41,154 (0.39%) |
+| Karur Vysya Bank | 969 (0.01%) | 2,015 (0.02%) | 4,650 (0.04%) |
+| Kotak Mahindra Bank | 4,17,114 (3.75%) | 2,97,272 (2.93%) | 2,57,047 (2.46%) |
+| Nainital Bank | 1,957 (0.02%) | 1,977 (0.02%) | 1,943 (0.02%) |
+| RBL Bank | 36,472 (0.33%) | 35,954 (0.35%) | 43,573 (0.42%) |
+| South Indian Bank | 56,773 (0.51%) | 36,023 (0.35%) | 43,099 (0.41%) |
+| Tamilnad Mercantile Bank Ltd. | 24,867 (0.22%) | 24,324 (0.24%) | 39,682 (0.38%) |
+| The Dhanlaxmi Bank | 12,821 (0.12%) | 15,178 (0.15%) | 14,005 (0.13%) |
+| Yes Bank | 1,11,764 (1.00%) | 63,035 (0.62%) | 47,188 (0.45%) |
+| Private Sector Banks | 22,61,638 (20.33%) | 20,33,379 (20.03%) | 26,08,851 (24.97%) |
+| American Express Banking Corp. | 23,005 (0.21%) | 25,550 (0.25%) | 22,157 (0.21%) |
+| Citibank N.A. | 11,022 (0.10%) | 6,881 (0.07%) | 46,212 (0.44%) |
+| DBS Bank India Limited | 10,185 (0.09%) | 7,173 (0.07%) | 7,564 (0.07%) |
+| Deutsche Bank AG | 2,306 (0.02%) | 2,086 (0.02%) | 2,137 (0.02%) |
+| Hong Kong and Shanghai Banking Corporation Limited | 14,904 (0.13%) | 12,987 (0.13%) | 12,302 (0.12%) |
+| SBM Bank (India) Limited | 74 (0.00%) | 162 (0.00%) | 609 (0.00%) |
+| Standard Chartered Bank | 21,229 (0.19%) | 37,547 (0.37%) | 14,551 (0.14%) |
+| Foreign Banks | 82,725 (0.74%) | 92,386 (0.91%) | 1,05,532 (1.01%) |
+| Total | 1,11,22,931 (100%) | 1,01,52,704 (100%) | 1,04,49,657 (100%) |
+| (Figures in % represent percentage to total complaints received by the banks in the respective year) *Axis Bank has qualified its disclosure that the number of customer complaints reported in FY 2022 vis-à-vis FY 2021 are not comparable since the bank has taken the approach of tightening the tagging norms from FY 2021. |
+
+4.2.1 Further, the Committee conducted a survey of 5,016 customers of the REs in July 2022 through the offices of the Reserve Bank to identify major areas of concern with regard service extended to them. The graph below reflects the major areas of concern identified by the respondents:
+
+As can be seen, the major area of concern identified pertains to account operation services (22%). This is followed by Technology platform related services (16.3%) and facilities relating to ATM and Cash Deposit Machine (CDM) (16.2%).
+
+4.3 Governance structure for Customer Service in REs
+
+4.3.1 The regulatory framework by the Reserve Bank for banks provides for constituting a Customer Service Committee of the Board (CSC - B) at the apex level and a Standing Committee of the Customer Service (SC - CS) to assist it. It is also mandatory for the branches of the banks to constitute a Branch Level CSC (BL - CSC) with representation from various categories of customers, including senior citizens. However, the feedback received by the Committee indicated that the BL-CSC, in most cases, does not serve the intended purpose in terms of constitution, periodicity and generating suggestions for improvement in customer service at the branch. Consequently, the feedback mechanism for the CSC-B and SC-CS is not working efficiently. Accordingly, keeping in view the paramount importance of proper functioning of the BL-CSC, and for ensuring a feedback loop to the SC-CS and CSC-B, the Committee recommends that:
+
+4.3.1.1 The effectiveness of the functioning of the Branch Level Customer Service Committees (BL-CSCs) should invariably be examined and commented upon by the internal audit.
+
+4.4 Account Operation Services: Deposit Accounts
+
+4.4.1 During the Committee’s interaction with stakeholders, several cases of hardship faced by nominees / legal heirs in closing the accounts held by deceased deposit holders of banks were flagged. A large number of existing accounts do not have nomination at present. Difficulties are faced even in accounts where nominations had been made by the deceased account holders. While specific instructions relating to the procedure to be adopted for settlement of claims in respect of deceased depositors have been laid down, these are not always followed. Moreover, even in cases where nomination is available, banks were found to be insisting on submission of unnecessary documents, for example, an undertaking to indemnify the bank in case of any legal dispute arising in the future, succession certificate, etc., which are specially prohibited by regulation. Even when the requisite documents are submitted, the branch sometimes is not empowered to release claims beyond a limit and cases are required to be referred to controlling office/s, even Head Office, resulting in avoidable delay. Accordingly, the Committee recommends that:
+
+4.4.1.1 Indian Banks’ Association (IBA) may update its Model Operating Procedure (MOP), in line with regulation, for hassle-free settlement of claims in accounts of the deceased account holders, in various scenarios. The MOP may provide for the documents required to be submitted by the claimant. In case nomination exists, the proceeds may be released immediately, upon submission of the required documents.
+
+4.4.1.2 Obtaining nomination in deposit accounts may be made mandatory to facilitate hassle-free settlement of claims in case of death of the account holder. Several existing accounts do not have nominations at present. The REs should be asked to obtain nominations in all such cases within a reasonable time period, say three years.
+
+4.4.1.3 To obviate the need for visits to the branches / RE premises, by the nominee / heirs, the process for settling deceased claims may also be made available on-line. The on-line facility may provide for submission of all the required documents and their verification. A system of generating digital reference number upon submission of the claim and supportive documents may be made available. The claims may be settled within a reasonable time period, say 30 days from the date of submission of all necessary documents. The timeframe should also apply when the claims are physically submitted. Beyond 30 days, the REs may be required to pay interest at a rate, say two percent higher than the rate at which the deceased person’s deposit was held.
+
+4.4.2 Instances came to the notice of the Committee that some banks stop operations in the account when required documents are not submitted in time by the account holder, for updating Know Your Customer (KYC). Freezing of customer deposit accounts for non-submission of KYC was reported to be a practice in many REs, even though the regulation does not provide for it. Cheques issued by the account holder were dishonoured in many such cases. Accordingly, the Committee recommends that:
+
+4.4.2.1 While the REs should take necessary steps to periodically update KYC, it must be ensured that operations in the account are not stopped.
+
+4.4.3 In several instances, repeated KYC is insisted upon despite customer having submitted all documents for existing facilities availed. Accordingly, the Committee recommends that:
+
+4.4.3.1 The RE should maintain a centralised database of KYC documents of all customers, linked to a unique customer identifier, say the Customer Information File (CIF), obviating the need for submitting KYC documents repeatedly for availing multiple facilities from the same RE. Whenever KYC documents are updated by the customer, the same should be reflected for all other facilities availed by the customer from the RE.
+
+4.4.4 In terms of extant regulation, REs are required to (i) categorise customers as low, medium and high-risk, based on the assessment and risk perception of the RE, on parameters such as customer’s identity, social / financial status, nature of business activity and information about the customer’s business and their location, etc., and (ii) adopt a risk-based approach with respect to periodic updation of KYC. The Committee observed that some REs classify customers with “high net worth” or all “walk-in customers” as high risk and follow uniform processes for monitoring of all customers within that risk profile, putting diverse individual customers to the same rigour, as, say customers with complex business ownership structures, even if the customer may have been a highly paid executive with uniform pattern of inflows and outflows consistent with her profile. Such simplistic linear identification betrays adoption of a broad-brush approach to risk profiling by the REs, which may result in mis-classification of risk and also inconvenience the individuals, especially in case of salary earners. Accordingly, the Committee recommends that:
+
+4.4.4.1 The REs may adopt a nuanced approach for risk categorisation of the customers. For example, salary earners with inflows and outflows consistent with the customer’s profile need not necessarily be categorised as high risk, even though they may be “high net worth” individuals. Similarly, students can also be categorized as low-risk.
+
+4.4.5 During interaction with borrowers, it was brought to the notice of the Committee that some REs repeatedly present post-dated cheques collected by them towards Equated Monthly Instalment (EMI) or debit mandates. If these are returned for any reason, these REs levy charges for return on each occasion. In certain cases of smaller loans, such charges sometimes exceed the loan amount. Accordingly, the Committee recommends that:
+
+4.4.5.1 Repeat presentation of debit mandates / cheques may be done by REs only after obtaining a confirmation from the customer.
+
+4.4.6 With the digital modes of operation of accounts gaining popularity, many customers do not update their passbooks. However, the need to monitor their account at periodic intervals remains, for which a statement may be required at monthly / quarterly intervals. The Committee noted varying practices followed by REs in issuing such statements. Some REs regularly send the statements, suo-moto, while others send the statements only when requested by the customer. Accordingly, the Committee recommends that:
+
+4.4.6.1 REs should mandatorily send monthly statement of account/s to the registered email ID of the customer. They may continue to provide physical copies when desired by the account holder.
+
+4.4.7 Unified Payment Interface (UPI) has gained wide acceptability ever since it was launched in April 2016. The volume of transactions on UPI have gone up from 17.86 million in 2016-17 to 83.75 billion in 2022-23. UPI is largely used for making small value payments which needs to be encouraged. Currently, banks limit the debits in saving accounts. Basic Savings Bank Deposit Account (BSBDA) holders are allowed four free debit transactions in a month. In order to give a fillip to digital transactions, the Committee recommends as under:
+
+4.4.7.1 The transactions undertaken through Unified Payment Interface (UPI) may be kept outside the stipulated limits on debit transactions in saving bank accounts, including Basic Savings Bank Deposit Accounts.
+
+4.5 Account operation services: Loans and Advances
+
+4.5.1 It was observed that difference in interpretation of Terms and Conditions (T&Cs) governing loan facilities by the REs and the customers gives rise to several complaints, both to the REs and under RB - IOS. Sometimes, the T&Cs are ambiguous and open to interpretation. Conveying the T&C in an unambiguous manner by the credit providing RE can reduce such complaints. Accordingly, the Committee recommends that:
+
+4.5.1.1 The highlights of major T&Cs may be provided in prominent font in the first page of the documents / agreement.
+
+4.5.2 The Committee observed from various complaints and appeals received under RB-IOS that the T&Cs for various loan types prescribe obtaining insurance for primary security in the account by the borrower. However, some REs also retain the option to insure the primary security at their discretion. In many cases, in the absence of proper communication, the insurance is not renewed in time by both the parties, resulting in non-availability of insurance cover to the customer. Such instances can be addressed by providing clarity with regard to placing the responsibility for obtaining the insurance, as also for timely renewal of the same, either on the bank or the borrower. The Committee recommends that:
+
+4.5.2.1 The responsibility of obtaining and renewing the insurance of the primary asset may be an unequivocal responsibility of one of the parties to the agreement, viz., the borrower or the RE, and clearly indicated in the Key Facts Statement / Most Important Terms and Conditions document.
+
+4.5.3 Several instances were brought to the notice of the Committee where the REs had misplaced the property documents taken by them as security for a loan and failed to return the documents / return them promptly when the loan was fully repaid by the borrower. Moreover, it was also observed that the banks follow different practices with regard to safe-keep of property documents accepted by them as security. While some keep them at branch, others keep them with controlling offices, yet others at Head Office. Failure to return the documents in time causes avoidable hardship to the borrower and can even lead to pecuniary loss. Accordingly, the Committee recommends that:
+
+4.5.3.1 The Reserve Bank may consider stipulating a time limit for the REs to return the property documents to the borrower from the date of closure of the loan account, failing which a penalty / compensation linked to the extent of delay should automatically be paid by the RE to the borrower.
+
+4.5.3.2 In case of loss of property documents, the RE should not only be obligated to assist in obtaining certified registered copies of the documents at their cost but also compensate the customer adequately, keeping in view the time taken to arrange the alternate copies of the documents.
+
+4.5.3.3 Keeping the security documents by the REs in digi-lockers may be encouraged as this will facilitate easy retrieval in case the physical documents are misplaced.
+
+4.5.4 Loans and Advances: Gold Loan Companies (GLCs)
+
+In respect of GLCs, the Reserve Bank may issue guidelines on following specific aspects to provide clarity to customers and avoid customer complaints.
+
+4.5.4.1 In case of death of the borrower, a notice may be served to the nominee / legal heir to settle the outstanding and keep the same on record before auctioning the pledged gold. Accountability may be fixed for non-adherence to the due notification process prior to auction of gold. For facilitating this, the GLCs may be required to register nominees while extending loans.
+
+4.5.4.2 Circumstances leading to auction of gold and requirement of a notice period should mandatorily be a part of GLC’s Fair Practices Code as well as the Loan Agreement.
+
+4.5.4.3 As large volumes of gold loan accounts belong to middle and low income households and rural population, Terms and Conditions should be communicated to them in local / regional languages. Recording of oral communication, if any, must be preserved.
+
+4.5.4.4 The loan agreement should incorporate the time limit (maximum one month) within which the surplus, if any, from the auction of gold would be refunded to the customers, failing which the company should be required to pay interest as may be stipulated by the Reserve Bank. Surplus, if any, must be credited to the account of the borrower.
+
+4.6 Senior Citizens and Differently Abled Persons
+
+4.6.1 According to the Population Census 2011, there were approximately 10.4 crore elderly persons in India in 2011. As per the Report of the Technical Group on Population Projections for India and States 2011-20366, there were nearly 13.8 crore elderly persons in India in 2021. Of the elderly population, around 8% are confined to bed / home / wheelchair bound. The number of elderly persons in India is expected to increase to 17.3 crore by 2026 and to 32.3 crore by 2050 (more than doubling the share of elderly population to nearly 20 per cent7).
+
+4.6.2 The Reserve Bank guidelines require that the vulnerable sections of the population such as senior citizens, differently - abled persons, etc., are not discriminated against in terms of access to financial services. Additionally, certain special services and flexibilities are also required to be made available to them. These include instructions for enhanced ease and convenience such as, provisions of dedicated counters at branches, ease of submitting Life Certificates (LCs) in pension accounts, additional facilities to visually challenged customers, option for door-step banking, provision for inclusion of a senior citizen and a differently abled person in the Standing Committee on Customer Service in banks and the branch level Customer Service Committees, expeditious services relating to disbursement of Government pension by Agency banks, automatic conversion of a fully KYC compliant account into a ‘Senior Citizen Account’ based on the date of birth available in bank’s records, etc. However, based on the analysis of complaints received under RB-IOS, appeals processed in Consumer Education and Protection Department and the Root Cause Analysis undertaken for various complaints, gaps came to the notice of the Committee at various levels of access to financial services, inhibiting ease of carrying out transactions by the senior citizens / differently - abled persons. The Committee also observed in its interaction with the customers of REs that often senior citizen and differently abled persons are not aware of such facilities or whom to approach for the facilities. In order to bring improvement in the ease of availing the services by this group of customers, the Committee recommends that:
+
+4.6.2.1 The REs should provide a dedicated telephone number where the senior citizens can call for clarifications, queries and / or guidance with respect to service that they are eligible to avail / want to avail. This number should be displayed at all the branches / website of the RE and also be printed on the passbook / account statement, etc. issued to the senior citizen and disabled persons.
+
+4.6.3 It was brought to the notice of the Committee during the discussions with stakeholders that many a time, some senior citizens are reluctant to pay for the services such as door - step banking. However, their family members are willing to make such payments on their behalf. The Committee recommends that:
+
+4.6.3.1 REs may provide an option for the relatives of the senior citizens to pay upfront for the door-step services as well as other such conveniences, if any, to be availed by their elders.
+
+4.6.4 The Committee came across complaints about rush in the month of November for submission of Life Certificates (LCs). Given the ubiquitous digitalisation at present, LCs could be accepted at annual intervals, at a time convenient to the pensioners. Accordingly, the Committee recommends that:
+
+4.6.4.1 The pensioners should be able to submit Life Certificate (LC) at any branch of the bank in which they maintain their pension account. Moreover, they should be allowed to submit LC in any month of their choice to avoid rush in a particular month. Subsequent LCs can be submitted in the same month at annual intervals.
+
+4.7 Others
+
+4.7.1 A number of incidents were brought to the notice of the Committee where the customer was injured while availing of services in the branch premises due to inadequate / faulty infrastructure and had to incur medical and other related expenses. In such cases, it should be obligatory on the part of the RE to compensate the customer and reimburse the medical expenses, if any. Insurance covers are available for such mishaps. While some banks do take public liability / general liability insurance, the practice is not followed by all the banks and staff interfacing with the customers, at times, are also unaware of availability of such a cover / facility. Accordingly, the Committee recommends that:
+
+4.7.1.1 Compensating the customer in case of any injury suffered while availing services at the premises of the RE, due to inadequate / faulty infrastructure, and bearing the medical expenses, if any, should be a part of customer policy of the RE. The REs should take adequate insurance cover for such eventualities, and the customer and staff should be made aware of the same.
+
+4.7.2 At present, the REs drive the sales teams with targets and bonus incentives. There have been many instances when the product is not suitable for the customer and is different from her requirement. The Committee therefore recommends that:
+
+4.7.2.1 Cross selling of third party products by the sales team of the RE should be subject to verification by the audit function to ensure that there was no mis-selling and all instructions / guidelines with respect to sale of such products were adhered to.
+
+4.7.3 The Committee came across accounts from customers of REs that while Relationship Managers (RM) / Sales Persons (SP) are extensively deployed by the REs to pursue the customer for sales purposes, once the customer requires help / faces difficulties with the product / service or finds gaps, she is left at the mercy of a faceless customer care number for resolution. In the process, the customer loses valuable time and money, not knowing whom to approach to address the issue. Therefore, the Committee recommends:
+
+4.7.3.1 An easy reference and access to the Relationship Manager (RM) / Sales Person (SP) involved in the sale / advertising of products, services, etc. need to be made available by name and designation and contact details to the customers for clarifications, communicating issues / grievances, if any, till the policy / contract for the product is valid. This information should be available on-line also with link to RE’s homepage. An alternate RM / SP can be appointed, where required, under communication to the customer. The roles and responsibilities must be clearly laid down and accountability ensured.
+
+4.7.4 The Committee observed that while many banks have put in place ‘Straight Through Processes’ (STPs) which facilitate opening of accounts without visit to the bank branch, the same facility is not available for closing the accounts. Further, while technology is extensively used for sourcing business, sale of products to customers, reciprocity in the form of customer tracking the communication with banks on KYC or bouncing of cheque, account closure, etc. is not available and branch visits are insisted upon for closure of accounts, pre-payment of loans, change in applicable interest in loan accounts, modification in T&Cs, etc. Therefore, the Committee recommends that:
+
+4.7.4.1 Recourse to technology by REs should be a two-way process. Insistence on physical visits, physical presentation of documents, etc. must be avoided to the extent possible. Faceless / Straight Through Processes’ (STPs) may also be adopted by REs for closure of account/s, accepting, acknowledging and tracking the communication by the customer and other similar service requirements to obviate the need to visit the branch.
+
+4.7.5 Obtaining customer feedback, and initiating action based thereon is crucial for good customer service. Generally, the feedback is solicited by the service providing RE/ customer - facing executive. The customer may prefer not to provide the feedback, or it may not reflect the actual quality of service provided. It is important that the person providing feedback remains anonymous for the RE and the feedback is given immediately or within a short period after receiving the service. It is possible to obtain such feedback through technology. Accordingly, the committee recommends that:
+
+4.7.5.1 All REs should provide a simple customer - facing device / QR Code on the counter where customer can provide her feedback / rating electronically, soon after completing the transaction.
+
+4.8 Internal Grievance Redress (IGR)
+
+4.8.1 The Committee recognizes that for prompt redress of grievances, the branch and front-end teams need to be fully conversant with policies, rules and guidelines as well as the operational processes and procedures. The Committee, therefore, recommends that:
+
+4.8.1.1 The REs must ensure that the frontline / customer interfacing staff should be fully conversant with the policies, rules and guidelines, etc. and should also have the decision making power to improve the Turn Around Time (TAT) for disposal of complaints.
+
+4.8.1.2 Till the recommendation for a common complaint portal (para 3.3.8.1) is put in place, the REs should have a system to enable the complainant to track the progress in processing of the complaint. The expected time for resolution of the complaint should invariably be communicated to the complainant. If the TAT for resolution is exceeded, the same should be communicated to the complainant, indicating reasons for the delay.
+
+4.8.2 The most important element for effective grievance redress is sensitivity of customer - facing staff members towards the customer. In this context, the Committee recommends that:
+
+4.8.2.1 Customer - facing staff and officers should undergo mandatory training in soft skills to reduce instances of misbehaviour by the errant staff / officers. Adequate knowledge and in-depth understanding of the internal guidelines and the regulatory instructions must be an essential requirement for posting employees in Internal Grievance Redress (IGR) related positions.
+
+Chapter-5: Leveraging Technology for Better Customer Service and Fraud Prevention
+
+“You've got to start with the customer experience and work back toward the technology, not the other way around.”
+
+- Steve Jobs
+
+5.1 Rising Digitalisation and related issues
+
+5.1.1 The benefits of digitalisation for customers of the financial sector are significant: FinTech innovations provide them with wider choice at lower costs, faster speed, convenience, personalisation and security. It enables democratisation of the financial sector through greater access to financial products and services thereby supporting financial inclusion. Digitalisation also acts as a spur for competition by expanding the range of providers by the way of new entrants, contributing to increasing efficiency of operations of financial service providers and facilitating comparison shopping and switching of products. However, this also brings new challenges for the financial sector entities and regulators.
+
+5.1.2 The Committee felt that technology must be adequately leveraged by Regulated Entities (REs) to improve customer service. Most of the technological improvements by REs are on business side and not from the customer service perspective. Technology being a driving force in REs when compared to the past decade, its role is required to be examined and considered in-depth, for enhancing customer protection.
+
+5.1.3 The REs are not making use of the lager data available with them to provide better customer service. It was also observed that REs were not able to provide simple data points sought from them and that the management of data at REs needs improvement. The quality of data provided was also not robust.
+
+5.1.4 The REs need to continuously evaluate and adopt new and suitable tech solutions for both front-end and back-end processing such as Artificial Intelligence (AI), Machine Learning (ML), and Robotic Process Automation for improving customer experience but at the same time also for protecting their interests at all times. The human power required to run repetitive, task-based processes is expensive. Automation of processes at the backend and enabling AI capabilities for actions, allow for increased productivity and value. Enabling bots and AI tech by Risk and Compliance departments to test full sets of data, not just samples, make their monitoring and control activities more efficient. Operational departments in REs can leverage Optical Character Recognition, Bots, routing logic to speed up case completion times and reduce re-work. In both cases, AI frees up the human resources to focus on customer service and grievance redress which require human interaction and judgment.
+
+5.1.5 Data protection and privacy are important areas of priority that extend across all sectors of the economy. While financial customer protection regulators and supervisors do not generally have primary responsibility for administering general privacy or data protection laws, they do have a role to when there are breaches of sector-specific financial privacy laws or when breaches of personal data protection laws are associated with breaches of financial customer protection laws. Furthermore, financial service providers increasingly use data in the design and distribution of financial products and services to customers, the marketing and conduct which falls under the scope of financial customer protection regulators and supervisors. Account Aggregators and Peer to Peer (P2P) lending platforms are dependent on technology-based platforms. Non Banking Financial Companies (NBFCs) providing these services are required to be monitored by the regulator. Further, wallet providers and payment gateways have to be similarly monitored by deploying RegTech software and AI based alerts by the regulators.
+
+5.1.6 The Committee identifies four specific areas, where technology can be leveraged to enhance customer service. They are:
+
+Service Delivery;
+
+Fraud Prevention;
+
+Grievance Redress; and,
+
+Customer Awareness.
+
+The Committee lists recommendations under each one of the identified areas as below:
+
+5.2 Service Delivery
+
+5.2.1 On the supply side, the explosion in the generation and use of data combined with significantly enhanced computing power, processing and analytical capabilities using data analytics and AI/ML has allowed financial services providers to continuously innovate to better serve their customers and enhance their profitability. Notwithstanding the same, there are still some issues which can be addressed by REs to improve customer service using the technological advancements. MSMEs are an emerging class of enterprises, and the way small businesses interact with REs needs to be changed substantially considering the advances in technology.
+
+5.2.1.1 Contextual data that provides valuable context to a person or event needs to be an integral part of Customer Service Strategy of REs. Customer Relationship Management (CRM) technology can be used to collect customer-related information. Each piece of information gathered about a customer can be used to create a detailed profile that provides a 360-degree view of the customer. These profiles can then be stored within a central repository in the CRM, so that employees can easily access them to make more informed decisions including developing targeted customer awareness campaigns, upselling, and offering ancillary products.
+
+5.2.1.2 With Conversational AI, REs may provide the customers personalised experience such as integrating a ChatBot into mobile app or website to answer frequently asked questions and get answers anytime, anywhere. The facility may be developed in a manner so as to restrict human involvement to handle only advanced or complex queries. ChatBots in multiple languages may be provided for supporting vernacular customer base.
+
+5.2.1.3 The Committee recognises the role of technology in delivering customer experience. With growing digitisation and technological advances, REs should aim to be digital first in their operations with assisted / unassisted option for customers to undertake transactions. Such an approach requires that the needs of different segments of customers are met to ensure that they use the technology safely. Accordingly, the Committee recommends:
+
+5.2.1.3.1 In a multilingual country like India, REs should offer services in multiple and local languages. Therefore, appropriate interfaces may be provided in the language with which the customer is conversant.
+
+5.2.1.3.2 For the customers comfortable with digital means of transactions, REs may look at designing a frictionless journey using Straight Through Processing (STP). They should look at, and expand, digitisation of branches with paperless journeys and self-help kiosks, enabling customers to carry out faster transactions.
+
+5.2.1.3.3 Video based Customer Identification Process (V - CIP), an alternate method of customer identification with facial recognition and customer due diligence by an authorised official of the RE by undertaking seamless, secure, live, informed-consent based audio-visual interaction with the customer to obtain identification information required for Customer Due Diligence (CDD) purpose, may be increasingly used.
+
+5.2.1.3.4 For pensioners, it should be ensured that digital life certificates are accepted along with issuance of digital acknowledgement receipt.
+
+5.2.1.3.5 REs may encourage their customers to adopt digital means as a means for promoting ‘green’, ‘environment friendly’ services.
+
+5.2.2 Different ATMs deployed by different REs and also the White Label ATMs (WLAs) have different interfaces and require distinct prompts for carrying out a transaction, which cause avoidable confusion among the customers. There is a need for standardisation of ATM interface and ensure a minimum set of functionalities at the ATM by all banks / WLA operators. For meeting the needs of physically challenged, senior citizens and those who are not tech-savvy, etc., extra care may be provided by deploying ‘text to speech’ software, ChatBots, multi-language supporting software.
+
+5.2.3 It is observed in some complaints that ATMs of banks, other than the account holding bank (OFF-US transactions), do not reflect or throw clear messages when a transaction has not gone through, for example reason for not dispensing cash. Proper messages should be displayed in all such instances so that the customer could identify the exact reason why she is not able to undertake transaction / ascertain the status of the transaction.
+
+5.2.4 All customer-facing digital interfaces should be designed in such a manner that they are easy to navigate even for the uninitiated. Contextual help should be provided for all relevant data to be input. This help should be available in local languages and if need be, through speech.
+
+5.3 Fraud Prevention
+
+5.3.1 It is observed that due to rapid spread of digital technologies for offering services to the customers, there has been a considerable increase in the share of complaints relating to digital transactions in total complaints, even as the share of digital complaints vis-à-vis the total digital transactions is miniscule, as shown in the table below.
+
+| Table: Rising Trend in Digital Complaints |
+| --- |
+| Share of Digital Complaints received in Offices of RBI Ombudsmen | Retail Digital Payments | Share of digital complaints to Digital Transactions |
+| Year | Total Complaints (in units) | Complaints relating to Digital Transactions | Share of Digital Complaints | Volume in Lakh | Value in ₹ Lakh Crore |
+| 2006-07 | 38,638 | 7,688 | 19.90% | 17305 | 72.57 | 0.002% |
+| 2007-08 | 47,887 | 10,129 | 21.15% | 19740 | 89.38 | 0.002% |
+| 2008-09 | 69,117 | 17,648 | 25.53% | 20419 | 84.11 | 0.003% |
+| 2009-10 | 79,266 | 18,810 | 23.73% | 21334 | 92.3 | 0.004% |
+| 2010-11 | 71,274 | 17,116 | 24.01% | 22959 | 114.42 | 0.003% |
+| 2011-12 | 72,889 | 14,492 | 19.88% | 25017 | 121.08 | 0.003% |
+| 2012-13 | 70,541 | 17,867 | 25.33% | 28722 | 134.03 | 0.002% |
+| 2013-14 | 76,573 | 18,474 | 24.13% | 36274 | 143.748 | 0.002% |
+| 2014-15 | 85,131 | 18,123 | 21.29% | 46209 | 154.129 | 0.002% |
+| 2015-16 | 1,02,894 | 21,821 | 21.21% | 69452 | 177.75 | 0.001% |
+| 2016-17 | 1,30,987 | 24,731 | 18.88% | 108797 | 220.7 | 0.001% |
+| 2017-18 | 1,63,590 | 45,806 | 28.00% | 157605 | 285.61 | 0.001% |
+| 2018-19 | 1,95,901 | 64,607 | 32.98% | 243716 | 364.07 | 0.001% |
+| 2019-20 | 3,08,630 | 1,37,823 | 44.66% | 348933 | 386.38 | 0.001% |
+| 2020-21 (Jul-Mar) | 2,73,204 | 1,16,166 | 42.52% | 442557 | 414.86 | 0.001% |
+| 2021-22 (Apr - Mar) | 3,04,496 | 1,15,961 | 38.08% | 724451 | 524.07 | 0.000% |
+| Source: RBI |
+
+5.3.2 The rise in the share of complaints pertaining to digital transactions reflects new risks associated with digitalization of the financial sector services, which need to be monitored, measured and mitigated. To elaborate, such risks include new forms of thefts or frauds perpetrated on-line, data breaches and digital security incidents, excessive data profiling leading to financial exclusion, lack of privacy and manipulation of customer behavioural biases when operating on-line, etc. Moreover, the nature of digital security risk is extremely dynamic, with the continuous appearance of new threats and identification of new vulnerabilities. The number, frequency and impact of cyber incidents / attacks have increased manifold in the recent past, more so in the case of financial sector including banks, underlining the urgent need to put in place a robust cyber security / resilience framework at banks and to ensure adequate cyber-security preparedness on a continuous basis.
+
+5.3.3 In this increasingly risky environment, the need for effective financial customer protection, including data protection, is more important than ever. The Committee recommends the following measures to ensure safety of digital transactions and privacy of digital customer.
+
+5.3.3.1 Improved analytics capabilities in recent years have enabled massive amounts of user data to be mined for insights. Behavioural analytics, that uses a combination of big data analytics and AI on user behavioural data, can be used to identify patterns, trends, anomalies, and other useful insights to enable timely alerts and provide early warning signals.
+
+5.3.3.2 The Committee came across evidence of fraudulent digital transactions being perpetrated by obtaining the One Time Password (OTP) from the victims through various means. As a counter - measure, it is recommended that the safer means of second factor authentication be designed and deployed by the REs. In this regard, biometric sensors on smartphones such as face / fingerprint / iris scanners can replace physical signatures to make physical presence no longer obligatory. Such integration can also help senior citizens avail banking services with greater ease. Further, such phone-based scanners can augment the OTP based authentication system as an additional factor of authentication which can also help in reducing frauds.
+
+5.3.3.3 REs may be advised to provide alerts to customers during “teachable moments”. For example, warnings against sharing of credentials.
+
+5.3.3.4 Another widely observed mode of perpetrating digital fraud is by pushing a screen sharing malware on the victim’s mobile/ computer. To curb this menace, the Committee recommends that automatic blacking out of mobile application screen, if screen is shared may be built into all applications provided by REs.
+
+5.3.4 In many cases, the Committee observed that the funds withdrawn by the fraudsters are moved across multiple banks and / or different accounts. In order to prevent the flow of funds, it is recommended that:
+
+5.3.4.1 On-line facility be made available on the Indian Cybercrime Reporting Portal for registering complaints by members of public in respect of fraudulent transactions. The complaint should trigger an automated alert mail from the victim’s bank to beneficiary bank / card issuer / merchants for blocking the flow of funds. The beneficiary bank should immediately block equivalent amount in the account till detailed verification of the reported transaction in the complaint is completed. In case of merchants, sale / dispatch of merchandise should be kept on hold. All these may be implemented as STP, to the extent possible.
+
+5.3.5 Multiple options are available to scan the internet / web ecosystem to identify potential fraudsters. The Committee recognises the importance of vigil in cyberspace and recommends that REs put in place mechanisms to identify fraudsters, especially those impersonating the REs through similar looking websites, posting wrong contact details, etc.
+
+5.3.6 Some banks have deployed additional security measures such as dual authentication through OTP to email and mobile or response to secret question(s) or grid values on Debit Cards for on-line transactions. The Committee recommends that this practice be deployed across the financial sector.
+
+5.4 Grievance Redress
+
+5.4.1 Technology may be leveraged to facilitate the effective design of above mechanisms, which should not impose unreasonable cost, delays or burdens on customers. The needs of customers, including those experiencing vulnerability, should be considered when designing and publicising complaints handling and redress mechanisms.
+
+5.4.2 REs may utilise Artificial Intelligence (AI) / Machine Learning (ML) algorithms etc., to provide auto / instant resolution for complaints involving financial disputes of low amounts.
+
+5.5 Awareness
+
+5.5.1 Financial awareness in respect of new digital products and technologies should be promoted by all REs as a part of wider financial inclusion as well as financial literacy strategy. Appropriate mechanisms should be developed to help customers gain the knowledge, skills, behaviours and attitudes to be aware, understand risks and opportunities, make informed choices, know where to go for assistance, and take effective action to support their financial well-being and resilience. Such mechanisms may also involve enhancing digital financial literacy skills, raising awareness of digital security risks and promoting safe on-line and digital transactions. Following are the initiatives recommended by the Committee to enhance awareness.
+
+5.5.1.1 The Committee recognises the overload of information flowing to the common person. Most of these are in digital modes. However, digital channels also provide most efficient and quickest modes of reaching the customer. Accordingly, it is useful if the willing customers are identified for sharing more detailed communications on specific products and services. The customers may be offered an option of subscription to the alerts for a set domain of banking services.
+
+5.5.1.2 The Call Centre of REs may be designed with a dedicated Interactive Voice Response System (IVRS) flow, sharing the important ‘do’s and don’ts’ to the customer, based on the customer profile / queries including provision of in-house financial advisors for complex queries or sophisticated customers. An automated call back feature in Call Centre, when a call is dropped mid-way, need to be provided. Use of new age technologies such as voice blast, outbound calls, SMS in the mother tongue should be adopted by the REs for enhancing customer awareness. Option to speak to the customer care executive should be part of all menu options.
+
+Chapter-6: List of recommendations
+
+The recommendations made by the Committee are listed, Chapter-wise in the following paragraphs. The paragraph number of the respective Chapter where the recommendation is made is given in brackets.
+
+Chapter-3: Strengthening Customer Service Regulation
+
+1. Strengthening Regulation
+
+1.1 The Reserve Bank may consider progressively moving towards “principle-based” regulation with regard to customer service in the Regulated Entities (REs). These may be based on well-recognised customer-friendly principles, including, but not limited to, Equitable and Fair Treatment, Transparency and Disclosures, Appropriateness and Suitability, Data Protection / Customer Confidentiality, Right to Grievance Redress, etc. [3.2.1.1]
+
+1.2 The Reserve Bank may put in place a suitable structure of incentives and disincentives to encourage REs to take pro-active steps towards enterprise-wide improvements in customer service and impart systemic strength to overall customer protection efforts in the financial sector while imposing a regulatory cost for entities where the quality of customer service is deficient. [3.2.2.1]
+
+1.3 The Reserve Bank may consider making the Charter of Customer Rights enforceable after reviewing and updating it. The Reserve Bank may consider extending the Charter to Non Banking Financial Companies (NBFCs) also. [3.2.3.1]
+
+1.4 The customer service regulation should be consolidated on the principle of same activity same regulation and apply to all the REs depending upon the activity being undertaken by them, irrespective of the category of the REs. [3.2.4.1]
+
+2. Compliance with Regulation
+
+2.1 With a view to ensure that there is uniformity in classifying, recording and reporting of complaints by the REs, the Reserve Bank should lay down a definition of a complaint under the IGR mechanism which should also capture the complaints which are outside the purview of RB-IOS. An indicative definition could be: “Any reference received formally through electronic or paper mode flagging a “deficiency in service”, as defined in RB - IOS, pertaining to all the activities which the RE undertakes and services it offers.” [3.3.1.1]
+
+2.2 Persisting wrong classification / misclassification of complaints by REs may be taken as one of the parameters in the framework for “Strengthening of Grievance Redress Mechanism in banks” put in place by the Reserve Bank and in the rating of the REs proposed in para 3.3.4.1. [3.3.2.1]
+
+2.3 The RBI Ombudsmen (RBIOs) should be empowered, based on the facts of a complaint or a set of similar complaints, to direct the RE concerned to review and undertake suitable corrective action in all such cases and confirm compliance to the Reserve Bank. Being the focal department for Customer Service, Consumer Education and Protection Department (CEPD), may also be empowered to direct all REs to initiate corrective action in such cases, if the deficiency in service, in its view, is widely prevalent. [3.3.3.1]
+
+2.4 The Reserve Bank may develop and publish a “Customer Service and Protection Index” with a view to capture, at the system level, the quality / standards of customer service and extent of customer protection in the REs through a single score. The Index may cover dimensions like adequacy of regulatory and institutional framework in place, customer experience, efficacy of grievance redress, under both IGR and AGR, extent of customer education and awareness, etc. [3.3.4.1]
+
+2.5 The Reserve Bank should assess the quality of customer service through periodic and regular thematic studies across the REs to ensure better compliance to the customer service guidelines. The findings should feed suitably into the framework to improve IGR and the proposed ratings of REs. [3.3.5.1]
+
+2.6 The Reserve Bank, during its supervisory process, should take a view on the reasonableness of charges levied by REs for the services offered. [3.3.6.1]
+
+2.7 In order to address the conflict of interest, and to increase the effectiveness of the Internal Ombudsmen (IO) appointed in the REs, the Reserve Bank may nudge the Indian Banks’ Association (IBA) to create a fund to directly pay the salary / compensation to the IOs of the banks. Similar funds can be created by respective Self-Regulatory Organisations (SROs) for other categories of REs. Alternatively, the Reserve Bank itself may consider creating the fund. Cost of the above fund, thus created, may be recovered from the REs, in proportion to the complaints against them referred to the IOs. [3.3.7.1]
+
+2.8 An RE-agnostic common portal for lodging complaints may be set up by the Reserve Bank so that the customers of any RE can lodge complaints on a single platform. The portal may allocate the complaints to respective REs, enable facility for tracking of the complaint by the complainant and for automatic escalation of rejected complaints to the IOs. Going forward, the Reserve Bank may also consider integrating this platform with its CMS portal to provide for seamless transfer and movement of complaints and data. [3.3.8.1]
+
+2.9 The common complaint platform recommended above must also serve as a platform for data consolidation and management on all types of complaints, redress provided / rejected (both under IGR and AGR) and for advanced data analytics, using frontier technologies such as Artificial Intelligence (AI) / Machine Learning (ML) for complaint segregation, decision support and guidance and feeding improvements in customer service and grievance redress systems at the RE level as well as at the system level. [3.3.8.2]
+
+3. Deposit Insurance cover
+
+3.1 The Reserve Bank may examine whether Deposit Insurance and Credit Guarantee Corporation (DICGC) cover can be extended to bank PPIs and later to non-bank PPIs based on experience gained. [3.4.1.1]
+
+Chapter-4: Improving Customer Service in Regulated Entities (REs)
+
+1. Governance structure for Customer Service in REs:
+
+1.1 The effectiveness of the functioning of the Branch Level Customer Service Committees (BL - CSCs) should invariably be examined and commented upon by the internal audit. [4.3.1.1]
+
+2. Account Operation Services: Deposit Accounts
+
+2.1 Indian Banks’ Association (IBA) may update its Model Operating Procedure (MOP), in line with regulation, for hassle-free settlement of claims in accounts of the deceased account holders, in various scenarios. The MOP may provide for the documents required to be submitted by the claimant. In case nomination exists, the proceeds may be released immediately, upon submission of the required documents. [4.4.1.1]
+
+2.2 Obtaining nomination in deposit accounts may be made mandatory to facilitate hassle-free settlement of claims in case of death of the account holder. Several existing accounts do not have nominations at present. The REs should be asked to obtain nominations in all such cases within a reasonable time period, say three years. [4.4.1.2]
+
+2.3 To obviate the need for visits to the branches / RE premises, by the nominee / heirs, the process for settling deceased claims may also be made available on-line. The on-line facility may provide for submission of all the required documents and their verification. A system of generating digital reference number upon submission of the claim and supportive documents may be made available. The claims may be settled within a reasonable time period, say 30 days from the date of submission of all necessary documents. The timeframe should also apply when the claims are physically submitted. Beyond 30 days, the REs may be required to pay interest at a rate, say two percent higher than the rate at which the deceased person’s deposit was held. [4.4.1.3]
+
+2.4 While the REs should take necessary steps to periodically update KYC, it must be ensured that operations in the account are not stopped. [4.4.2.1]
+
+2.5 The RE should maintain a centralised database of KYC documents of all customers, linked to a unique customer identifier, say the Customer Information File (CIF), obviating the need for submitting KYC documents repeatedly for availing multiple facilities from the same RE. Whenever KYC documents are updated by the customer, the same should be reflected for all other facilities availed by the customer from the RE. [4.4.3.1]
+
+2.6 The REs may adopt a nuanced approach for risk categorisation of the customers. For example, salary earners with inflows and outflows consistent with the customer’s profile need not necessarily be categorised as high risk, even though they may be “high net worth” individuals. Similarly, students can also be categorized as low - risk. [4.4.4.1]
+
+2.7 Repeat presentation of debit mandates / cheques may be done by REs only after obtaining a confirmation from the customer. [4.4.5.1]
+
+2.8 REs should mandatorily send monthly statement of account/s to the registered email ID of the customer. They may continue to provide physical copies when desired by the account holder. [4.4.6.1]
+
+2.9 The transactions undertaken through Unified Payment Interface (UPI) may be kept outside the stipulated limits on debit transactions in saving bank accounts, including Basic Savings Bank Deposit Accounts. [4.4.7.1]
+
+3. Account operation services: Loans and advances
+
+3.1 The highlights of major Terms and Conditions may be provided in prominent font in the first page of the documents / agreement. [4.5.1.1]
+
+3.2 The responsibility of obtaining and renewing the insurance of the primary asset may be an unequivocal responsibility of one of the parties to the agreement, viz., the borrower or the RE, and clearly indicated in the Key Facts Statement / Most Important Terms and Conditions document. [4.5.2.1]
+
+3.3 The Reserve Bank may consider stipulating a time limit for the REs to return the property documents to the borrower from the date of closure of the loan account, failing which a penalty / compensation linked to the extent of delay should automatically be paid by the RE to the borrower. [4.5.3.1]
+
+3.4 In case of loss of property documents, the RE should not only be obligated to assist in obtaining certified registered copies of the documents at their cost but also compensate the customer adequately, keeping in view the time taken to arrange the alternate copies of the documents. [4.5.3.2]
+
+3.5 Keeping the security documents by the REs in digi-lockers may be encouraged as this will facilitate easy retrieval in case the physical documents are misplaced. [4.5.3.3]
+
+4. Loans and advances: Gold Loan Companies (GLCs)
+
+4.1 In case of death of the borrower, a notice may be served to the nominee / legal heir to settle the outstanding and keep the same on record before auctioning the pledged gold. Accountability may be fixed for non-adherence to the due notification process prior to auction of gold. For facilitating this, the GLCs may be required to register nominees while extending loans. [4.5.4.1]
+
+4.2 Circumstances leading to auction of gold and requirement of a notice period should mandatorily be a part of GLC’s Fair Practices Code as well as the Loan Agreement. [4.5.4.2]
+
+4.3 As large volumes of gold loan accounts belong to middle and low income households and rural population, Terms and Conditions should be communicated to them in local / regional languages. Recording of oral communication, if any, must be preserved. [4.5.4.3]
+
+4.4 The loan agreement should incorporate the time limit (maximum one month) within which the surplus, if any, from the auction of gold would be refunded to the customers, failing which the company should be required to pay interest as may be stipulated by the Reserve Bank. Surplus, if any, must be credited to the account of the borrower. [4.5.4.4]
+
+5. Senior Citizens and Differently Abled Persons
+
+5.1 The REs should provide a dedicated telephone number where the senior citizens can call for clarifications, queries and / or guidance with respect to service that they are eligible to avail / want to avail. This number should be displayed at all the branches / website of the RE and also be printed on the passbook / account statement, etc. issued to the senior citizen and disabled persons. [4.6.2.1]
+
+5.2 REs may provide an option for the relatives of the senior citizens to pay upfront for the door-step services as well as other such conveniences, if any, to be availed by their elders. [4.6.3.1]
+
+5.3 The pensioners should be able to submit Life Certificate (LC) at any branch of the bank in which they maintain their pension account. Moreover, they should be allowed to submit LC in any month of their choice to avoid rush in a particular month. Subsequent LCs can be submitted in the same month at annual intervals. [4.6.4.1]
+
+6. Others
+
+6.1 Compensating the customer in case of any injury suffered while availing services at the premises of the RE, due to inadequate / faulty infrastructure, and bearing the medical expenses, if any, should be a part of customer policy of the RE. The REs should take adequate insurance cover for such eventualities, and the customer and staff should be made aware of the same. [4.7.1.1]
+
+6.2 Cross selling of third party products by the sales team of the RE should be subject to verification by the audit function to ensure that there was no mis-selling and all instructions / guidelines with respect to sale of such products were adhered to. [4.7.2.1]
+
+6.3 An easy reference and access to the Relationship Manager (RM) / Sales Person (SP) involved in the sale / advertising of products, services, etc. need to be made available by name and designation and contact details to the customers for clarifications, communicating issues / grievances, if any, till the policy / contract for the product is valid. This information should be available on-line also with link to RE’s homepage. An alternate RM / SP can be appointed, where required, under communication to the customer. The roles and responsibilities must be clearly laid down and accountability ensured. [4.7.3.1]
+
+6.4 Recourse to technology by REs should be a two-way process. Insistence on physical visits, physical presentation of documents, etc. must be avoided to the extent possible. Faceless / Straight Through Processes’ (STPs) may also be adopted by REs for closure of account/s, accepting, acknowledging and tracking the communication by the customer and other similar service requirements to obviate the need to visit the branch. [4.7.4.1]
+
+6.5 All REs should provide a simple customer - facing device / QR Code on the counter where customer can provide her feedback / rating electronically, soon after completing the transaction. [4.7.5.1]
+
+7. Internal Grievance Redress (IGR)
+
+7.1 The REs must ensure that the frontline / customer interfacing staff should be fully conversant with the policies, rules and guidelines, etc. and should also have the decision making power to improve the Turn Around Time (TAT) for disposal of complaints. [4.8.1.1]
+
+7.2 Till the recommendation for a common complaint portal (para 3.3.8.1) is put in place, the REs should have a system to enable the complainant to track the progress in processing of the complaint. The expected time for resolution of the complaint should invariably be communicated to the complainant. If the TAT for resolution is exceeded, the same should be communicated to the complainant, indicating reasons for the delay. [4.8.1.2]
+
+7.3 Customer - facing staff and officers should undergo mandatory training in soft skills to reduce instances of misbehaviour by the errant staff / officers. Adequate knowledge and in-depth understanding of the internal guidelines and the regulatory instructions must be an essential requirement for posting employees in Internal Grievance Redress (IGR) related positions. [4.8.2.1]
+
+Chapter-5: Leveraging Technology for Better Customer Service and Fraud Prevention
+
+1. Service Delivery
+
+1.1 REs may use contextual data as an integral part of their Customer Service Strategy. They should use Customer Relationship Management (CRM) technology to collect customer-related information to create a detailed profile of the customer. These can be stored within a central repository in the CRM, enabling more informed decisions such as developing targeted customer awareness campaigns, upselling, and offering ancillary products. [5.2.1.1]
+
+1.2 Leveraging Conversational Artificial Intelligence (AI), REs should integrate and personalize ChatBots into mobile apps or websites to answer frequently asked questions and get answers anytime, anywhere. ChatBots may also be provided in multiple languages for vernacular customer base. [5.2.1.2]
+
+1.3 In a multilingual country like India, REs should also offer services in multiple and local languages. Appropriate interfaces may be provided in the language with which the customer is conversant. [5.2.1.3.1]
+
+1.4 REs should look at designing a frictionless journey using Straight Through Processing (STP). They may expand digitisation of branches with paperless journeys and self-help kiosks, enabling customers to carry out faster transactions. [5.2.1.3.2]
+
+1.5 Video based Customer Identification Process (V - CIP), an alternate method of customer identification with facial recognition and customer due diligence by an authorised official of the RE by undertaking seamless, secure, live, informed-consent based audio-visual interaction with the customer to obtain identification information required for Customer Due Diligence (CDD) purpose, may be increasingly used. [5.2.1.3.3]
+
+1.6 For pensioners, it should be ensured that digital life certificates are accepted along with issuance of digital acknowledgement receipt. [5.2.1.3.4]
+
+1.7 REs may encourage their customers to adopt digital means as a means for promoting ‘green’, ‘environment friendly’ services. [5.2.1.3.5]
+
+1.8 There is a need for standardisation of ATM interface and ensure a minimum set of functionalities at the ATM by all banks / White Label ATM (WLA) operators. For meeting the needs of physically challenged, senior citizens and those who are not tech - savvy, etc., extra care may be provided by deploying ‘text to speech’ software, ChatBots, multi-language supporting software. [5.2.2]
+
+1.9 Proper messages should be displayed in respect of unsuccessful OFF-US ATM transactions, so that the customer can identify the exact reason why she is not able to undertake transaction/ascertain the status of the transaction. [5.2.3]
+
+1.10 All customer-facing digital interfaces should be designed in a manner that they are easy to navigate. Contextual help should be provided for all relevant data to be input. This help should be available in local languages and if need be, through speech. [5.2.4]
+
+2. Fraud Prevention
+
+2.1 Behavioural analytics, that uses a combination of big data analytics and AI on user behavioural data, should be used to identify patterns, trends, anomalies, and other useful insights to enable timely alerts and provide early warning signals. [5.3.3.1]
+
+2.2 REs may design and deploy safer means of second factor authentication. In this regard, biometric sensors on smartphones such as face / fingerprint / iris scanners can replace physical signatures to make physical presence no longer obligatory. Such integration can also help senior citizens avail banking services with greater ease. Further, such phone-based scanners can augment the OTP based authentication system as an additional factor of authentication and help in reducing frauds. [5.3.3.2]
+
+2.3 REs may provide alerts to customers during “teachable moments”. For example, warnings against sharing of credentials. [5.3.3.3]
+
+2.4 Automatic blacking out of mobile application screen, if screen is shared may be built into for all applications provided by REs. [5.3.3.4]
+
+2.5 On-line facility be made available on the Indian Cybercrime Reporting Portal for registering complaints by members of public in respect of fraudulent transactions. The complaint should trigger an automated alert mail from the victim’s bank to beneficiary bank / card issuer / merchants for blocking the flow of funds. The beneficiary bank should immediately block equivalent amount in the account till detailed verification of the reported transaction in the complaint is completed. In case of merchants, sale / dispatch of merchandise should be kept on hold. All these may be implemented as STP, to the extent possible. [5.3.4.1]
+
+2.6 REs to put in place effective mechanisms to identify fraudsters, especially those impersonating the REs through similar looking websites, posting wrong contact details, etc. [5.3.5]
+
+2.7 REs may deploy additional security measures such as dual authentication through OTP to email and mobile or response to secret question(s) or grid values on Debit Cards for on-line transactions. [5.3.6]
+
+3. Grievance Redress
+
+3.1 REs may utilise Artificial Intelligence (AI) / Machine Learning (ML) algorithms etc., to provide auto / instant resolution for complaints involving financial disputes of low amounts. [5.4.2]
+
+4. Awareness
+
+4.1 As digital channels provide an efficient mode of reaching the customer, there is an overload of information flowing to the common person in digital modes. Accordingly, REs may identify willing customers for sharing more detailed communications on specific products and services. The customers may be offered an option of subscription to the alerts for a set domain of banking services. [5.5.1.1]
+
+4.2 The Call Centre of REs may be designed with a dedicated IVRS flow, sharing the important ‘do’s and don’ts’ with the customer, based on the customer profile / queries, including provision of in-house financial advisors for complex queries or sophisticated customers. An automated call back feature in Call Centre, when a call is dropped mid-way, need to be provided. Option to speak to the customer care executive should be part of all menu options. [5.5.1.2]
+
+4.3 REs may use new age technologies such as Voice blast, Outbound Calls, SMS in the mother tongue for enhancing customer connect and awareness. [5.5.1.2]
+
+---
+
+Annex
+
+| Details of Meetings / Field visits conducted by the Committee |
+| --- |
+| S. No. | Date | Place | Particulars of Meeting / Field Visit |
+| 1. | August 03, 2022 | Mumbai | First Meeting-Laying down the roadmap for the Committee |
+| 2. | September 07, 2022 | Mumbai | Meeting to discuss the Structure of the report; Specific issues related to customer service in REs; stakeholders to be invited; Dates for meetings and field visits. |
+| 3. | September 14, 2022 | Surat | Interaction with Customer of various banks in Surat |
+| 4. | September 14, 2022 | Surat | Interaction with Chairman/Directors of Urban cooperative banks at Surat |
+| 5. | September 14, 2022 | Surat | Interaction with MSME entrepreneurs |
+| 6. | September 14, 2022 | Surat | Unit visit and interaction with President and members of South Gujarat Textile Processors Association (SGTPA) |
+| 7. | September 14, 2022 | Surat | Interaction with President and members of The Southern Gujarat Chamber Of Commerce and Industry (SGCCI) |
+| 8. | September 20, 2022 | Gurugram | Heads of UCBs and NBFCs in Gurugram |
+| 9. | September 20, 2022 | Gurugram | Representatives of Industry Associations (CII, ASSOCHAM, FISME, FICCI) and entrepreneurs |
+| 10. | September 21, 2022 | Gurugram | Interaction with customers of various banks |
+| 11. | September 21, 2022 | Gurugram | Interaction with RBI Ombudsman and CEPC in-charges of Northern zone Offices. (RBIO’s and CEPC in-charges from RBI Chandigarh, Dehradun, Jammu, Kanpur, New Delhi, Lucknow and Kanpur) |
+| 12. | September 28, 2022 | Hyderabad | Interaction with IT experts (National Payments Corporation of India (NPCI), Institute of Development and Research in Banking Technology (IDRBT), Payment Council of India (PCI) and RBI Innovation Hub (RBIH)) |
+| 13. | September 28, 2022 | Hyderabad | Interaction with Officials of Cybercrime, Telangana |
+| 14. | September 28, 2022 | Hyderabad | Interaction with NBFC-MFIs, Local Area Banks and State cooperatives. |
+| 15. | October 11, 2022 | Guwahati | Visit to customers of entities regulated by RBI (Banks and NBFCs, including NBFC, MFI) |
+| 16. | October 12, 2022 | Guwahati | Meeting with RBIOs of Eastern Zone (Ranchi, Patna, Kolkata; Guwahati; Bhubaneshwar) and CEPC & FIDD in-Charge, Guwahati |
+| 17. | October 12, 2022 | Guwahati | Meeting with Regulated Entities |
+| 18. | October 12, 2022 | Guwahati | Interaction with Local Head Office of NABARD and SIDBI |
+| 19. | October 12, 2022 | Guwahati | Interaction with members of SHG, small borrowers, etc. |
+| 20. | March 15, 2023 | Mumbai | Interaction with Stakeholders and domain experts |
+| 21. | March 20, 2023 | Mumbai | Interaction with Chief Editor, Moneylife |
+
+---
+
+1 Professor Emeritus at the University of New Orleans
+
+2 The languages are: Assamese, Bengali, Gujarati, Kannada, Marathi, Malayalam, Odia, Punjabi, Telugu and Tamil.
+
+3 Inaugural Address by Shri Shaktikanta Das, Governor, Reserve Bank of India at the Annual Conference of RBI Ombudsmen held at Jodhpur on October 28, 2022. The full text of the Address is available at the URL https://rbi.org.in/scripts/BS_SpeechesView.aspx?Id=1333
+
+4 Source: World Bank Group. 2017. Good Practices for Financial Consumer Protection, 2017 Edition
+
+5 Principle 1 of G20/OECD High Level Principles on Financial Consumer Protection, available at the URL https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0394#mainText
+
+6 Population Projection for India and States 2011-2036, Report of the Technical Group on Population Projections, National Commission on Population, Ministry of Health and Family Welfare, Government of India (July 2020).
+
+7 United Nations Population Fund (UNFPA) and Help Age International
+
+| Date : 05 Jun 2023 |
+| --- |
+| Report of the Committee for Review of Customer Service Standards in RBI Regulated Entities |
+
+## 2026
+
+- All Months
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+## 2025
+
+- All Months
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+## 2024
+
+- All Months
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+## 2023
+
+- All Months
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+## 2022
+
+- All Months
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+## 2021
+
+- All Months
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+## 2020
+
+- All Months
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+## 2019
+
+- All Months
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+## 2018
+
+- All Months
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+## 2017
+
+- All Months
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+## Archives
+
+## 2016
+
+- All Months
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+## 2015
+
+- All Months
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+## 2014
+
+- All Months
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+## 2013
+
+- All Months
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+## 2012
+
+- All Months
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+## 2011
+
+- All Months
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+## 2010
+
+- All Months
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+## 2009
+
+- All Months
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+## 2008
+
+- All Months
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+## 2007
+
+- All Months
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+## 2006
+
+- All Months
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+## 2005
+
+- All Months
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+## 2004
+
+- All Months
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+## 2003
+
+- All Months
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+## 2002
+
+- All Months
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+## 2001
+
+- All Months
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+## 2000
+
+- All Months
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+## 1999
+
+- All Months
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+## 1998
+
+- All Months
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+## 1997
+
+- All Months
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+## 1996
+
+- All Months
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+## 1995
+
+- All Months
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+## 1994
+
+- All Months
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+## 1993
+
+- All Months
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+## 1992
+
+- All Months
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+## 1991
+
+- All Months
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+## 1990
+
+- All Months
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+Top

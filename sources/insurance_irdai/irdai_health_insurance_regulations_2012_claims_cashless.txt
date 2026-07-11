@@ -1,0 +1,1444 @@
+EXPOSURE DRAFT 
+INSURANCE REGULATORY AND DEVELOPMENT AUTHORITY
+ (HEALTH INSURANCE) REGULATIONS, 2012
+Contents
+1. Chapter 1 – Short Title and Commencement and Definitions, Definitions
+2. Chapter II – Registration of Insurance companies who are exclusively doing health 
+insurance business.
+3. Chapter III - Product Design and Related Issues
+4. Chapter IV – Renewability of Health Insurance Policies
+5. Chapter V – Portability of Health Insurance Policies
+6. Chapter VI - File and Use Procedure for health insurance products
+7. Chapter V II- Protection of Policyholders’ Interest
+8. Chapter VIII - Health Insurance Policy Servicing
+9. Chapter IX- Third Party Administrators
+10. Chapter X - Contract Between Insurer and Hospitals
+11. Chapter XI - Submission of Information through Electronic Returns
+12. Chapter X II- Valuation of Assets & Liabilities; Preparation of Financial Statements;
+Solvency Margin of Insurers and Other Issues
+ANNEXURES
+I. Portability form
+II. Administration of Health Plus Life Combi Products
+II. Electronic Return Non life and Life(photo image)
+THE INSURANCE REGULATORY AND DEVELOPMENT AUTHORITY
+(HEALTH INSURANCE) REGULATIONS, 2012.
+F. No. IRDA/Reg/…./2011 dated ….. - In exercise of the powers conferred under Section 114A of 
+the Insurance Act 1938 and Section 14 read with section 24 of the IRDA Act 199 and in consultation 
+with the Insurance Advisory Committee, the Authority hereby makes the following regulations, 
+namely:-
+CHAPTER 1
+1. Short title and commencement. 
+a.These regulations may be called Insurance Regulatory and Development Authority (Health 
+Insurance) Regulations, 2012
+b. They shall come into force from the date of their publication in the Official Gazette by the Central 
+Government.
+c. Unless otherwise provided by this regulation, nothing in this regulation shall deem to invalidate the 
+health insurance contracts entered prior to these regulations coming into force.
+d. These Regulations are applicable to all life, non life and health insurers, if any conducting health 
+insurance business as defined under these regulations.
+1.1 Definitions.
+In these Regulations, unless the context otherwise requires,--
+a) “Act” means the Insurance Act, 1938.
+b) "Agreement" means an agreement entered into between a Third Party Administrator and an 
+insurance company prescribing the terms and conditions of services, which may be rendered to 
+Insurance Company; or an agreement entered into between a Hospital /Health care provider 
+and an Insurance Company, and may include TPA as a tri-party, prescribing the terms and 
+conditions, which may be rendered to insured persons of the Insurance Company. 
+c) “Authority” means Insurance Regulatory and Development Authority of India established 
+under sub section 1 of section 3 of the IRDA Act 1999.
+d) “Break in policy” A break in policy occurs when the premium due on a given policy is not 
+paid on or before the premium renewal date or within 30 days thereof. 
+e) “Cashless facility” means a facility provided to the insured by an insurer, to make payments 
+of treatment costs directly to the hospital in respect of treatment undergone in a network 
+provider, to the extent of approval given in the pre-authorization where such treatment is in 
+accordance with the policy terms and conditions.
+f) “Health insurance business” means the effecting of insurance contracts which provide for 
+sickness benefits or medical, surgical or hospital expense benefits, travel health insurance and 
+personal accident cover ;‟
+g) "Health Services" means all the services to be rendered by a TPA under an agreement with an 
+insurance company in connection with "health insurance business" or „health cover‟ as defined 
+in regulation 2(f) of the IRDA (Registration of Indian Insurance Companies) Regulations, 
+2000, but does not include the business of an insurance company or the soliciting, directly or 
+through an insurance intermediary including an insurance agent, of insurance business.
+h) “Health plus Life Combi Products” shall mean the combination of Pure Term Life Insurance 
+cover offered by life insurance companies and Health Insurance cover offered by non life 
+insurance companies.
+i) “Network Provider” means hospitals or health care providers which have an agreement with 
+the insurer to settle claims through cashless facility.
+j) “Portability” Portability means the right accorded to an individual health insurance 
+policyholder (including family cover) to transfer the credit gained by the insured for preexisting conditions and time bound exclusions if the policyholder chooses to switch from 
+one insurer to another insurer or from one plan to another plan of the same insurer, provided 
+the previous policy has been maintained without any break.
+k) “Senior citizen” means any person who is sixty or more years of age as on the date of 
+commencement of insurance policy.
+l) “Third Party Administrators or TPAs” means any person who is licensed by the Authority, 
+and is engaged, for a fee or remuneration by an insurance company, for the provision of health 
+services;
+m) All words or expressions not defined in these regulations but defined in the Insurance Act 
+1938 or Insurance Regulatory and Development Authority Act 1999 shall have the same 
+meanings respectively assigned to them in those Acts. 
+CHAPTER II
+Registration of insurance companies who are exclusively doing health insurance business 
+2. Procedure for Registration
+2.1. The Insurance Regulatory and Development Authority (Registration of Indian Insurance 
+Companies) Regulations 2001 shall apply mutatis mutandis to all insurance companies who 
+are exclusively doing health insurance business. 
+2.2. All insurance companies who are exclusively doing health insurance business shall satisfy the 
+capital requirements as specified by the Authority from time to time.
+CHAPTER III
+ Product Design and Related Issues
+3.1 Entry and Exit Age
+3.1.1. All health insurance policies shall provide for entry age at least up to 65 years, 
+except for those referred in regulation 3.6.
+3.1.2. All health insurance policies shall not have an exit age for renewal of the policies, 
+once the proposal is accepted, provided policy is continuously renewed without 
+break.
+3.2. Term of health insurance policies
+3.2.1. For all products offered to individuals, life insurers shall offer products with 
+policy term of at least 4 years and non-life insurers shall offer products for not 
+more than 3 years 
+3.2.2. For all products offered as Group Policies, all life insurance companies and nonlife insurance companies shall offer only one year Renewable Group Health 
+Insurance Policies.
+3.3. Assignment
+3.3.1. No assignment of health insurance policies shall be allowed irrespective of 
+whether they are indemnity or benefit based.
+3.4. Pan India Access: 
+3.4.1. All health insurance policies shall allow access for treatment in network provider 
+or in any hospital which is not part of the network provider across pan India
+except in unauthorised hospitals excluded from providing health care services for 
+health insurance policies.
+3.4.2. The insurer shall explicitly state all the terms and conditions with respect to 
+availability and availing of treatment across pan India in the policy document.
+3.4.3. If different terms are offered for availing treatment across pan India, this shall be 
+stated explicitly in all the promotion material and shall have suitable provisions 
+built into the proposal form.
+3.5. Travel Medical Insurance Policy
+3.5.1. Travel medical policies may be offered either as
+a. a standalone product or 
+b. an add-on cover to existing health policy as and when existing policyholder 
+travels by charging suitable premium for the add-on cover as approved by 
+the Authority under File And Use Procedure. 
+3.6. Option to migrate to suitable health insurance policy:
+3.6.1. In health insurance policies, where the covers offered are specific to a particular 
+age groups like maternity covers, children covered under a family floater policies, 
+cover offered to students etc, insurers shall offer an option to migrate to a suitable 
+health insurance policy, at the renewal of the policy or at the end of the specified 
+exit age, by providing suitable credits for all the previous policy years, provided 
+the policy has been maintained without break.
+3.7. Cumulative bonus:
+3.7.1. In a health insurance policy, insurer may offer cumulative bonus which shall be stated 
+explicitly in the prospectus and the policy document. Such cumulative bonus shall be 
+considered along with the sum insured to arrive at the sub-limits. 
+3.7.2. If a claim is made in any particular year, the cumulative bonus accrued may be treated 
+as below:
+a. May be reduced at the same rate at which it is accrued; or
+b. May be utilised to enhance the sum insured by accepting the pro-rate premium to the 
+extent of cumulative bonus to be reduced in that particular year;
+3.7.3. Once the insured opts for 3.7.2 (b), it shall not be reduced in the subsequent years. 
+3.8. General Provisions 
+3.8.1. Any differences in product specifications for different age groups or for different 
+entry ages must be clearly disclosed upfront in prospectus and policy documents. 
+3.8.2. Insurer shall not compel the insured to migrate to other health insurance products, 
+if it is to the disadvantage of Insured.
+3.8.3. Insurers shall ensure adequate dissemination of product information on all their 
+health insurance products on their websites. This information shall include a 
+description of the product, copies of the prospectus, proposal form, policy clauses 
+and premium rates inclusive and exclusive of Service Tax as applicable.
+3.8.4. Insurers shall individually and collectively take steps for evolving mechanisms for 
+sharing of information among themselves about such persons / hospitals / 
+institutions that are guilty of making or supporting fraudulent claims.
+3.9. Underwriting 
+3.9.1. All insurance companies shall obtain all the required information in the proposal 
+form and underwrite the proposals in accordance with the Board approved 
+underwriting policy. 
+3.9.2. Any proposal for health insurance which is denied on any grounds shall be made 
+in writing with reasons furnished and recorded. Such reasons shall be justifiable, 
+transparent and fair. The insured shall be informed of any loading charged on the 
+premium. 
+3.9.3. If insurance company intends to call for any further information at subsequent 
+stages of policy with respect to change in occupation or at the time of renewal, the 
+insurance company shall:
+a. prescribe standard forms to be filled up by the insured and shall make these 
+forms part of the policy document 
+b. Clearly state the events which will result in submission of such forms. 
+c. Clearly state the conditions applicable in such events
+3.9.4. Insurers shall devise mechanisms to reward policyholders for early entry,
+continued renewals, favourable claims experience etc with the same insurer and 
+disclose upfront in prospectus and policy document, as approved under File and 
+Use. 
+3.9.5. The information that the insurer has already captured at the time of 
+underwriting/accepting the proposal, the terms & conditions offered under the 
+policy based on underwriting and subsequent claims experience emerged during 
+the policy shall form the basis for claim settlement.
+3.10. Cost of pre-insurance health check up 
+3.10.1. In case of non-life insurers, where the proposal is accepted and subsequently 
+resulted into a policy, in all such cases, insurers shall reimburse at least 50% of the 
+cost if any, incurred by the insured in pre-insurance medical examination.
+ Provided, for travel medical insurance policy where the premium levied is less 
+than the costs incurred by the insured in pre-insurance medical examination, the 
+insurer may not reimburse the cost of pre-insurance health check-up.
+3.10.2. In case of life insurers, where the proposal is accepted and subsequently resulted 
+into a policy, in all such cases, insurers shall incur the costs and may suitably 
+allow such costs incurred by the insured in pre-insurance medical examination 
+within the premium levied to the policyholder.
+3.10.3. Insurers shall enlist or empanel government medical institutions and/or other 
+relevant institutions from which such pre-insurance medical examination reports 
+will be accepted by them. 
+3.11. Special Provisions for Insured Persons who are Senior Citizens
+3.11.1. The premium charged for health insurance products offered to senior citizens shall 
+be fair, justified, transparent and duly disclosed upfront. The insured shall be 
+informed of any loading charged on the premium. 
+3.11.2. All health insurers and TPAs, as the case may be, shall establish a separate 
+channel to address the health insurance related claims and grievances of senior 
+citizens.
+3.12. Pricing of Health Insurance Products
+3.12.1. The premium charged for any health insurance product offered shall be fair, 
+justified, transparent and duly disclosed upfront. The insured shall be informed of 
+any loading charged on the premium. 
+3.12.2. For calculation of premium for health insurance policies, the completed age of the 
+prospect on the date of commencement of insurance shall only be reckoned.
+3.12.3. For the purpose of providing cover under family floater, the premium levied shall 
+take in to account the impact of the multiple incidence rates for all the family 
+members proposed to cover and shall be filed under the File and Use. 
+3.12.4. The premium for the health insurance products shall be evaluated appropriately 
+after assessing the financial sustainability and viability of the product with respect 
+to the rates, loadings and discounts.
+3.12.5. The discounts and loadings offered shall be objective and disclosed upfront in the 
+prospectus and policy document, as approved under the File and Use.
+3.12.6. The premiums shall not be allowed to increase for a period of 1 year once the 
+product is cleared by the Authority;
+3.12.7. In case of revision of premium rates after completion of such period as stated in 
+3.12.6, the insurer shall submit under the File and Use Procedure the justification 
+for the revised pricing; the recent three years claims experience on the original 
+pricing along with the expected experience and the reasoning; expected claims 
+experience and the rationale/assumptions for the proposed pricing along with the 
+particulars on how the proposed pricing would meet the adversities experienced, if 
+any. 
+3.12.8. At the time of filing the product under the File and Use procedure, the insurer 
+shall provide complete pricing details along with all the assumptions, loadings
+allowed in the premium determination.
+3.13Loading on Renewals:
+3.13.1 If the individual claims experience, for each of the three consecutive policy years 
+other than the current policy year, is more than 500% of the premium under the 
+current policy, the insurer at the time of subsequent renewal may:
+a. Apply the malus as referred in the regulation 3.7.2 (a)
+b. Load the premium as per the pre-determined table, disclosed at the outset in 
+prospectus and policy document, which is approved as per the File and Use 
+procedure.
+c. Accept the renewal at the prevailing premium rates without any loading or 
+malus.
+3.14 Free Look Period
+3.14.1 Health insurance policies offered by the non-life insurers having duration of three 
+years or more and health insurance policies offered by the life insurers shall have a 
+free look period. The free look period shall be applicable at the inception of the 
+policy and:
+a) The insured has a period of 15 days from the date of receipt of the documents 
+to review the terms and conditions of the policy and
+b) Where the policy holder disagrees to any terms and conditions, the insured has 
+the option to return the policy stating his reasons for the objections.
+c) If the insured has not made any claim during the free look period, the insured 
+shall be entitled toi. refund of the premium paid subject only to a deduction of the expenses 
+incurred by the insurer on medical examination of the insured persons 
+and the stamp duty charges or;
+ii. where the risk has already commenced and the option of return of the 
+policy is exercised by the policyholder, refund will also be subject to a 
+deduction for proportion risk premium for period on cover or;
+iii. Where only a part of the risk has commenced, such proportionate risk 
+premium shall be calculated so as to commensurate with the risk covered 
+during such period.
+iv. In respect of unit linked policy, in addition to the deductions in subclause(1) of this regulation, the insurer shall also be entitled to repurchase 
+the unit at the price of the units on the date of cancellation. 
+3.14.2 Non-life insurers may voluntarily provide for free look period even for health 
+insurance policies of duration less than three years. The terms and deductions 
+admissible in the above sub-clause (1) (a) to (1) (c), as relevant, shall apply to such 
+health insurance policies. 
+3.15 Upper Limit on the Cover Offered:
+3.15.1 For any health insurance policy, if the insurer has prescribed any upper limit with 
+respect to the cover offered, the insurer shall not accept any proposal beyond such 
+upper limit.
+3.15.2 The insurer shall ensure that the systems in place shall accept proposals only up to 
+the prescribed upper limits. 
+3.15.3 If any proposal is accepted beyond such upper limit, the insurer shall not deny any 
+claim on the ground that the policy exceeds the upper limit prescribed for that 
+policy. 
+3.16 Multiple Policies
+3.16.1 If two or more policies are taken by an insured during a period from one or more 
+insurers, the contribution clause shall not be applicable for such policies where the 
+cover/benefit offered:
+a. is fixed in nature;
+b. does not have any relation to the treatment costs;
+3.16.2 In case of multiple policies which provide fixed benefits, on happening the event 
+in accordance with the terms and conditions of the policies, the insurer shall make 
+the claim payments independent of payments received under other similar polices. 
+3.16.3 If two or more policies are taken by an insured during a period from one or more 
+insurers, where the purpose of such policies is to indemnify the treatment costs, the 
+insurer shall not apply the contribution clause, but the policyholder shall have an 
+option to chose insurer with whom the claim to be settled. In all such cases, the
+insurer shall be obliged to settle the claim without insisting for contribution clause.
+3.17 AYUSH Coverage
+3.17.1 Insurers may provide coverage to non-allopathic treatments provided the treatment 
+has been undergone in a government hospital or in any institute recognized by 
+government and/or accredited by Quality Council of India/National Accreditation 
+Board on Health or any other suitable institutions. 
+3.18 Standard Definition used in health insurance policies
+3.18.1 All insurers shall adhere to the stipulated definitions, if any, as issued by the 
+Authority from time to time.
+3.19 Standard Nomenclature and Procedures for Critical Illnesses
+3.19.1 All Policies offering critical illness coverage shall ensure that definitions of such
+terms and are in line with the definitions stipulated, if any, by the Authority from 
+time to time.
+3.20 Standard List of Excluded Expenses in Hospitalization Indemnity policies
+3.20.1 For the purpose of hospitalization indemnity policies, the generally accepted list of 
+excluded items, if any, may be stipulated by the Authority from time to time. 
+3.20.2 However, Insurers may include these exclusions as part of the cover, if the product 
+design allows for it or if the cover offered includes these as part of hospitalization 
+expenses. Insurers depending on the product design, shall clearly state the list of 
+excluded items for each product out of the list stipulated, if any, by the Authority 
+from time to time and such list shall be annexed to the policy document
+3.21 Database for health insurance products:
+3.21.1 All insurers filing health insurance products shall complete and submit Database 
+Sheet, if any, as stipulated by the Authority from time to time, as part of file and 
+use procedure.
+3.21.2 The Database shall be certified by the Head of Product Development and 
+countersigned by Compliance Officer.
+3.22 Withdrawal of Health Insurance Product
+3.22.1 To withdraw a health insurance product, the insurer shall take prior approval of the 
+Authority by giving reasons for withdrawal and complete details of the treatment 
+to the existing policyholders.
+3.22.2 Any product that is being offered in the market by insurance companies shall not 
+be allowed to be withdrawn in respect of the existing customers of the product, 
+unless, the existing customers are given an option to switch to a similar product 
+under specific written consent.
+3.22.3 The withdrawn product shall not be offered to the prospective customers.
+3.23 Customer Information Sheet – Insurer shall provide the customer information sheet to the 
+prospective policyholder. The document shall be:
+3.23.1 A one page document in legible font, unless the product is a composite product.
+3.23.2 In simple language.
+3.23.3 Covering key benefits, exclusions and grievance mechanisms.
+3.23.4 A complete document in itself, without any reference made to policy document or 
+any other document.
+3.23.5 Insurers shall design Customer Information Sheet as per the format stipulated by 
+the Authority from time to time. 
+3.23.6 All Insurers shall file the Customer Information Sheet along with policy document 
+at the time of filing product under file and use procedures. 
+Chapter- IV
+Renewability of Health Insurance Policies
+4.1 A health insurance policy shall be ordinarily renewable except on grounds of fraud, moral hazards 
+or misrepresentation. The renewal of the health insurance policy sought by the insured shall not be 
+denied arbitrarily. And if denied, shall provide the policyholder with cogent reasons for non-renewal 
+of the health insurance policy. 
+Explanation I:- the insurer shall not reject the renewal of the health insurance policy on 
+the ground that the insured had made a claim or claims in the previous or earlier years.
+4.2 Insurer shall not compel the insured covered under one health insurance product to shift to 
+another health insurance product except in cases where a specific product has been upgraded or 
+discontinued with the prior approval of the Authority. 
+4.3 Subject to the provisions of these regulations, prospectus of health insurance policy shall contain 
+disclosures about the terms of its renewal. 
+4.4 The disclosures as aforesaid shall mandatorily contain material information regarding:-
+a) coverage and estimated premium for future renewals of the policy
+b) disclosure of the maximum age up to when the renewal would be available, if product is 
+offered to specified age groups.
+c) any changes in the scope of the cover after certain duration of the policy or after a certain agesuch as including but not limited to coverage for pre-existing diseases;
+d) whether renewal premium would be guaranteed or subject to revision;
+e) the premium being charged at different age slabs;
+f) details of specific circumstances where premium could be loaded (or discount withdrawn) by 
+the insurer and also to the extent to which it could be done.
+g) Procedure and terms for enhancing the sum insured or scope of cover , if any
+4.5 The insurer shall provide for a mechanism to condone delay of renewal up to 30 days from the 
+renewal due date, in line with break in policy.
+4.6 For the purpose of this clause, the insurer shall also state, including but not limited to, the fact that 
+coverage would not be available for break in period.
+4.7 Notwithstanding anything contained in these regulations, no revision in the premium structure or 
+terms of health insurance policies shall be affected without prior approval of the Authority
+4.8 The insurers shall intimate such revision to the policyholders at least three months prior to the date 
+of renewal of the cover. In such cases where the insurer has revised the premiums or the terms and 
+conditions of the policy, the insurer shall send a renewal notice for health insurance policies to the 
+policyholder. 
+4.9 Where such renewal notice envisages a premium higher than that paid in the previous year, the 
+notice shall explain the reason for the increase in premium and also quantum of the increase in 
+premium which is in accordance with the disclosures earlier made in the prospectus.
+4.10 Benefit based policies where policies terminate on happening of the event as per the terms and 
+conditions of the policy; renewability clause shall explicitly state such conditions in the promotion 
+material and the policy document. Ex. Critical illness benefits policies. 
+Chapter V
+Portability of Health Insurance Policies
+5.1 A policyholder desirous of porting his policy to another insurance company shall apply to 
+such insurance company at least 45 days before the premium renewal date of his/her existing 
+policy.
+5.2 Insurer may not be liable to offer portability if policyholder fails to approach the new insurer 
+at least 45 days before the premium renewal date. 
+5.3 Portability shall be opted by the policyholder only as stated in 5.1 and not during the 
+currency of the policy.
+5.4 In case insurer is willing to consider the proposal for portability even if the policyholder 
+fails to approach insurer at least 45 days before the renewal date, it may be free to do so. 
+5.5 Where the outcome of acceptance of portability is still waiting from the new insurer on the 
+date of renewal
+5.5.1the existing policy shall be allowed to extend, if requested by the policyholder, for the 
+short period by accepting a pro- rate premium for such short period, which shall be of 
+at least one month and 
+5.5.2shall not cancel existing policy until such time a confirmed policy from new insurer is 
+received or at the specific written request of the insured
+5.5.3the new insurer, in all such cases, shall reckon the date of the commencement of risk to 
+match with date of expiry of the short period, wherever relevant.
+5.5.4if for any reason the insured intends to continue the policy further with the existing 
+insurer, it shall be allowed to continue by charging a regular premium and without 
+imposing any new condition.
+5.6 In case the policyholder has opted as in 55.1, and there is a claim, then existing insurer may 
+charge the balance premium for remaining part of the policy year provided the claims is 
+accepted by the existing insurer. In such cases, policyholder shall be liable to pay the 
+premium for the balance period and continue with existing insurer for that policy year.
+5.7 On receipt of such intimation, the insurance company shall furnish the applicant, the 
+Portability Form as set out in Annexure „I‟ to these guidelines together with a proposal form 
+and relevant product literature on the various health insurance products which could be 
+offered.
+5.8 The policyholder shall fill in the portability form along with proposal form and submit the 
+same to the insurance company.
+5.9 On receipt of the Portability Form, the insurance company shall address the existing 
+insurance company seeking necessary details of medical history and claim history of the 
+concerned policyholder. This shall be done through the web portal of the IRDA.
+5.10 The insurance company receiving such a request on portability shall furnish the 
+requisite data in the data format for porting insurance policies prescribed in the web portal of 
+IRDA within 7 working days of the receipt of the request.
+5.11 In case the existing insurer fails to provide the requisite data in the data format to the 
+new insurance company within the specified time frame, it shall be viewed as violation of 
+directions issued by the IRDA and the insurer shall be subject to penal provisions under the 
+Insurance Act, 1938. 
+5.12 On receipt of the data from the existing insurance company, the new insurance 
+company may underwrite the proposal and convey its decision to the policyholder in 
+accordance with the Regulation 4 (6) of the IRDA (Protection of Policyholders‟ interest) 
+Regulations, 2002.
+5.13 If on receipt of data within the above time frame, the insurance company does not 
+communicate its decision to the requesting policyholder within 15 days in accordance with 
+its underwriting policy as filed by the company with the Authority in accordance with clause 
+6 of IRDA Form R2 of IRDA (Registration of Indian Insurance Companies) Regulations, 
+2000 and clause 14-15 of F&U Guidelines (circular no. 021/IRDA/F&U/Sep. 06 dated 28th
+September 2006), then the insurance company shall not retain the right to reject such 
+proposal and shall have to accept the proposal.
+5.14 In order to accept a policy which is porting-in, insurer shall not levy any additional 
+loading or charges exclusively for the purpose of porting. 
+5.15 No commission shall be payable to any intermediary on the acceptance of a ported 
+policy. 
+5.16 Portability shall be allowed in the following cases:
+5.16.1 All individual health insurance policies issued by non-life insurance companies 
+including family floater policies
+5.16.2 Individual members, including the family members covered under any group health 
+insurance policy of a non-life insurance company shall have the right to migrate from 
+such a group policy to an individual health insurance policy or a family floater policy 
+with the same insurer. Thereafter, he/she shall be accorded the right mentioned in 
+5.16.1 above.
+5.17 For any health insurance policy, waiting period with respect to pre-existing diseases 
+and time bound exclusions shall be taken into account as follows:-
+S. 
+No
+No of years of continuous 
+insurance cover with 
+previous insurer (s)
+Waiting period to be served with new insurer in 
+number of days/years
+YY Days 1 Year 2 years 3 years 4 years
+I. XX Days at inception (XXno of days as per the policy 
+document)
+(YY-XX) 
+Days
+N/A N/A N/A N/A 
+II. For 1 year period exclusion:
+1 year N/A Nil 1 Year 2 Years 3 Years
+III. For 2 year period exclusion: 
+1 year N/A Nil 1 Year 2 Years 3Years
+2 years N/A Nil Nil 1 Year 2 Years
+IV. For 3 year period exclusion:
+1 year N/A Nil 1 Year 2 Years 3 Years
+2 years N/A Nil Nil 1 Year 2 Years
+3 years N/A Nil Nil Nil 1 Year
+V. For 4 year period exclusion:
+1 year N/A Nil 1 Year 2 Years 3 Years
+2 years N/A Nil Nil 1 Year 2 Years
+3 years N/A Nil Nil Nil 1 Year
+4 years N/A Nil Nil Nil Nil
+Note 1: In case the waiting period for a certain disease or treatment in the new policy is longer than 
+that in the earlier policy for the same disease or treatment, the additional waiting period should be 
+clearly explained to the incoming policy holder in the portability form to be submitted by the 
+porting policyholder. 
+Note 2: For group health insurance policies, the individual member‟s shall be given credit as per the 
+table above based on the number of years of continuous insurance cover, irrespective of, whether 
+the previous policy had any pre-existing disease exclusion/time bound exclusions 
+6.12 The portability shall be applicable to the sum insured under the previous policy and also to an 
+enhanced sum insured, if requested by the insured, to the extent of cumulative bonus acquired from 
+the previous insurer(s) under the previous policies. 
+For e.g. - If a person had a SI of RS 2lakhs and accrued bonus of Rs 50, 000 with insurer A; when he 
+shifts to insurer B and the proposal is accepted, insurer B has to offer him SI of Rs 2.50lakhs by 
+charging the premium applicable for Rs 2.50lakhs. If insurer B has no product for Rs 2.50lakhs, 
+insurer B would offer the nearest higher slab say Rs 3lakhs to insured by charging premium applicable 
+for Rs 3lakhs SI .However, portability would be available only up to Rs 2.50lakhs. 
+5.18 Insurers shall clearly draw the attention of the policyholder in the policy contract and 
+the promotional material like prospectus, sales literature or any other documents in any form 
+whatsoever, that:
+5.18.1 all health insurance policies are portable;
+5.18.2 policyholder should initiate action to approach another insurer, to take advantage of 
+portability, well before the renewal date to avoid any break in the policy coverage due 
+to delays in acceptance of the proposal by the other insurer.
+5.19 The insurer shall comply with the “Guidelines on Procedures to Be Adopted by 
+Insurance Companies on Health Insurance Portability” annexed as Annexure II and as 
+amended by the Authority from time to time. 
+I I I I I I I 
+Chapter VI
+ File and Use Procedure for health insurance products
+6.1 All new health insurance products are required to be filed as per the File and Use
+guidelines and the information shall be furnished in the formats stipulated by the 
+Authority from time to time.
+6.2 For any revision or modification of the existing health insurance products, the insurer 
+shall file as per the formats stipulated by the Authority from time to time along with the 
+reasons for the proposed modification. 
+Chapter VII
+ Protection of Policyholders’ Interest
+7.1 The IRDA (Policyholder Protection of Interest) Regulations, 2002 (hereinafter referred as 
+“2002 Regulations” shall be applicable mutatis mutandis to all health insurance policies, 
+wherever relevant. 
+7.2 Unless otherwise inconsistent with this sub-clause, Regulation 8 and 9 of the 2002 Regulations 
+shall apply to all health insurance policies.
+7.3 Settlement of claim: On receipt of complete documents, an insurer shall within a period of 30 
+days offer a settlement of the claim to the insured. If the insurer, for any reasons to be recording in 
+writing and communicated to the insured, decides to reject a claim under the policy, it shall do so 
+within a period of 30 days from the receipt of complete documents. 
+7.4 Timeline for Submission of claims documents:
+7.4.1 Insurer may stipulate a time limit latest by which the claims documents should be 
+furnished by the policyholder/insured to make a claim.
+7.4.2 In case of non submission of timely submission of claims documents, insurers shall 
+not repudiate such claims unless and until the reasons of delay are categorically 
+enquired about, reasons recorded and the insurers sufficiently satisfy that the delayed 
+claims could have otherwise been rejected if reported in time.
+7.4.3 All insurers shall develop a sound mechanism of their own to handle such claims with 
+utmost care and caution. The insurers shall incorporate additional wordings in the 
+policy documents, suitably providing insurers‟ decision to condone delay on merit for 
+claims which are not submitted in time, but if substantiated by the insured that the 
+delay is beyond his/her control and due to exceptional/ unavoidable circumstances.
+Chapter VIII
+ Health Insurance Policy Servicing 
+8.1 Administration of Network Provider
+a. Subject to the provision of these regulations, the Network Provider may be subject to 
+change from time to time by the insurer.
+b. The insurers shall inform the policy holders at all times, the nearest network provider 
+where cashless facility is available and conditions, if any thereof.
+c. Insurer shall display and update the list of Network Providers on their website as and when 
+the list of Network providers is modified and inform the insured suitably.
+d. Where a policyholder has been issued a pre-authorisation for the conduct of a given 
+procedure in a given hospital or if the policyholder is already undergoing such treatment at 
+a hospital, and such hospital is proposed to be removed from the list of Network Provider, 
+then insurers shall provide the benefits of cashless facility for such policy holder as if such 
+hospital continues to be on the Network Provider list.
+8.2 For the purpose of claim settlement, insurer shall make direct payments to the Network 
+provider and to the policyholders by integrating their banking system platform with the 
+network provider or the insured, as the case may be.
+8.2.1 Explanation: - This shall be applicable to claim settlement of all health 
+insurance business. .
+8.3 Administration of Health Plus Life Combi Products
+8.3.1 The provisions of this regulation shall also be applicable mutatis mutandis to 
+Health component of the Health Plus Life Combi Products. 
+8.3.2 The administration of all health plus life combi products shall be in accordance 
+with the Annexure II, amended from time to time by the Authority.
+8.4 Standard Pre-authorization and Claim form 
+8.4.1 All insurers shall adhere to the stipulated claim forms prescribed by the 
+Authority, if any from time to time. 
+8.5 Identity Cards issued to policyholder to avail cashless facility
+8.5.1 To avail the benefit of cashless facility, insurers shall issue the Identification
+card either through a TPA or directly, within 15 days from the date of issue of 
+policy.
+8.5.2 The identification card shall carry details of the policyholder and logo of the 
+insurer. The validity of card shall not exceed the term of the policy. In case the 
+policy is renewed, provisions to be established by the insurer to ensure there 
+shall not be any need for re-issue of fresh cards provided there is no change in 
+the details of the policyholder. 
+Chapter IX
+Third Party Administrators
+9.1 Health Services:
+9.1.1 The insurer shall provide the health services required to the insured to process 
+the claims either directly or may utilize the services of the TPA under an 
+agreement, who are licensed to provide health services in accordance with the 
+IRDA (Third Party Administrators) Regulations, 2002.
+9.1.2 The Authority may modify or bring in additional requirements with respect to 
+the provisions of the IRDA (Third Party Administrators) Regulations, 2002 
+from time to time. 
+9.2 Bar on Non-insurance healthcare schemes
+9.2.1 The TPA shall offer the health services in accordance with the IRDA (Third 
+Party Administrators) Regulations, 2002 only to the insurers registered in India 
+and shall not provide any services directly to non-insurance healthcare schemes 
+or health insurance schemes promoted, sponsored or approved either by any 
+person or by Central or State government. 
+9.3 Agreement with insurance company
+9.3.1 A copy of the agreement entered into between the TPA and the insurance 
+company or any modification thereof, shall be filed, within 15 days of its 
+execution or modification, as the case may be, with the Authority. 
+9.3.2 More than one TPA may be engaged by an insurance company and, similarly, a 
+TPA can serve more than one insurance company. 
+9.3.3 The parties to the agreement shall agree between themselves on the scope of the 
+contract and the facilities that have to be provided. Such an agreement shall also 
+prescribe the remuneration that may be payable to the TPA by the insurance 
+company.
+9.3.4 Insurers who enter into agreement with unlicensed organizations or companies 
+to act as TPA is outside the scope of the provisions of the Act and the 
+regulations and the insurers as well as the organizations who style themselves as 
+service providers would attract penalty under the provisions of the Act or 
+regulations.
+9.3.5 The Authority from time to time may prescribe minimum standard clauses to be 
+included in the agreement between insurer and TPA.
+9.4 Change of TPAs for servicing of Health Insurance Policies
+9.4.1 A change in the TPA by the insurer shall be communicated to the policyholders 
+30 days before giving effect to the change.
+9.4.2 The contact details like helpline numbers, addresses, etc. of the new TPA shall 
+be made immediately available to all the policyholders in case of change of 
+TPA.
+9.4.3 The insurers shall take over all the data in respect of the policies serviced by the 
+earlier TPA and make sure that the same is transferred seamlessly to the newly 
+assigned TPA. It shall be ensured that no inconvenience or hardship is caused to 
+the policyholders as a result of the change. In this regard, the following aspects 
+shall receive special attention:
+a. Status of cases where pre-authorization has already been issued by existing 
+TPA.
+b. Status of cases where claim documents have been submitted to the existing 
+TPA for processing. 
+c. Status of claims where processing has been completed by the TPA and 
+payment is pending with the insurer/ TPA.
+9.4.4 Settlement /denial of claims:
+9.4.5 TPA shall, in the correspondence to the policyholder with respect to
+settlement/denial of the claims, state clearly the following:
+ “As per the instructions of the insurer, the claim is being 
+settled/denied for Rs. on account of . For any further clarifications, you may contact directly to the insurer.”
+9.4.6 The above statement shall form the mandatory part of the communication to be 
+sent to the policyholder in case of settlement /denial of the claims.
+9.4.7 The insurer shall be responsible to see that proper and prompt service is 
+extended to the policyholders at all times.
+Chapter X
+10 Contracts between Insurer and Hospitals
+10.1 All insurers shall have an agreement directly with the hospitals to establish the list of 
+Network providers. The insurer shall be responsible for carrying out an empanelment 
+process of hospitals or health care providers to provide cashless facility to policyholder.
+10.2 The insurer may include the TPA as a tri-party in the agreement with the hospital; 
+however, the entire responsibility lies with the insurer. 
+10.3 The insurer shall develop a proper system of empanelment of hospitals or health care 
+providers which summarizes the desired infrastructure for inpatient and day care services 
+with respect to hospitals and other health facilities to be empanelled. This process shall be 
+carried out by the insurer directly to ensure that the hospital are equipped with all the 
+necessary infrastructure to enable the insurer to handle the claim in a seamless manner. 
+10.4 The insurance company shall ensure that adequate number of both public and private 
+providers shall be empanelled. They shall also make efforts that the empanelled providers 
+are spread across different cities of the country and not confined only to metro cities.
+10.5 The service agreements between the insurer and empanelled network Providers shall 
+make provisions for the tariff applicable with respect to various kinds of health care 
+services, non-compliance/default clause while signing the same. 
+10.6 The insured shall have access to all the network providers of an insurer to avail 
+cashless facility as long as the insurer has a service agreement with the network provider 
+and such network providers shall remain unchanged irrespective of change in TPAs. 
+10.7 Once a hospital or nursing home is empanelled, the insurer shall enter into arrangement 
+with other insurance companies for allowing sharing of network hospitals, transfer of claim 
+& transaction data arising in areas beyond the service area. To ensure this, the insurer shall 
+sign an agreement with other insurers so that beneficiaries can get seamless access of 
+health care services across India.
+10.8 The Authority from time to time may prescribe minimum standard clauses to be 
+included in the service agreement between insurer and Network provider.
+Chapter IX
+Submission of Information through Electronics Returns. 
+11.1Each insurer shall submit the information regarding health insurance business as specified 
+in the forms in Annexure III for the period ending September and March of every 
+financial year, within a period of one month from the last day of the respective month, 
+commencing with the period ending September 30th (non-life insurer) and life insurers 
+commencing from period beginning 1st April 
+11.2 The information shall be sent to Insurance Regulatory and Development Authority, 3rd 
+Floor, Parisrama Bhavan, Basheer Bagh HYDERABAD 500 004
+Andhra Pradesh (INDIA ) in a compact disc, meeting the technical requirements as 
+specified in the Data Manual annexed hereto.
+11.3The forms in regulation 11.1 may be amended by the Authority from time to time, if 
+required. 
+CHAPTER X
+12 Valuation of Assets & Liabilities; Preparation of Financial Statements; Solvency Margin of 
+Insurers and Other Issues
+12.1All insurance companies carrying on health insurance business are required to comply, 
+mutatis mutandis, all relevant regulations, directions, guidelines circulars issued by the 
+Authority from time to time.
+Annexure-I
+Portability Form
+Part-I
+1) Name of the Policyholder / insured (s)
+2) Date of Birth/Age
+3) Address of the policyholder/insured
+4) Details of existing insurer
+i. Name of the product
+ii. Sum Insured
+iii. Cumulative Bonus
+iv. Add-ons/riders taken
+v. Policy number 
+5) Details of the proposed insurance
+i. Name of the product proposed/intend to 
+take
+ii. Sum Insured Proposed
+iii. Whether Cumulative Bonus to be 
+converted to an enhanced sum insured
+6) Reason(s) for portability
+7) No. of family member to be included I the policy to 
+be ported.
+Enclosure: Photocopy of the existing policy documents
+Date: Signature of the policyholder
+PART –II
+1. Whether the PED exclusions / time bound exclusion have longer exclusion period than the 
+existing policy: (Please indicate Yes / NO): 
+2. If yes, please give written consent to the declaration below: 
+“I am aware that the waiting period for the following disease(s)/treatment(s) is ….. days/years 
+more than the previous policy terms. I hereby agree to observe the additional waiting period for the 
+following disease(s)/treatment(s)
+I Signature of the policyholder I 
+ANNEXURE -II
+Administration of Health Plus Life Combi Products
+1) The product of this class shall be named as „Health plus Life Combi Products‟ referred as „Combi 
+Products‟ hereinafter in these guidelines.
+2) These guidelines do not apply to Micro Insurance Products which are governed by IRDA (Micro 
+Insurance) Regulations, 2005.
+Guidelines:-
+All insurance companies that promote „Health plus Life Combi products‟ shall adhere to the following 
+guidelines
+1) Scope of Combi Product Class:
+1) The „Combi Products‟ may be promoted by all Life Insurance and Non-Life Insurance 
+Companies.
+2) The „Combi Product‟ shall be the combination of Pure Term Life Insurance cover offered by life 
+insurance companies and Health Insurance cover offered by non life insurance companies. Health 
+Insurance for the purpose of this product class means effecting of contracts which exclusively 
+provide sickness benefits or medical, surgical or hospital expense benefits, whether in-patient or 
+out-patient, on an indemnity or reimbursement basis.
+3) The Policy Term and Sum Assured limits are as proposed and cleared under File and Use norms.
+4) Riders / Add-on covers may be offered subject to File and Use clearance.
+5) The premium components of both risks are to be separately identifiable and disclosed to the 
+policyholders at both pre-sale stage and post-sale stage and in all documents like policy document, 
+sales literature. 
+6) The product may be offered both as individual insurance policy and on group insurance basis. 
+However in respect of health insurance floater policies, the pure term life insurance coverage is 
+allowed on the life of one of the earning members of the family who is also the proposer on health 
+insurance policy subject to insurable interest and other applicable underwriting norms of 
+respective insurers.
+7) The integrated premium amount of the „Combi Product‟ shall be basis for reckoning the threshold 
+limit / applicability of extant Regulations, guidelines and circulars etc. issued by the Authority or 
+any other statutory body.
+8) Commission and Claim payouts in respect of „Combi Products‟ shall be by respective insurers 
+only.
+9) „Combi product‟ shall have a free look option as outlined in IRDA (Health Insurance Regulations) 
+2010. Free Look option is to be applied to the „Combi Product‟ as a whole.
+10) The Health portion of the „Combi Product‟ shall entitle its renewability at the option of policy 
+holder to have an independent / standalone health insurance policy from Non-Life Insurance 
+Company of the respective „Combi 
+Product‟. 
+2) Tie up between insurers: 
+1) It is mandatory that insurance companies offering the „Combi Product‟ shall have in place a 
+Memorandum of Understanding covering the modus operandi of marketing, policy service and 
+sharing of common expenses.
+2) Insurers forming the tie-up shall obtain prior approval of IRDA by duly filing the copy of the 
+agreement entered in this regard. Approval may be obtained by any one of insurers.
+3) A tie up is permitted between one life insurer and one non-life insurer only. Thus a life insurer is 
+permitted to tie up with only one non-life insurer and vice-versa. 
+4) Between these two Insurers any number of „Combi Products‟ may be promoted.
+5) It is expected that insurance companies would carry out an appropriate due diligence before 
+establishing the business relationship for the purpose of promoting „Combi Products‟. Insurers are 
+also expected to have a long-term understanding for effective policy service of the proposed 
+„Combi Products‟.
+6) Withdrawal from the tie-up is generally not desirable. However, in exceptional cases where 
+insurers desire to withdraw from MOU they shall obtain prior permission of the Authority. 
+7) There shall be specific time frames / Turn around Times (TAT) to be agreed between the 
+insurance companies as part of MOU for effective policy service, transmission of premiums 
+received etc. at various stages of policy i.e., at pre-sale stage and post-sale stage.
+3) Lead Insurer: 
+1) As two insurance companies are involved in offering the „Combi Product‟ one of the insurance 
+companies may be mutually agreed to act as a lead insurer in respect of each „Combi 
+Product‟ marketed with agreed terms, conditions and considerations. 
+2) The Lead Insurer for the purpose of these guidelines is the insurance company mutually agreed by 
+both the insurers to play a critical role in facilitating the policy service as a contact point for 
+rendering various services as required in these guidelines. It is envisaged that the lead insurer 
+would play a major role in facilitating underwriting and policy service.
+3) The role of lead insurer shall not deter in relying upon the existing operational infrastructure of the 
+partner-insurance company for effective policy servicing of „Combi Products‟. 
+4) Either of the insurers are not absolved of their responsibility of proactive settlement of claims.
+4) Underwriting:
+Under the „Combi Product‟, underwriting of respective portion of risk shall be underwritten by 
+respective insurance companies, that is; Life Insurance risk shall be underwritten by Life Insurance 
+Company and the Health Insurance portion of risk to be underwritten by Non-Life Insurance 
+Company. 
+5) File and Use:
+1) Both the independent products shall be integrated as a single product and filed with a common 
+brand name. 
+2) Insurers may also utilize the existing insurance products „as it is without modifications‟ that are 
+already cleared under the extant File and Use norms by the Authority. 
+3) „Combi Product‟ is to be filed at the stage of integrating for getting File and Use approval 
+irrespective of the earlier approval to either of products. 
+4) „Combi Product‟ filing shall follow the File and Use guidelines in vogue and all such guidelines 
+that would be issued from time to time.
+5) „Combi Product‟ is to be filed with Actuarial Department of Authority in File and Use formats 
+that are in vogue. 
+6) The Combi Product shall be approved by the Authority at File and Use.
+7) The File and Use application of the „Combi Product‟ shall also specify the following:-
+a. Lead Insurer for the „Combi Product‟ and demarcation of functions between insurers for 
+carrying out activities:-
+b. Procedures proposed for issuance of the premium notices, where applicable and final 
+lapse notices in terms of Section 50 of the Insurance Act, 1938. 
+c. Where the servicing is to be necessarily attended by the original insurer, the lead insurer 
+shall facilitate the policy servicing. As far as the policyholder is concerned lead insurer 
+shall be made as the single nodal point for receiving the servicing requests, fulfilling the 
+services and issuing acknowledgements. 
+d. Results of feasibility study, if any, in giving a limited access to the policydata base of 
+policies for effecting over-the-counter policy service requests to the lead insurer.
+e. Lead insurer in settlement of claims shall ensure:-
+i) Based on the type of claim, the other insurer shall also take proactive measures 
+for settlement of claims. 
+ii) As far as health portion of „Combi Policies‟ are concerned, they may be serviced 
+by Third Party Administrators. 
+iii) Where the policies are serviceable directly, the lead insurer shall play a 
+facilitative role.
+iv) Lead insurer may not to guarantee the settlement of claim on behalf of the other 
+insurer. The risks accepted by one insurer under „Combi Product‟ shall not affect 
+the business of other insurance company.
+v) The operational procedures proposed to be put in place for timely dispatch of the 
+policy bond of „Combi Products‟.
+f. Filing the advertisements in accordance with IRDA (Insurance Advertisements and 
+Disclosures) Regulations, 2000 within 30 days from the date of issuing the advertisement 
+with Authority.
+g. Proposed procedures for obtaining the prior approval of IRDA for issuing Joint Sale 
+Advertisements along with the common corporate agents.
+h. The results of the cost benefit analysis carried out by both the insurers.
+i. The modus operandi of proposed policy service at various stages of the policy viz., 
+proposal stage, policy servicing, premium collection arrangements and claims service 
+etc.
+j. The Information Technology systems put in place for supporting the sale and policy 
+service of the „Combi Products‟.
+k. Agreement on reimbursement of expenses in consideration of common services rendered 
+by each other of insurance companies.
+l. Distribution Channel wise maximum commission allowed under the „Combi Products‟. 
+m. The manner in which premium is proposed to be collected subject to provisions of 
+Section 64 VB of Insurance Act, 1938.
+n. The procedures put in place for expeditious transfer of the portion of premium that 
+pertains to the other insurer of the product. 
+o. Operational procedures put in place for updating premium on policy data base on a real 
+time basis.
+p. Proposal forms to be used for „Combi Products‟ 
+q. The Terms and Conditions under which the Health portion of the „Combi 
+Product‟ entitles its renewability at the option of policy holder to have an independent / 
+standalone health insurance policy from Non-Life Insurance Company of the respective 
+„Combi Product‟.
+r. Options available to policyholders of „Combi Products‟ to discontinue either portion of 
+risk coverage while continuing with the other portion.
+s. Copy of proposed common Sales Literature / Sales Illustrations to be issued by both the 
+insurers in respect of „Combi Products‟.
+t. Common Advertisements of „Combi Products‟ shall be restricted to the features, terms 
+and conditions of the „Combi Product‟. 
+6) Distribution Channel: 
+1) The sale of „Combi Product‟ shall be through:-
+a. Direct Marketing channels
+b. Brokers and
+c. Composite Individual and Corporate Agents, common to both insurers
+2) „Combi Products‟ are not allowed to be marketed through „Bank Referral‟ arrangements.
+3) Insurers shall ensure that the „Combi Product‟ is not marketed by those insurance 
+intermediaries who are not authorized to market either of the products of either of the 
+insurers. 
+7) Mandatory Minimum Disclosures:
+1) The mandatory minimum disclosures for a Combi Product shall be;
+a) The product is jointly offered by abc insurance company (specify non-life insurer name) 
+and xyz insurance company (specify life insurer name)
+b) The risks of this „Combi Product‟ are distinct and are assumed / accepted by respective 
+insurance companies.
+c) The liability to settle the claim benefits vests with respective insurers that is for health 
+insurance benefits abc insurance company (specify non-life insurer name) and for life 
+insurance benefits xyz insurance company (Specify life insurer name)
+d) The legal/quasi legal disputes, if any, shall be dealt with the respective insurers for 
+respective benefits
+e) The policy holders of the „Combi Product‟ under reference shall be eligible to continue with 
+either part of the policy discontinuing the other during the policy term.
+f) Where guaranteed renewability of health insurance plan is allowed, the health insurance 
+portion of this „Combi Product‟ is entitled to that facility
+g) Specific Disclosures on the available premium payment options on these „Combi Products‟.
+h) Specific Disclosures about the available Policy Servicing facilities for these „Combi 
+Products‟.
+i) Specific Disclosures about the proposed claims service of these policies under both the risks.
+j) Specific Disclosures on the availability of services of „Third Party Administrators (TPAs)‟ 
+for health insurance portion of risk, if available.
+k) Specific Disclosures on the available Grievances Redressal Options including particulars of 
+Ombudsman under these „Combi products‟.
+l) Policyholders are to be advised to familiarize themselves with the policy benefits and policy 
+service structure of the „Combi Product‟ before deciding to purchase the policy.
+2) Policy documents of „Combi Products‟ shall contain the above referred points c, d, e, f, g, h, i and 
+k as minimum disclosures.
+3) Declaration from the prospect shall be obtained and attached to proposal form that he / she has 
+understood the disclosures mentioned at a), b), h) and i) above.
+8) In respect of „Combi Products‟ both the insurers shall comply with the provisions Insurance Act, 
+1938 and Regulations notified there under and other guidelines, circulars that are applicable to 
+health insurance business and life insurance business respectively.
+9) For the purpose of these guidelines non-life insurance company includes standalone health 
+insurance Company also.
+10) In order to monitor the progress of the penetration of the product class before enlarging the scope 
+of the same all insurance companies that are marketing „Combi Products‟ shall submit the 
+information that is required by the Authority from time to time.
+11) The Authority may stipulate such other terms and conditions from time to time for monitoring 
+activities of insurance companies offering „Combi Products‟.
+Annexure-III
+Data Format – Life Insurer
+All data submitted must be in ASCII format.
+HEALTH DATA DICTIONERY
+DATA FIELD HEADING FIELD
+FIEL
+D DATA Remarks
+FIELD TYPE SIZE
+DICTIONAR
+Y
+REFERENCE
+1 Txt_TPA_Code Text 5 150001 Please enter TPA Registration
+number. Please refer "TPA
+Master" attached
+2 Txt_Insurer_Code Text 3 150002 Please enter Insurer
+Registration number. Please
+refer "Insurer Master" attached
+3 Txt_U_W_Office_Code Text 20 150003 Branch/ Divisional Office Code
+or Name as available. If Branch/
+Division not applicable, enter '0'
+4 Txt_Policy_Number Text 50 150004 Self explanatory
+5 Txt_Member_Reference_ Text 50 150005 TPAs & Insurers should ensure
+Key that the Member Reference Key
+(MRK) is a unique number
+denoting each individual
+member.
+6 Date_Of_Birth Date 10 150006 Date of birth of the insured
+member dd/mm/yyyy
+7 Num_Age_Of_Insured Numeric 3 150007 Completed years at
+commencement of policy
+8 Date_Policy_Start Date 10 150008 Date of commencement of policy
+dd/mm/yyyy
+9 Date_Policy_End Date 10 150009 Date of expiry of policy
+dd/mm/yyyy
+10 Boo_Pre-Existing_Diseases Boolean 1 150012 If Pre-Existing Diseases are
+_Covered covered, enter '1', other wise
+enter '0'
+DATA FIELD HEADING FIELD
+FIEL
+D DATA Remarks
+FIELD TYPE SIZE
+DICTIONAR
+Y
+REFERENCE
+11 Boo_Waiver_Of_1St_Year_ Boolean 1 150013 If this exclusion is waived, enter
+Exclusion '1', otherwise enter '0'
+12 Boo_Maternity_Cover Boolean 1 150014 If this cover is given, enter '1',
+otherwise enter '0'
+13 Boo_Baby_Cover_As_Part_ Boolean 1 150015 If this cover is given, enter '1',
+Of_ Maternity otherwise enter '0'
+14 Boo_Floater_Applicable Boolean 1 150016 If floater is applicable enter '1',
+otherwise enter '0'
+15 Num_Corporate_Floater_Su Numeric 16 150017 Buffer amount - (Amount that
+m_ Insured floats over entire policy)
+Applicable only for Corporate
+Floater Policies
+16 Num_Group_Size Numeric 8 150018 Number of members in the
+group
+17 Txt_Gender Text 1 150019 1-Male, 2- Female, 3- Others
+18 Num_Sum_Insured Numeric 16 150020 Individual Hospitalisation Sum
+Insured. Specific Sum Insured
+for the Member excluding any
+Floater or Bonus Sum Insured.
+19 Txt_Relationship_Of_Insured Text 2 150021 Refer Relationship Master
+20 Txt_Occupation Text 3 150022 Refer Occupation Master
+21 Num_Policy_Premium Numeric 16 150023 Premium on which Service Tax
+is calculated. For 'Universal
+Health Type policies, premium
+will be 'Net Final Premium'
+inclusive of all subsidies.
+22 Num_Individual_Premium Numeric 16 150024 Individual Premium on which
+Service Tax is calculated. (If
+available)
+23 Txt_Claim_Number Text 20 150025 Unique number generated by
+TPA
+24 Txt_Diagnosis_Code_Primary Text 20 150027 ICD-10 Code applicable for
+disease - Primary diagnosis.
+25 Txt_Procedure_Description_ Text 50 150028 Description of procedure -
+Primary Primary procedure
+26 Txt_Name_Of_The_Hospital Text 50 150029 Full Name of Hospital
+27 Txt_Registration_Number_Of Text 20 150030 Registration Number allotted by
+_ Hospital appropriate authority, if available
+28 Txt_Pan_Of_Hospital Text 20 150031 Income Tax Perrmanent
+Account Number of hospital
+29 Txt_Pin_Code_Of_Hospital Text 10 150032 6 digit Postal Pin Code. Refer
+Pincode Master
+30 Date_Of_Admission Date 10 150033 Self explanatory dd/mm/yyyy
+DATA FIELD HEADING FIELD
+FIEL
+D DATA Remarks
+FIELD TYPE SIZE
+DICTIONAR
+Y
+REFERENCE
+31 Date_Of_Discharge Date 10 150034 Self explanatory dd/mm/yyyy
+32 Num_Total_Amount_Claimed Numeric 16 150035 Total amount claimed for the
+particular incident without any
+bifurcation (Include amounts
+under various subdivisions from
+150036 to 150043 and 150085,
+150120,150121)
+33 Num_Room_&_Nursing_ Numeric 16 150036 Amount Claimed classified as
+Charges_ Claimed Room & Nursing Charges
+incurred between date of
+admission and discharge.
+Inclusive of ICU charges, patient
+diet, HVAC and other room
+chanrges
+34 Num_Surgery_Charges_ Numeric 16 150037 Amount Claimed classified as
+Claimed Surgery Charges incurred
+between date of admission and
+discharge. including Surgeon/
+Asstt. Surgeon/ Anesthestist
+fees but Excluding OT charges
+35 Num_Consultation_Charges Numeric 16 150038 Amount Claimed classified as
+_Claimed Consultation Charges incurred
+between date of admission and
+discharge, exclusing Surgery
+Charges.
+36 Num_Investigation_Charges Numeric 16 150039 Amount Claimed classified as
+_Claimed Investigation Charges incurred
+between date of admission and
+discharge.
+37 Num_Medicine_Charges_Cl Numeric 16 150040 Amount Claimed classified as
+aimed Medicine Charges incurred
+between date of admission and
+discharge.
+38 Num_Miscellaneous_Charges Numeric 16 150041 All unspecified expenses
+_Claimed incurred between date of
+admission and discharge, other
+than those claimed above.
+39 Num_Pre_Hospitalisation_ Numeric 16 150042 Total amount claimed for preExpenses_Included_Under_ hospitalisation treatment without
+150035_Claimed any bifurcation.
+40 Num_Post_Hospitalisation_ Numeric 16 150043 Total amount claimed for postExpenses_Included_Under_ hospitalisation treatment without
+150035_Claimed any bifurcation
+41 Num_Total_Claim_Paid Numeric 16 150046 Total amount of claim paid for
+the particular incident without
+any bifurcation (on amounts
+claimed under various
+subdivisions from 150036 to
+150043, 150085,
+150120,150121)
+DATA FIELD HEADING FIELD
+FIEL
+D DATA Remarks
+FIELD TYPE SIZE
+DICTIONAR
+Y
+REFERENCE
+42 Txt_Reason_For_Rejection_ Text 3 150047 Refer Rejection/ Reduction
+Of_ Claim Master
+43 Num_Floater_Amount Numeric 16 150048 If 150016 is "1", amount to be
+filled up in case of "Proposer" or
+"Employee" only. In all other
+cases, leave blank.
+44 Txt_Remarks_Of_TPA Text 50 150049 Remarks of TPA
+45 Boo_Post_Hospitalization_ Boolean 1 150050 If this cover is given, enter '1',
+Beyond_60_Days_Is_Covered otherwise enter '0'
+46 Boo_Out_Patient_Cover Boolean 1 150051 If this cover is given, enter '1',
+otherwise enter '0'
+47 Boo_Baby_Cover_From_ Boolean 1 150052 If this cover is given, enter '1',
+Date_Of_ Birth otherwise enter '0'
+48 Boo_Ambulance_Cover Boolean 1 150053 If this cover is given, enter '1',
+otherwise enter '0'
+49 Boo_Health_Check_Up Boolean 1 150054 If this cover is given, enter '1',
+otherwise enter '0'
+50 Boo_Any_Pre_Existing_ Boolean 1 150055 If declared, enter '1', otherwise
+Diseases_ Declared enter '0'
+51 Txt_Pre_Existing_Diseases_ Text 20 150056 Refer 'Top 20 PED Master' for
+Code_ Primary disease - Primary level
+52 Txt_Diagnosis_Code_ Text 20 150057 ICD-10 Code applicable for
+Additional disease - additional diagnosis
+53 Txt_Procedure_Code_ Text 50 150059 ICD 10 PCS Codes - additional
+Additional procedure
+54 Txt_Medical_History Text 255 150061 Medical History - as given in
+claims documents
+55 Txt_Hospital_Code Text 20 150062 Refer Unique Id for hospital in
+Hospital Master
+56 Boo_Policy_Or_Endorsement Boolean 1 150063 If Policy, enter '1', if
+Endorsement enter '0'.
+57 Txt_Endorsement_Number Text 50 150064 Self explanatory
+58 Txt_Procedure_Code_Primary Text 50 150065 ICD 10 PCS Codes - Primary
+prodcedure
+59 Txt_Procedure_Description_ Text 50 150066 Description of procedure - any
+Additional additional procedure
+60 Txt_Pre_Existing_Diseases_ Text 20 150068 Refer 'Top 20 PED Master' for
+Code_ Additional disease - Additional, if any
+61 Txt_Reason_For_Reduction Text 3 150072 Refer Rejection/ Reduction
+_Of_ Claim Master
+62 Txt_Type_Of_Claim_PaymentText 3 150073 Refer Claim Payment Type
+Master
+DATA FIELD HEADING FIELD
+FIEL
+D DATA Remarks
+FIELD TYPE SIZE
+DICTIONAR
+Y
+REFERENCE
+63 Num_Family_Floater_Sum_ Numeric 16 150074 Buffer amount - (Amount that
+Insured floats over entire policy)
+Applicable only for Family
+Floater Policies
+64 Num_Declaration_Floater_ Numeric 17 150075 Buffer amount - (Amount that
+Sum_ Insured floats over entire policy)
+Applicable only for Declaration
+Floater Policies
+65 Boo_Maternity_Cover_Given Boolean 1 150080 If covered with waiting period,
+_With_A_ Waiting_Period enter '1', otherwise enter '0'
+66 Txt_Endorsement_Type Text 3 150081 Refer Endorsement Type Master
+67 Boo_Claim_Made_Under_ Boolean 1 150082 If claim is under alternate
+Alternate_ Medicine medicine, enter '1', if not enter
+'0'
+68 Txt_System_Of_Medicine_ Text 3 150083 Refer System of Medicine Code
+Used Master
+69 Boo_Hospital_Is_Networked Boolean 1 150084 If hospital is networked, enter '1',
+if not enter '0'
+70 Num_Other_Non_Hospital_ Numeric 16 150085 All non-hosptital expenses
+Expenses claimed as part of the claim e.g.
+telephone charges, attendent
+food etc.
+71 Num_Amount_Of_Co_Payme Numeric 16 150086 If applicable on a lumpsum
+nt_Or_Access_If_Applicable basis, state amount of copayment or excess applicable.
+72 Num_Opening_Claims_Outs Numeric 12 150089 Amount of Claims outstanding at
+tanding_As_ On_31_3_2008 the beginning of Financial Year
+73 Num_Claims_Paid_During_T Numeric 12 150090 Amount of total of all claims paid
+he_Period_1- 4-2008_To_ during the Financial Year
+31_3_2009
+74 Num_Closing_Claims_Outst Numeric 12 150091 Amount of Claims outstanding at
+anding_As_ On_31_3_2009 the end of Financial Year
+75 Txt_Metro_Nonmetro_Urban Text 1 150092 Whether policy holder location is
+_Rural 1=Metro, 2=Urban other than
+metro and 3=Rural. Metros are 4
+metros including Banglore and
+Hyderabad.
+76 Date_Of_Payment Date 10 150093 Date of cheque issued/cash paid
+to the insured in dd/mm/yyyy
+77 Txt_Payment_Reference_ Text 25 150094 Payment Reference Number
+Number allotted by TPA/Insurer
+78 Boo_Policy_Having_Co- Boolean 1 150095 If Policy is with Co-Insurance,
+Insurance enter '1' otherwise enter '0'
+79 Num_Your_Co_Insurance_ Numeric 6 150096 If Co-Insurance is there, mention
+Share your share in percentage
+(nnn.nn). If no Co-Insurance,
+mention 100.
+DATA FIELD HEADING FIELD
+FIEL
+D DATA Remarks
+FIELD TYPE SIZE
+DICTIONAR
+Y
+REFERENCE
+80 Date_Member_Entry Date 10 150097 Member's entry date into policy
+dd/mm/yyyy
+81 Date_Member_Exit Date 10 150098 Member's exit date from policy
+dd/mm/yyyy
+82 Date_Claim_Intimation Date 10 150099 Date on which claim is intimated
+83 Num_Bonus_Sum_Insured Numeric 16 150100 Sum Insured added as Bonus.
+84 Txt_Unq_Product_Code Text 20 150101 Give File & Use Product Code
+issued by IRDA
+85 Txt_Coverage_Scope Text 30 150102 Refer Coverage Scope Master
+86 Txt_Payout_Basis Text 3 150103 Refer Payout Basis Master
+87 Txt_Insured_Type Text 3 150104 Refer Insured Type Master
+88 Txt_Policy_Term Text 3 150105 Enter Policy period in years
+89 Txt_Contract_Acceptance_ Text 255 150106 Mention contract acceptance
+Special_ Term terms of the product and policy
+type
+90 Boo_Type_Of_Premium Boolean 1 150107 If 1st time premium, enter '1' else
+enter '0' for Renewal premium.
+91 Txt_Other_Co-Insurance_ Text 50 150108 Provide name of Co-Insurer and
+Share their share in free text
+92 Num_Premium_Discount Numeric 16 150109 Mention discount amount on
+premium
+93 Boo_Whether_Sub_Standard Boolean 1 150110 Not Coverable as a normal
+_Cases case/rates, but covered as a
+special case. If Sub_Standard
+Case, enter '1', otherwise enter
+'0'.
+94 Txt_Sub_Standard_Cases Text 50 150111 If 150110 is '1' then Mention
+substandard cases details
+95 Txt_If _Ped_Code_Is_99_ Text 50 150112 If PED code is 99 i.e. others,
+Description provide description of the preexisting disease
+96 Txt_Reason_For_ Text 3 150113 Enter 1 for Illness, 2 for Injury
+Hospitalisation and 3 for Maternity
+97 Txt_Reason_For_Injury Text 3 150114 If field 150113 is Injury, Enter '1'
+for Alcohal Consumption or 2 ro
+Sabstance Abyse.
+98 Txt_Master_Claim_Id Text 20 150115 Provide master claim id/no. In
+case of multiple payments made
+under of single incident of claim,
+a master id should be given and
+subsequent payments should
+contain child number.
+DATA FIELD HEADING FIELD
+FIEL
+D DATA Remarks
+FIELD TYPE SIZE
+DICTIONAR
+Y
+REFERENCE
+99 Txt_Child_Claim_Id Text 20 150116 Provide child claim id/no. under
+master claim id/no. above
+100 Txt_Treating_Doctor_ Text 50 150117 Provide Registration number of
+Registration_ Number the Medical Practitioner caring
+for the patient during
+hospitalisation
+101 Txt_Type_Of_Admission Text 3 150118 Enter 1 for emergency, 2 for
+Planned, 3 for Day Care
+102 Txt_Details_Of_Lumpsum_ Text 3 150119 Enter 1 - Hospital Daily Cash, 2
+Or_Cash_ Benefit_Claimed for Surgical Cash, 3 for Critical
+Illness benefit, 4 for
+Covalescence, 5 for Pre/Post
+Hospitalisation Lumpsum Benefit
+and 99 for Others.
+103 Txt_Room_Category_ Text 3 150120 Enter 1 for Single bed, 2 for Twin
+Occupied Sharing, 3 for three or more
+beds and 4 Day care
+104 Num_Professional_Charges Numeric 16 150121 This field will contain Surgeon/
+_Claimed Asstt. Surgeon/ Anaesthesist
+Charges Claimed
+105 Num_ot_Charges_Claimed Numeric 16 150122 Amount Claimed classified as
+Operation Theatre Charges
+incurred between date of
+admission and discharge.
+106 Num_Surgical_Implant Numeric 16 150123 Amount Claimed classified as
+Charges_Claimed Surgical Implant Charges
+incurred between date of
+admission and discharge.
+107 Num_Room_&_Nursing_ Numeric 16 150124 Claim amount paid classified as
+Charges_ Paid Room & Nursing Charges
+between date of admission and
+discharge.Inclusive of ICU
+charges, patient diet, HVAC and
+other room chanrges
+108 Num_Surgery_Charges_ Numeric 16 150125 Claim amount paid classified as
+Paid Surgery Charges incurred
+between date of admission and
+discharge. including Surgeon/
+Asstt. Surgeon/ Anesthestist
+fees but Excluding OT charges
+109 Num_Professional_Charges Numeric 16 150126 This field will contain Surgeon/
+_Paid Asstt. Surgeon/ Anaesthesist
+Charges Paid
+110 Num_Consultation_Charges Numeric 16 150127 Claim amount paid classified as
+_Paid Consultation Charges between
+date of admission and
+discharge., exclusing Surgery
+Charges.
+111 Num_Investigation_Charges Numeric 16 150128 Claim amount paid classified as
+_Paid Investigation Charges between
+date of admission and discharge.
+41
+DATA FIELD HEADING FIELD
+FIEL
+D DATA Remarks
+FIELD TYPE SIZE
+DICTIONAR
+Y
+REFERENCE
+112 Num_ot_Charges_Paid Numeric 16 150129 Claim amount paid classified as
+Operation Theatre Charges
+between date of admission and
+discharge.
+113 Num_Medicine_Charges_Paid Numeric 16 150130 Claim amount paid classified as
+Medicine Charges between date
+of admission and discharge.
+114 Num_Surgical_Implant_ Numeric 16 150131 Claim amount paid classified as
+Charges_Paid Surgical Implant Charges
+between date of admission and
+discharge.
+115 Num_Miscellaneous_Charges Numeric 16 150132 All unspecified expenses paid
+_Paid between date of admission and
+discharge, other than those paid
+above.
+116 Num_Pre_Hospitalisation_E Numeric 16 150133 Total amount paid for prexpenses_Included_Under_1 hospitalisation treatment without
+50046_Paid any bifurcation.
+117 Num_Post_Hospitalisation_ Numeric 16 150134 Total amount paid for postExpenses_Included_Under_ hospitalisation treatment without
+150046_Paid any bifurcation
+118 Num_Co_Payment_ Numeric 16 150135 Provide Co-Payment
+Dedcuctible Dedcuctible Amount.
+119 Date_of_Receipt_Of Date 10 150136 Enter Date on which full claim
+_Complete_Claim_Document documents are received.
+120 Boo_Whether_Claim_Paid_ Boolean 1 150137 If claim paid is for
+for_ PED Pre_Existing_Diseases, Enter
+'1', if not enter'0'.
+121 Txt_If_Yes_PED_Code Text 3 150138 If field 150134 is '1', enter PED
+code from PED Master.
+HEALTH L1 - POLICY FORMAT
+DATA FIELD HEADING FIELD
+FIEL
+D DATA REMARKS
+FIEL
+D TYPE SIZE DICTIONARY
+REFERENCE
+1 Txt_TPA_Code Text 5 150001 Please enter TPA Registration
+number. Please refer "TPA Master"
+attached
+2 Txt_Insurer_Code Text 3 150002 Please enter Insurer Registration
+number. Please refer "Insurer
+Master" attached
+3 Txt_U_W_Office_Code Text 20 150003 Branch/ Divisional Office Code or
+Name as available. If Branch/ Division
+not applicable, enter '0'
+4 Txt_Policy_Number Text 50 150004 Self explanatory
+5 Txt_Unq_Product_Code Text 20 150101 Give File & Use Product Code issued
+by IRDA
+6 Date_Policy_Start Date 10 150008 Date of commencement of policy
+dd/mm/yyyy
+42
+7 Date_Policy_End Date 10 150009 Date of expiry of policy dd/mm/yyyy
+8 Txt_Coverage_Scope Text 30 150102 Refer Coverage Scope Master
+9 Txt_Payout_Basis Text 3 150103 Refer Payout Basis Master
+10 Txt_Insured_Type Text 3 150104 Refer Insured Type Master
+11 Txt_Policy_Term Text 3 150105 Enter Policy period in years
+12 Txt_Contract_Acceptance_ Text 25 150106 Mention contract acceptance terms of
+Special_Term 5 the product and policy type
+13 Boo_Type_of_Premium Boolean 1 150107 If 1st time premium, enter '1' else
+enter '0' for Renewal premium.
+14 Num_Policy_Premium Numeric 16 150023 Premium on which Service Tax is
+calculated. For 'Universal Health Type
+policies, premium will be 'Net Final
+Premium' inclusive of all subsidies.
+15 Boo_Post_Hospitalization_ Boolean 1 150050 If this cover is given, enter '1',
+beyond_ 60_days_is_Covered otherwise enter '0'
+16 Boo_Out_patient_cover Boolean 1 150051 If this cover is given, enter '1',
+otherwise enter '0'
+17 Boo_Baby_Cover_from_Date_of Boolean 1 150052 If this cover is given, enter '1',
+_Birth otherwise enter '0'
+18 Boo_Ambulance_Cover Boolean 1 150053 If this cover is given, enter '1',
+otherwise enter '0'
+19 Boo_Health_Check_Up Boolean 1 150054 If this cover is given, enter '1',
+otherwise enter '0'
+20 Boo_Policy_or_Endorsement Boolean 1 150063 If Policy, enter '1', if Endorsement
+enter '0'.
+21 Txt_Endorsement_Number Text 50 150064 Self explanatory
+22 Txt_Endorsement_Type Text 3 150081 Refer Endorsement Type Master
+23 Boo_Policy_having_Co- Boolean 1 150095 If Policy is with Co-Insurance, enter '1'
+Insurance otherwise enter '0'
+24 Num_Your_Co_Insurance_Share Numeric 6 150096 If Co-Insurance is there, mention your
+share in percentage (nnn.nn). If no
+Co-Insurance, mention 100.
+25 Txt_Other_Co-Insurance_Share Text 50 150108 Provide name of Co-Insurer and their
+share in free text
+HEALTH L2 - MEMBER FORMAT
+DAT
+A FIELD HEADING FIELD
+FIEL
+D DATA Remarks
+FIEL
+D TYPE SIZE DICTIONARY
+REFERENCE
+1 Txt_TPA_Code Text 5 150001 Please enter TPA Registration
+number. Please refer "TPA Master"
+attached
+2 Txt_Insurer_Code Text 3 150002 Please enter Insurer Registration
+number. Please refer "Insurer
+Master" attached
+3 Txt_U_W_Office_Code Text 20 150003 Branch/ Divisional Office Code or
+Name as available. If Branch/ Division
+not applicable, enter'0'
+4 Txt_Policy_Number Text 50 150004 Self explanatory
+5 Txt_Unq_Product_Code Text 20 150101 Give File & Use Product Code issued
+by IRDA
+6 Date_Policy_Start Date 10 150008 Date of commencement of policy
+43
+dd/mm/yyyy
+7 Date_Policy_End Date 10 150009 Date of expiry of policy dd/mm/yyyy
+8 Txt_Endorsement_Number Text 50 150064 Self explanatory
+9 Txt_Member_Reference_Key Text 50 150005 TPAs & Insurers should ensure that
+the Member Reference Key (MRK) is
+a unique number denoting each
+individual member.
+10 Date_of_Birth Date 10 150006 Date of birth of the insured member
+dd/mm/yyyy
+11 Num_Age_of_Insured Numeric 3 150007 Completed years at commencement
+of policy
+12 Boo_Pre-existing_Diseases_ Boolean 1 150012 If Pre-Existing Diseases are covered,
+Covered enter '1', otherwise enter '0'
+13 Boo_Waiver_of_1st_Year_ Boolean 1 150013 If this exclusion is waived, enter '1',
+Exclusion otherwise enter '0'
+14 Boo_Maternity_Cover Boolean 1 150014 If this cover is given, enter '1',
+otherwise enter '0'
+15 Boo_Baby_Cover_as_Part_of_ Boolean 1 150015 If this cover is given, enter '1',
+Maternity otherwise enter '0'
+16 Boo_Floater_Applicable Boolean 1 150016 If floater is applicable enter '1',
+otherwise enter '0'
+17 Num_Corporate_Floater_Sum_ Numeric 16 150017 Buffer amount - (Amount that floats
+Insured over entire policy) Applicable only for
+Corporate Floater Policies
+18 Num_Group_Size Numeric 8 150018 Number of members in the group
+19 Txt_Gender Text 1 150019 1-Male, 2- Female, 3- Others
+20 Num_Sum_Insured Numeric 16 150020 Individual Hospitalisation Sum
+Insured. Specific Sum Insured for the
+Member excluding any Floater or
+Bonus Sum Insured.
+21 Txt_Relationship_of_Insured Text 2 150021 Refer Relationship Master
+22 Txt_Occupation Text 3 150022 Refer Occupation Master
+Data Format-Non life Insurer
+All data submitted must be in ASCII format.
+HEALTH DATA 
+DICTIONERY
+DATA FIELD HEADING FIELD FIELD DATA REMARKS
+FIELD TYPE SIZE DICTIONARY
+REFERENCE
+1 Txt_TPA_Code Text 5 150001 Please enter TPA Registration
+number. Please refer "TPA Master"
+attached
+2 Txt_Insurer_Code Text 3 150002 Please enter Insurer Registration
+number. Please refer "Insurer
+Master" attached
+3 Txt_U_W_Office_Code Text 20 150003 Branch/ Divisional Office Code or
+Name as available. If Branch/ Division
+not applicable, enter '0'
+4 Txt_Policy_Number Text 50 150004 Self explanatory
+5 Txt_Member_Reference_ Text 50 150005 TPAs & Insurers should ensure that
+Key the Member Reference Key (MRK) is
+a unique number denoting each
+individual member.
+44
+6 Date_of_Birth Date 10 150006 Date of birth of the insured member
+as dd/mm/yyyy
+7 Num_Age_of_Insured Numeric 3 150007 Completed years at commencement
+of policy
+8 Date_Policy_Start Date 10 150008 Date of commencement of policy as
+dd/mm/yyyy
+9 Date_Policy_End Date 10 150009 Date of expiry of policy as dd/mm/yyyy
+10 Txt_Product_Type Text 3 150010 Refer Product Type Master
+11 Txt_Type_of_Policy Text 3 150011 Refer Policy Type Master
+DATA FIELD HEADING FIELD FIELD DATA REMARKS
+FIELD TYPE SIZE DICTIONARY
+REFERENCE
+12 Boo_Pre-existing_Diseases Boolean 1 150012 If Pre-Existing Diseases are covered,
+_Covered enter '1', other wise enter '0'
+13 Boo_Waiver_of_1st_Year_ Boolean 1 150013 If this exclusion is waived, enter '1',
+Exclusion otherwise enter '0'
+14 Boo_Maternity_Cover Boolean 1 150014 If this cover is given, enter '1',
+otherwise enter '0'
+15 Boo_Baby_cover_as_part_of Boolean 1 150015 If this cover is given, enter '1',
+_ Maternity otherwise enter '0'
+16 Boo_Floater_applicable Boolean 1 150016 If floater is applicable enter '1',
+otherwise enter '0'
+17 Num_Corporate_Floater_ Numeric 16 150017 Buffer amount - (Amount that floats
+Sum_ Insured over entire policy) Applicable only for
+Corporate Floater Policies
+18 Num_Group_Size Numeric 8 150018 Number of members in the group
+19 Txt_Gender Text 1 150019 1-Male, 2- Female, 3- Others
+20 Num_Sum_Insured Numeric 16 150020 Individual Hospitalisation Sum
+Insured. Specific Sum Insured for the
+Member excluding any Floater or
+Bonus Sum Insured.
+21 Txt_Relationship_of_Insured Text 20 150021 Refer Relationship Master
+22 Txt_Occupation Text 20 150022 Refer Occupation Master
+23 Num_Policy_Premium Numeric 16 150023 Premium on which Service Tax is
+calculated. For 'Universal Health Type
+policies, premium will be 'Net Final
+Premium' inclusive of all subsidies.
+24 Num_Individual_Premium Numeric 16 150024 Individual Premium on which Service
+Tax is calculated. (If available)
+25 Txt_Claim_Number Text 20 150025 Unique number generated by TPA
+27 Txt_Diagnosis_Code_ Text 20 150027 ICD-10 Code applicable for disease -
+Level _I Primary level.
+28 Txt_Procedure_Code_ Text 50 150065 ICD 10 PCS Codes - Primary level
+Level_I
+29 Txt_Name_of_the_Hospital Text 50 150029 Full Name of Hospital
+30 Txt_Registration_Number_of Text 20 150030 Registration Number allotted by
+_ Hospital appropriate authority, if available
+31 Txt_PAN_of_Hospital Text 20 150031 Income Tax Permanent Account
+Number of hospital, if available
+32 Txt_Pin_Code_of_Hospital Text 10 150032 6 digit Postal Pin Code. Refer Pin
+code Master
+33 Date_of_Admission Date 10 150033 Self explanatory as dd/mm/yyyy
+34 Date_of_Discharge Date 10 150034 Self explanatory as dd/mm/yyyy

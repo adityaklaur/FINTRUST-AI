@@ -1,0 +1,90 @@
+[
+  {
+    "file": "regulatory_rbi/rbi_commercial_banks_credit_debit_card_directions_2025.html",
+    "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13155",
+    "ok": false,
+    "returncode": 56,
+    "bytes": 0,
+    "stderr": " Left  Speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0   627    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0\ncurl: (56) The requested URL returned error: 418\n"
+  },
+  {
+    "file": "regulatory_rbi/rbi_small_finance_banks_credit_debit_card_directions_2025.html",
+    "url": "https://rbi.org.in/SCRIPTS/BS_ViewMasDirections.aspx?id=13123",
+    "ok": false,
+    "returncode": 56,
+    "bytes": 0,
+    "stderr": " Left  Speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0   627    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\ncurl: (56) The requested URL returned error: 418\n"
+  },
+  {
+    "file": "regulatory_rbi/rbi_nbfc_credit_card_directions_2025.html",
+    "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12956",
+    "ok": false,
+    "returncode": 56,
+    "bytes": 0,
+    "stderr": " Left  Speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0   627    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\ncurl: (56) The requested URL returned error: 418\n"
+  },
+  {
+    "file": "regulatory_rbi/rbi_kyc_direction_2016_updated_2025.html",
+    "url": "https://www.rbi.org.in/SCRIPTS/BS_ViewMasDirections.aspx?id=11566",
+    "ok": false,
+    "returncode": 56,
+    "bytes": 0,
+    "stderr": " Left  Speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0   628    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\ncurl: (56) The requested URL returned error: 418\n"
+  },
+  {
+    "file": "regulatory_rbi/rbi_commercial_banks_kyc_directions_2025.html",
+    "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13141",
+    "ok": false,
+    "returncode": 56,
+    "bytes": 0,
+    "stderr": "Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0   627    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0\ncurl: (56) The requested URL returned error: 418\n"
+  },
+  {
+    "file": "regulatory_rbi/rbi_nbfc_kyc_directions_2025.html",
+    "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=12943",
+    "ok": false,
+    "returncode": 56,
+    "bytes": 0,
+    "stderr": "Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0   627    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0\ncurl: (56) The requested URL returned error: 418\n"
+  },
+  {
+    "file": "regulatory_rbi/rbi_integrated_ombudsman_scheme_2026_faq.html",
+    "url": "https://www.rbi.org.in/commonperson/English/Scripts/FAQs.aspx?Id=3407",
+    "ok": false,
+    "returncode": 56,
+    "bytes": 0,
+    "stderr": " Left  Speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0\n  0   627    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0\ncurl: (56) The requested URL returned error: 418\n"
+  },
+  {
+    "file": "regulatory_rbi/rbi_failed_transactions_tat_compensation_2019.html",
+    "url": "https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=11693&Mode=0&fn=9",
+    "ok": false,
+    "returncode": 56,
+    "bytes": 0,
+    "stderr": " Left  Speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0   627    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\ncurl: (56) The requested URL returned error: 418\n"
+  },
+  {
+    "file": "npci_upi/npci_upi_chargeback_archive.html",
+    "url": "https://www.npci.org.in/what-we-do/upi/chargeback/archive",
+    "ok": false,
+    "returncode": 56,
+    "bytes": 0,
+    "stderr": "Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0   424    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\ncurl: (56) The requested URL returned error: 403\n"
+  },
+  {
+    "file": "npci_upi/npci_upi_circulars.html",
+    "url": "https://www.npci.org.in/what-we-do/upi/circular",
+    "ok": false,
+    "returncode": 56,
+    "bytes": 0,
+    "stderr": "Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0   410    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\ncurl: (56) The requested URL returned error: 403\n"
+  },
+  {
+    "file": "bank_documents/hdfc_grievance_redressal_policy.pdf",
+    "url": "https://www.hdfcbank.com/content/bbp/repositories/723fb80a-2dde-42a3-9793-7ae1be57c87f/?path=%2FFooter%2FUseful+Links%2FOur+Corporate+Commitment%2Fpdfs%2FGrievance_Redressal_Policy_Version_1_1_3.pdf",
+    "ok": false,
+    "returncode": 28,
+    "bytes": 0,
+    "stderr": "    0    0     0      0      0 --:--:--  0:00:43 --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:--  0:00:44 --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:--  0:00:45 --:--:--     0\ncurl: (28) Operation timed out after 45009 milliseconds with 0 bytes received\n"
+  }
+]

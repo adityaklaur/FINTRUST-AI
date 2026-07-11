@@ -1,0 +1,2751 @@
+Page 1 of 65
+Deposit Policy
+(Domestic Branches)
+Version No.16.0
+2025-26
+Resources Wing
+HEAD OFFICE
+112, J C ROAD
+BENGALURU -560002
+Page 2 of 65
+INDEX
+Sl 
+No. Contents Page number
+1. KYC GUIDELINES OF RBI 3
+2. SAVINGS BANK ACCOUNT 3
+3. CURRENT ACCOUNT 10
+4. TERM DEPOSIT ACCOUNT 15
+5. BULK DEPOSITS 19
+6. NRE TERM DEPOSITS 23
+7. DEPOSITS HELD IN FCNR(B) ACCOUNT 25
+8. RESIDENT FOREIGN CURRENCY ACCOUNTS (RFC) 31
+9. SPECIAL NON-RESIDENT RUPEE (SNRR) ACCOUNT 35
+10. EXCHANGE EARNER'S FOREIGN CURRENCY ACCOUNT – EEFC 
+ACCOUNT 36
+11. DIAMOND DOLLAR ACCOUNT SCHEME – DDA ACCOUNT 37
+12. FCY ACCOUNT BY A UNIT IN A SPECIAL ECONOMIC ZONE (SEZ) 38
+13. GENERAL GUIDELINES 38
+14. INOPERATIVE ACCOUNTS 40
+15. PAYMENT OF ADDITIONAL INTEREST ON DOMESTIC DEPOSIT 45
+16. NOMINATION 48
+17. SPECIAL TYPE OF ACCOUNTS 48
+18. SETTLEMENT OF DUES IN DECEASED DEPOSITOR’S ACCOUNTS 51
+19. SAFE DEPOSIT LOCKERS 52
+20. REDRESSAL OF COMPLAINTS 52
+21. BANKS’ CODE OF CONDUCT WITH RESPECT TO DEPOSITORS 53
+22. DEPOSITOR’S RIGHTS 55
+23.
+ANNEXURE-A: CUSTOMER IDENTIFICATION PROCEDURE –
+FEATURES TO BE VERIFIED AND DOCUMENTS THAT MAY BE 
+OBTAINED FROM CUSTOMERS
+57
+Page 3 of 65
+POLICY GUIDELINES ON DEPOSITS - 2025-26
+1. KNOW YOUR CUSTOMER (KYC) GUIDELINES OF RBI
+Know Your Customer [KYC] is the platform on which Banking system operates to avoid 
+the pitfalls of operational, legal and reputational risks and consequential losses by 
+scrupulously adhering to the various procedures laid down for opening and conduct of 
+account.
+The Bank shall adopt appropriate Know Your Customer Policies, procedures and internal 
+controls reasonably designed to:
+1.1 Determine and document the true identity and address of the customers who 
+establish relationships, open accounts or conduct significant business transactions 
+and obtain basic background information on customers.
+1.2 Obtain and document any additional customer information, commensurate with 
+assessment of the money laundering risks posed by customers’ expected use of 
+Bank's products and services.
+1.3 Avoid doing business with any individual or entity whose identity cannot be 
+determined or who refuses to provide information or who have provided 
+information that contains significant inconsistencies which cannot be resolved 
+after due investigation.
+The regulatory guidelines require Bank to categorize customers based on risk perception 
+and prepare profiles of customers for the purpose of transaction monitoring. If the 
+decision to open an account of a prospective depositor requires clearance at a higher 
+level, reasons for any delay in opening of the account will be informed and the final 
+decision will be conveyed at the earliest.
+2. TYPES OF DEPOSIT ACCOUNTS
+The Deposit Products offered by the Bank are broadly categorized in the following 
+types:
+1. Savings Bank Account.
+2. Current Account.
+3. Term Deposits.
+3. ACCOUNT OPENING AND OPERATION OF DEPOSIT ACCOUNTS
+3.1 Savings Bank Account:
+Savings Bank account, as the very name suggests, is intended for savings for the 
+future. There are no restrictions on the number and amount of deposit that can be 
+made on any day. Minimum amount of cash withdrawal at Branch is Rs.50/- and 
+cash deposit is Rs.10/-. Balance in the account earns interest at rates decided by 
+Page 4 of 65
+the Bank, from time to time. The facility of withdrawal by cheque is also allowed 
+subject to certain restrictions. 
+Branches shall not open a Savings Bank deposit account in the name of Government 
+departments / bodies depending upon budgetary allocations for performance of their 
+functions / Municipal Corporations or Municipal Committees / Panchayat Samitis / 
+State Housing Boards / Water and Sewerage / Drainage Boards / State Text Book 
+Publishing Corporations / Societies / Metropolitan Development Authority / State / 
+District Level Housing Co-operative Societies, etc. or any Political Party or any 
+trading/business or professional concern, whether such concern is a Proprietary or a 
+Partnership firm or a Company or an Association and Entities. 
+Branches shall open a Savings Bank deposit account only in the name of Individuals, 
+Karta of HUF and Organizations/Agencies listed hereunder:
+(1) Primary Co-operative Credit Society which is being financed by the Bank.
+(2) Khadi and Village Industries Boards.
+(3) Agriculture Produce Market Committees.
+(4) Societies registered under the Societies Registration Act, 1860 or any other 
+corresponding law in force in a State or a Union Territory except societies 
+registered under the State Co-operative Societies Acts and specific state 
+enactment creating Land Mortgage Banks.
+(5) Companies licensed by the Central Government under Section 8 of Companies 
+Act, 2013 or Section 25 of Companies Act, 1956 or under the corresponding 
+provision in the Indian Companies Act, 1913 and permitted not to add to their 
+names the word ‘Limited’ or the words ‘Private Limited’.
+(6) Institutions other than those mentioned in Section 28(h) of RBI Master 
+Direction on Interest Rate of Deposit, 2016 (Updated as on 16.09.2022) (as 
+mentioned in above Para 3.1) ineligible to open Savings Bank accounts and 
+whose entire income is exempt from payment of Income-tax under the IncomeTax Act, 1961.
+(7) Government departments / bodies / agencies in respect of grants / subsidies 
+released for implementation of various programs / Schemes sponsored by 
+Central Government / State Governments subject to production of an 
+authorization from the respective Central / State Government departments to 
+open savings bank account.
+(8) Development of Women and Children in Rural Areas (DWCRA).
+(9) Self-help Groups (SHGs), registered or unregistered, which are engaged in 
+promoting savings habits among their members.
+(10) Farmers' Clubs - Vikas Volunteer Vahini - VVV.
+For the purposes of the above clause, ‘Political Party’ means an Association or Body 
+of individual citizens of India, which is, or is deemed to be registered with the Election 
+Commission of India as a Political Party under the Election Symbols (Reservation and 
+Allotment) Order, 1968 as in force for the time being.
+As required by Law, while opening the account, Bank will satisfy itself about the 
+identity, including verification of address of a person/s seeking to open an account, 
+satisfying about his occupation and source of income, to assist in protecting the 
+Page 5 of 65
+prospective customers, members of the public and the Bank against fraud and other 
+misuse of the Banking system duly observing the Know Your Customer [KYC] guidelines 
+of RBI.
+Bank will not open savings deposit account in the name of entities belonging to the 
+category of bodies/institutions/ organizations prohibited to open Savings Bank 
+Deposit.
+3.1.1 Introduction: Introduction from an existing customer is not mandatory for opening 
+accounts, including those of legal entities. After passing of Prevention of Money 
+Laundering Act (PML Act) and introduction of document based verification of 
+identity/address of the proposed account holders, the accounts opened with proper 
+documents are considered as acting in good faith and without negligence by the 
+banks. An account will be considered fully KYC compliant after obtention of KYC 
+documents like recent photographs, proof of identity and proof of address, 
+verification of these documents & updation of the details in the system (For details 
+refer Annexure-A).
+3.1.2 The Bank is required to obtain 2 recent photographs of the person/s opening the 
+account. In case of illiterate persons, 3 photographs have to be obtained.
+3.1.3 The Officially Valid Documents are as under:
+1) Passport.
+2) Driving License.
+3) Proof of possession of Aadhaar number*.
+4) Voter Identity Card issued by Election Commission of India.
+5) Job card issued by NREGA duly signed by an officer of the State Government.
+6) Letter issued by the National Population Register containing details of name 
+and address.
+[*Where the client submits his proof of possession of Aadhaar number as an Officially 
+Valid Document, he may submit it in such form as issued by the Unique Identification 
+Authority of India (UIDAI].
+Only the documents mentioned above would be accepted for opening accounts of 
+individuals. Branches should not accept any other document for this purpose. (For 
+details refer Annexure-A).
+Customer Due Diligence (CDD) means identifying and verifying the customer and the 
+beneficial owner using reliable and independent sources of identification.
+For undertaking Customer Due Diligence (CDD), Bank shall obtain the following from 
+an individual while establishing an account-based relationship or while dealing with 
+the individual who is a beneficial owner, authorized signatory or the power of 
+attorney holder related to any legal entity:
+(A)The Aadhaar number where, 
+(i) he is desirous of receiving any benefit or subsidy under any scheme notified 
+under section 7 of the Aadhaar (Targeted Delivery of Financial and Other 
+subsidies, Benefits and Services) Act, 2016 (18 of 2016); or 
+(ii) he decides to submit his Aadhaar number voluntarily to a bank; or 
+(B) The proof of possession of Aadhaar number where offline verification can be 
+carried out; or 
+Page 6 of 65
+(C) The proof of possession of Aadhaar number where offline verification cannot be 
+carried out or any OVD or the equivalent e-document thereof containing the details 
+of his identity and address; or
+(D)the KYC Identifier with an explicit consent to download records from CKYCR; and
+(E) The Permanent Account Number or the equivalent e-document thereof or Form 
+No. 60 as defined in Income-tax Rules, 1962; and 
+(F) Such other documents including in respect of the nature of business and financial 
+status of the customer, or the equivalent e-documents thereof as may be required 
+by the bank.
+Provided that where the customer has submitted, 
+i) Aadhaar number under clause (A) above to a bank, such bank shall carry out 
+authentication of the customer’s Aadhaar number using e-KYC authentication 
+facility provided by the Unique Identification Authority of India.
+Further, in such a case, if customer wants to provide a current address, different 
+from the address as per the identity information available in the Central Identities 
+Data Repository, he may give a self-declaration to that effect to the Bank. 
+ii) Proof of possession of Aadhaar under clause (B) above where offline verification 
+can be carried out, the bank shall carry out offline verification. 
+iii) An equivalent e-document of any OVD, the bank shall verify the digital signature 
+as per the provisions of the Information Technology Act, 2000 (21 of 2000) and any 
+rules issues thereunder and take a live photo. 
+iv) Any OVD or proof of possession of Aadhaar number under clause (C) above where 
+offline verification cannot be carried out, the bank shall carry out verification 
+through digital KYC. 
+v) KYC Identifier under clause (D) above, the Bank shall retrieve the KYC records 
+online from the CKYCR.
+Provided that for a period not beyond such date as may be notified by the 
+Government for a class of Regulated entities, instead of carrying out digital KYC, 
+the Regulated entity pertaining to such class may obtain a certified copy of the 
+proof of possession of Aadhaar number or the OVD and a recent photograph where 
+an equivalent e-document is not submitted.
+Note:
+ “Obtaining a certified copy” shall mean comparing the copy of the proof of 
+possession of Aadhaar number where offline verification cannot be carried out or 
+Officially Valid Document so produced by the customer with the original and 
+recording the same on the copy by the authorized officer of the Bank.
+ “Digital KYC” means the capturing live photo of the customer and Officially Valid 
+Document or the proof of possession of Aadhaar, where offline verification cannot 
+be carried out, along with the latitude and longitude of the location where such live 
+photo is being taken by an authorized officer of the Bank.
+ “Equivalent e-document” means an electronic equivalent of a document, issued by 
+the issuing authority of such document with its valid digital signature including 
+Page 7 of 65
+documents issued to the digital locker account of the customer as per rule 9 of the 
+Information Technology (Preservation and Retention of Information by 
+Intermediaries Providing Digital Locker Facilities) Rules, 2016.
+3.1.4 In case, Officially Valid Documents (OVDs) furnished by the customer does not 
+contain updated address, the following documents or the equivalent e-documents 
+thereof shall be deemed to be the OVDs for the limited purpose of proof of address: 
+i) Utility bill which is not more than two months old of any service provider 
+(electricity, telephone, post-paid mobile phone, piped gas, water bill);
+ii) Property or Municipal tax receipt;
+iii) Pension or family pension payment orders (PPOs) issued to retired employees by 
+Government Department or Public Sector Undertakings, if they contain the 
+address;
+iv) Letter of allotment of accommodation from employer issued by State Government 
+or Central Government Departments, statutory or regulatory bodies, public sector 
+undertakings, scheduled commercial banks, financial institutions and listed 
+companies and leave and license agreements with such employers allotting official 
+accommodation.
+(The Customer shall submit updated Officially Valid Document with current address 
+within a period of three months of submitting the above document). 
+3.1.5 The account holder is required to maintain minimum average balance in the 
+account, as specified by the Bank from time to time, separately for branches of 
+different population group. Non-compliance of this would attract services charges. 
+Bank has discretion to change the above norms and levy charges for non-compliance 
+of the same. However, adequate notice will be given duly informing the change/s. 
+3.1.6 The interest on Savings Deposit is calculated on daily product basis and 
+credited to the Customers’ accounts on quarterly intervals in every financial 
+year on 27th of June, 27th of September, 27th of December and 27th of March 
+or shorter intervals.
+3.1.7 Service charges will be collected if the number of withdrawals (excluding Alternate 
+Channel debits) exceeds 50 for every half year period.
+3.1.8 For existing accounts, Issue of cheque book is subject to satisfactory operation in 
+the account. Issue of multiple cheque books is at the discretion of the Branch 
+Manager.
+3.1.9 Cheques, Dividend Warrants drawn in the name of account holder/s only will be 
+collected through the account. 
+3.1.10 An instrument having date as per Saka Samvat calendar is a valid instrument. A Date 
+Conversion inquiry facility is provided in CBS. Bank shall ascertain the Gregorian 
+calendar date corresponding to the National Saka calendar in order to avoid payment 
+of stale cheques.
+3.1.11 Pass book is provided to customer and updated periodically.
+Page 8 of 65
+3.2 Canara Basic Savings Bank Deposit Accounts:
+As per RBI guidelines, the Basic Savings Bank Deposit Account should be considered a 
+normal banking service available to all.
+The following basic minimum facilities in the Canara Basic Saving Bank Deposit 
+Account (BSBDA), are to be offered free of charge, without any requirement of 
+minimum balance:
+3.2.1 The deposit of cash at bank branch as well as ATMs/CDMs.
+3.2.2 Receipt/Credit of money through electronic payment channels or by means of 
+deposit/ collection of cheques drawn by Central/ State Government agencies and 
+departments.
+3.2.3 No limit on the number and value of deposits that can be made in a month.
+3.2.4 Four withdrawals in a month, including ATM withdrawals.
+3.2.5 ATM card or ATM-cum-Debit Card.
+The above facilities will be provided without any charges. Further, no charge will be 
+levied for non-operation/ activation of inoperative “Basic Savings Bank Deposit 
+Account”.
+Provide additional value-added services, including issue of cheque book, beyond the 
+above minimum facilities, which may/may not be priced (in non-discriminatory 
+manner) subject to extant guidelines of the Bank in this regard. The availment of such 
+additional services, branches shall not require the customer to maintain a minimum 
+balance.
+Offering additional services will not make a BSBD account a non-BSBD account, so long 
+as the prescribed minimum services (mentioned above) are provided free of charge.
+The Basic Savings Bank Deposit Account is subject to RBI instructions on Know Your 
+Customer (KYC)/ Anti-Money laundering (AML) for opening of Bank accounts issued 
+from time to time. 
+Holders of Basic Savings Bank Deposit Account will not be eligible for opening any 
+other savings bank deposit account in the bank. If a customer has any other existing 
+savings bank deposit account in the bank, he/she will be required to close such 
+existing accounts within 30 days from the date of opening of “Canara Basic Savings 
+Bank Deposit Account”. 
+While opening a Canara BSBD account, a declaration is to be obtained from the 
+customer that he/she is not having a BSBD account in any other Bank.
+3.3 Accounts under Relaxed KYC Guidelines (Small Accounts)- “Canara Small Savings 
+Bank Deposit” account.
+Although flexibility in the requirements of documents of identity and proof of address 
+has been provided in the KYC guidelines, it has been observed that a large number of 
+persons, especially, those belonging to low income group both in urban and rural areas 
+are not able to produce such documents to satisfy the Bank about their identity and 
+address. This would lead to their inability to access the banking services and result in 
+their financial exclusion. In such cases, if a person who wants to open an account and 
+is not able to produce documents mentioned in Annexure-A, Bank shall open an 
+account with Relaxed KYC guidelines.
+Page 9 of 65
+The accounts with “Relaxed KYC guidelines” can be opened under “Canara Small 
+Savings Bank Deposit Account”. The features of the above account and restrictions 
+stipulated by RBI/Govt. of India are as under:
+• Accounts where aggregate of all credits in a financial year does not exceed Rs.1.00 
+lakh; 
+• The aggregate of all withdrawals and transfers in a month does not exceed 
+Rs.10,000/- and 
+• Where the balance at any point of time does not exceed Rs.50,000/-.
+The above limit on balance shall not be considered while making deposits through 
+Government grants, welfare benefits and payment against procurements.
+Any violation of the stipulations mentioned above will result in restraining the 
+operations in the account after giving due notice to the account holder.
+Canara Small Savings Bank Deposit account can be opened on production of a selfattested photograph and affixation of signature or thumb impression as the case may 
+be, on the form for opening the account, provided that the bank official while opening 
+the account certifies under his/her signature that the person opening the account has 
+affixed his/her signature or thumb impression as the case may be, in his/her presence.
+A Canara Small Savings Bank Deposit Account shall remain operational initially for a 
+period of twelve months and thereafter for a further period of twelve months if the 
+holder of such an account provides evidence before the Bank of having applied for 
+any of the officially valid documents within twelve months of the opening of the said 
+account. The entire relaxation provisions are to be reviewed in respect of the said 
+account after twenty-four months.
+Holders of Canara Small Savings Bank Deposit Account will not be eligible for opening 
+any other savings bank deposit account in the Bank. If a customer has any other 
+existing savings bank deposit account in the Bank, he/she will be required to close 
+such existing accounts within 30 days from the date of opening of “Canara Small 
+Savings Bank Deposit Account”. 
+Once the account holder keeps a balance of more than Rs. 50,000/- in the account 
+opened under the scheme and in any other deposits accounts put together, or if the 
+total credit in one year in all the deposit accounts including the account opened under 
+the scheme exceeds Rs.1 lakh or if the total withdrawal and transfers in a month 
+exceeds Rs. 10,000/-, the account holder should necessarily undergo full KYC 
+procedure. In case, the account holder fails to undergo full KYC procedure, further 
+transactions in his/her Canara Small Savings Bank Deposit Account shall not be 
+permitted.
+In respect of “Small Accounts”, the prescribed limits/conditions should not be 
+breached and compliance therewith should be strictly monitored.
+A Canara Small Savings Bank Deposit Account shall be monitored and when there is 
+suspicion of money laundering or financing of terrorism or other high risk scenarios, 
+the identity of customer shall be established through the production of officially valid 
+documents. 
+Foreign remittances shall not be allowed to be credited into a Canara Small Savings 
+Bank Deposit Account unless the identity of the customer is fully established through 
+the production of officially valid documents.
+Page 10 of 65
+3.4 Documents required by a foreign student to open a Bank account:
+(1) Proof of Identity: Passport, Valid Visa with photograph.
+(2) Proof of Admission: A letter from the University or College.
+(3) Address Proof: A letter from the College or Hostel, certificate from the Embassy 
+of the country of origin or any appropriate Legal Authority certified local address 
+in India/rent agreement/certification of registration issued by Foreigner 
+Registration Regional Office (FRRO).
+Branches may open NRO Account on the basis of the passport (with appropriate visa 
+& immigration endorsement) which contains proof of identity and address in the home 
+country along with a photograph and a letter offering admission from the educational 
+institution in India.
+• Provided that a declaration about the local address shall be obtained within a 
+period of 30 days of opening the account and the said local address is verified.
+• Provided further that pending the verification of address, the account shall be 
+operated with a condition of allowing foreign remittances not exceeding USD 1000 
+or equivalent into the account and a cap of rupees fifty thousand on aggregate in 
+the same, during the 30-days period.
+The account shall be treated as normal NRO account and shall be operated in terms 
+of RBI’s instructions on Non-Resident Ordinary Rupee (NRO) Account, and the provision 
+of FEMA 1999.
+Students with Pakistani nationality will need prior approval of RBI for opening the 
+account.
+RBI has clarified that in terms of Section 2(V) of FEMA 1999 definition of a person 
+resident in India does not include a person who has come to stay in India for any 
+purpose which would indicate his stay for a definite period. Accordingly a foreign 
+student coming to India would be considered as “Non-resident” and a resident account 
+cannot be opened for him.
+4. CURRENT ACCOUNT:
+Current Accounts are designed to meet the needs of such sections of the public who 
+operate their account regularly and frequently. i.e., Traders, Businessmen, Corporate 
+bodies or the like, who receive money and make payments very often. Current 
+accounts are suitable to such category of customers as there are no restrictions on 
+the number of withdrawal or deposit. Current accounts can be opened by individuals, 
+proprietary concerns, partnership firms, Private & Public Ltd Co., HUFs/Specified 
+associations, Societies, Trusts, Limited Liability Partnerships, Departments of 
+Authority created by Government (Central or State), etc.
+As required by law, while opening the account, the Bank will satisfy itself about the 
+identity, satisfying about his occupation and source of income, including verification 
+of address of the person/s seeking to open an account to assist in protecting the 
+prospective customers, public and the Bank against fraud and other misuse of the 
+Banking system duly observing the KYC guidelines of RBI.
+Introduction from an existing customer is not mandatory for opening accounts, 
+including those of legal entities. An account will be considered fully KYC compliant 
+after obtention of KYC documents like recent photographs, proof of identity and proof 
+of address, verification of these documents & updation of the details in the system 
+(For details refer Annexure-A).
+Page 11 of 65
+Only the Officially Valid Documents mentioned in Annexure-A would be accepted for 
+opening accounts of individuals/entities. Branches should not accept any other 
+document for this purpose. (For details refer Annexure-A).
+4.1 The Bank is required to obtain 2 photographs of all the person/s who are opening and 
+operating the account.
+4.2 The Bank is required to obtain Permanent Account Number [PAN] or alternatively 
+obtain declaration in Form No.60 as per the Income Tax Act from the person/s opening 
+the account [i.e., including partners or registered/unregistered partnership as also 
+registered/corporate bodies/companies, etc.]. The PAN shall be verified from the 
+verification facility of the issuing authority.
+4.3 The Bank will provide to the prospective customer’s details of the documents required 
+for identification of the person/s opening the account. Minimum Balance as stipulated 
+from time to time is required to be maintained by the customers.
+4.4 No interest is paid on credit balance kept in Current Account.
+4.5 Service charges are levied for:
+▪ Ledger folio used.
+▪ Cheque books issued.
+▪ Non-maintenance of minimum balance.
+▪ Return of cheques, ECS, etc.
+▪ Other facilities as per extant guidelines.
+4.6 Current Accounts for Executors, Administrators, Trustees, liquidators, etc., can also 
+be opened.
+4.7 Statement of account is provided to the account holder monthly or at periodic 
+intervals, as per the choice of the account holder.
+4.8 For Proprietary concerns, Customer Due Diligence of the individual (proprietor) are 
+to be carried out and any two of the following documents or the equivalent 
+e-documents in the name of the proprietary concern should be submitted:
+(i) Registration Certificate including Udyam Registration Certificate (URC) issued 
+by the Government.
+(ii) Certificate/license issued by the Municipal authorities under Shop & 
+Establishment Act.
+(iii) Sales and income tax returns.
+(iv) CST/VAT/GST certificate,
+(v) Certificate / registration document issued by Sales Tax / Service Tax / 
+Professional Tax authorities.
+(vi) The complete Income Tax return (not just the acknowledgement) in the name of 
+the sole Proprietor where the firm’s income is reflected, duly 
+authenticated/acknowledged by the Income Tax Authorities.
+(vii) Utility bills such as electricity, water and landline telephone bills. 
+(viii)IEC (Importer Exporter Code) issued to the proprietary concern by the office of 
+DGFT/License/certificate of practice issued in the name of the proprietary 
+concern by any professional body incorporated under a statute.
+Though the default rule is that any two documents mentioned above should be provided 
+as activity proof by a Proprietary concern, in cases where the branches are satisfied 
+that it is not possible to furnish two such documents, they would have the discretion to 
+accept only one of those documents as activity proof. In such cases, the branches, 
+however, would have to undertake contact point verification, collect such information 
+Page 12 of 65
+as would be required to establish the existence of such firm, confirm, clarify and satisfy 
+them that the business activity has been verified from the address of the proprietary 
+concern.
+4.9 The detailed guideline for opening of current account is as under:
+4.9.1 Opening of Current Accounts for borrowers availing Cash Credit / Overdraft 
+Facilities from the Banking System:
+(A) For borrowers, where the aggregate exposure of the banking system is less than 
+₹5 Crore: 
+Branch can open current accounts without any restrictions subject to obtaining an 
+undertaking from such customers that they (the borrowers) shall inform the branch, 
+if and when the credit facilities availed by them from the banking system becomes 
+₹5 Crore or more.
+(B) Where the aggregate exposure of the banking system is ₹5 Crore or more:
+➢ Borrowers can open current accounts with any one of the banks with which it has 
+CC/OD facility, provided that the bank has at least 10 per cent of the aggregate 
+exposure of the banking system to that borrower. In case none of the lenders has 
+at least 10 per cent of the aggregate exposure, the bank having the highest 
+exposure among CC/OD providing banks may open current accounts.
+➢ Other lending banks may open only collection accounts subject to the condition 
+that funds deposited in such collection accounts will be remitted within two 
+working days of receiving such funds, to the CC/OD account maintained with the 
+above-mentioned bank (Para 4.9.1 (B)) maintaining current accounts for the 
+borrower. The balances in such collection accounts shall not be used for 
+repayment of any credit facilities provided by the bank, or as collateral/ margin 
+for availing any fund or non-fund based credit facilities. However, banks 
+maintaining collection accounts are permitted to debit fees/ charges from such 
+accounts before transferring funds to CC/OD account.
+➢ Non-lending banks shall not open any current account for such borrowers.
+4.9.2 Opening of Current Accounts for borrowers not availing Cash Credit/ Overdraft 
+Facilities from the banking system:
+(A)In case of borrowers where aggregate exposure of the banking system is 
+₹50 Crore or more:
+i) Banks shall be required to put in place an escrow mechanism. Borrowers shall be 
+free to choose any lending bank as their escrow managing bank. All lending banks 
+should be part of the escrow agreement. The terms and conditions of the 
+agreement may be decided mutually by lending banks and the borrower.
+ii) Current accounts of such borrowers can only be opened/ maintained by the escrow 
+managing bank.
+iii) Other lending banks can open ‘collection accounts’ subject to the condition that 
+funds will be remitted from these accounts to the said escrow account at the 
+frequency agreed between the bank and the borrower. Further, balances in such 
+collection accounts shall not be used for repayment of any credit facilities 
+Page 13 of 65
+provided by the bank, or as collateral/ margin for availing any fund or non-fund 
+based credit facilities. While there is no prohibition on amount or number of 
+credits in ‘collection accounts’, debits in these accounts shall be limited to the 
+purpose of remitting the proceeds to the said escrow account. However, banks 
+maintaining collection accounts are permitted to debit fees/ charges from such 
+accounts before transferring funds to the escrow account.
+iv) Non-lending banks shall not open any current account for such borrowers.
+(B)In case of borrowers where aggregate exposure of the banking system is ₹5 
+Crore or more but less than ₹50 Crore:
+There is no restriction on opening of current accounts by the lending banks. 
+However, non-lending banks may open only collection accounts as detailed at Para 
+4.9.2(iii) above.
+(C)In case of borrowers where aggregate exposure of the banking system is less 
+than ₹5 Crore:
+Branch may open current accounts subject to obtaining an undertaking from them 
+that they (the Customers) shall inform the bank(s), if and when the credit facilities 
+availed by them from the banking system becomes ₹5 Crore or more. The current 
+account of such customers, as and when the aggregate exposure of the banking 
+system becomes ₹5 Crore or more, and ₹50 Crore or more, will be governed by the 
+provisions of Para 4.9.2 (A) & (B) respectively.
+4.9.3 Opening of Current Account for Customer who have availed credit facilities only 
+from NBFCs/FIs/Co-operative Banks/ Non-Bank Institutions:
+Banks are free to open current accounts, without any of the restrictions as 
+mentioned above, for borrowers having credit facilities only from NBFCs/ FIs/ cooperative banks/ non-bank institutions, etc. However, if such borrowers avail 
+aggregate credit facilities of ₹5 Crore or above from the banks covered under these 
+guidelines, the provisions as per the above shall be applicable.
+4.9.4 Opening of Current Account for Customers who have not availed any credit 
+facilities from Banking System:
+Branches are free to open current accounts of prospective customers who have not 
+availed any credit facilities from the banking system, subject to necessary due 
+diligence as per existing guidelines.
+4.9.5 Branches should not route drawal from term loans through CC/ OD/ Current accounts 
+of the borrower. Since term loans are meant for specific purposes, the funds should 
+be remitted directly to the supplier of goods and services. In cases where term loans 
+are meant for purposes other than for supply of goods and services and where the 
+payment destination is identifiable, banks shall ensure that payment is made 
+directly, without routing it through an account of the borrower. However, where 
+the payment destination is unidentifiable, banks may route such term loans through 
+an account of the borrower opened as per the provisions of the circular. Expenses 
+incurred by the borrower for day-to-day operations may be routed through an 
+account of the borrower.
+Page 14 of 65
+4.9.6 Branches are permitted to open and operate the following accounts without any 
+of the restrictions placed in terms of the above mentioned guidelines:
+(a) Specific accounts which are stipulated under various statutes and specific 
+instructions of other regulators/ regulatory departments/ Central and State 
+Governments. An indicative list of such accounts is given below:
+(i) Accounts for real estate projects mandated under Section 4 (2) l (D) of the Real 
+Estate (Regulation and Development) Act, 2016 for the purpose of maintaining 70 
+per cent of advance payments collected from the home buyers.
+(ii) Nodal or escrow accounts of payment aggregators/ prepaid payment instrument 
+issuers for specific activities as permitted by Department of Payments and 
+Settlement Systems (DPSS), Reserve Bank of India under Payment and Settlement 
+Systems Act, 2007.
+(iii) Accounts for the purpose of IPO/ NFO/ FPO/ share buyback/ dividend payment/ 
+issuance of commercial papers/ allotment of debentures/ gratuity etc. which are 
+mandated by respective statutes or by regulators and are meant for specific/ 
+limited transactions only.
+(b) Accounts opened as per the provisions of Foreign Exchange Management Act, 1999 
+(FEMA) and notifications issued thereunder including any other current account if it 
+is mandated for ensuring compliance under the FEMA framework.
+(c) Accounts for payment of taxes, duties, statutory dues, etc. opened with banks 
+authorized to collect the same, for borrowers of such banks which are not authorized 
+to collect such taxes, duties, statutory dues, etc.
+(d) Accounts for settlement of dues related to debit card/ ATM card/ credit card 
+issuers/ acquirers.
+(e) Accounts of White Label ATM Operators and their agents for sourcing of currency.
+(f) Accounts of Cash-in-Transit (CIT) Companies/ Cash Replenishment Agencies (CRAs) 
+for providing cash management services.
+(g) Accounts opened by a branch funding a specific project for receiving/monitoring 
+cash flows of that specific project, provided the borrower has not availed any CC/OD 
+facility for that project.
+(h) Inter-bank accounts.
+(i) Accounts of All India Financial Institutions (AIFIs), viz., EXIM Bank, NABARD, NHB, 
+and SIDBI.
+(j) Accounts attached by orders of Central or State governments/ regulatory body/ 
+Courts/ investigating agencies etc. wherein the customer cannot undertake any 
+discretionary debits.
+Branches maintaining accounts exempted as per the above list shall ensure that these 
+accounts are used for permitted/ specified transactions only. Further, Branch shall flag 
+these accounts in the CBS for easy monitoring. Lenders to such borrowers may also 
+enter into agreements/ arrangements with the borrowers for monitoring of cash flows/ 
+periodic transfer of funds (if permissible) in these accounts.
+Bank shall monitor all current accounts and CC/ODs regularly, at least on a half-yearly 
+basis, specifically with respect to the exposure of the banking system to the borrower 
+and the bank’s share in that exposure, to ensure compliance with these instructions. If 
+there is a change in exposure of banks or aggregate exposure of the banking system to 
+Page 15 of 65
+the borrower which warrants implementation of new banking arrangements, such 
+changes shall be implemented within a period of three months from the date of such 
+monitoring.
+4.9.7 Flow Chart- Opening of Current Account:
+5. TERM DEPOSIT ACCOUNT:
+Term deposits are deposits received by the Bank for a fixed period, withdrawable after 
+the expiry of the fixed period and include deposits such as 
+Recurring/Fixed/Kamadhenu/Nitya Nidhi Deposit (a special scheme), etc. Bank has 
+tailored various term deposit schemes to suit the needs and expectation of the investing 
+people from all walks of life. Term deposits can be opened by individuals, partnership 
+firms, Private/Public Ltd Companies, HUFs, Institutions, Societies, Trusts, Limited 
+Liability Partnership, Departments of Authority created by Government (Central or 
+State), etc.
+The Minimum period for placing deposit under Fixed deposits (FD) Scheme is 7 days (for 
+deposits of Rs.5 lakh and above) otherwise the minimum period is 15 days. The minimum 
+period under reinvestment scheme- Kamadhenu Deposit (KD) is 5 months and 6 months 
+under Recurring deposit (RD). The maximum period for deposits under Fixed deposits 
+(FD), Kamadhenu Deposit (KD) and Recurring deposit (RD) is 10 years. However, deposits 
+in the name of Minors and deposits under court orders are accepted for more than 10 
+years’ period. Rate of interest as applicable to the deposits for 10 years’ slab 
+prevailing at the time of opening the term deposit shall be applicable to the 
+deposits opened for more than 10 years’ period under exceptional cases such as 
+deposits accepted under court orders.
+NND (Nitya Nidhi Deposit) scheme is intended to mop up the small savings and is 
+specially designed for daily savers of small means and based on daily door collection by 
+Page 16 of 65
+Agents appointed by the Bank. The accounts under the NND scheme shall be opened 
+with tenor of 63 months only. Minimum amount of daily contribution to NND Scheme is 
+Rs.50 (Rupees Fifty Only). Daily collection per day per account shall not exceed 
+Rs.1000/- (Maximum Rs. 30,000/- in a month). No interest and commission shall be paid 
+beyond this limit. The detailed interest rates (Including interest rates applicable on 
+premature withdrawal) for deposits under NND Scheme are announced from time to 
+time by the Bank. A penalty of 0.05% on the Interest payable for premature closure of 
+the NND deposit will be collected on premature closure of NND Deposit when closed 
+within 12 months.
+As required by law, while opening of the term deposit account, the Bank will satisfy 
+itself about the identity, satisfying about his occupation and source of income, 
+including verification of address of the person/s seeking to open an account to assist in 
+protecting the prospective customers, public and the Bank itself against fraud and other 
+misuse of the Banking system duly observing the KYC guidelines of RBI.
+Introduction from an existing customer is not mandatory for opening accounts, 
+including those of legal entities. An account will be considered fully KYC compliant 
+after obtention of KYC documents like recent photographs, proof of identity and proof 
+of address, verification of these documents & updation of the details in the system. 
+(For details refer Annexure-A).
+Full KYC exercise involves obtention of KYC documents like recent photographs, proof
+of identity and proof of address, verification of these documents, and safe keeping of 
+the photographs/documents.
+Only the ‘Officially Valid Documents’ mentioned in Annexure-A would be accepted for 
+opening accounts of individuals/entities. Branches should not accept any other 
+document for this purpose. (For details refer Annexure-A).
+5.1 The Branch is required to obtain 2 photographs of all the person/s who are opening and 
+operating the account. Photograph will not be insisted from depositors already having 
+their SB/ Current Account with photographs.
+5.2 The Branch is required to obtain Permanent Account Number [PAN] or alternatively 
+obtain declaration in Form No.60 as per the Income Tax Act from the person/s opening 
+the account. The PAN shall be verified from the verification facility of the issuing 
+authority. The Bank will provide to the prospective customers details of the documents 
+required for identification and Address Proof of the person/s opening the account. 
+Persons & entities already having operative accounts such as Savings Bank, Current 
+account, etc., need not provide the above documents for opening of the Term Deposit 
+accounts.
+5.3 The rate of interest for Term Deposits is decided by the Asset Liability Committee of 
+the Bank, who has been delegated with such powers by the Board of the Bank. This 
+interest rate is uniformly applied to all customers without any negotiation or 
+discrimination. Hitherto Bank has been paying an additional interest of 1.28% above the 
+prevailing rates for Army/Navy/Air force Insurance Groups. But as per RBI Circular dated 
+06.08.2015, the same has been withdrawn.
+5.4 Premature withdrawals are allowed. 
+(a) A penalty of 1.00% shall be levied for premature closure/part withdrawal/premature 
+extension (penalty is waived if premature extension period is more than the original 
+period as mentioned in paragraph below) of Domestic/NRO term deposits of less than 
+Page 17 of 65
+Rs.3 Crore that are accepted /renewed on or after 07.06.2024. However, waiver 
+of penalty for premature closure/part withdrawal of term deposits may be 
+permitted on case-to-case basis by the ED-CAC on the recommendation of the 
+Circle Head.
+(b) Penalty is waived for premature extension of Domestic / NRO term deposits of less 
+than Rs.3 Crore during the tenure, where extension is for a period longer than the 
+period originally agreed to.
+(c) A penalty of 1.00% is waived in case of premature closure/part withdrawal/ 
+premature extension of Domestic/NRO CALLABLE term deposit of Rs. 3 Crore & 
+above that are accepted/renewed on or after 07.06.2024. Such prematurely 
+closed/part withdrawn/prematurely extended deposits will earn interest at the rate 
+as applicable for the amount slab of Rs.3 Crore & above as ruling on the date of 
+deposit and as applicable for the period run OR the rate at which the deposit has 
+been accepted, whichever is lower. A penalty of 1.00% is applicable on Term Deposits 
+under Capital Gains Account Scheme-1988, which are prematurely 
+converted/withdrawn/closed, irrespective of the size of the deposit amount. 
+Further, no interest will be payable on Domestic/NRO term deposits prematurely 
+closed/prematurely extended before completion of 7th day. (Including for Sweep inSweep out deposits).
+(d) Canara Tax Saver: In case of deceased depositor, pre-mature closure can be 
+permitted by Circle Head.
+5.5 Non-Callable Deposit: A term deposit without premature withdrawal option.
+All Term Deposits accepted from individuals (held singly or jointly) for amount of 
+Rupees One Crore and below shall have premature withdrawal facility.
+5.5.1 Non-Callable deposit closure can be permitted under following exceptional 
+circumstances:
+a) Death of Depositor.
+b) In case of bankruptcy of depositor/s, insolvency etc.
+c) In case of winding up of business/closure of departments/institutions etc.
+d) In case of Government/Regulatory order/court order
+e) In the event of Banker’s right to set-off (i.e., legal right of the bank to set off or 
+adjust the debit amount against the credit amount in the balance of the same 
+borrower).
+f) Deposit made erroneously (subject to examination of staff lapses).
+5.5.2 Rate of interest to be paid on Non-Callable deposits that are closed under exceptional 
+circumstances (above cases) is as under:
+If Non-Callable term deposit is closed based on above circumstances, ROI at 1.00% 
+below the rate as applicable for Callable deposits, for the relevant amount slab as ruling 
+on the date of deposit and as applicable for the period run OR 1.00% below the rate at 
+which the deposit has been accepted, whichever is lower. However, no interest will be 
+payable on term deposits prematurely closed/prematurely extended before completion 
+of 7th day. (No penalty in case of death of depositor and deposits made erroneously 
+subject to examination of staff lapses).
+Delegated authority to permit the payment of interest for the Non-callable deposits 
+shall be with Wing Head of Resources Wing, for the above cases based on the 
+recommendations of Circle Head.
+Page 18 of 65
+The Guidelines on Non-Callable deposit are as under:
+NON-CALLABLE DEPOSITS
+Minimum Period 46 Days
+Maximum Period 10 Years
+Eligibility All types of Customers (Domestic/NRO/NRE)
+Minimum Amount Above Rs.1.00 Crore
+Maximum Amount No limit
+Premature Closure Not Permitted
+Part-Withdrawal Not Permitted
+Sweep In/Sweep Out No
+Auto Renewal
+Auto renewal facility is not available for 
+Non-Callable deposits. However, in case of 
+existing lien against Non-callable deposits, 
+the deposit gets force renewed to 
+corresponding Callable deposit product for 
+the same term with ROI prevailing on the 
+date of renewal.
+Non-Callable deposit, Part withdrawal/Premature withdrawal not permitted; should 
+be mentioned on the deposit application. 
+5.6 Generally, loans/overdrafts against deposits are allowed. Such loans are sanctioned 
+by charging interest at rates announced from time to time by the Bank. The Bank may 
+also consider loan against deposit standing in the name of Minor. However, a suitable 
+declaration stating that loan is for the benefit of the Minor is to be submitted by the 
+guardian.
+5.7 Deposits shall be automatically renewed by the Bank on due dates for similar periods 
+as per the mandate of the depositor in the original application except in case of 
+encumbered deposits, CGA deposits, Canara Tax Saver deposits, Non-callable 
+deposits, discontinued products and in case of deposits where alternate instructions 
+are available. The rate of interest prevailing on the date of maturity shall be the rate 
+applicable for the renewed deposit. All other terms and conditions stated in the 
+application will remain valid. The Bank intimates the depositor in advance regarding 
+the date of maturity of the term deposit.
+5.8 Interest shall be calculated at quarterly intervals on term deposits and paid at the 
+rate decided by the Bank depending upon the period of deposits. Interest on Fixed 
+Deposit is payable either monthly at discounted value or quarterly or half yearly or 
+yearly or on maturity. The interest on Term deposits is calculated by the Bank in 
+accordance with the formulae and conventions advised by Indian Banks' Association. 
+The interest rates for term deposits are decided by the Asset Liability Committee of 
+the Bank (ALCO) and shall be as applicable on the date of issue/renewal of the Term 
+Deposit.
+5.9 Premature extension/renewal of term deposit: In case the depositor desires to 
+renew the deposit by seeking premature closure of an existing term deposit, the Bank 
+will permit the renewal at the applicable rate on the date of renewal, provided the 
+deposit has run for a minimum period of 7 days (for deposits of Rs.5 lakh and above) 
+and the deposit is renewed for a period longer than the balance period of the original 
+Page 19 of 65
+deposit. While prematurely closing a deposit for the purpose of renewal, interest on 
+the deposit for the period it has remained with the Bank will be paid at the rate 
+applicable to the period the deposit has remained with the Bank, subject to penalty 
+(if any) and not at the contracted rate.
+5.10 Renewal of overdue Term Deposit: When a domestic/ Ordinary Non-Resident (NRO) 
+term deposit is renewed on maturity, the interest rate ruling on the date of maturity 
+for the period specified by the depositor would be extended. Facility of Automatic 
+renewal of domestic/NRO term deposits is available for depositors who exercise their 
+option for auto renewal except CGA deposits, Canara Tax Saver deposits and NonCallable deposits. 
+5.11 If a Domestic Term deposits matures and proceeds are unpaid, the amount left 
+unclaimed with the Bank shall attract rate of interest as applicable to saving account 
+or the contracted rate of interest on the matured TD, whichever is lower.
+5.12 a) Opening of term deposits (Domestic/NRO/NRE) with Value date may be permitted 
+on case to case basis by the Resources Wing Head, based on the recommendations of 
+the Circle Head.
+b) Opening of Foreign Currency term deposits (such as FCNR (B)/RFC) with Value 
+date may be permitted on case-to-case basis by the Integrated Treasury Wing 
+Head, based on the recommendations of the Circle Head.
+5.13 Deposits maturing on Holiday/non-business working day:
+If a term deposit is maturing for payment on a Holiday/non-business working day, 
+interest shall be paid at the originally contracted rate on the original principal deposit 
+amount for the Holiday/non-business working day, intervening between the date of 
+the maturity of the specified term of the deposit and the date of payment of the 
+proceeds of the deposit on the succeeding working day.
+In case of reinvestment of Term deposits and recurring deposits, interest shall be paid 
+at the originally contracted rate for the intervening Holiday/non-business working day 
+on the maturity value.
+5.14 BULK DEPOSITS:
+As per RBI Master Direction on Interest Rates on Deposits, "Bulk Deposit" is defined 
+as “Single Rupee term deposit of 3 Crore and above” w.e.f. 07.06.2024.
+The rate of interest for Bulk Deposits is decided by the Asset Liability Committee of 
+the Bank, who has been delegated with such powers by the Board of the Bank. 
+If branches are desirous of quoting additional rate with or without validity 
+period for Bulk deposits, a sub-committee of ALCO (ALCO Sub-committee) approved 
+by the Board of directors shall be vested with delegated powers to quote additional 
+interest of maximum 50 bps over and above the card rate. The rate so published 
+shall be uniform to all the deposits with the same amount and tenor. The proposals 
+falling under the powers of ALCO Subcommittee shall be taken up with the Committee 
+by Integrated Treasury Wing based on market conditions and ongoing rates.
+The ALCO Subcommittee shall consist of the following:
+1. Executive Director Overseeing Integrated Treasury Wing
+2. CGM/GM, Integrated Treasury Wing
+3. CGM/GM, Group Chief Finance Officer, Financial Management Wing.
+Page 20 of 65
+4. CGM/GM. Chief Risk Officer, Risk Management Wing.
+5. CGM/GM, Strategy & Data Analytics Wing
+6. CGM/GM, Resources Wing 
+The additional interest over card rates shall be approved by minimum of three 
+committee members out of which approval of Executive Director Overseeing Integrated 
+Treasury Wing is mandatory. 
+Monthly consolidated note on all the proposals permitted by ALCO sub-committee shall 
+be placed before the ALCO by Integrated Treasury Wing for information.
+SOP for Bulk Deposits is enclosed in Annexure-I (A). Any change in SOP shall be 
+permitted by S & P Committee.
+Presently, there is no penalty for premature closure/part withdrawal/premature 
+extension of Domestic/NRO term deposit of Rs.3 Crore & above.
+The upper limit for a branch, to accept single term deposit at Card rate, has been 
+enhanced to less than Rs.10 Crore with effect from 26.03.2020. However, if branches 
+are desirous of quoting deposits with validity period / additional rate for Bulk Deposit 
+of Rs.3 Crore and above then permission has to be obtained from Integrated Treasury 
+Wing through their respective Circle Office.
+For Single Bulk Domestic term deposit of Rs.10 Crore and above, only Designated 
+branches shall take up with T & I Division, Integrated Treasury Wing, Mumbai, HO 
+through Resources Section of respective Circle office for obtaining permission to accept 
+the deposit. Head of Resources Wing is permitted to designate any branch (other than 
+Designated branches) to open Single Bulk Term Deposit of “Rs.10 Crore and above” in 
+exceptional circumstances based on business needs and on the recommendation of the 
+Circle Head.
+In case of all Bulk Deposits of Rs.3 Crore & above, a confirmatory letter in the form of 
+a “Thanks giving” letter will be sent by the Bank to the beneficiary by Registered 
+Post/Reputed Courier as well as e-mail and SMS wherever email ID and mobile number 
+are available, giving necessary details.
+KYC guidelines shall be complied with scrupulously while accepting bulk term deposits. 
+Proper application, documents and resolution of the Board/Governing Body (wherever 
+applicable), etc. have to be obtained and verified for its genuineness.
+In respect of bulk term deposits, opening of term deposit account and printing of 
+Deposit Receipt shall be done on the same day of accepting/ clearance of the proceeds.
+A Power of Attorney holder from the branch accepting the bulk term deposit/ upcountry 
+branch/Circle (where the depositor is located) shall pay a personal visit to the office of 
+the beneficiary after opening the bulk term deposit. This visit may coincide with the 
+handing over of the Deposit Receipt against due acknowledgement from the depositor/ 
+depositor’s authorized representative.
+The visit of the Bank Official and handing over of the deposit receipt shall be properly 
+recorded. Such record shall be kept in a separate file which may be verified and 
+commented upon by the Overseeing Executive during the interface with the branch/ 
+branch visit. The branch-in-charge shall be responsible for getting the same verified by 
+the Overseeing Executive. Compliance of this aspect shall be ensured by the Inspecting 
+Officers during the regular inspection of the branch.
+Page 21 of 65
+In case of loan/overdraft facility of Rs.3 Crore and above against the term deposit, 
+necessary due diligence shall be ensured by the branches. For loan/overdraft facility of 
+less than Rs.10 Crore sanctioned against a term deposit, offsite monitoring should be 
+done at the Operations Section, Circle Office and for loan/overdraft facility of Rs.10 
+Crore & above offsite monitoring should be done at OTM Cell, Transaction Monitoring 
+Vertical, Operations Wing, Head Office.
+Branches should not credit the proceeds of loan to third party accounts in case of 
+loans/advances granted on term deposits. The loan proceeds should be credited to the 
+account of the depositor/s only.
+Before disbursing the loan proceeds against term deposits, independent confirmation 
+regarding request for loans to be obtained from the depositor, in addition to loan 
+application. The extant guidelines on delegation of powers shall be strictly adhered to 
+while sanctioning any Loans/Overdrafts against term deposits.
+Reports to be generated from CBS on a day to day basis for large value transactions of 
+Rs.3 Crore & above in respect of Term Deposits and Loans/Overdrafts granted against 
+Term Deposits and Operations Section of the respective Circle Office should monitor 
+these transactions every day.
+Staffs are advised to ensure strict compliance of all the cited guidelines and staff 
+accountability shall be fixed for any lapse on part of the staff in following the laid down 
+guidelines either in processing a proposal or sanction/disbursement, or monitoring. 
+Operations Section of the respective Circle Office should monitor the same. The 
+statutory/ concurrent auditors may also be assigned in their TOR (Terms of Reference) 
+to monitor this aspect more closely.
+Review of all Bulk Deposit Transactions of Rs.3 Crore & above should be done by the 
+respective Resources Section of Circle Office regularly. Review of loans against Bulk 
+Term Deposits should be done by the respective Credit Review Section of Circle Office 
+regularly.
+A Callable deposit (premature withdrawal permissible) can be closed before maturity 
+at any point of time without penalty and the rate of interest will be payable at the rate 
+prevailing on the date of opening, for the period that the deposit has run.
+5.15 Tax on Interest on Bank Deposits:
+The Bank has statutory obligation to deduct tax at source if the total interest 
+paid/payable in a financial year on all term deposits (including RD) held by a person 
+exceeds the amount specified under the Income Tax Act. In case where PAN is not 
+submitted by the customer, TDS will be deducted at prescribed rate or 20% whichever 
+is higher. The Bank will issue a tax deduction certificate (TDS Certificate) for the 
+amount of tax deducted wherever PAN was provided by the customer(s). The depositor, 
+if entitled for exemption from TDS, can submit declaration in the prescribed format 
+(Form 15G/H or exemption certificate u/s 197 of Income Tax Act, 1961) at the beginning 
+of every financial year or at the time of opening of fresh deposit by new customer. TDS 
+on interest of deposit shall be deducted if applicable, at the time of compounding of 
+accrued interest on quarterly basis (anniversary quarter) and on accrual basis as on 31st 
+March.
+As per Section 139AA of the Income Tax Act 1961, every person eligible to obtain an 
+Aadhaar and has PAN, must link their Aadhaar with their PAN by 30.06.2023. If a person 
+failed to link Aadhaar with PAN on or before 30.06.2023, the PAN shall become 
+inoperative from 01.07.2023 & continue till the PAN becomes operative. 
+Page 22 of 65
+Accordingly,
+a) where tax is deductible under Chapter XVJJ-B in case of such person, such 
+tax shall be deducted at higher rate, in accordance with the provisions of 
+section 206AA;
+b) where tax is collectible at source under Chapter XVJJ-BB in case of such 
+person, such tax shall be collected at higher rate, in accordance with the 
+provisions of section 206CC.
+5.16 Payment of Interest on domestic Term Deposit (Including Tax Saver Deposit) of a 
+deceased depositor:
+5.16.1 In respect of the deposit of the deceased closed before maturity and repaid to the legal 
+heirs/ representatives of the deceased depositor, interest is payable at the rate 
+applicable for the period for which the deposit actually remained with the bank without 
+penal cut.
+5.16.2 In the event of the death of the depositor before the date of the maturity of the deposit 
+and the amount of the deposit is claimed after the date of maturity, the bank shall pay 
+interest at the contracted rate till the date of maturity. From the date of maturity till 
+the date of payment, the bank shall pay simple interest at the applicable Savings bank 
+rate prevailing on the date of maturity, for the period for which the deposit remained 
+with the bank beyond the date of maturity.
+5.16.3 In the case of death of the depositor after the date of maturity the bank shall pay 
+interest at Savings Bank rate prevailing on the date of maturity, from the date of 
+maturity till the date of payment.
+5.17 Payment of interest on Death Claim settlement in respect of auto renewed 
+deposits:
+5.17.1 Payment of interest in the event of the death of the depositor before the date of 
+maturity of the original deposit and the deposit is auto renewed on the date of maturity 
+and the amount of deposit is claimed before or after the subsequent maturity date: 
+➢ The bank shall pay interest at contracted rate till the date of maturity of the original 
+deposit and thereafter Savings Bank deposit rate operative on the date of maturity of 
+the original deposit from the date of maturity of the original deposit till the date of 
+payment.
+5.17.2 Payment of interest in the event of the death of the depositor after the date of maturity 
+of the original deposit and the deposit is auto renewed on the date of maturity and the 
+amount of deposit is claimed during the pendency of the auto renewed deposit (i.e. 
+premature closure of the auto-renewed deposit):
+➢ From the date of auto renewal of the deposit till the date of payment, interest rate 
+applicable for the period run prevailing on the date of auto renewal of the deposit 
+without penal cut.
+The above is applicable for the first renewal cycle of auto renewal.
+5.17.3 Payment of interest in the event of the death of the depositor after the date of maturity 
+of the original deposit and the deposit is auto renewed on the date of maturity of the 
+original deposit and the amount of deposit is claimed after the maturity date of the 
+auto renewed deposit:
+Page 23 of 65
+(i) If the death of the depositor occurs after the date of maturity of the original deposit, 
+but before the maturity of auto renewed deposit (i.e., first auto renewal) and the 
+amount of deposit is claimed after the maturity of the auto renewed deposit:
+➢ At the contracted rate till the date of maturity of auto-renewed deposit (i.e., first 
+auto renewal).
+➢ At Savings Bank deposit rate operative on the date of maturity of auto-renewed 
+deposit from the date of maturity of the auto-renewed deposit till the date of 
+payment.
+(ii) If the auto renewal happens for more than once and the death of the depositor 
+occurs during one of these auto renewal cycles, contracted rate shall be payable till 
+the maturity date of the renewal cycle in which the death has occurred. Savings 
+Bank rate shall be payable thereafter till the date of payment.
+5.18 Term Deposits of Senior Citizens:
+Additional interest of 0.50% is available to Senior Citizen deposits only in case of Retail 
+Term Deposit (RTD- Less than Rs. 3.00 Crore) with tenor of 180 days and above under 
+Domestic term deposits except CGA deposits, NRO/NRE term deposits. Senior Citizen 
+Deposit can be opened by persons who have completed the age of 60 years and above, 
+individually or jointly with other senior citizen or with other persons below the age 
+of 60 years subject to the condition that the Senior Citizen is No. 1 Depositor. The 
+Bank will satisfy about the age through verification of applicable documents and a 
+copy of the same will be obtained along with the application. As per RBI direction, 
+the system will automatically enable preferential ROI (i.e. 0.5 % over and above 
+existing deposit rate) to all existing Domestic Term Deposits and RD deposits with 
+effect from the date of customer becoming Senior Citizen.
+For Ex-Employee Senior Citizens (60 years and above) additional 1.50% over and above 
+the rate offered for General public is to be extended for all deposit periods (except 
+for term deposits under NRO, and Capital Gains Deposit scheme), irrespective of the 
+size of the deposit. However, under Canara Tax Saver Scheme, the additional interest 
+rate offered to Ex-employee Senior Citizens over and above the rate offered for 
+General Public is 1% only.
+5.19 NRE TERM DEPOSITS:
+Minimum period of NRE deposit is one year and maximum period is 10 years. There is 
+no stipulation on minimum/maximum deposit amount. The period of NRE term 
+deposits can be extended during the tenure of the deposit for a period longer than 
+the original period (i.e., original period of the deposit). The period of the extended 
+deposit shall be minimum of one year and a maximum of 10 years effective from the 
+date of extension. The depositor should continue to be non-resident at the time of 
+extension of deposit. 
+Guidelines related to premature closure and renewal of NRE deposit will also be 
+applicable in case of extension of deposit.
+Account conversion due to change in residential status from Resident to Nonresident or vice versa:
+Non-Resident (External) Rupee Account [NRE Account]
+NRE accounts should be designated as resident accounts or the funds held in these 
+accounts may be transferred to the RFC accounts, at the option of the account 
+holder, immediately upon the return of the account holder to India for taking up 
+employment or on change in the residential status.
+Page 24 of 65
+Non-Resident Ordinary Rupee Account [NRO Account]
+NRO accounts shall be designated as resident accounts on the return of the 
+account holder to India for any purpose indicating his intention to stay in India 
+for an uncertain period.
+Likewise, when a resident Indian becomes a person resident outside India, his 
+existing resident account including term deposits shall be designated as NRO
+account.
+Preferential rate, if any, extended to Employees/Ex-employees/Ex-employees 
+Senior Citizen, Senior Citizens and Super senior citizens shall be withdrawn from 
+the date of change of residential status from resident Indian to NRI. Branches to 
+collect the existing TD receipt and issue fresh receipt with revised ROI.
+5.19.1 Renewal of overdue NRE Term Deposit:
+a. The overdue NRE term deposit will be paid interest at prevailing NRE Savings Bank 
+Rate for the overdue period. Renewal of overdue terms deposit from the date of 
+maturity is prohibited. If such deposit is continued (entire amount or in part), the 
+same will be treated as a fresh term deposit from the date of presentation, at the 
+rate prevailing on the date of presentation for the period of fresh term deposit.
+b. The entire amount of overdue deposit or a portion can be placed as fresh NRE Term 
+Deposit from the date of presentation. The interest payable for fresh deposit is the 
+rate prevailing as on the day of the fresh deposit, provided the period of the fresh 
+deposit is not less than 1 year from the date of making such fresh deposit.
+c. NRE term Deposit shall be automatically renewed only once by the Bank on due date 
+for an identical period at the applicable rate of interest ruling on the date of maturity 
+based on the mandate of the depositor in the original application form, unless 
+instruction to the contrary is received from the depositor by the Bank. The renewal 
+will be in accordance with the provisions of the relevant RBI scheme in force at the 
+time of renewal. The depositor should continue to be non-resident at the time of 
+renewal deposit.
+5.19.2 Premature withdrawal of NRE term deposits:
+1) A penalty of 1.00% shall be levied for premature closure/premature extension 
+(penalty is waived if premature extension period is more than the original period as 
+mentioned in paragraph below) of NRE term deposit of less than Rs.3 Crore that are 
+accepted /renewed on or after 12.03.2019.
+2) A penalty of 1.00% is waived in case of premature extension of NRE CALLABLE term 
+deposit of less than Rs. 3 Crore during the tenure, where extension is for a period 
+longer than the period originally agreed to. Further, no interest will be payable on 
+NRE term deposits prematurely closed/prematurely extended before completion of 1 
+year. 
+The penalty of 1.00% is waived in case of premature closure/premature extension of 
+NRE CALLABLE term deposit of Rs. 3 Crore & above that are accepted/renewed on or 
+after 12.03.2019. Such prematurely closed/ prematurely extended deposits will earn 
+interest at the rate as applicable for the amount slab of Rs.3 Crore & above as ruling 
+on the date of deposit and as applicable for the period run OR the rate at which the 
+deposit has been accepted, whichever is lower.
+Page 25 of 65
+a. However, no penalty will be charged for premature closure/extension of NRO term 
+deposits that are placed in NRE term deposits.
+b. NRO deposits can be placed in NRE deposits subject to:
+➢ Such transfer is within the overall limit of USD 1.00 million or its equivalent in 
+other currencies during a financial year, and
+➢ Customer submitting Form 15CA and 15CB.
+c. Where NRE deposit is to be closed before maturity before completion of one year 
+from the effective date of deposit, no interest shall be payable on such premature 
+closure.
+d. In the case of premature withdrawal of NRE term deposit, for conversion into 
+Resident Foreign Currency [RFC] account, the Bank may not levy any penalty for 
+premature withdrawal. If such a deposit has not run for a minimum period of 1 year, 
+the Bank may, at its discretion, pay interest at a rate not exceeding the rate payable 
+on NRE Savings Bank Deposit, provided request for such a conversion is made by NRE 
+account holder, immediately on return to India.
+e. Where the NRE deposit is closed before maturity on or after completion of one year 
+from the effective date of deposit, the interest payable on such premature closure 
+shall be as per the prevailing Bank guidelines.
+f. Conversion of NRE deposit into Foreign Currency Non-Resident [B] deposit and viceversa before maturity will be subject to the provision relating to premature 
+withdrawal.
+5.19.3 Payment of Interest on the NRE Term Deposit of a deceased depositor:
+In the case of NRE deposit where the claimant/s are residents, the deposit on maturity 
+will be treated as domestic deposit and interest will be paid for the subsequent period 
+at a rate applicable to the domestic deposit of a similar maturity.
+5.20 DEPOSITS HELD IN FCNR [BANKS] ACCOUNTS:
+5.20.1 Important features of the Scheme:
+a) Non-resident Indians (NRIs) and Persons of Indian Origin (PIOs) are permitted to open 
+and maintain FCNR (B) accounts. 
+b) The scheme covers deposits in US Dollar (USD), Great Britain Pound (GBP), 
+Euro(EUR), Canadian Dollars(CAD) and Australian Dollars(AUD) from non-resident 
+individuals of Indian nationality or origin [NRIs].
+c) Repatriation of funds in foreign currencies is permitted.
+d) The deposits are accepted only in form of FDR or KDR under the Scheme for the 
+following maturity periods:
+DETAILS MINIMUM PERIOD MAXIMUM PERIOD
+FCNR (B) KDR ONE YEAR FIVE YEARS
+FCNR (B) FDR ONE YEAR FIVE YEARS
+No Recurring Deposits shall be accepted under FCNR (B) Scheme.
+e) Transfer of funds from the existing NRE accounts to FCNR (B) accounts and vice 
+versa, of the same account holder, is permissible.
+Page 26 of 65
+f) Minimum Amount for opening FCNR(B) Account:
+Currency USD GBP EUR CAD AUD
+Minimum Amount 500 500 500 500 500
+There is no maximum limit.
+5.20.2 Manner of payment of interest:
+• The rate of interests on FCNR (B) deposits are decided periodically by the Asset 
+Liability Committee (ALCO) of the Bank, which has been delegated with such powers 
+by the Board.
+If branches are desirous of quoting deposits above the interest rate permitted 
+by the ALCO, such proposals shall be placed before the ALCO Sub-committee by 
+the Integrated Treasury Wing.
+The ALCO Subcommittee shall be vested with delegated powers to quote 
+additional interest of maximum upto 50 bps over and above the card rate. The 
+rate so published shall be uniform to all the deposits with the same amount and 
+tenor. 
+The additional interest over card rates shall be approved by a minimum of three 
+committee members out of which approval of the Executive Director overseeing 
+Integrated Treasury Wing is mandatory. 
+Monthly consolidated note on all the proposals permitted by ALCO sub-committee 
+shall be placed before the ALCO by Integrated Treasury Wing for information.
+• The Overnight Alternative Reference Rate for the respective currency /SWAP rates as 
+on the last working day of the preceding month shall form the base for fixing ceiling 
+rates for the interest rates offered effective in the following month.
+• Bank shall adhere to the interest rates ceiling on FCNR(B) deposits stipulated by 
+RBI, from time to time.
+• The Overnight Alternative Reference Rate for the respective currency / Swap rates 
+quoted / displayed by Financial Benchmarks India Pvt. Ltd. (FBIL) shall be used as the 
+reference for arriving at the interest rates on FCNR(B) deposits.
+• Accordingly, interest on FCNR (B) Deposits is intimated on a Monthly basis by 
+Integrated Treasury Wing, Mumbai for following periods:
+(a) One year and above but less than two years.
+(b) Two years and above but less than three years.
+(c) Three years and above but less than four years.
+(d) Four years and above but less than five years.
+(e) Five years only.
+• Employees/Ex-employees/Ex-employees Senior Citizen and Senior Citizens are not 
+eligible for preferential interest.
+• Interest on FCNR (B) deposits shall be calculated and paid in the manner indicated 
+below:
+Page 27 of 65
+(a) CBS reckons 360 days as number of days per year while calculating interest on FCNR 
+(B) deposits.
+(b) In case of FCNR [B] FDRs accepted for a period of exactly one year, simple interest 
+is payable only on the date of maturity. In other words, in case of such FCNR [B] 
+FDRs accepted for a period of one year, interest for the entire year [365 or 366 days, 
+as the case may be] should be computed without any compounding effect and no 
+payment of interest should be made before completion of one year from the date 
+of investment.
+(c) In case of FCNR [B] Fixed Deposits accepted for more than one year, simple interest 
+can be paid at intervals of 180 days each and thereafter for remaining number of 
+days. Hence depositors intending to draw interest at half yearly rests [i.e. at
+intervals of 180 days] by way of credit to NRE / FCNR[B] / other accounts or 
+remittance abroad, should be advised to keep the deposit in FCNR [B] FDR at least 
+for a minimum period of 1 year + 1 day.
+(d) In the case of FCNR (B) Fixed Deposits where the depositor wishes to get monthly / 
+quarterly interest, the same should be paid at discounted value basis as per the 
+existing norms.
+(e) In case of FCNR (B) KDR accounts, interest will be paid on maturity with 
+compounding effect at the interval of 180 days. 
+5.20.3 Automatic Renewal of FCNR (B) Deposits:
+(a) Auto renewal facility is enabled for FCNR (B) deposits with effect from 03.03.2021. 
+Deposits falling due on or after this date will be renewed automatically only once 
+on the date of maturity for the similar tenure, unless instruction to the contrary is 
+provided by the term depositor on or before the due date. 
+(b) The facility of auto-renewal of FCNR (B) deposits is restricted to single renewal only 
+(i.e., auto renewal shall happen only once), as the Non-resident status of the 
+depositor is to be confirmed periodically. For subsequent renewals, if any, branches 
+to obtain the express authority in writing from the depositor or fresh account 
+opening form.
+(c) This facility will be available only for the accounts where passport is not in expired 
+status.
+5.20.4 Payment of interest on overdue FCNR (B) Deposits:
+Overdue period (from the date of 
+maturity till the date of renewal, both 
+days inclusive)
+FCNR (B) Deposit
+Not exceeding 14 days
+Branches may renew an overdue deposit 
+or a portion thereof from the date of 
+maturity.
+The rate of interest payable on the 
+amount of the deposit so renewed shall be 
+the appropriate rate of interest for the 
+period of renewal as prevailing on the 
+Page 28 of 65
+date of maturity or on the date of 
+renewal, whichever is lower.
+More than 14 days*
+Simple interest at par with RFC SB rate for 
+the respective currency prevailing on the 
+date of renewal or the contracted rate of 
+interest on the matured TD, whichever is 
+lower.
+*Where deposit is overdue for more than 14 days, renewal from date of maturity is 
+not permitted. If customer requests the Bank for renewal of such overdue deposit, 
+the same shall be acceded to by treating it as a fresh term deposit at the interest rate 
+prevailing on the date of renewal for the period of fresh term deposit.
+Note: In case, where only a portion of the overdue deposit is renewed, interest for 
+the overdue period shall be paid on the amount so placed only.
+5.20.5 Premature withdrawal of deposits:
+1. Where the FCNR(B) deposit is to be closed before maturity before completion of the 
+minimum period of deposit i.e., one year from the effective date of deposit, no 
+interest is payable on such prematurely closed deposit.
+Penalty on Premature withdrawal of deposits:
+a. For FCNR (B) deposits opened or renewed prior to 19.11.2021:
+If FCNR (B) deposit is closed before maturity on or after completion of the 
+stipulated minimum period of deposit of 1 year, the rate of interest payable on 
+such prematurely closed deposit shall be 1% less than the stipulated rate of 
+interest applicable to FCNR (B) deposit for the period run, as ruling on the date of 
+deposit.
+If the applicable rate of interest for the period run is less than 1%, No interest
+should be paid for premature withdrawal. 
+b. For FCNR (B) deposits opened/renewed on or after 19.11.2021:
+If FCNR (B) deposit is closed before maturity on or after completion of the 
+stipulated minimum period of deposit of 1 year, the rate of interest payable on 
+such prematurely closed deposit shall be the rate of interest applicable to FCNR 
+(B) deposit for the period run, ruling as on the date of deposit or on the date of 
+seeking premature withdrawal, whichever is lower.
+2. If on request from the heir/s, legal representative/s or nominee/s, Bank agrees to 
+split the amount of term deposit and issues two or more receipts individually in the 
+name of the heir/s legal representative/s or nominees, before maturity of deposit, 
+it shall not be construed as premature withdrawal of the term deposit provided the 
+period and aggregate amount of the deposit do not undergo any change.
+3. No penalty for premature withdrawal shall be levied, where depositors of the branch 
+as mentioned in consequence of transfer of branch of one bank to another branch 
+section of this policy desires premature withdrawal of deposit consequent to the 
+transfer of business to another bank.
+Page 29 of 65
+5.20.6 Payment of interest on FCNR (B) deposits of NRIs on return to India:
+➢ When the FCNR (B) account holder returns to India for permanent settlement, 
+he/she shall immediately inform the branch about the change in the status. 
+Branches should obtain a declaration from the account holder to the effect that 
+he/she has come back to India for permanent settlement and the same is to be kept 
+along with the account opening form. Persons of Indian nationality/origin, who 
+return to India for permanent settlement, are having the following two options, as 
+regards their FCNR (B) deposits:
+a) To continue the FCNR (B) deposit till maturity at the contracted rate of interest.
+NOTES:
+i) Under this option, the deposit will continue as FCNR (B) with regards to provisions 
+relating to rate of interest and reserve requirements. For all other purposes, such 
+deposits would be treated as resident deposits from the date of return of the 
+account holder to India.
+ii) In case the depositor requests for premature closure of such FCNR(B) deposits 
+subsequent to his/her return to India for permanent settlement, the request can 
+be acceded to as advised in para 5.20.5, including instructions regarding levy of 
+penal cut of interest.
+iii) On maturity of such continued FCNR (B) deposit, branches should convert the same 
+into either resident rupee deposit or RFC account, at the option of the account 
+holder.
+b) To close the existing FCNR(B) deposit before maturity [without penal cut] and 
+convert the proceeds i.e., principal and interest accrued for the actual period run 
+(without penal cut) into Resident Foreign Currency (RFC) account.
+➢ FCNR (B) accounts cannot be re-designated as RFC accounts with retrospective 
+effect. The interest payable on FCNR(B) accounts in foreign currency is applicable 
+until the date of re-designation of FCNR(B) to RFC account. Thereafter, interest will 
+be paid as applicable to RFC account. In other words, the rate of interest as 
+applicable to RFC deposit will be payable from the date of opening of RFC deposit.
+➢ In cases where the FCNR (B) deposits have not completed the minimum period of 
+deposit i.e., 1 year, as on the date of conversion into RFC account as per option [b] 
+above or conversion into resident rupee deposit by premature closure of the FCNR(B) 
+deposit, if so desired by the depositor, interest may be paid on such FCNR(B) 
+deposits at EITHER the RFC SB deposit interest rate prevailing on the date of 
+conversion OR the contracted rate of interest of the FCNR(B) deposit, WHICHEVER 
+IS LOWER 
+➢ If the FCNR (B) deposit held in one designated currency is sought to be converted 
+into another designated currency under RFC account, specific authority should be 
+obtained from the depositor.
+➢ If the account holders become non-residents again subsequent to conversion of FCNR 
+(B) deposits into RFC account, they would be free either to transfer the balances in 
+RFC account to accounts outside India or to convert such balances into NRE/FCNR 
+(B) accounts in India.
+Page 30 of 65
+5.20.7 Interest payable on the deposit of a deceased depositor (FCNR-B Deposit):
+Bank shall pay interest on the term deposits standing in the name(s) of a deceased 
+FCNR(B) individual depositor or two or more joint depositors where one of the 
+depositors has died, as under:
+(a) If paid on the maturity of the deposit, interest shall be paid at the contracted rate;
+(b) If the deposit is claimed before the maturity date, interest shall be paid not at the 
+contracted rate but at the rate applicable to the period for which the deposit 
+remained with the bank and without charging penalty for pre-payment;
+(c) In case the depositor dies before the date of maturity of the deposit but the amount 
+of the deposit is claimed after the date of maturity, interest shall be paid at the 
+contracted rate till the date of maturity and simple interest at the applicable rate 
+operative on the date of maturity for the period for which the deposit remained 
+with the bank beyond the date of maturity.
+(d) In case of death of the depositor after the date of maturity of the deposit, the 
+interest rate operative on the date of maturity in respect of savings deposits held 
+under Resident Foreign Currency (RFC) Account Scheme shall be paid from the date 
+of maturity till the date of payment.
+(e) In case the claimants are residents, the maturity proceeds shall be converted into 
+Indian Rupees on the date of maturity and interest shall be paid for the subsequent 
+period at the rate applicable to a domestic term deposit of similar maturity.
+5.21 Consequence of transfer of branch of one Bank to another Bank:
+Deposits accounts transferred from one bank branch to another bank branch on 
+account of takeover of bank branches in rural and Semi-Urban centres shall adhere 
+to the following conditions:
+(i) Deposit accounts shall deemed to be transferred to the new bank and will 
+continue to be governed by the terms of contract agreed to between the 
+customer and the bank branch that is being taken over.
+(ii) The same rate of interest shall be payable till maturity on such transferred 
+deposits, as was payable at the time of takeover of the branch.
+5.22 While opening NRE/NRO/FCNR accounts, NRI customer has to submit proof of his/her 
+NRI status by submitting any of the following documents or any other suitable 
+document to establish the status of NRI, in addition to Identity & Address proof:
+a) Copy of Valid Work/Study Visa
+b) Copy of work permit
+c) Copy of Proof/certificate of residence
+d) Copy of Employment /Employment Contract copy
+e) Copy of Residence Permit
+f) Copy of E-Visa
+While converting existing Domestic Saving Bank A/c into NRO A/c, NRI customer 
+should submit NRI status proof as mentioned above.
+Further, in all cases of renewal of existing NRE/NRO/FCNR Term deposits, necessary 
+proof as mentioned above should be obtained to establish the fact that customer 
+continues to hold NRI status.
+Page 31 of 65
+The verification of status of NRI to be done to ensure that the customer continues 
+to hold NRI status and eligible to maintain NRI account.
+5.23 Joint accounts:
+a. NRE SB, NRE Term Deposits and FCNR Accounts can be opened in Joint Name with 
+Resident Close Relative (as defined U/S 2(77) of Indian Companies Act, 2013) on 
+“Former or Survivor” basis. Money belonging to Resident Joint Account Holder 
+cannot be credited into such Joint Account. Resident Joint Account Holder should 
+not operate the account, unless authorized through a Letter of Authority or Power 
+of Attorney.
+b. NRI OPENING JOINT ACCOUNT:
+✓ NRI can open joint account with other NRIs or Resident Indian Close relative as 
+defined under Section 2 (77) of Indian Companies Act, 2013).
+c. RESIDENT INDIAN OPENING JOINT ACCOUNT:
+✓ Resident Indian can open account with Non-Resident Indian close relative, as defined 
+in Section U/S 2(77) of Indian Companies Act, 2013. Operation condition is either or 
+Survivor.
+✓ In such Joint account funds belonging to Non Resident Indian should not be credited.
+✓ Such account shall be treated as Resident Account for all purposes.
+d. Addition/Deletion
+Subject to complying with the FEMA regulations noted in b) and c) above, addition 
+and deletion can be permitted. There is no restriction in number of persons to open 
+joint account.
+5.24 RESIDENT FOREIGN CURRENCY ACCOUNTS (RFC):
+A person resident in India may open, hold and maintain a Foreign Currency Account, 
+to be known as a Resident Foreign Currency (RFC) Account, out of foreign exchange:
+(a) received as pension or any other superannuation or other monetary benefits from 
+his employer outside India; or
+(b) realised on conversion of the assets referred to in sub-section (4) of section 6 of 
+the FEMA 1999, and repatriated to India; or
+(c) received or acquired as gift or inheritance from a person referred to in sub-section 
+(4) of section 6 of the FEMA 1999; or
+(d) referred to in clause (c) of section 9 of the FEMA 1999, or acquired as gift or 
+inheritance there from; or
+(e) received as the proceeds of life insurance policy claims/ maturity/ surrender 
+values settled in foreign currency from an insurance company in India permitted 
+to undertake life insurance business by the Insurance Regulatory and Development 
+Authority.
+Branches should verify the original passport and certify on the application that the 
+details mentioned therein are correct after being satisfied that the applicant is 
+eligible to open RFC account and that the funds being credited to the account 
+represents eligible remittance/ proceeds. 
+Page 32 of 65
+DESIGNATED CURRENCIES:
+RFC Accounts will be maintained in US Dollars [USD], Sterling Pounds [GBP], Euro 
+[EUR], Canadian Dollars [CAD] and Australian Dollars [AUD].
+Minimum Amount for Opening RFC Term Deposit (FD/KD) Account:
+Currency USD GBP EUR CAD AUD
+Minimum Amount 1000 1000 1000 1000 1000
+There is no maximum limit.
+Minimum Amount for Opening RFC Savings Bank/Current Account:
+Currency USD GBP EUR CAD AUD
+Minimum Amount 100 100 100 100 100
+The minimum amounts of deposit in the different designated currencies for being 
+eligible for payment of interest in Savings Bank account are as follows: USD: 1000, 
+GBP: 1000, EUR: 1000, CAD: 1000 and AUD: 1000.
+TYPES OF RFC ACCOUNTS:
+RFC Accounts can be maintained in the form of Current/Savings Bank [without cheque 
+book facility] and Term Deposits other than Recurring Deposit accounts. Savings Bank 
+accounts cannot be opened for trade and commercial purposes. The RFC Fixed Deposit 
+can be opened for a minimum period of one month and a maximum period of three 
+years. In exceptional cases, where deposit is for a minimum amount of USD 250,000 
+or its equivalent in other currencies, RFC FDR may also be accepted for short period 
+of one week to less than one month. 
+RATE OF INTEREST:
+The rate of interest on RFC deposits are decided periodically by the Asset Liability 
+Committee (ALCO) of the Bank, who has been delegated with such powers by the 
+Board.
+If branches are desirous of quoting deposits above the interest rate permitted 
+by the ALCO, such proposals shall be placed before the ALCO sub-committee by 
+the Integrated Treasury Wing.
+The ALCO sub-committee shall be vested with delegated powers to quote 
+additional interest of maximum upto 50 bps over and above the card rate. The 
+rate so published shall be uniform to all the deposits with the same amount and 
+tenor. 
+The additional interest over card rates shall be approved by a minimum of three 
+committee members out of which approval of the Executive Director overseeing 
+Integrated Treasury Wing is mandatory.
+Monthly consolidated note on all the proposals permitted by ALCO sub-committee 
+shall be placed before the ALCO by Integrated Treasury Wing for information.
+Employees/Ex-employees/Ex-Employees senior citizen of the bank and Senior Citizens 
+are not eligible for preferential rate of interest of 1% on RFC deposits.
+The guidelines for calculation and payment of interest for the overdue period on 
+RFC term deposits are as under:
+Page 33 of 65
+Overdue period (from the 
+date of maturity till the date 
+of renewal, both days 
+inclusive)
+RFC Term Deposit
+Not exceeding 14 days
+• Overdue RFC Term Deposit can be renewed from 
+the date of maturity at the interest rate 
+prevailing on the date of maturity, provided the 
+deposit is renewed to fall due after a period of 
+not less than one month from the date of 
+renewal.
+• In case of renewal of individual RFC Term 
+Deposits of value USD 250,000 and above or 
+equivalent in other currencies, minimum period 
+of renewal can be one week beyond date of 
+renewal.
+• Wherever the depositor opts to renew the 
+deposit from the date of presentation to take 
+advantage of enhanced interest rate prevailing 
+on the date of presentation, same can be 
+acceded to without payment of interest for the 
+overdue period.
+More than 14 days*
+Simple interest at par with RFC SB rate for the 
+respective currency prevailing on the date of 
+renewal or the contracted rate of interest on the 
+matured TD, whichever is lower.
+*Where deposit is overdue for more than 14 days, renewal from date of maturity is 
+not permitted. If customer requests the Bank for renewal of such overdue deposit, 
+the same shall be acceded to by treating it as a fresh term deposit at the interest rate 
+prevailing on the date of renewal for the period of fresh term deposit.]
+Note: In case, where only a portion of the overdue deposit is renewed, interest for 
+the overdue period shall be paid on the amount so placed only.
+Premature Closure of RFC Term Deposit:
+a) In the case of premature closure of the deposit, penal cut of 1% is to be levied on the 
+applicable rate of interest for the period for which the deposit has actually run, as 
+ruling on the date of deposit. 
+If the applicable rate of interest for the period run is less than 1%, No interest should 
+be paid for closure before maturity. 
+b) Extension of period of RFC Term Deposits during the tenure of the deposit for a period 
+longer than the balance period is permitted without applying penal cut of 1%. The 
+minimum/maximum period of the extended deposit from the date of extension, shall 
+be minimum period of one month and a maximum period of 3 years.
+If the extended deposit is closed before the original due date, levy of 1% penalty is to 
+be applied from the date of opening of the deposit itself.
+5.25 RESIDENT FOREIGN CURRENCY (DOMESTIC) ACCOUNT [RFCD]:
+A resident individual may open an RFC(D) account to retain in a bank account in India 
+the foreign exchange acquired in the form of currency notes, bank notes and travellers 
+cheques from overseas sources such as:
+Page 34 of 65
+a. payment while on a visit abroad for services not arising from any business or anything 
+done in India;
+b. honorarium or gift or for services rendered or in settlement of any lawful obligation 
+from any person not resident in India and who is on a visit to India;
+c. honorarium or gift while on a visit to any place outside India;
+d. gift from a relative;
+e. unspent foreign exchange acquired from an authorised person for travel abroad;
+f. representing the disinvestment proceeds received by the resident account holder on 
+conversion of shares held by him to ADRs/ GDRs under the 10DR Scheme, 2014;
+g. by way of earnings received as the proceeds of life insurance policy claims/ 
+maturity/ surrender values settled in foreign currency from an insurance company 
+in India permitted to undertake life insurance business by the Insurance Regulatory 
+and Development Authority
+Balances received in RFCD Current Account during a calendar month shall be 
+converted into INR on the last working day of next month after adjusting for utilization
+of the balances for approved purposes or forward commitments.
+Balances may be credited to NRE/ FCNR (B) Accounts, at the option/ request of the 
+account holder consequent upon change of their residential status from resident to 
+non-resident.
+TYPE OF ACCOUNT:
+Current Account only. Operation by authority letter and no cheque book shall be 
+issued.
+While accepting Foreign Currency Notes for the credit to RFC/RFCD, Bank shall collect 
+from the Customer the difference between the rupee equivalent of the foreign 
+currency amount of the FC notes at FC Note Buying rate and TT selling Rate.
+RFC Accounts can be held singly or jointly in the names of eligible persons. However, 
+resident Indian close relative/s (as defined U/S 2(77) of Indian Companies Act, 2013) 
+is/are now being made eligible to become joint holder/s in RFC bank accounts on 
+'former or survivor' basis. Such accounts shall attain the status of an ordinary resident 
+account if the resident close relative becomes the sole account holder at a later date.
+5.26 CRYSTALLISATION OF INOPERATIVE FOREIGN CURRENCY DEPOSITS
+a. In case a foreign currency denominated deposit with a fixed maturity date 
+(Term Deposits) remains inoperative for a period of three years from the date 
+of maturity of the deposit, at the end of the third year, branches/offices shall 
+convert the balances lying in the foreign currency denominated deposit into 
+Indian Rupee at the exchange rate prevailing as on that date. Thereafter, the 
+depositor shall be entitled to claim either the said Indian Rupee proceeds and 
+interest thereon, if any, or the foreign currency equivalent (calculated at the 
+rate prevalent as on the date of payment) of the Indian Rupee proceeds of the 
+original deposit and interest, if any, on such Indian Rupee proceeds.
+b. In case of foreign currency denominated deposit with no fixed maturity period 
+(Savings/Current Deposits), if the deposit remains inoperative for a period of 
+three years (debit of bank charges not to be reckoned as operation), 
+branches/offices shall, after giving a three month notice to the depositor at his 
+last known address as available with it, convert the deposit from the foreign 
+currency in which it is denominated to Indian Rupee at the end of the notice 
+Page 35 of 65
+period at the prevailing exchange rate. Thereafter, the depositor shall be 
+entitled to claim either the said Indian Rupee proceeds and interest thereon, if 
+any, or the foreign currency equivalent (calculated at the rate prevalent as on 
+the date of payment) of the Indian Rupee proceeds of the original deposit and 
+interest, if any, on such Indian Rupee proceeds.
+Branches/Offices shall adhere to the operational guidelines for handling 
+crystallisation of inoperative foreign currency deposits contained in the latest 
+BPC-MOI Non-Resident and Other Foreign Currency Deposits.
+5.27 OPENING OF ACCOUNTS BY BANK’S UNITS ABROAD (BRANCHES ABROAD AND 
+EXCHANGE COMPANIES MANAGED BY OUR BANK AND REPRESENTATIVE OFFICE:
+a) Applications for opening of Non-Resident accounts are accepted in our Bank’s 
+branches abroad, Representative Office/s and Musandam Exchange, Oman.
+b) After scrutiny of AOF including KYC documents and satisfying that the AOF is 
+complete in all aspects and NRE SB/NRO SB account can be opened, the Official 
+(who should be an Officer of the Canara Bank not less than Scale II on deputation to 
+the Exchange Company, Branch/Representative Office abroad) should sign in full 
+“Accepted to open the Account” column in the AOF; duly mentioning his/her Signing 
+Power Number.
+c) Account opening forms can be downloaded from our Bank’s Website.
+5.28 ACCOUNT OPENING FORM FOR ALL NRE ACCOUNTS 
+For opening of NRE SB accounts, our Branches abroad and Exchange Companies abroad 
+can also be approached. The required application, KYC/AML documents, 
+Identity/Address proof and photo are to be submitted and on satisfactory processing 
+of the application and enclosures, a Welcome Kit shall be issued to the customer 
+containing Cheque Book and Non-Personalized ATM/Debit Card.
+5.29 SPECIAL NON RESIDENT RUPEE (SNRR) ACCOUNT:
+a. A person resident outside India, having a business interest in India, may open a 
+Special Non-Resident Rupee Account (SNRR account) with an authorised dealer in 
+India or its branch outside India for the purpose of putting through permissible 
+current and capital account transactions with a person resident in India in 
+accordance with the Act, rules and regulations framed under the Act, and for 
+putting through any transaction with a person resident outside India.,
+Explanation: A unit in an International Financial Services Centre (IFSC) under 
+section 18 of the Special Economic Zones Act, 2005 may open an SNRR account 
+with an authorised dealer in India (outside IFSC) for its business-related 
+transactions outside IFSC.
+b. The SNRR account shall carry the nomenclature of the specific business for which 
+it is in operation and shall not earn any interest. A bank may, at its discretion, 
+maintain separate SNRR account for each category of transactions or a single 
+SNRR Account for a person resident outside India engaged in multiple categories 
+of transactions provided it is able to identify/segregate and account them 
+category-wise.
+Page 36 of 65
+c. The debits/ credits and the balances in the account shall be incidental and 
+commensurate with the business operations of the account holder.
+d. Authorised Dealers shall ensure that all the operations in the SNRR account are 
+in accordance with the provisions of the Act, rules and regulations made 
+thereunder.
+e. The tenure of the SNRR account should be concurrent to the tenure of the 
+contract/ period of operation/ the business of the account holder.
+f. The operations in the SNRR account shall not result in the account holder making 
+available foreign exchange to any person resident in India against 
+reimbursement in rupees or in any other manner.
+g. The balances in the SNRR account in India shall be eligible for repatriation. 
+Transfers from any NRO account to the SNRR account are prohibited.
+h. All transactions in the SNRR account in India will be subject to payment of 
+applicable taxes in India.
+i. SNRR account maintained in India may be designated as resident rupee account 
+on the account holder becoming a resident.
+j. The amount due/ payable to non-resident nominee from the SNRR account in India 
+of a deceased account holder, shall be credited to NRO/NRE account of the 
+nominee with an authorised dealer/ authorised bank in India or by remittance 
+through normal banking channels.
+k. Opening of SNRR accounts by Pakistan and Bangladesh nationals and entities 
+incorporated in Pakistan and Bangladesh requires prior approval of Reserve 
+Bank.
+5.30 Exchange Earner's Foreign Currency Account – EEFC Account
+A Person resident in India may open an EEFC account with an AD in India as per the 
+conditions stipulated in Schedule I to FEMA 10(R). 
+5.30.1 The credits permitted to this account are:
+a. 100 percent of the foreign exchange earnings by way of inward remittance through 
+normal banking channel, (other than loans or investments);
+b. payments received for the purpose of counter trade;
+c. advance remittance received by an exporter towards export of goods or services;
+d. professional earnings including director’s fees, consultancy fees, lecture fees, 
+honorarium and similar other earnings received by a professional by rendering 
+services in his individual capacity;
+e. interest earned on the funds held in the account;
+f. Re-credit of unutilized foreign currency earlier withdrawn from the account;
+g. repayment of trade related loans/ advances (which were granted to the account 
+holder's importer customer out of balances held in the EEFC accounts);
+Page 37 of 65
+h. disinvestment proceeds received by the resident account holder on conversion of 
+shares held by him to ADRs/ GDRs under the 7DR Scheme, 2014; and
+i. Payments received in foreign exchange by an Indian startup arising out of sales/ 
+export made by the startup or its overseas subsidiaries.
+5.30.2 The debits allowed in these accounts are:
+a. Payment outside India towards capital or current account transactions in accordance 
+with the provisions of Foreign Exchange Management (Permissible Capital Account 
+Transactions) Regulations, 2000 or Foreign Exchange Management (Current Account 
+Transactions) Rules, 2000, respectively;
+b. payment in foreign exchange towards cost of goods purchased from a 100 percent 
+Export Oriented Unit or a Unit in an Export Processing Zone/ Software Technology 
+Park/ Electronic Hardware Technology Park;
+c. payment of customs duty in accordance with the provisions of Export Import Policy;
+d. trade related loans/ advances, by an exporter account holder to his importer 
+customer outside India, subject to complying the provisions of FEMA and the rules/ 
+regulations made thereunder;
+e. payment in foreign exchange to a person resident in India for supply of goods/ 
+services including payments for air fare and hotel expenditure.
+5.30.3 The salient features of the scheme are:
+a. Withdrawal in rupees is permitted from this account, provided the amount so 
+withdrawn cannot be re-credited to the account.
+b. The account will be in the form of a non-interest bearing account.
+c. The claims settled in rupees by ECGC/ insurance companies should not be construed 
+as export realisation in foreign exchange and the claim amount will not be an eligible 
+credit to the EEFC account.
+d. The sum total of the accruals in the account during a calendar month should be 
+converted into Rupees on or before the last day of the succeeding calendar month 
+after adjusting for utilization of the balances for approved purposes or forward 
+commitments.
+e. Fund-based/ non-fund based credit facilities should not be granted against the 
+balances held in EEFC Accounts.
+f. Exporters can repay packing credit advances, whether availed of in Rupee or in 
+foreign currency, from balances in their EEFC account to the extent exports have 
+actually taken place.
+g. Balances held in the account may be credited to NRE/ FCNR (B) Accounts, at the 
+option/ request of the account holders consequent upon change of their residential 
+status from resident to non-resident.
+5.31 Diamond Dollar Account Scheme – DDA Account
+Firms and companies which comply with the eligibility criteria stipulated in the Foreign 
+Trade Policy of the Government of India may open DDA accounts, details of which are 
+laid down in Schedule II of FEMA 10(R), as amended from time to time, with an AD in 
+India. The salient features of the Scheme are:
+a. Realisation of export proceeds and local sales (in USD) of rough, cut, polished 
+diamonds; and pre and post shipment finance availed in USD can be credited to such 
+account.
+Page 38 of 65
+b. Payments for purchase of rough, cut and polished diamonds can be made from DDA 
+account. Funds can also be transferred to rupee account of the exporter.
+c. The account should be maintained in the form of a non-interest bearing current 
+account.
+d. The sum total of the accruals in the account during a calendar month should be 
+converted into Rupees on or before the last day of the succeeding calendar month 
+after adjusting for utilization of the balances for approved purposes or forward 
+commitments.
+5.32 FCY account by a Unit in a Special Economic Zone (SEZ)
+A unit located in a Special Economic Zone may open hold and maintain a Foreign 
+Currency Account with an authorized dealer in India provided that,
+a. all foreign exchange funds received by the unit in the Special Economic Zone (SEZ) 
+are credited to such account,
+b. no foreign exchange purchased in India against rupees shall be credited to the 
+account without prior permission from the Reserve Bank,
+c. the funds held in the account shall be used for bona fide trade transactions of the 
+unit in the SEZ with the person resident in India or otherwise,
+d. the balances in the accounts shall be exempt from the restrictions imposed under 
+Rule 5, except item 1(ii) of the Schedule III, of the Government of India Notification 
+No.GSR.381(E) dated May 3, 2000, as amended from time to time.
+Provided that the funds held in these accounts shall not be lent or made available in 
+any manner to any person or entity resident in India not being a unit in Special Economic 
+Zones.
+6. GENERAL GUIDELINES
+6.1 JOINT ACCOUNTS:
+Deposit accounts can be opened by an individual in his/her own name or by more than 
+one individual in their joint names. There is no restriction in number of persons to open 
+joint account. Any person competent to contract /who need not necessarily be the 
+parent of the Minor may deposit the money belonging to him/her in his/her name jointly 
+with a Minor. However, the Minor in such cases should be duly represented by his/her 
+natural Guardian or in the absence, a Guardian appointed by a competent Court only.
+6.2 OPERATIONS OF JOINT ACCOUNT:
+The mandate for operating the account can be modified with the consent of all the 
+joint account holders. In case of SB account opened by minor jointly with the natural 
+guardian, the operations are allowed by the natural guardian only.
+6.3 TRANSFER OF ACCOUNTS:
+Current Account, SB, Term Deposits may be transferred from one Branch to another 
+Branch within the Bank at the request of the account holders subject to certain 
+conditions.
+KYC once done by one Branch of a Bank is valid for transfer of the account within the 
+Bank as long as full KYC has been complied for the concerned account. The Customer 
+is allowed to transfer his/her account from one Branch to another Branch without 
+restrictions. Along with the fresh address proof, the customer is required to submit 2 
+latest photographs (for accounts opened prior to 01.01.1994) to the transferee branch.
+Page 39 of 65
+A customer is required to submit Officially Valid Documents (OVDs) as a part of 
+KYC procedure as elaborated in Para 3.1.3.
+In case, Officially Valid Documents (OVDs) furnished by the customer does not contain 
+updated address, the documents (mentioned in point no.3.1.4 shall be deemed to the 
+OVDs for the limited purpose of proof of address. 
+The updated Officially Valid Document with current address is to be submitted within 
+a period of three months of submitting the above document. 
+Transfer of Term Deposits (Retail Term Deposit only) from one Branch to other 
+Branch:
+i. Transferor Branches can permit transfer of deposits in the same 
+city/town/municipal area during the currency of deposit, based on the 
+customer’s request.
+ii. The discretion for permitting transfer of term deposits from one branch to 
+another branch outside the City/ Town/ Municipal area for deposits above Rs. 
+5 Lakhs or above US $10000/- in FCNR, is now vested with respective Transferor 
+Branch.
+6.4 ADDITION OF NAMES:
+The Bank may at the request of the depositor/s allow addition of name/s in Savings 
+Bank, Current Account & Term deposits. Deletion in name/s of depositor/s is also 
+permitted, subject to the condition that one of the original depositors should continue 
+to be a depositor.
+6.5 CHANGE IN RATE OF INTEREST:
+The rate of interest on deposits will be prominently displayed in the branch premises 
+apart from placing the same on our Bank’s website.
+The changes, if any, with regard to the deposit schemes and other related services shall 
+also be communicated upfront and shall be prominently displayed. The same may also 
+be published in newspaper.
+6.6 WITHDRAWAL OF CASH:
+Payment of cash up to Rs. 50,000/- per occasion in Savings Bank and Current Account 
+is to be extended only to the drawer against self cheques, at all host branches (i.e. 
+other than the base branch). Cash payment to third parties will be extended at base 
+branch only.
+6.7 VALIDITY OF CHEQUES/DRAFTS/PAY ORDERS/BANKER’S CHEQUES:
+As per RBI guidelines, w.e.f. April 1, 2012, Banks should not make payment of 
+Cheques/Drafts/Pay Orders/Banker's Cheques bearing that date or any subsequent 
+date, if they are presented beyond the period of three months from the date of such 
+instrument.
+6.8 PROHIBITION IN ALTERATIONS/CORRECTIONS ON CHEQUES:
+As per RBI guidelines, no changes/corrections should be carried out on the cheques 
+(other than for date validation purposes, if required). For any change in the payee’s 
+name, courtesy amount (amount in figures), or legal amount (amount in words) etc., 
+fresh cheque forms should be used by the customers.
+Page 40 of 65
+6.9 PAYMENT OF DIVIDEND WARRANTS/INTEREST WARRANTS :
+Signature of the payee on the reverse of the Dividend warrant/Interest Warrant is not 
+needed where such instruments have special crossing “Not Negotiable/Not 
+Transferable/Account Payee/Beneficiary Banks’ name and the Account Number” etc.
+6.10 CUSTOMER INFORMATION:
+The customer information collected from the customers shall not be used for cross 
+selling of services/products by the Bank, subsidiaries & affiliates. If the Bank proposes 
+to use such information, it shall be with the consent of the account holder/s.
+6.11 SECRECY OF THE CUSTOMER ACCOUNTS:
+The Bank shall not disclose details/ particulars of the customer’s accounts to a third 
+person or party without the expressed or implied consent from the customer. However, 
+there are some exceptions viz. Disclosure of information under compulsion of law, 
+where there is a duty towards the public to disclose and where interest of the Bank 
+requires disclosure.
+6.12 INOPERATIVE ACCOUNTS:
+A savings/ current account shall be treated as inoperative, if there are no ‘customer 
+induced transactions’ in the account for a period of over two years.
+For the purpose of classifying an account as ‘inoperative’, only customer induced 
+transactions and not bank induced transactions shall be considered. 
+A. Customer induced transaction:
+i) A financial transaction initiated by or done at the behest of the account holder 
+by the Bank/ third party or;
+ii) A Non-financial transaction or;
+iii) KYC updation done in face-to-face physical mode or through digital channels 
+such as internet banking or mobile banking application of the Bank.
+Financial transaction- A monetary transaction in the savings/ current account of 
+the customer with the Bank either by way of a credit or debit transaction.
+List of Financial transactions are as followsa) ATM/ Cash withdrawal/ deposit.
+b) RTGS / NEFT/ IMPS /UPI/ AEPS/ ABPS Transactions.
+c) Internet Banking Transactions.
+d) Debit Card Transactions.
+e) Transfer of funds from / to the linked CBDC(e-Rupee) account.
+f) Cheque Clearing.
+g) Remittance of funds by way of demand drafts.
+h) Cash withdrawal by third party through cheque.
+i) Standing Instructions issued by the customer.
+j) NACH Debit / Credits.
+Page 41 of 65
+k) Term Deposit Interest / proceeds.
+l) Dividend on shares/Interest on Debentures or any other investment 
+proceeds.
+m) Direct Benefit Transfer (DBT) credits.
+n) Refunds like refunds related to e-commerce payments, Income Tax Returns, 
+etc.
+o) National Electronic Toll Collection (NETC) debits.
+Note: There may be instances where the customer has given a mandate like 
+Standing Instructions (SI)/ auto-renewal instructions and there are no other 
+operations in the Savings /Current account or the Term Deposit. These 
+transactions shall also be treated as customer induced transactions.
+List of Non-financial transactions –
+An enquiry or request for any product/service initiated by the account holder 
+through:
+a) ATM.
+b) Internet banking.
+c) Mobile banking application of the bank.
+d) Third Party Application Providers, which requires two factor authentication 
+(2FA) and leaves a trail for audit purposes.
+Successful log-in to the internet banking/ mobile banking application which 
+includes:
+i. Change in transaction limit.
+ii. Request for issue of cheque book/ credit card/ debit card.
+iii. Nomination facility.
+iv. Balance enquiry.
+B) Bank induced transaction:
+Transactions in the account initiated by the bank as per its extant policy such as 
+charges, fees, interest payments, penalties, taxes.
+List of Bank induced transactions as follows:
+a) All types of charges levied by banks including taxes deducted.
+b) Savings Bank account interests.
+6.12.1 Review of inoperative accounts:
+Bank shall undertake at least an annual review in respect of accounts, where there 
+is no customer induced transactions for more than a year. 
+Bank shall inform the account holders in writing through letters or email or SMS (if 
+the email and mobile number are registered with the bank) that there has been no 
+operation in their accounts in the last one year, as the case may be. 
+The alert messages shall invariably mention that the account would become 
+‘inoperative’ if no operations are carried out during the next one year and, the 
+account holder would be required to submit KYC documents afresh for reactivating 
+the account in such case. 
+Page 42 of 65
+If the letters are returned undelivered or no response is received through registered 
+email, the Branch shall immediately undertake an enquiry to find out the 
+whereabouts of account holder or his/her nominee/legal heirs in case the account 
+holder is deceased.
+In case any response is received from the account holder giving the reasons for not 
+operating the account, the Bank shall continue to classify the account as operative 
+for one more year and the account holder shall be advised to operate the account 
+within a period of one year (herein after referred to as ‘extended period’). In case 
+the account holder still fails to operate the account within the extended period, 
+the Bank shall classify the said account as inoperative account after the expiry of 
+the extended period. Extended period has to be considered within the overall 
+time limit of two years. 
+The classification of an account as inoperative shall be for a particular account of 
+the customer and not with reference to the customer. In case a customer is 
+maintaining multiple accounts with a bank, all such accounts shall be assessed 
+individually for the purpose of classifying them as inoperative account, as the case 
+may be.
+In case the account holder is not carrying out transaction and the account is -
+inoperative due to shifting of primary account to another bank, the account holder 
+may be requested to provide the details of the new bank account with authorisation 
+to enable the bank to transfer the balance from the existing bank account.
+In case the balance in an inoperative account is less than Rs.20/-, account will be 
+closed if there is no account revival from the depositor after the notice is sent by 
+the Bank.
+6.12.2 Treatment of accounts opened for credit of scholarship amount and credit of 
+Direct Benefit Transfer under Government Schemes:
+Bank is required to classify all Savings and Current accounts as inoperative if 
+there are no Customer induced transactions in the account for a period of more 
+than two years irrespective of the purpose for which account is opened.
+Note: No exemption is provided to any type of accounts from the purview of 
+inoperative accounts.
+6.12.3 Segregation and Audit of Inoperative Accounts:
+The segregation of inoperative accounts is required to be done to reduce the risk 
+of frauds. The transactions in inoperative accounts, which have been reactivated, 
+shall be monitored regularly, for at least six months, at higher levels (RO/CO) 
+without the knowledge and notice of the customers and the dealing staff.
+Bank shall ensure that amounts lying in inoperative accounts and reactivated 
+inoperative accounts, are subjected to concurrent audit.
+6.12.4 Tracing of Customers of Inoperative Accounts:
+Bank shall contact the holder(s) of the inoperative account through letters, email 
+or SMS (if the email and mobile number are registered with the Bank). The email/ 
+SMS shall be sent on a quarterly basis.
+In case the whereabouts of the holder(s) of the inoperative account are not 
+traceable, Bank shall contact the introducer, if any, who had introduced the 
+Page 43 of 65
+account holder to the Bank at the time of opening of the account. Bank shall also 
+contact the nominee, if registered, for tracing the customer.
+Bank shall undertake special drives periodically to find out the whereabouts of the 
+customers, their nominees or legal heirs in respect of inoperative accounts.
+6.12.5 Activation of Inoperative accounts:
+While activating Inoperative Accounts, Branches are required to obtain request 
+letter from the account holders, ensure KYC compliance, Customer due diligence, 
+etc. as per extant guidelines.
+Bank shall make available the facility of updation of KYC for activation of 
+inoperative accounts at all Branches (including non-home branches) and through 
+Video-Customer Identification Process (V-CIP) if requested by the account holder, 
+subject to the facility of V-CIP being provided by the Bank.
+Branches shall activate the inoperative accounts, including those which are under 
+freeze by orders of various agencies like Courts, Tribunals, Law Enforcement 
+Agencies, only after adhering to the KYC guidelines such as Customer Due Diligence 
+(CDD), customer identification, risk categorization.
+Branches shall ensure that activation of inoperative account in CBS necessarily 
+requires second level of authorisation by another officer at the same or higher level 
+(i.e., through maker and checker).
+System logs shall invariably be maintained in case of any activity in or activation of 
+inoperative accounts for concurrent audit purpose. The preservation period of such 
+system logs shall be as per the internal guidelines of the Bank.
+Bank shall automatically intimate the inoperative account holders though SMS and 
+registered email stating that on the basis of the KYC documents submitted by them, 
+the inoperative status of the account has been removed. The intimation shall also 
+mention the remedial measures available to them to report unauthorised access, if 
+any. 
+This would alert the account holder against any possible fraudulent activity in 
+his/her inoperative account. The Bank shall have in place adequate operational 
+safeguards to ensure that the claimants in case of inoperative accounts are 
+genuine. Branches shall process requests for activation of inoperative account
+within three working days from the receipt of the complete application.
+6.12.6 Payment of Interest:
+Interest on savings accounts shall be credited on a regular basis irrespective of the 
+fact that the account is in operation or not.
+6.12.7 Levy of charges:
+a) Bank shall not levy penal charges for non-maintenance of minimum balances 
+in any account that is classified as an inoperative account.
+b) No charges shall be levied for activation of inoperative accounts.
+6.12.8 Fraud Risk Management in Inoperative Accounts:
+The Bank shall not allow any debit transaction in an inoperative account unless 
+there is a customer induced activation as per the procedure mentioned in Para 
+6.12.5.
+Page 44 of 65
+While activating Inoperative Accounts, Branches are required to obtain request 
+letter from the account holders, ensure KYC compliance, Customer due diligence, 
+etc. as per extant guidelines.
+All credits are permissible in inoperative/dormant accounts without changing the 
+account status. 
+However, while allowing withdrawals due diligence should be ensured by the 
+Branches by ensuring the genuineness of transactions, verification of signature and 
+identity, etc.
+In order to mitigate risk of frauds in accounts which are made operative from 
+inoperative status, Bank has imposed a cooling period of one day on 
+reactivation with restrictions on the debit transactions in such accounts. The 
+Board delegates power to ORMC for approving any modification of operating 
+guidelines in this regard. Under exceptional circumstances, Circle Head is 
+empowered to waive cooling period on case-to-case basis on the 
+recommendation of Regional Head.
+The Bank shall ensure that there is no unauthorised access to customer data 
+pertaining to the inoperative accounts. The Bank shall also ensure that adequate 
+steps are taken to prevent data theft and related misuse for fraudulent purposes.
+6.12.9 General Guidelines:
+The information on the process for activation of an inoperative account shall be 
+made available on the website as well as at the Branches.
+Necessary documents are to be made available for the benefit of customers.
+a) The Bank shall conduct public awareness and financial literacy campaigns 
+regularly to educate the members of public about the activation of inoperative 
+accounts.
+b) The depositor will be informed of charges, if any, which the Bank will levy on 
+dormant/ inoperative accounts.
+c) In case of Operative Accounts, an account shall be classified as “Unclaimed 
+Deposits” if the same is not operated (other than interest credits and service 
+charge debits) for 10 years and more from the date of last operation. In case of 
+term deposit account, it shall be classified as unclaimed deposit if the same is 
+not renewed/withdrawn after 10 years or more from the date of maturity.
+d) Pursuant to the amendment of the Banking Regulation Act, 1949, section 26A has 
+been inserted in the Act, empowering Reserve Bank to establish The Depositor 
+Education and Awareness Fund (DEAF Fund). Under the provisions of this section 
+the amount to the credit of any account in India with any bank which has not 
+been operated upon for a period of ten years or any deposit or any amount 
+remaining unclaimed for more than ten years shall be credited to the fund, with 
+in a period of three months from the expiry of the said period of ten years.
+6.13 STOP PAYMENT FACILITY:
+The Bank will accept stop payment instructions from the depositors in respect of 
+cheques issued by them. Charges as specified will be recovered.
+Page 45 of 65
+6.14 MANDATE / POWER OF ATTORNEY
+At the request of the depositor, the Bank will register mandate/ power of attorney 
+given by him authorizing another person to operate the account on his behalf.
+6.15 DISHONOUR OF CHEQUES 
+Cheques drawn on a branch is passed if everything is in order and there are sufficient 
+funds. Payment of cheques drawn on a branch is refused in the following circumstances:
+6.15.1 A cheque is presented for payment before its ostensible date.
+6.15.2 Cheque which is drawn is in irregular or ambiguous manner or in a form of doubtful 
+legality.
+6.15.3 If the amount standing in credit is not sufficient to cover the whole amount of the 
+cheque or if the overdraft limit is exceeded.
+6.15.4 Cheques are drawn beyond the arranged limit.
+6.15.5 If the funds of the customer are not properly applicable to the payment of the 
+cheque.
+6.15.6 Where there is a legal bar on payment.
+6.15.7 Where payment of cheque has been stopped by the drawer.
+6.15.8 Where there is notice of customer's death.
+6.15.9 Where a customer becomes insolvent and an order of adjudication is made.
+6.15.10 A cheque presented through post by an unknown payee other than bank.
+6.15.11 If the cheque is not duly presented i.e., has not been presented within banking hours.
+6.15.12 If the cheque is not presented within the validity period of the cheque.
+6.15.13 If the Bank has not been given reasonable time to have the funds placed into the 
+credit of the customer's account before they can be drawn against.
+6.15.14 Where endorsements are not in order in the case of 'Order' cheques.
+6.15.15 Where there is no endorsement of the payee in an Order Cheque, or the collecting 
+Banker's confirmation.
+6.15.16 When the signature of the drawer differs from the specimen lodged.
+6.15.17 Where the drawer signs on behalf of a firm or a company and the name of the 
+company is not mentioned.
+6.15.18 Where the cheque form used is not from among the cheque leaves issued to the 
+party.
+6.15.19 When a crossed cheque is presented by a party other than a banker.
+6.15.20 Where there are material alterations in the cheque unauthorized by the drawer. RBI 
+has directed that the drawer can authorize material alteration only for the date of 
+the cheque.
+6.15.21 Where the cheque contains extraneous matter.
+6.15.22 Any other reason for which Bank deem fit to refuse the payment.
+6.16 PAYMENT OF ADDITIONAL INTEREST ON DOMESTIC DEPOSIT:
+In tune with RBI guidelines, preferential rate of interest [1% p.a. over and above the 
+applicable rates] to be paid only on deposits standing in the name/s of the following 
+categories of employees:
+a) An employee of the Bank [confirmed or probationary] either singly or jointly with 
+any other member or members of his/her family.
+Page 46 of 65
+b) The Chairman/ Chairman & Managing Director/ MD & CEO/ Executive Director or 
+such other Executives appointed for a fixed tenure during tenure and till the 
+maturity of term deposit. Preferential Rate, after their tenure, shall also be 
+extended, if they have superannuated / are eligible to draw pension / retirement 
+benefits from our Bank.
+c) An employee of our Bank, who has been deputed outside or elsewhere.
+d) A Part-Time Employee who has been given staff number.
+e) A retired employee [including an employee who has voluntarily retired] either 
+singly or jointly with any other member or members of his/her family.
+f) Workmen employees who have opted for pension under Regulation 29 of the 
+Pension Regulation and resigned under “Scheme of Voluntary Retirement” putting 
+in not less than 20 years of active unblemished service.
+g) Workmen employees, who have completed 25 years of active unblemished service 
+and resigned.
+h) Officer employees who have served the Bank for a period of not less than 20 years 
+of active unblemished service and resigned under “Scheme of Voluntary 
+Retirement”.
+i) Officer employees who have served the Bank for a period not less than 25 years 
+[active service] and with an unblemished record, but resigned from the services 
+of the Bank prior to introduction of “Scheme of Voluntary Retirement” mentioned 
+in Circular No.160/86 dated 24/04/1986.
+j) The spouse of a deceased employee in his/her single name.
+k) The spouse of a deceased retired employee in his/her single name.
+l) The spouse of a deceased ex-employee/Officer mentioned in points f, g, h and I 
+above.
+m) An Association or a Fund, all members of which are our Bank employees.
+n) A person employed on a contract of a specified duration is eligible for a 
+preferential rate of interest on his/her deposits till the expiry of the term of 
+contract.
+o) An employee taken over in pursuance of any scheme of amalgamation is eligible 
+for preferential rate of interest on his/her deposits. However, in such cases, the 
+additional interest shall be allowed only if the interest at the contracted rate 
+together with the additional interest does not exceed the rate which would have 
+been allowed if such employees were originally employed by the Bank.
+In all cases of joint deposits where our employee is one of the depositors, he/she should 
+invariably be the first named depositor in order to be eligible for preferential rate of 
+interest and a declaration is given to the effect that the money deposited belongs to 
+him/her.
+For the purpose of joint deposits, the word “family” would mean and include:
+➢ The spouse of the employee/retired employee.
+➢ The children, parents, brothers and sisters of the employee/retired employee, 
+who are dependent on such employee/retired employee.
+However, the word “family” would not include a legally separated spouse.
+Page 47 of 65
+The following types of deposits are not eligible for preferential rate of interest:
+i) NRE, FCNR and RFC term deposits.
+ii) Deposits made jointly with others (other than family members as defined above).
+iii) Deposits of employees on contract.
+iv) Deposits of ineligible ex-employees and their widows.
+v) Deposits of employees who have resigned [other than mentioned in points 6.16 (f), 
+(g), (h) and (i) above] or who have been terminated.
+vi) Deposits of dismissed employees/compulsorily retired employees as a sequel to 
+disciplinary action.
+vii) Deposits of temporary employees.
+viii) A person employed on deputation is eligible for preferential rate of interest on 
+his/her deposits. However, this benefit shall cease to accrue on the expiry of the 
+term of deputation, in the case of persons taken on deputation for a fixed 
+duration.
+ix) The additional interest shall be payable only so long as the person continues to be
+eligible for the same and in case of his ceasing to be so eligible, till the maturity 
+of the deposit in the case of term deposit account. This provision leads to the 
+following explanations:
+(a) The benefit of additional interest cannot be extended to the term deposits 
+[including Recurring Deposits] placed with the Bank by the depositor, even if 
+he/she becomes an employee of the Bank during the currency of the deposit. 
+(b) The benefit of additional interest can continue to be extended till the maturity 
+of a term deposit account [including Recurring Deposits] even if the depositoremployee ceases to be employee of the Bank during the currency of the deposit.
+In both the above cases, contracted rate of interest shall continue to be extended 
+till the maturity without incorporating any change in the interest rate during the 
+currency of the deposit account.
+x) In the case of an individual Minor’s account, employee would be signing only as a 
+guardian and hence it is not eligible for preferential rate of interest. Only if the 
+employee is a party to the deposit as a joint depositor, and on his/her giving the 
+prescribed declaration to the effect that the amount deposited belongs to 
+him/her, the account is eligible for preferential rate of interest.
+In respect of all deposits eligible for preferential rate of interest, a declaration to 
+the effect that the monies deposited belong to the employee/s should be obtained 
+without fail for each fresh eligible fixed deposit. 
+In the following cases, declaration need not be obtained, provided however, the 
+declaration has already been obtained for the original/previous deposit or for the 
+operative account of the concerned employee:
+i. Renewal of an overdue deposit [only if the amount renewed is the same as the 
+amount of previous deposit besides accrued interest].
+ii. Extension of period of the deposit [provided no additional amount other than 
+interest accrued is accepted].
+iii. The deposit is opened by transfer of funds from the operative account of the 
+employee concerned.
+Where, however, the amount of deposit is inclusive of an additional amount besides the 
+amount of original/previous deposit and interest accrued thereon, a fresh declaration 
+should be obtained from the employee concerned.
+Page 48 of 65
+In respect of deposits in joint names, the declaration should be obtained from the 
+depositor eligible to get the benefit of preferential rate of interest. If all the joint 
+depositors are eligible employees, all should sign the declaration.
+6.17 System level restriction has been enabled to prevent credit of term deposit closure 
+proceeds to GL, wherever operative account exists for the Term Deposit Holder (Except 
+in case of Death Claim Settlements & PFMS accounts) to mitigate Operational Risk. 
+Under exceptional circumstances, Circle Head is empowered to permit credit of 
+term deposit closure proceeds to GL on case-to-case basis on the recommendation 
+of Regional Head based on merits. However, the same may not be exercised as a 
+matter of routine.
+7. NOMINATION
+7.1 Nomination facility is available for all deposits held by individuals in their own 
+capacity, singly or jointly.
+7.2 Nomination facility is also available to a sole proprietorship account.
+7.3 Nomination can be made in favour of one individual only.
+7.4 Nomination so made can be cancelled or changed by the account holder/s anytime 
+during which the deposit is held by the Bank to the credit of the depositor.
+7.5 Fresh nomination shall not be asked if the fixed deposits are renewed.
+7.6 Nomination can be made in favour of a Minor also, for which date of birth of the 
+Minor and full details of the Guardian are to be furnished. 
+7.7 Bank recommends that all the depositors avail nomination facility. The nominee in 
+the event of death of the depositor/s could receive the balance outstanding in the 
+account as a trustee of legal heirs.
+7.8 The facility for updation of nominee is also available online through Internet & 
+Mobile Banking for the deposit accounts.
+In order to serve the purpose of the bereaved family members, who are forced to go 
+through long drawn proceedings in the court for claiming the amount, which lawfully 
+belongs to them, RBI has directed the Banks generally to insist that the person opening 
+a deposit account makes a nomination.
+In case the person opening an account declines to nominate any other persons, the 
+branch shall explain the advantages of nomination facility. If the person opening the 
+account still does not want to nominate, the branch shall obtain a specific letter to the 
+effect that he/she does not want to make a nomination. In case the depositor declines 
+to give such a letter, the branch shall record the fact on the account opening form and 
+proceed with opening of the account if otherwise the depositor satisfies all other 
+eligibility criteria.
+8. INSURANCE COVER FOR DEPOSITS
+All bank deposits are covered under the Insurance Scheme of Deposit and Credit 
+Guarantee Corporation of India (DICGC) subject to certain limits and conditions. The 
+details of insurance cover in force will be made available to the depositor. 
+9. SPECIAL TYPES OF ACCOUNTS
+9.1 ACCOUNTS OF MINOR:
+A savings /fixed / recurring bank deposit account can be opened by a Minor of 
+any age through his/her natural or legally appointed guardian.
+According to the Indian Majority Act, a Minor is one who has not completed 18 years 
+of age. In terms of Indian Contract Act, the contracting parties should be necessarily 
+Page 49 of 65
+major, for the validity of the contracts. Hence, any contract with the Minor is void 
+ab-initio. Since the opening of the account forms contractual obligation between 
+Banker & Customer, savings bank account in the individual capacity of the Minor will 
+not be opened. However, there are exceptions to this rule.
+Cheques issued by the Guardian prior to the date on which the Minor attains 
+majority, but presented after the above date, are to be treated as invalid.
+On attaining majority, fresh set of application form with the specimen 
+signature card and photograph of the erstwhile Minor, duly countersigned by 
+the Guardian, would be obtained as in the case of new accounts.
+9.2 ACCOUNTS IN THE NAME OF MINOR WHO IS ABOVE THE AGE OF 10 YEARS:
+Minors above the age of 10 years, will be allowed to open and operate savings 
+bank account independently with the following terms and conditions:
+i. These accounts are to be opened under Product Code 120 (SB Junior) for 
+Minors above the age of 10 years & less than 18 years.
+ii. Minors who have attained 17 years of age can also open accounts under 
+Canara Aspire.
+iii. KYC norms & due diligence of Minor & Guardian should be ensured while 
+opening these accounts. Proof of Date of Birth of the Minor has to be 
+mandatorily obtained & verified.
+iv. A declaration-cum-no objection letter is to be given by the natural guardian 
+of the Minor to the effect that the Minor has acquired sufficient knowledge 
+about opening/operating the Bank account.
+v. No cheque book will be issued in such accounts and no overdrawings will be 
+allowed at any point of time.
+vi. Debit Card can be issued in such accounts.
+vii. Minor has to come in person for withdrawal wherever debit cards are not 
+opted.
+viii. Maximum balance in these accounts shall not exceed Rs. 10,00,000/- (Rupees 
+Ten Lakh Only) at any point of time. 
+ix. The aggregate of all withdrawals and transfers in a month shall not exceed 
+Rs. 10,000/- with a maximum cap of Rs. 5000/- per day.
+9.3 ACCOUNTS OF ILLITERATE PERSONS:
+The Bank shall open accounts of illiterate persons, after observing formalities for 
+opening such accounts. No cheque book facility is provided for such accounts. The 
+Bank will explain the need for proper care and safe keeping of the passbook etc., 
+given to the account holder. The Bank official shall explain the terms and conditions 
+governing the account to the illiterate person.
+Page 50 of 65
+9.4 ACCOUNTS OF BLIND PERSONS:
+The Bank shall open deposit account in the name of blind person after observing all 
+the formalities of the Bank for opening and operation of such accounts. 
+Branches are advised to offer all the banking facilities such as cheque book facility 
+including cheques to third party/ies, to the visually challenged persons without any 
+discrimination. Branches are also advised to render all possible assistance to the 
+visually challenged persons for availing the various banking facilities.
+In case a visually impaired customer makes cash withdrawals at the Bank then the 
+payment must be made in the presence of another Bank employee/ officer. No 
+outside witnesses are required unless the visually impaired customer requests that 
+such witnesses be present.
+9.5 ACCOUNTS OF PRISONERS:
+The Bank shall open bank account of prisoners under Canara Small Saving Bank 
+Deposit Account under (Product code 127) in the absence of document for identity 
+and residential proof.
+The signature or thumb impression shall be affixed in presence of the officer in 
+charge of the jail and the said officer shall certify the same under his/her signature.
+The account shall remain operational on annual submission of certificate of proof of 
+address issued by the officer-in-charge of the jail.
+9.6 HINDU JOINT FAMILY (HINDU UNDIVIDED FAMILY-HUF):
+A Bank account may be opened in the name of a Hindu Joint Family (i.e., Hindu 
+Undivided Family-HUF) provided the HUF is not engaged in trading/business activity. 
+The operation of the account of HUF must be by Karta only as he alone has the 
+capacity in law to enter into contracts etc., on behalf of HUF.
+9.7 ACCOUNTS OF MENTALLY ILL/RETARDED PERSONS:
+The Mental Health Act 1987 accords that “mentally ill person” means a person who 
+is in need of treatment by reason of any mental disorder other than mental 
+retardation. Sections 53 & 54 of this Act provide for the appointment of guardians 
+and in certain cases, Managers in respect of the property. The prescribed appointing 
+authorities are the District Courts and Collectors of Districts under the Mental Health 
+Act 1987.
+The National Trust for Welfare of Persons with Autism, Cerebral Palsy, Mental 
+Retardation and Multiple Disabilities Act, 1999 provides for a law relating to certain 
+specified disabilities. Clause (j) of Section 2 of that Act defines a “person with 
+disability” to mean a person suffering from any of the conditions relating to autism, 
+cerebral palsy, mental retardation or a combination of any two or more of such 
+conditions and includes a person suffering from severe multiple disabilities. This Act 
+empowers a Local Level Committee to appoint a Guardian, to a person with 
+disabilities, who shall have the care of the person and property of the disabled 
+person.
+Branches are advised to take note of the legal position stated above and may rely 
+on and be guided by the orders/certificates issued by the competent authority, 
+under the respective Acts, appointing guardians/managers for the purposes of 
+opening/operating bank accounts.
+Page 51 of 65
+10. REPAYMENT UNDER JOINT DEPOSITS:
+The joint account holder can give any of the following mandates for disposal of balance 
+in the account:
+1) Either or survivor.
+2) No. 1 or survivor.
+3) Jointly.
+10.1 Either or Survivor: When all depositors are alive, Bank will be making payment to 
+any one or more of the depositors presenting the deposit receipt. The Bank will be 
+making payment of the maturity proceeds to the surviving depositor who presents the 
+deposit receipt and furnishes the proper discharge without reference to the other 
+depositor as well as to the legal heirs of the deceased depositor. Example:- if the 
+account is in the name of two individuals say, A & B, the final balance along with 
+interest, if applicable, will be paid to either of account holders i.e., A or B, on date 
+of maturity or to the survivor on death of any one of the account holders. If 
+fixed/term deposits are opened with operating instructions ‘Either or Survivor’, 
+the signatures of both the depositors need not be obtained for payment of the 
+amount of deposits on maturity. However, the signatures of both the depositors 
+have to be obtained in case the deposit is paid before maturity.
+10.2 No. 1 or survivor: If the specified depositor is alive, payment will be made on request 
+of the specified depositor. If the specified depositor is not alive on the date of 
+maturity, the Bank will be making payment to the survivor without reference to the 
+legal heirs of the specified depositor. If specified depositor dies on or after maturity, 
+the claim will be settled in favour of the survivor subject to production of a notarized 
+indemnity for indemnifying the Bank in case of the claim from legal heirs of the 
+specified depositor.
+The above mandates will be applicable to or become operational only on or after the 
+date of maturity of term deposits. This mandate can be modified by the consent of 
+all the account holders. In case of premature repayment of term deposits by one of 
+the joint depositors on the death of the other with operation/repayment clause 
+“Either or survivor” and Former or Survivor/s / No.1 or survivor/s”, the surviving joint 
+depositor may be permitted premature withdrawal of the term deposit, only if there 
+is joint mandate from the joint depositors to this effect.
+This mandate is provided as a “Declaration” in the term deposit account opening form 
+of the Bank.
+10.3 Payable jointly: When all depositors are alive, the deposit receipt should be 
+discharged by all depositors for receiving payment. If one or more of the depositor 
+dies on or after maturity, the amount will be paid jointly to the surviving depositors 
+along with the legal heirs of the deceased depositor.
+11. SETTLEMENT OF DUES IN THE DECEASED DEPOSITOR’S ACCOUNT
+11.1 If the depositor has registered nomination with the Bank, the balance outstanding in 
+the account of the deceased depositor will be settled in favour of the nominee after 
+the Bank is satisfied about the identity of the nominee.
+Page 52 of 65
+11.2 In the absence of nomination and where there are no disputes among the claimants, 
+the Bank will settle the claim in respect of the deceased person to his/her legal heirs 
+after observing all the formalities. The settlement of claims will be as per the 
+delegated powers conferred from time to time.
+11.3 The Bank may not insist on succession certificate from the Legal heirs irrespective of 
+the amount involved. However, the Bank may adopt such safeguards in considering 
+settlement of claims as appropriate including obtention of indemnity.
+11.4 If the survivorship clause as available in the Account opening form is opted while 
+opening a joint account, then in the event of death of any of the joint depositor(s) 
+prior to the maturity of the deposit, the Bank will at the written request of the 
+surviving depositor(s) be at liberty though not bound and its absolute discretion to 
+pay interest till the date of settlement, to repay the deposit before maturity or to 
+grant any advance against the security thereof to any one or more of the surviving 
+depositor/s with the consent of other surviving depositor/s, on such terms as the Bank 
+may decide and to add/delete/substitute any names therein. The discharge given by 
+such surviving depositor(s) / any of the surviving depositor(s) shall give the Bank a 
+valid discharge.
+12. SAFE DEPOSIT LOCKERS
+The facility available at select branches and wherever it is available, allotment of safe 
+deposit locker will be subject to availability and compliance with other terms & 
+conditions attached to the services. Compliance to KYC guidelines will be ensured 
+before the lockers are hired out. Safe deposit lockers may be hired by an individual 
+(singly or jointly with another individual/s), HUFs, Firms, Ltd. Co., Associates, 
+Societies, Trusts, etc. Safe Deposit Locker can be opened by Minor individually duly 
+represented by the natural guardian or jointly with natural guardian. Nomination 
+facility is available to individual/s holding the locker singly or jointly. Joint locker 
+holders can give mandate for access to the locker in the event of death of one of the 
+holders as similar to those for deposit accounts. In the absence of nomination or 
+mandate for disposal of contents of lockers, with a view to avoid hardship to common
+persons, the Bank will release the contents of locker to the legal heirs against indemnity 
+on the lines as applicable to deposit accounts.
+13. REDRESSAL OF COMPLAINTS
+To enable the customers to voice their grievances or offer suggestions for improvement 
+in customer service, “Customer Day” is observed at all the offices of the Bank, across 
+the organization, covering branches, Regional Offices, Circle Offices and Head Office, 
+on 15th of every month (next working day, if 15th is a holiday). During specified hours 
+on this day any customer can meet senior/ top executives of the Bank including 
+Managing Director & Chief Executive Officer without prior appointment.
+In case of any complaint, the matter may be first brought to the notice of concerned 
+Branch Manager for immediate redressal. If the complaint is not redressed to the 
+satisfaction of the customer, the matter may be taken up with the concerned Executivein Charge of the Regional Office/Circle Office. If customer is not satisfied with reply 
+given by Regional Office he/she can escalate to Executive-in-Charge of Circle Office.
+If the complainant still feels unsatisfied with the responses received, he/she can 
+address his complaint to the Bank’s Principal Nodal Officer at Head Office (Chief 
+Page 53 of 65
+General Manager, Customer Service Vertical, Operations Wing, HO, Bengaluru) 
+designated to deal with customers’ complaints/grievances giving full details of the 
+case.
+After exhausting the above machinery/channels, if the customer is not satisfied, he 
+may write to Managing Director and CEO of the Bank and even after this, if not satisfied 
+he is free to take recourse to the following:
+(A) Banking Ombudsman, RBI.
+(B) Directorate of Public Grievances, Government of India, Cabinet Secretariat, Sansad 
+Marg, New Delhi.
+(C) The District Consumer Disputes Redressal Forum or State/National Consumer 
+Disputes Redressal Commission under Consumer Protection Act, 1986.
+The details of internal set up for redressal of complaints/grievances will be displayed 
+in the branch premises. The branch officials shall provide all required information 
+regarding procedure for lodging the compliant.
+The customer can also approach the Banking Ombudsman and lodge a complaint under 
+THE RESERVE BANK - INTEGRATED OMBUDSMAN SCHEME, 2021. The complaint may be 
+lodged online through the portal designed for the purpose (https://cms.rbi.org.in). The 
+complaint may also be submitted through electronic or physical mode to the Centralized 
+Receipt and Processing Centre, Chandigarh, if the customer, in case of grievance, had 
+made a written complaint to the Bank and the Bank has rejected the compliant or the 
+complainant had not received any reply within a period of one month after the Bank 
+received his representation or the complainant is not satisfied with the reply given to 
+him by the Bank.
+14. BANKS’ CODE OF CONDUCT WITH RESPECT TO DEPOSITORS
+The “Banks’ Code of Conduct” in respect of Depositors culminates from the Bankers’ 
+Fair Practice Code of the Indian Banks’ Association. This Code is aimed at achieving 
+higher operating standards for the benefit of the Depositors. In this Code, ‘you’ denotes
+the Depositor and ‘we’ the Bank.
+Our Commitment to You:
+We promise to:
+14.1 Act fairly and reasonably in all our dealings with you by
+➢ Meeting the commitments and standards in this Code.
+➢ Making sure our products and services meet relevant laws and regulations.
+➢ Adhering to ethical principles of integrity and transparency.
+14.2 Deal with speed and concern in respect of errors/mistakes by
+➢ Correcting mistakes quickly.
+➢ Handling your complaints quickly.
+➢ Reversing any Bank charges that we apply by mistake/oversight.
+14.3 Publicize this Code by hosting it on our website and have copies available for you on 
+request.
+Page 54 of 65
+14.4 Before you become a depositor, we will:
+➢ Give you clear information explaining the key features of the services and 
+products you tell us you are interested in.
+➢ Give you information on any type of account facility which we offer and may suit 
+your needs.
+➢ Tell you what information we need from you to prove your identity and address 
+and to comply with legal and regulatory requirements, and
+➢ Request for additional information about you and your family to build a database 
+but such information can be furnished by you only if you wish and we will not 
+compel you to give these information for opening your account.
+14.5 We will tell you if we offer products and services in more than one way [for example, 
+through ATMs/internet, over the phone, in branches and so on] and tell you how to 
+find out more about them.
+14.6 Once you have chosen an account or service, we will tell you how it works.
+14.7 When you open a single account or a joint account, we will give you information on 
+your rights and responsibilities.
+14.8 We recommend that you avail nomination facility offered on all deposit accounts, 
+articles in safe custody and safe deposit vaults.
+14.9 We will guide you how we will deal with deposits and other assets held with us in the 
+name of a deceased person in the absence of nomination.
+14.10 You can find out about our interest rates by:
+➢ Looking at the notices in our branches.
+➢ Calling our branches/ Call centres.
+➢ Looking on our website; or
+14.11 When you become a Depositor, we will give you information on the interest rates 
+which apply to your accounts and when we will pay interest on your deposits. We will 
+also tell you our website address and the other ways in which you can find out about 
+changes in the interest rates.
+14.12 At the time of opening of the account, we will inform you of the rate at which interest 
+is paid on your savings deposits.
+14.13 Upon your becoming a depositor, we will give you upfront details of any charges 
+applicable to the products chosen by you.
+14.14 To help you manage your account and check entries on it, we will give you account 
+statements at regular intervals except in cases where Pass Books have been provided.
+14.15 We will normally provide you with a statement periodically as per our policy. You can
+ask us to provide you with account statements more often than is normally available 
+on your type of account, but there may be a charge for this service.
+14.16 You will also be able to see your last few transactions on ATM or through your internet 
+account wherever such facilities are available with us and opted by you.
+Page 55 of 65
+14.17 We will tell you about the clearing cycle, including when you can withdraw money 
+after lodging collection instruments and when you will start to earn interest.
+14.18 We will pay interest on funds involved if collection is delayed beyond the normal 
+period as stipulated by RBI.
+14.19 We will act upon mandates given by you for direct debits [say ECS] and other standing 
+instructions.
+14.20 If, within a reasonable period after the entry has been made on your statement there 
+is a dispute about a cheque paid from your account, we will give you the cheque copy 
+as evidence.
+14.21 We will provide you details of the service, exchange rates and charges that apply to 
+foreign exchange transactions, which you are about to make. If this is not possible, 
+we will tell you how these will be worked out.
+14.22 If you want to transfer money abroad, we will tell you how to do this and will give 
+you:
+➢ A description of the services and how to use them.
+➢ Details of when the money you have sent abroad should get there and the reasons 
+for possible delays.
+➢ The exchange rate applied when converting to the foreign currency; and 
+➢ Details of any commission or charges which you will have to pay.
+14.23 In case of money transfer from abroad, the original amount received and charges 
+deducted, if any, will be informed.
+14.24 We will guide you about regulatory requirements or conditions relating to foreign 
+exchange services offered by you as and when required by you.
+14.25 In the event your cheque book, pass book or ATM/debit card has been lost or stolen, 
+or that someone else knows your PIN or other security information, we will, on your 
+notifying us, take immediate steps to try to prevent these from being misused.
+14.26 We will treat all your personal information as private and confidential [even when you 
+are no longer a customer]. We will not reveal transaction details of your accounts to 
+a third party, including entities in our group, other than in the following four 
+exceptional cases when we are allowed to do :
+➢ If we have to give the information by law.
+➢ If there is duty to the public to reveal the information.
+➢ If our interests require us to give the information [for example, to prevent fraud] 
+but we will not use this as a reason for giving information about you or your 
+accounts [including your name and address] to anyone else, including other 
+companies in our group, for marketing purpose.
+➢ If you ask us to reveal the information, or if we have your permission to provide 
+such information to our group/associate/entities or companies when we have 
+tie-up arrangements for providing other financial service products. 
+15. DEPOSITORS’ RIGHTS
+Deposits being the basic financial raw material, depositors form the core for banking 
+business. There is now an awakening on depositors’ rights, rightly so, in the Banks, as 
+it is fulfillment of such rights which can enable an effective resource management 
+Page 56 of 65
+mechanism in Banks. Further, the depositor, being a consumer of various products and 
+services offered by the Bank, is entitled to the following rights:
+15.1 Right to Information:
+ A depositor will have right to information about price, quality, quantity and standard 
+of the products/services offered by the Bank to enable him/her to take an 
+independent decision.
+15.2 Right to choose:
+ A depositor will have the absolute freedom to choose among the various products 
+and services offered by the Bank to suit his/her requirements.
+15.3 Right to avail/utilize the products and services:
+ A depositor will have the right to avail/utilize the products/services chosen by 
+him/her without any intervention/obstacle.
+15.4 Right to be heard and redressal of grievances:
+ A depositor will have the right to be heard and seek redressal against deficient 
+service/poor quality of products and services, unfair Trade practices and 
+unscrupulous exploitation. This includes his/her right to fair redressal of any 
+genuine grievance relating to products/services which he/she has chosen to 
+utilize.
+*******
+Page 57 of 65
+ANNEXURE - A
+Customer Identification Procedure-Features to be verified and Documents that 
+may be obtained from Customers:
+Features Documents
+Accounts of individuals
+Proof of Identity and 
+Address
+For undertaking Customer Due Diligence (CDD), Bank 
+shall obtain the following from an individual while 
+establishing an account-based relationship or while 
+dealing with the individual who is a beneficial owner, 
+authorized signatory or the power of attorney holder 
+related to any legal entity:
+(A)The Aadhaar number where, 
+(i) he is desirous of receiving any benefit or subsidy 
+under any scheme notified under section 7 of the 
+Aadhaar (Targeted Delivery of Financial and 
+Other subsidies, Benefits and Services) Act, 2016 
+(18 of 2016); or 
+(ii) he decides to submit his Aadhaar number 
+voluntarily to a bank; or 
+(B) The proof of possession of Aadhaar number where 
+offline verification can be carried out; or 
+(C) The proof of possession of Aadhaar number where 
+offline verification cannot be carried out or any OVD 
+or the equivalent e-document thereof containing 
+the details of his identity and address; and 
+(D)the KYC Identifier with an explicit consent to 
+download records from CKYCR; and
+(E) The Permanent Account Number or the equivalent 
+e-document thereof or Form No. 60 as defined in 
+Income-tax Rules, 1962; and 
+(F) Such other documents including in respect of the 
+nature of business and financial status of the 
+customer, or the equivalent e-documents thereof as 
+may be required by the bank.
+Provided that where the customer has submitted, 
+i) Aadhaar number under clause (A) above to a bank, 
+such bank shall carry out authentication of the 
+customer’s Aadhaar number using e-KYC 
+Page 58 of 65
+authentication facility provided by the Unique 
+Identification Authority of India.
+Further, in such a case, if customer wants to provide 
+a current address, different from the address as per 
+the identity information available in the Central 
+Identities Data Repository, he may give a selfdeclaration to that effect to the Bank. 
+ii) Proof of possession of Aadhaar under clause (B) 
+above where offline verification can be carried out, 
+the bank shall carry out offline verification. 
+iii) An equivalent e-document of any OVD, the bank 
+shall verify the digital signature as per the provisions 
+of the Information Technology Act, 2000 (21 of 2000) 
+and any rules issues thereunder and take a live photo 
+as per digital KYC process.
+iv) Any OVD or proof of possession of Aadhaar number 
+under clause (C) above where offline verification 
+cannot be carried out, the bank shall carry out 
+verification through digital KYC. 
+v) KYC Identifier under clause (D) above, the Bank 
+shall retrieve the KYC records online from the CKYCR.
+Provided that for a period not beyond such date as 
+may be notified by the Government for a class of 
+Regulated entities, instead of carrying out digital 
+KYC, the Regulated entity pertaining to such class 
+may obtain a certified copy of the proof of possession 
+of Aadhaar number or the OVD and a recent 
+photograph where an equivalent e-document is not 
+submitted.
+Provided further that in case e-KYC 
+authentication cannot be performed for an individual 
+desirous of receiving any benefit or subsidy under any 
+scheme notified under section 7 of the Aadhaar 
+(Targeted Delivery of Financial and Other subsidies, 
+Benefits and Services) Act, 2016 owing to injury, illness 
+or infirmity on account of old age or otherwise, and 
+similar causes, Bank shall, apart from obtaining the 
+Aadhaar number, perform identification preferably by 
+carrying out offline verification or alternatively by 
+obtaining the certified copy of any other OVD or the 
+equivalent e-document thereof from the customer. 
+Customer Due Diligence done in this manner shall 
+invariably be carried out by an official of the Bank and 
+such exception handling shall also be a part of the 
+concurrent audit as mandated in Section 8. Bank shall 
+ensure to duly record the cases of exception handling 
+in a centralised exception database. The database 
+shall contain the details of grounds of granting 
+Page 59 of 65
+exception, customer details, name of the designated 
+official authorising the exception and additional 
+details, if any. The database shall be subjected to 
+periodic internal audit/inspection by the Bank and 
+shall be available for supervisory review.
+Explanation 1: 
+Bank shall, where its customer submits a proof of 
+possession of Aadhaar Number containing Aadhaar 
+Number, ensure that such customer redacts or blacks 
+out his Aadhaar number through appropriate means 
+where the authentication of Aadhaar number is not 
+required as per proviso (i) above.
+Explanation 2:
+Biometric based e-KYC authentication can be done by 
+bank official / business correspondents / business 
+facilitators.
+Explanation 3:
+The use of Aadhaar, proof of possession of Aadhaar 
+etc., shall be in accordance with the Aadhaar 
+(Targeted Delivery of Financial and Other Subsidies 
+Benefits and Services) Act, 2016 and the regulations 
+made thereunder.
+• Officially Valid Documents (OVD) are as under:
+I. Passport
+II. Driving License
+III. Proof of possession of Aadhaar number
+IV. Voter Identity Card issued by Election Commission 
+of India
+V. Job Card issued by NREGA duly signed by an officer 
+of the State Government
+VI. Letter issued by the National Population Register 
+containing details of name and address
+Accounts of companies
+Where the client is a company, certified copies of 
+following documents or the equivalent e-documents 
+are to be submitted:
+(i) Certificate of incorporation
+(ii) Memorandum and Articles of Association
+(iii) Permanent Account Number of the company
+(iv) A resolution from the Board of Directors and 
+Power of Attorney granted to its managers, 
+officers or employees to transact on its 
+behalf.
+(v) Corporate Identification Number (CIN)
+(vi) The names of the relevant persons holding 
+senior management position; and
+Page 60 of 65
+(vii) The registered office and the principal place 
+of its business, if it is different.
+(viii) One copy of an Officially Valid Document 
+containing details of identity and address, 
+one recent photograph and Permanent 
+Account Numbers or Form No.60 of related 
+beneficial owner, the managers, officers or 
+employees, as the case may be, holding an 
+attorney to transact on the company’s 
+behalf.
+Accounts of partnership firms
+Where the client is a partnership firm, certified copies 
+of following documents or the equivalent e-documents 
+are to be submitted:
+(i) Registration Certificate
+(ii) Partnership Deed
+(iii) Permanent Account Number of the 
+partnership firm
+(iv) One copy of an Officially Valid Document 
+containing details of identity and address, 
+one recent photograph and Permanent 
+Account Numbers or Form No.60 of related 
+beneficial owner, managers, officers or 
+employees, as the case may be, holding and 
+an attorney to transact on its behalf.
+(v) The names of all the partners; and
+(vi) Address of the registered office, and the 
+principal place of its business, if it is 
+different.
+Accounts of Trusts
+Where the client is a Trust, certified copies of 
+following documents or the equivalent e-documents 
+are to be submitted:
+(i) Registration Certificate
+(ii) Trust Deed
+(iii) Permanent Account Number or Form No.60 of 
+the trust
+(iv) One copy of an Officially Valid Document 
+containing details of identity and address, 
+one recent photograph and Permanent 
+Account Numbers or Form No.60 of the 
+related beneficial owner, managers, officers 
+or employees, as the case may be, holding an 
+attorney to transact on its behalf.
+(v) the names of the beneficiaries, trustees, 
+settlor, protector, if any and authors of the 
+trust.
+Page 61 of 65
+(vi) the address of the registered office of the 
+trust; and
+(vii) list of trustees and officially valid documents 
+for those discharging the role as trustee and 
+authorised to transact on behalf of the trust.
+Accounts of Unincorporated Association or body of individuals
+Where the client is an unincorporated association or a 
+body of individuals, certified copies of following 
+documents or the equivalent e-documents are to be 
+submitted:
+(i) Resolution of the managing body of such 
+association or body of individuals
+(ii) Permanent Account Number or Form No.60 of 
+the unincorporated association or a body of 
+individuals
+(iii) Power of Attorney granted to the person who 
+will transact on its behalf.
+(iv) One copy of an Officially Valid Document 
+containing details of identity and address, 
+one recent photograph and Permanent 
+Account Numbers or Form No.60 of the 
+related beneficial owner, managers, officers 
+or employees, as the case may be, holding 
+an attorney to transact on its behalf.
+(v) Such information as may be required to 
+establish the legal existence of such 
+association or body of individuals.
+Note:
+(a) Unregistered trusts/partnership firms shall be 
+included under the term ‘Unincorporated 
+Association’.
+(b) Term ‘body of individuals’ includes societies.
+Accounts of Proprietorship Concerns
+Proof of name, address 
+and activity of the 
+concern
+For Proprietary concerns, Customer Due Diligence of 
+the individual (proprietor) are to be carried out and 
+any two of the following documents or the equivalent 
+e-documents in the name of the proprietary concern 
+should be submitted as a proof of business/activity:
+a) Registration Certificate including Udyam 
+Registration Certificate (URC) issued by the 
+Government.
+b) Certificate/licence issued by the Municipal 
+authorities under Shop & Establishment Act.
+c) Sales and income tax returns.
+Page 62 of 65
+d) CST/VAT/GST certificate,
+e) Certificate / registration document issued by 
+Sales Tax / Service Tax / Professional Tax 
+authorities.
+f) The complete Income Tax return (not just the 
+acknowledgement) in the name of the sole 
+Proprietor where the firm’s income is reflected, 
+duly authenticated/acknowledged by the Income 
+Tax Authorities.
+g) Utility bills such as electricity, water and landline 
+telephone bills. 
+h) IEC (Importer Exporter Code) issued to the 
+proprietary concern by the office of DGFT / 
+Licence/certificate of practice issued in the name 
+of the proprietary concern by any professional 
+body incorporated under a statute.
+Though the default rule is that any two documents
+mentioned above should be provided as activity proof 
+by a Proprietary concern, in cases where the branches 
+are satisfied that it is not possible to furnish two such 
+documents, they would have the discretion to accept 
+only one of those documents as activity proof. In such 
+cases, the branches, however, would have to 
+undertake contact point verification, collect such 
+information as would be required to establish the 
+existence of such firm, confirm, clarify and satisfy 
+themselves that the business activity has been verified 
+from the address of the proprietary concern.
+Accounts of Limited Liability Partnerships
+Proof of name, address 
+and activity of the 
+concern
+(i) Certified copy of incorporation documents 
+filed with Registrar of Companies.
+(ii) Certificate issued by the Registrar of 
+Companies.
+(iii) Copy of LLP Agreement signed by all the 
+partners. In case, there is no LLP agreement, 
+Schedule I of the LLP Act signed by all the 
+partners will prevail.
+(iv) (a) Any Officially Valid Document which 
+contains proof of identity/address in respects 
+of person holding an attorney to transacts on 
+its behalf and
+ (b) PAN or Form 60 as defined in the Income 
+Tax Rules, 1962 issued to the person holding 
+a power of attorney to transact on its behalf.
+Accounts of juridical persons not specifically covered above, such as Societies , 
+Universities and Local bodies like Village Panchayats, etc. or who purports to act 
+on behalf of such juridical person or individual or trust.
+Page 63 of 65
+Proof of name, address 
+and activity of the 
+concern
+The certified copies of the following documents or the 
+equivalent e-documents thereof are to be submitted:
+i) Document showing name of the person authorized 
+to act on behalf of the entity;
+ii. (a) Any Officially Valid Document which contains
+proof of identity/address in respects of person 
+holding an attorney to transacts on its behalf and
+(b) PAN or Form 60 as defined in the Income Tax 
+Rules, 1962 issued to the person holding a 
+power of attorney to transact on its behalf. 
+iii) Such documents as may be required to establish 
+the legal existence of such an entity/juridical 
+person.
+Provided that in case of a trust, the Bank shall ensure 
+that trustees disclose their status at the time of 
+commencement of an account-based relationship or 
+when carrying out transactions as under:
+a) Carrying out any international money transfer 
+operations for a person who is not an account 
+holder of the Bank.
+b) Carrying out transactions for a non-account-based 
+customer, that is a walk-in customer, where the 
+amount involved is equal to or exceeds rupees fifty 
+thousand, whether conducted as a single 
+transaction or several transactions that appear to 
+be connected.
+c) When a Bank has reason to believe that a customer 
+(account- based or walk-in) is intentionally 
+structuring a transaction into a series of 
+transactions below the threshold of rupees fifty 
+thousand.
+Branches to obtain only the documents as mentioned above and not to accept any 
+other document for KYC purpose.
+Page 64 of 65
+ABBREVIATION
+ALCO ASSET LIABILITY COMMITTEE
+AML ANTI MONEY LAUNDERING
+ARR ALTERNATIVE REFERENCE RATE
+AUD AUSTRALIAN DOLLARS
+BSBDA BASIC SAVING BANK DEPOSIT ACCOUNT
+CA CURRENT ACCOUNT
+CAD CANADIAN DOLLAR
+CBS CORE BANKING SOLUTION
+CC CASH CREDIT
+CDD CUSTOMER DUE DILIGENCE
+CGA CAPITAL GAIN ACCOUNT
+CIT CASH-IN-TRANSIT
+DDA DIAMOND DOLLAR ACCOUNT
+DEAF DEPOSITOR EDUCATION AND AWARENESS FUND
+DW DIVIDEND WARRANT
+DWCRA DEVELOPMENT OF WOMEN AND CHILDREN IN RURAL AREAS
+EEFC EXCHANGE EARNER'S FOREIGN CURRENCY ACCOUNT
+EUR EURO
+FBIL FINANCIAL BENCHMARKS INDIA PVT. LTD
+FCNR(B) FOREGIN CURRENCY NON RESIDENT ACCOUNTS (BANK)
+FCY FOREIGN CURRENCY
+FD FIXED DEPOSIT
+FEDAI FOREIGN EXCHANGE DEALERS ASSOCIATION OF INDIA
+FEMA FOREIGN EXCHANGE MANAGEMENT ACT
+FIs FINANCIAL INSTITUTIONS
+FRRO FOREIGNER REGISTRATION REGIONAL OFFICE
+GBP GREAT BRITAIN POUND
+HUF HINDU UNDIVIDED FAMILY
+IBA INDIAN BANK ASSOCIATION
+KD KAMADHENU DEPOSIT
+KYC KNOW YOUR CUSTOMER
+NBFC NON BANKING FINANCIAL COMPANY
+NND NITYA NIDHI DEPOSIT
+NRE 
+ACCOUNT NON RESIDENT EXTERNAL ACCOUNT
+NRI NON RESIDENT INDIAN
+NRO 
+ACCOUNT NON RESIDENT ORDINARY ACCOUNT
+OD OVERDRAFT
+OTM OFFSITE TRANSACTION MONITORING
+OVD OFFICIALLY VALID DOCUMENT
+PAN PERMANENT ACCOUNT NUMBER
+PIO PERSON OF INDIAN ORIGIN
+PML PREVENTION OF MONEY LAUNDERING.
+PPOS PENSION PAYMENT ORDERS
+RBI RESERVE BANK OF INDIA
+RD RECURRING DEPOSIT
+RFC RESIDENT FOREIGN CURRENCY
+RFCD RESIDENT FOREIGN CURRENCY (DOMESTIC) ACCOUNT
+Page 65 of 65
+SB SAVING BANK
+SEZ SPECIAL ECONOMIC ZONE
+SHG SELF HELP GROUP
+SNRR SPECIAL NON RESIDENT RUPEE ACCOUNT.
+TD TERM DEPOSIT
+TDS TAX DEDUCTION AT SOURCE
+UIDAI UNIQUE IDENTIFICATION AUTHORITY OF INDIA
+USD US DOLLAR
+VVV VIKAS VOLUNTEER VAHINI
+*****

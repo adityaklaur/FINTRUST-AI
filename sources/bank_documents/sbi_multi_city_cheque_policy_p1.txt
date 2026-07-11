@@ -1,0 +1,1277 @@
+Annexure-I
+POLICY ON MULTI CITY CHEQUES
+(Issuance, Collection & Dishonour)
+Dated: 25.10.2021
+Version-2.0
+ Banking Operations Department
+ R & DB Operations
+ Corporate Centre, Mumbai
+2021
+POLICY ON MULTI CITY CHEQUES
+(Issuance, Collection & Dishonour)
+INDEX
+SR. 
+No.
+DESCRIPTION PAGE 
+No.
+1 Introduction 1
+2 Background 2
+3 Policy on Multi City Cheques (MCC) 3-7
+4 Payment of Cheques 7-11
+5 Cheque Collection Policy 11-18
+6 Time frame for collection of outstation instruments 18-19
+7 Interest payment for delayed collection 19-20
+8 Cheques / instruments lost in transit / in clearing 
+process or at paying bank’s branch
+20-22
+9 Collection of International Cheques/Instruments 22-28
+10 General points for collection of cheque 28
+11 Policy for dealing with incidents of Frequent 
+Dishonour of Cheques and Failed NACH
+29-35
+12 Amendment/Modification of the Policy 35-36
+13 Force Majeure 36
+14 Reasons / Information on Dishonour of Cheque 37-41
+15 Format of Cheque (Annexure VI) 42
+ABBREVATIONS
+A/C Account
+A/c Payee Account Payee
+ACB Audit Committee of the Board
+AWB Air-Way Bill
+BC Bearer Cheque
+BCSBI Banking Codes and Standards Board of India
+BID Business Intelligence Division
+CAD Canadian Dollar
+CA Current Account
+CAG Corporate Accounts Group
+CBS Core Banking Solution
+CC Cash Credit
+CCG Corporate Client Group
+CCP Cheque Collection Policy
+CCPAP Corporate Client Cheque Payable At-Par
+CCPC Cheque Clearing Processing Cell
+CMP Cash Management Product
+CTS Cheque Truncation System
+CIF Customer Information File
+ECCS Electronic Cheque Clearing System
+FCC Foreign Cheque Collection
+FRT Financial Reporting & Taxation Department
+GBP British Pound Sterling
+GLS Global Link Services
+GMU Global Market
+HNI High Net-worth Individual
+IBA Indian Bank Association
+IBG International Banking Group
+KYC Know Your Customer
+LCPC Liability Centralised Processing Centre
+MCC Multi City Cheque
+MMS Mandate Management System
+NACH National Automated Clearing House
+NPCI National Payment Corporation of India
+NRI Non-Resident Indian
+PBBU Personal Banking Business Unit
+PPS Positive Pay System
+RBO Regional Business Office
+R&DB Retail & Digital Banking
+SB Saving Bank
+SME Small & Medium Enterprise
+SMS Small Message Service
+SCS Speed Clearing System
+TBU Transaction Business Unit
+URRBCH Uniform Rules and Regulations for Bankers’ Clearing House
+1 | P a g e
+POLICY ON MULTI CITY CHEQUES
+(Issuance, Collection & Dishonour)
+1. Introduction
+1.1.Reserve Bank of India has laid down CTS 2010 Standards for issuance of Cheques.
+With the advent of Core Banking Solution, the Cheques have been made payable 
+at all the branches of the Bank. “Accordingly, MCC payable at Par, CTS-2010 
+Standard Compliant Cheques are being issued by the Bank”. The payee can 
+present the cheque for the amount which is within the ceiling printed on the face 
+of the Cheque, directly at any of our branches or in clearing. Only MCC CTS 2010 
+standard cheques are issued now and no other variant can be used.
+1.2.RBI vide Master Circular DBR No.Leg.BC.21/09.07.2006/2015-16 dated 01st July,
+2015 (point no 14 page no 53) under Collection of Instruments, directed the Banks 
+to formulate a comprehensive and transparent policy taking into account their 
+technological capabilities, system and processes adopted for clearing 
+arrangements and other internal arrangements for collection through 
+correspondents. This covers three aspects: Immediate Credit for local / outstation 
+cheques, Time frame for Collection of Local / Outstation Instruments, Interest 
+payment for delayed collection. IBA has also issued model policy on Collection of 
+cheques/instruments. Accordingly, Cheque Collection Policy was put in place. The 
+Policy takes adequate care to ensure that the interest of small depositors is fully 
+protected.
+1.3.Frequent Dishonour of Cheque or failure of NACH (National Automated Clearing 
+House)/ECS (Electronic Clearing System) is another important aspect of banking
+transaction.
+a) RBI had, vide their Notification no.DBOD.NO.Leg.BC.59/ 09.07.005/ 2009-10
+2 | P a g e
+ dated 9th November 2009, advised that frequent instances of dishonour of 
+cheque of value less than ₹.1 crore is a matter of great concern and that banks 
+need to take appropriate action in those accounts where such instances of
+dishonour of cheques occur. 
+ b) RBI had also advised, vide their Master Circular DBR NO.Leg.BC.21/
+ 09.07.006/2015-16 dated 01st July, 2015, guidelines for dealing with incidents
+ of frequent dishonour of cheques of ₹. 1 Crore and above. RBI has provided 
+ discretion to the banks to have their own approach to deal with recalcitrant 
+ customers as per their Board approved policy for dealing with incidents of 
+ frequent dishonour of cheques and failed NACH/ECS mandate.
+c) RBI has, vide notification no. DBR.No.Leg.BC.3/09.07.005/ 2016-17 dated 04th
+ August, 2016, left it to the discretion of the banks to determine their response 
+ to dishonour of cheques of the account holders, steps to prevent misuse of the 
+ cheque drawing facility and also to avoid penalizing customers for unintended 
+ dishonour of cheques.
+2. Background
+In the above backdrop, Policy on Multi City Cheques (Issuance, Collection & 
+Dishonour) was last approved by Central Board in its meeting held on 25.10.2019
+for a period of two years. The policy is reviewed based on the instructions issued 
+by RBI and Bank from time to time in all matters relating to Cheques and their 
+usage by customers.
+3 | P a g e
+3. Policy on Multi City Cheques (MCC):
+ MCC is a cheque drawn by a customer in favour of a person/entity named therein and 
+is payable at par at all branches of SBI, subject to detailed terms and conditions as 
+under:
+a) The payee can present the cheque directly at any of our branches or in clearing 
+through his bank.
+b) In case of a Multi City Cheque, the term drawee would connote any branch of SBI 
+in India.
+ c) MCCs may be issued “bearer” or “order” as detailed under 3.5 below.
+3.1 Eligibility criteria for issuance of MCCs: 
+ All branches are authorized to issue MCC. All customers having Cheque operated 
+accounts, with valid registered mobile number are eligible for getting MCC. Cheque 
+book issue request should be accepted only in fully KYC compliant accounts.
+3.2 Upper Limit of MCCs: There will be no limit on amount of MCC for payment at 
+home branch. However, for payment at Non-Home branches, cap on amount is 
+applicable, which is printed on the MCC as under:
+ “Valid upto ₹…….lakh at Non-Home branch for Non-Cash Transaction only”.
+ At small branches manned by one officer and one clerk, cap of ₹5 Lakh will be 
+applicable irrespective of the legend/ ceiling mentioned on the cheque.
+3.3 For transfer transactions at Non-Home Branch, the maximum limits are as 
+ under:
+a) Savings Bank Accounts (instrument type 31):
+i) Savings Bank other than HNI/NRI : ₹10 lakh.
+ii) HNI/ NRI Savings Bank* : ₹50 lakh.
+ *MCC may be issued without any legend/ ceiling, if so specifically requisitioned by 
+ the account holder, at the discretion of the Branch Manager.
+4 | P a g e
+b) Current Accounts** (Instrument type 29):
+i) Personal, Corporate & Institutional, Govt. Department: ₹50 Lakh.
+ii) In case of Govt. Department accounts: No cap.
+(if a separate arrangement exists with the Department)
+iii) Corporate Client Cheques Payable at Par (CCPAP): 
+ With facsimile signature : ₹ 100.00Lakh.
+Otherwise : Unlimited. 
+iv) Under Corporate Client Cheques Payable At Par (CCPAP) the instrument 
+number, account number, instrument type, amount and date of expiry are 
+validated at the time of payment to ensure against fraudulent payment of the 
+CCPAP.
+c) Cash Credit** (Instrument type 30): Max. ₹50 lacs.
+ ** MCC may be issued without any legend/ ceiling, if so specifically requisitioned by 
+the account holder, at the discretion of the Branch Manager.
+3.4 Cash Payment at Non-Home Branch: Maximum limit
+a) ‘P’ segment: 
+i. Self-Payment: ₹50,000/-, No Cash payment to third parties.
+ii. Super Senior Citizens (more than 80 years of age): Cash payment to third party 
+upto ₹10,000/-.
+b) SME segment: ₹1,00, 000/- for self. No cash payment to third parties.
+c) AGR segment: ₹1,00, 000/- for self (KCC Cheques only)
+d) No cash payment of CAG/CCG/CMP Cheques at non-home branch.
+e) No limit for cash withdrawal by self for Wealth Savings account holders opened under 
+Wealth Management initiative (WMBU)
+3.5 Issuance of MCC: ORDER/ BEARER (based on Account holder’s Risk 
+perception) 
+a) Issue of Order MCC:
+i. In Savings Bank accounts, (HNIs/NRIs, Trusts, Societies & other eligible 
+organisations etc.) “Order” MCC will be issued by default.
+ii. In all Cash Credit & Current Accounts, only “Order” MCC will be issued.
+5 | P a g e
+b) Issue of Bearer MCC:
+ In other retail segment Savings Bank account, other than those mentioned in para 
+ 3.5 (a) above, “Bearer” MCC will be issued by default. There is also a specific 
+ provision for requisition of “Order” Cheques.
+3.6 Charges for Issuance of MCC:
+ As per prevailing charges revised from time to time.
+3.7 Number of cheque leaves:
+a) Savings Bank Account
+i. Personal Segment Customers : 10/25 leaves
+ii. SME Segment Customers : 10/25/50 leaves
+b) Current Account : 25/50/100 leaves
+c) Cash Credit : 25/50/100 leaves
+d) Emergency Cheque Book : 5/10 leaves
+e) Non-Personalised Welcome Kit : 5 leaves
+f) In case of specific requirement of the Corporate/ Firm/ Entity, MCC may be issued for 
+1000 leaves on continuous stationery.
+g) Cash Management Product (CMP) will print MCC for corporate clients and institutions 
+using CCPAP (instrument type 29), as mentioned in para 3.3 b) iii). 
+h) Branches will ensure that adequate stocks of such cheque books of 5 and 10 cheque 
+leaves are available with them to meet the emergency requirement of the customers.
+(Service charges at applicable rate will be levied for issuance of cheque books)
+3.8 Printing & Issuance of Multi City CTS-2010 Standard Cheques:
+a) Printing of MCCs will be in full conformity with CTS- 2010 Standards.
+b) MCCs are printed at various locations identified by the Bank for a group of branches/ 
+Modules/ Networks/ Circles. This arrangement may be reviewed from time to time.
+6 | P a g e
+c) Our Multi City Cheques (CTS 2010) have ’12’ security features as under:
+• Mandatory Standard Cheque Security Features as per CTS 2010 Guidelines (9 in 
+number)
+i) CTS India Watermark paper
+ii) VOID Pantograph
+iii) Bank’s Logo in UV Ink
+iv) Micro Lettering
+v) Cheque Colours & Background Mandatory CTS Standards
+vi) New Rupee symbol
+vii) Standardized Field Placements
+viii) Account Number Field
+ix) Printer Name along with CTS 2010
+• Additional Security features adopted by our Bank (3 in number)
+x) Fugitive Background with Secondary Fluorescent Ink
+xi) Account Number printed in Reverse in a Black Box
+xii)UV Band in variable fields (Payee’s Name, Amount in Words, Amount in figure 
+and Account Number)
+To minimize cheque related fraud, a new security feature of UV Band in variable field 
+(Payee’s Name, Amount in words, Amount in figure and Account number) is 
+incorporated w.e.f 22.08.2020, so that any alteration made in these areas would be 
+visible when cheque is verified under UV lamp. All new MCC cheque books printed by 
+security printers will contain this feature along with existing security features. All 
+existing cheque books without this feature will continue to be honoured as per existing 
+instructions.
+3.9 Dispatching cheque books:
+ MCC Cheque books will be dispatched to customers on their last recorded address or 
+the address mentioned while making requisition. SMS is sent to the Customer three
+times on Mobile number registered in CBS, once at the time of recording indent and 
+7 | P a g e
+the second at the time of dispatch with Air Way Bill (AWB) tracker number provided 
+by Department of Posts (DoP) and the third at the time of receipt of delivery 
+information from DoP. If SMS remains undelivered, then causes for failure of SMS in 
+such cases will be analysed at GITC. Exception report will be generated at the Branch 
+and it will be dealt with critically.
+3.10 Cheque Books received back undelivered:
+a) Cheque Books returned undelivered are received back at Home Branch. These will be 
+blocked, marked “STOPPED” in CBS. 
+b) It will be the responsibility of the Home Branch to keep safe custody of undelivered 
+Cheque Books and to mark “STOP” in the system. Home Branch will make entry in 
+undelivered Cheque Book register immediately on receipt of such undelivered Cheque 
+Book and will keep it in Joint Custody. 
+c) The Branch will arrange to contact account holder over his/ her Mobile number 
+registered in CBS and record the same in the Register. Branch should also initiate the 
+process for up dation of address, backed by relevant documents. 
+d) On delivery of Cheque Book to the customer after proper identification, STOP will be 
+removed by the branch in CBS. Re-delivery / activation of such cheque book in such 
+cases is subject to Maker-Checker.
+e) If Cheque Book is not delivered to customer within 2 months from the date of 
+issuance, the Branch will arrange to destroy the undelivered Cheque Book in the 
+presence of Joint Custodians duly recorded in the Register maintained for the purpose.
+f) Cheque books returned undelivered and destroyed by the branch will be permanently
+deactivated in CBS thereby ensuring against any inadvertent error or surreptitious 
+removal of STOP, leading to fraudulent payment of such cheques.
+4. Payment of Cheques
+4.1 Preliminary scrutiny of the cheques before payment:
+8 | P a g e
+a) Bank’s logo and name be checked under UV lamp.
+b) Cheque is within validity period.
+c) Amount in words and figures is same.
+d) Cheque leaf is from the cheque series issued to the customer concerned.
+e) Drawer’s signature is available on the face of the cheque and tallies with the 
+specimen signature recorded with the Bank.
+f) The instrument is duly discharged by the customer.
+g) All cheques above ₹ 25000/- be subjected to fugitive ink / water droplet test to 
+ascertain the genuineness of the instrument.
+h) All cheques above ₹ 50000/- be subjected to ultra violet lamp test to ascertain 
+the genuineness of the instrument. A stamp confirming such verification “UV 
+Lamp verified” should be affixed on back of the cheque. 
+i) Customer to be contacted over phone/mobile number registered with the Bank 
+before making payment of cheque for amount of ₹ 2.00 lakh and above. Circles 
+may fix lower limit based on Fraud History for Tele calling.
+j) In case of payment of Non-Home cheques of ₹ 5.00 lakh and above or any 
+suspicious transactions irrespective of the amount involved, the drawer is to be 
+contacted over registered mobile number to ascertain genuineness of the 
+instrument/transaction. 
+k) In case, the customer could not be contacted while making payment of Cheque 
+ presented in clearing/ over the counter, email is sent to Home Branch and also to
+ the customer concerned on email ID registered with the Bank. Home Branch 
+should accordingly take up the matter with the customer. Record of such calls be 
+maintained.
+l) All cheques with reasons to any doubt on genuineness should be subjected to 
+fugitive ink/water droplet test and ultra violet lamp test, irrespective of amount.
+m) Physical verification of cheque is to be carried out in a meticulous manner, so as 
+to avoid payment of cloned cheques.
+9 | P a g e
+n) Discrete enquiries are to be made from the presenter of the cheque for payment over
+the counter.
+o) In case of Multi City Cheque presented at non-home branches, amount of the cheque 
+should be within value cap mentioned on the cheque.
+p) All high value instruments must be referred to the Branch Head/ CCPC Head and in 
+case of suspicion, the drawer branch/ customer drawing the cheque should be 
+referred before releasing payment.
+q) Branches to ensure seeding of correct and updated Mobile number/Email in the 
+accounts to receive SMS/Email alerts and calls from Bank, to ascertain genuineness 
+of the instrument/transaction.
+4.2 Payment of MCC with risk mitigation system:
+a) The payment of MCC at home branch / CCPC will have no restriction with regard to
+limit on amount printed on the Cheques.
+b) The payment of MCC at non-home branch (other than CCPC) will be restricted as per 
+the limit of the Cheque (as per legend mentioned on the Cheque as narrated herein
+above).
+c) Payment of cheques at Non-Home Branches where both legs are Non-Home is to be 
+allowed after usual scrutiny for amount up to ₹5.00 lakhs and ensuring compliance of 
+instructions detailed under para 4 and sub-para 4.4 of e-Circular R&DB/BODGB/32/2018-19 dated 12.07.2018 and e-Circular R&DB/BOD-GB/67/2019-20 dated 
+29.08.2019.
+d) The functionality in CBS is available, to ensure that the payment of MCC at non-home 
+branches is made as per the value cap mentioned on the cheque.
+e) Passing for payment of high value cheques of ₹50 lakh and above will be physically 
+authorised by two officials. 
+f) In the event of any instance of compromise of cheque(s) in an account is observed / 
+reported, the remaining cheque(s) in the series issued to the customer will be 
+deactivated by the Branch after receiving specific consent in writing from the 
+customer.
+10 | P a g e
+4.2.1 Payment of non-CTS-2010 MCC (Payable at Par)
+a) Customers holding non-CTS cheques if any, are to be contacted for surrender of nonCTS cheque leaves and for issuance of MCCs as per CTS 2010 guidelines. 
+b) Non-CTS Cheques should be replaced by requesting for CTS-2010 Standard Cheques 
+through Home Branch.
+c) The payment of existing Order Multi-city (payable at par) non-CTS-2010 standard 
+cheques already issued to the customers will be allowed for cash payment at Home 
+branches only.
+d) Non-CTS Cheques (cheques not compliant with CTS-2010 standards) will not be 
+accepted in the CTS clearing system w.e.f 01.01.2019.
+e) Drawee branches need to exercise extra caution while honouring/ making payment of 
+Non-CTS cheques and in case of any doubt, may return them.
+4.3 POSITIVE PAY SYSTEM (PPS) FOR CHEQUE PAYMENT
+a) Competent authority has approved implementation of RBI directives on Positive Pay 
+System and provision of the facility to all our customers having cheque operated 
+accounts effective from 01.01.2021. The facility is provided to customers through our 
+branches as well as alternate channels like Internet Banking (both CINB & RINB), 
+Mobile Banking, YONO, SMS etc. The facility is being implemented for clearing 
+cheques as well as cheque payments over the counter (both cash & transfer).
+b) Concept of Positive Pay involves a process wherein the customer who is issuing 
+cheque informs the drawee bank the details of cheque issued like Cheque number, 
+date of issue, amount, name of payee/beneficiary etc., which are stored in the system. 
+When the said cheque is presented for payment, the details in respect of the cheque 
+stored in the system are cross-checked with the corresponding details on the 
+presented physical cheque/image of cheque. 
+c) RBI has advised that only those cheques which are compliant with above instructions 
+will be accepted under dispute resolution mechanism at the CTS Grids. 
+d) As such, no cheque should be returned, if otherwise in order, till the Positive Pay 
+System stabilizes and until further instructions, for the only reason of mismatch with/
+11 | P a g e
+want of PPS data. 
+(reference e-circular R&DB/AGNYBHG-CTS/ 8/2020-21 dated 23.12.2020)
+4.4 Stop Payment of Cheques:
+a) Branches will accept stop payment instruction from the depositors in respect of 
+Cheques issued by them, provided the cheque in question has not been paid by 
+the Bank. Charges, as applicable, will be recovered.
+b) Account holders can request the Bank in writing to register Stop Payment 
+instructions in respect of cheques issued or lost by them.
+c) Stop Cheque payment request can also be made online by customers having Internet 
+Banking/YONO/YONO Lite facility with transactions rights. 
+4.5 Cheques destroyed and cancelled by the Customer:
+There may be instances of Cheques written by the customer erroneously and
+ destroyed / cancelled. Information on such cases may be given to the Bank. Such
+intimation by the customer may be recorded as stop payment and no charges will be
+levied. This will be made a part of instructions on the cheque book, for guidance of
+the customers.
+5. Cheque Collection Policy:
+Bank’s Cheque Collection Policy has been formulated as a comprehensive document 
+with transparency, covering various aspects, taking into account our technological 
+capabilities, systems and processes adopted for clearing arrangements and other 
+internal arrangements for collection through different methods. The Policy takes 
+adequate care to ensure that the interest of small depositors is fully protected and
+is in line with the IBA’s model policy on Collection of cheques/instruments. The
+procedure for collection of domestic cheques / instruments and international
+instruments have been included herein, which, inter alia, incorporates the following:
+a) Collection of Bank’s own cheques (local and outstation).
+b) Collection of cheques drawn on local or outstation branch of other banks.
+12 | P a g e
+c) Time frame for collection of outstation/local cheques drawn on our own branches 
+and branches of other banks.
+d) Penalty for delayed collection for local/outstation cheques in a progressive manner.
+e) Amount of cheque up to which immediate credit is to be provided. 
+5.1 Cheque clearing process under CTS based clearing system
+a) The printing of IOI instruments is also now migrated on “CTS-2010 standard” 
+platform. Cheque Truncation System (CTS) is presently working at:
+Northern grid in Delhi (Geographical jurisdiction of 21 MICR centres in the states/UT 
+of Bihar, Chandigarh, Delhi, Haryana, Himachal Pradesh, Jammu & Kashmir, 
+Jharkhand, Punjab, Rajasthan, Uttarakhand and Uttar Pradesh. This is covered by our 
+5 Circles, namely, Chandigarh, Delhi, Jaipur, Lucknow and Patna).
+Southern Grid in Chennai (Geographical jurisdiction of 25 MICR centres in eight 
+states namely Orissa, West Bengal, Guwahati (including seven North East States viz. 
+Sikkim, Tripura, Mizoram, Arunachal Pradesh, Nagaland, Assam and Meghalaya), 
+Andhra Pradesh, Telangana, Kerala, Karnataka, Tamilnadu and Union Territory of 
+Puduchery. This is covered by our 8 Circles, namely, Amaravati, Bengaluru, 
+Bhubaneswar, Chennai, Guwahati, Hyderabad, Kolkata and Thiruvananthapuram).
+Western grid in Mumbai (Geographical jurisdiction of 20 MICR centres in five states 
+namely Maharashtra, Madhya Pradesh, Gujarat, Goa and Chhattisgarh. This is covered 
+by our 4 Circles, namely, Ahmedabad, Bhopal, Maharashtra and Mumbai Metro).
+b) All centres covered under the same grid will be treated as a single clearing zone and 
+cheques drawn on these centres and presented at any of the grid centres are treated 
+as locally drawn cheques in as much as no clearing charges would be applicable for 
+such cheques.
+c) RBI has directed that no changes/corrections should be carried out on the cheques. 
+For any changes in the payee’s name, currency amount (amount in figures) or legal 
+amount (amount in words) etc, fresh cheque forms should be used by customers. This 
+will help Banks to identify and control fraudulent alterations. Collecting banks have to 
+ensure that such cheques are not accepted for presentation in CTS. This is not 
+applicable to cheques cleared over the counter collection (for cash payment) or direct 
+collection of cheques outside the Clearing House Arrangement.
+13 | P a g e
+d) Branches dealing with government business under CTS centres are required to 
+ update their CBS data. Account level ground work :- Get linked to respective CCPC 
+ by completing following activities for all State & Central Government Accounts 
+ maintained at the Branch:
+i) Capture signatures of Drawing & Disbursing Officers (DDOs) of respective 
+Govt. departments and upload the same in CBS.
+ii) Upload mandate / account operating instructions in CBS.
+iii) Allocate cheque series (existing or CTS compliant category) to the respective 
+State / Central Government Account.
+iv) Limits / LOCs are to be updated as per the instructions / requirements of the 
+Government Account holder.
+v) Ensure that Major-head/sub-head/ supplementary-head for Central 
+Government Accounts or State Govt. code / Focal Point Branch code / C or S 
+flag is defined correctly against each Central / State Government Account at 
+the Branch.
+ 5.2 Speed Clearing System: - Outstation cheques drawn on banks participating in 
+speed clearing at specified locations will be collected and treated at par with local 
+cheques. All terms and conditions applicable for local clearing instruments will also 
+apply to speed clearing system, except that such cheques will be collected by the 
+collecting bank against realization of service charges specified for the purpose. 
+Speed Clearing System is applicable for CTS-2010 grid based clearing system. 
+5.3 The list of objections for return of Instruments and Image based Cheque Clearing, 
+as detailed in Annexure D to Uniform Regulations and Rules for Bankers’ Clearing 
+House, has been placed as Annexure-I of this document.
+5.4 Cheque return charges shall be levied, at applicable rates, only in cases where the 
+customer is at fault and is responsible for such returns. The list of reasons for 
+return, where the customers are not at fault is as per Annexure-II. Charges will 
+not be levied in such cases.
+14 | P a g e
+5.5 Cheques that need to be re-presented without any reference to the payee shall be 
+presented in the immediate next clearing, not later than 24 hours (excluding 
+holidays). Notification will be sent to the customers for such re-presentation by 
+SMS or e-Mail.
+5.6 Dishonour /Return of cheques: Branch needs to mention the ‘Date of Return’ & 
+sign/initial the Cheque Return Memo, giving therein a definite and valid reason for 
+refusing payment as prescribed in Rule 6 of the Uniform Regulations and Rules for 
+Bankers’ Clearing Houses (URRBCH). This will enable the holder of the instrument 
+to have legal recourse against the drawer of the cheque. 
+5.7 Collection of Third Party Cheques in clearing: RBI has prohibited Banks from 
+crediting ‘Account Payee’ cheques to the account of any person other than the 
+payee named therein. However, with a view to mitigating the difficulties faced by 
+members of co-operative credit societies in collection of account payee cheques, 
+RBI has permitted banks to collect account payee cheques for such societies drawn 
+for an amount not exceeding ₹.50,000/- on behalf of their constituents. 
+5.8 Time limit for deposit of Cheques:
+ a) Cheques deposited at branch counters and Cheques deposited in the drop box 
+ within the branch premises, before the specified cut-off time will be sent for 
+ clearance on same day, for which the clearance period will be T+1 working day. 
+b) Cheques deposited after this cut off time will be sent for clearing on next day, for 
+which clearance period will be T+2 working days. 
+c) The broad time–limit for receipt of cheques (say up to 3 hours after opening of 
+branch etc.) and cheques deposited in CDK (Cheque Deposit Kiosk) which may be 
+fine-tuned for individual locations/branches, based on local practices. This will be 
+fixed with the approval of the Controllers of the respective branches. 
+d) All drop-boxes shall clearly indicate the timeline as above up to which cheques 
+dropped in the drop boxes would be sent for clearing on the same day.
+15 | P a g e
+e) Cheques deposited after the cut-off time in Branch Drop Box and cheques deposited 
+in drop-boxes outside the branch premises including off-site ATMs, will be 
+presented in the next clearing cycle.
+f) As a policy, Bank would give credit to the customer account on the same day after 
+day’s clearing settlement takes place and will appear in book balance but would not 
+be available for payment. Withdrawal of amount so credited will be permitted as 
+per the cheque return schedule of the clearing house.
+g) The timeline for clearing of local cheques will be extended by two additional days 
+in case of branches having non-Sunday weekly off and also preceding working day
+ in 2nd & 4th weekend also being holiday. It will be extended by one additional day 
+ only during 1st, 3rd & 5th week for branches working on Sunday.
+h) Bank branches, situated at centres where no clearing house exists, would present 
+local cheques on drawee banks across the counter and proceeds thereof would be 
+credited at the earliest on realization.
+i) Normal collection charges applicable at the material time will be levied for local 
+cheques not collected through clearing, irrespective of the amount of cheques.
+j) SC/DDP automation has been implemented for collection of outstation cheques of 
+other banks from centres where speed clearing system is not available.
+k) In the case of collection of outstation cheques at centers, where the Speed Clearing 
+System is not applicable, our collecting branches will levy 50% of their applicable 
+charges for collection of outstation cheques. The drawee/paying branch may also 
+levy 50% of applicable charges.
+5.9.I Negotiation of Cheques:
+a) Negotiation of local cheques/instruments drawn on other banks will not be 
+permitted. Branch Managers may use their discretion in exceptional circumstances 
+(business exigencies) to permit drawl’s against uncleared effects up to ₹. 30,000/-
+(Rupees thirty thousand only), in deposit accounts. The facility can be provided 
+only on well conducted, KYC compliant accounts as mentioned in paragraph 5.10
+(d) below. This will be done within the discretionary powers vested with the Branch 
+16 | P a g e
+Manager in the respective Grade/Scale for purchase of cheques/clean bills, in terms 
+of the Scheme of Financial Powers – Advances and Allied Activities and is required 
+to be reported to the next higher authority, for Control purpose. 
+b) In case of outstation cheques, the facility will be restricted to one or more cheques 
+for aggregate amount not exceeding ₹. 30,000/- at a time, ensuring that the 
+liability on account of outstanding cheques purchased does not exceed ₹30,000/-
+at any time, except in cases where credit facility against cheques to be purchased 
+has been duly sanctioned by the competent authority.
+ c) If a cheque/instrument for which immediate credit has been afforded is returned 
+ unpaid, Bank shall recover interest at clean overdraft rate for the period Bank 
+ remained out of funds and also cheque return charges, subject to the following:
+i) Bank will charge interest from the date of credit of proceeds of the cheque in the
+account till reimbursement/realization of the amount to/by the Bank. 
+ii) Where the cheque is credited to a Savings Bank account, such credits will not be 
+reckoned for interest purposes. For the purpose, the Branches will ensure 
+recovery of interest credited/to be credited to the account on the amount of 
+cheque returned unpaid for the period involved.
+iii) If proceeds are credited in an overdraft/loan account, interest would be recovered
+at applicable rate/clean overdraft rate, whichever is higher, on the amount of 
+returned cheque/instrument.
+5.9.II Purchase of Local Cheques, Drafts, etc., during suspension of clearing:
+ Whenever clearing is suspended and it is apprehended that the suspension may be 
+prolonged, branches may temporarily accommodate their constituents, both 
+borrowers and depositors, to the extent possible by purchasing the local cheques, 
+drafts, etc., deposited in their accounts for collection, special consideration being 
+shown in respect of cheques drawn by government departments/companies of good 
+standing and repute, as also demand drafts drawn on local banks. While extending 
+this facility, branches would no doubt take into consideration such factors as 
+creditworthiness, integrity, past dealings and occupation of the constituents, so as to 
+17 | P a g e
+guard themselves against any possibility of such instruments being dishonoured 
+subsequently. 
+5.10 INSTRUMENTS DRAWN ON OUR LOCAL AND OUTSTATION BRANCHES:
+a) Cheques drawn on Bank’s own branches, at local or at outstation centres, except Govt. 
+Cheques, Banker's Cheques, RBI cheques, received across the counter or through 
+Drop-Box are not required to be presented in clearing or purchased as DD. These 
+instruments shall be disposed off at their end only, subject to ceiling for non-home 
+payment after due scrutiny. For cheques received at non-home branch and drawn for 
+amount beyond the ceiling printed on the cheque to be sent out on collection as SC.
+The instruments will be paid by the receiving branches at their end after verifying the 
+genuineness of the instruments and observing all necessary precautions for payment 
+of instruments, who will afford credit directly to the payee’s account. 
+b) Cheques drawn on any branch of our Bank, locally or outstation, will normally be 
+paid on the same day/next day, depending upon the local situations, barring a few 
+exceptional circumstances, for example – insufficient balance, non-availability of 
+drawing power/limit, uncleared balance, cheque number not matching with the 
+cheque range in the system, same cheque number already paid, difference in 
+signature, any lien/stop/hold restrictions (statutory, regulatory or otherwise) marked 
+on the account.
+c) The facility of immediate credit will be provided by the branch to the satisfactorily 
+conducted accounts of their customers in respect of instruments drawn on any of our 
+branches.
+d) For the purpose, a satisfactorily conducted account shall be one which has been:
+i) Opened at least six months earlier to the date of depositing cheque for 
+realization and fully complies with KYC documentation requirements.
+ii) Is not inoperative.
+iii) Where branch has not noticed any irregular dealings/ suspicious transactions 
+in the last 6 months. 
+18 | P a g e
+iv) Where the branch has not experienced any difficulty in recovery of any amount 
+advanced in the past, including cheques returned unpaid after giving credit. 
+v) Where no adverse features attached to the account/account holders have been 
+brought to the notice of the Bank.
+vi) Where no cheques/ instruments for which immediate credit was afforded, had 
+been returned unpaid for financial reason.
+e) The facility will be available to all individual deposit account holders, without making a 
+distinction about the type of their accounts, i.e. Savings Bank/Current Account etc. It 
+will also be available at all branches/extension counters of the Bank. This will not be 
+available to non-individual account holders.
+f) Branches will, on their own, afford immediate credit of outstation cheques of other 
+banks too up to and inclusive of ₹.30,000/- (Rupees thirty thousand only) tendered for 
+collection by their customers.
+g) The facility of immediate credit would however not be applicable to cheques collected 
+under speed clearing arrangements.
+5.11 INSTRUMENTS DRAWN ON OUTSTATION BRANCHES OF OTHER BANKS:
+a) Cheques drawn on other banks at outstation centres in India will normally be collected 
+through our own branches at those centres. Where the Bank does not have a branch 
+of its own, the instrument would be directly sent for collection to the drawee bank. 
+b) All “CTS-2010 Standard” Cheques and other Negotiable Instruments (CTS compliant), 
+payable outstation on any banks, would be presented by the branches linked to 
+respective CTS-Grid through the grid based clearing system (Chennai, Mumbai and 
+Delhi Grids).
+ 6. TIME FRAME FOR COLLECTION OF OUTSTATION INSTRUMENTS:
+6.1 With the leverage of CBS and upgradation of technology and introduction of Speed 
+Clearing System/CTS-grid based Clearing at MICR centre, the time frame for 
+collection of outstations cheques for SBI branches/ other banks will be as per 
+19 | P a g e
+normal clearing cycle at the respective centre and for all other centres, the time 
+frame for collection of cheques/ instruments payable in India is as under:
+SBI Branches* Branches
+of Other Banks
+a) Collections between Metropolitan
+Centres/ Major ‘A’ Class Cities (Mumbai,
+Chennai, Kolkata, New Delhi,
+Ahmedabad, Bangalore & Hyderabad)
+6 days 7 days
+b) Collections between places at (a) above
+and State Capitals (other than North Eastern 
+States & Sikkim) and Area I Cities, i.e. 
+Pune, Nagpur, Kanpur, Surat, 
+Vishakhapatnam, Vadodara, Kochi, 
+Indore, Ludhiana, Coimbatore, Agra, 
+Madurai and Varanasi
+8 days 10 days
+c) Collections between all other Centres 10 days 14 days
+ *For Cheques drawn for the amount beyond the ceiling printed on cheque and 
+cheques drawn on the branches within the CTS Grid.
+6.2 The time frame mentioned above is the outer limits and once the instruments are 
+realised, proceeds should be credited to the Customer’s account immediately.
+6.3 Outstation cheques will be paid subject to recovery of applicable service charges, 
+plus GST.
+6.4 The time limit for collection of cheques/instruments payable in foreign countries 
+has been mentioned separately in the Policy, under para 9. 
+6.5 There is no change in the accounting procedure for DDP in respect of cases where 
+instruments will continue to be purchased by debit to General Ledger 
+Account/Customer’s Liability account and sent for realization to the Drawee bank.
+7. INTEREST PAYMENT FOR DELAYED COLLECTION:
+7.1 As part of the Compensation Policy, the Bank will pay interest to its customer on 
+the amount of collection instruments under 6.1 a), b) and c) given above, in case 
+there is delay in giving credit beyond the time period mentioned above. Such 
+interest shall be paid without any demand from customers in all types of accounts. 
+20 | P a g e
+7.2 Interest for delayed collection shall be paid at the following rates:
+a) For collection of cheques drawn on SBI, Saving Bank rate for the period of delay 
+beyond 6/8 days for 6.1 a)/b) and 10 days for 6.1 c), interest will be payable from 
+7
+th/9th day for the centres under a) & b) and from 11th day for centres under c).
+b) Saving Bank rate for the period of delay beyond 7/10/14 days, as the case may be
+and for collection of outstation cheques drawn on other banks, i.e. the interest will 
+be payable from 8th/11th/15th day.
+c) Where the period of delay is beyond 14 days, interest will be paid at the rate 
+applicable for term deposit for the corresponding period or Saving Bank rate, 
+whichever is higher.
+d) In case of extraordinary delay, i.e. delays exceeding 90 days, interest will be paid 
+at the rate of 2% above the corresponding Term Deposit rate.
+e) In the event of the proceeds of cheque under collection to be credited to an 
+overdraft / loan account of the customer, interest will be paid at the rate applicable 
+to the loan account. For extraordinary delays, i.e. delays exceeding 90 days, interest 
+will be paid at the rate of 2% above the rate applicable to the loan account.
+7.3 Interest as above shall be payable with a minimum of ₹25/-.
+8. CHEQUES / INSTRUMENTS LOST IN TRANSIT / IN CLEARING PROCESS 
+OR AT PAYING BANK’S BRANCH:
+8.1 In the event of a cheque/instrument accepted for collection being lost in transit or 
+in the clearing process or at the paying bank’s branch, the Bank shall immediately, 
+on coming to know about the loss of instrument, bring the same to the notice of 
+the account holder, so that the drawer can be informed to record stop payment. 
+The branch will take care that cheques, if any, issued by the customer are returned 
+with specific remarks and not just dishonoured as a routine due to non-credit 
+of the amount of the lost cheques/instruments. The Bank would also advise the 
+drawee bank all the particulars of lost cheque / instrument for exercising caution 
+21 | P a g e
+and provide all assistance to the customer in obtaining a duplicate instrument from 
+the drawer of the cheque. 
+8.2 Where a cheque/instrument is claimed to have been deposited by the customer in 
+Drop-Box, but Bank’s records do not show receipt of such cheque with the Bank, 
+the Bank cannot decide on the compensation amount for lost cheque in the 
+absence of details of cheque like date, amount, drawee bank/branch/drawee 
+centre etc. In such cases, the customer will have to corroborate a claim for lost 
+cheque with full facts, inter-alia, including confirmation/enquiries from the drawee 
+person/drawee bank about genuineness of the claim and on this basis if it is 
+established that the customer has, in fact, tendered the cheque in Drop-Box, the 
+Bank will consider payment of compensation in terms of the SBI Compensation 
+Policy.
+8.3 In line with the Compensation Policy of the Bank, the Bank will compensate the 
+account-holder in respect of instruments lost in transit in the following way:
+ a) In the event a cheque or instrument accepted for collection is lost in transit or in 
+clearing process or lost by the service provider (in case of CMP) the Bank shall 
+immediately on coming to know of the loss of instrument, bring the same to the 
+notice of the account holder as brought out under para 8.1 herein above. The 
+bank would provide assistance to the customer to obtain a duplicate instrument 
+from the drawer of the cheque.
+ b) In case intimation regarding loss of instrument is conveyed to the customer beyond 
+the time limit stipulated for collection as per the Cheque Collection Policy of the 
+Bank (7/10/14 days, as the case may be), interest will be paid for the period 
+beyond the stipulated collection period at the rates specified in para 7.2 & 7.3 
+above for cheques payable in India.
+i) Bank will pay interest on the amount of the cheque for a further period of 15 days
+at Savings Bank rate to provide for possible further delay in obtaining duplicate 
+22 | P a g e
+duplicate cheque /instrument and collection thereof.
+ii) The Bank would also compensate the customer for reasonable charges which 
+he/she incurs in getting duplicate cheque/instrument upon production of receipt, 
+in the event the instrument is to be obtained from a Bank/institution who would 
+charge a fee for issue of duplicate instrument, subject to a maximum of ₹ 250/-.
+9. COLLECTION OF INTERNATIONAL CHEQUES/ INSTRUMENTS:
+ 
+9.1 The Bank handles, on behalf of its customers, at all its branches, 
+collection of cheques drawn in various foreign currencies and payable at 
+various foreign centers. The bulk of the collection instruments are: -
+a) Foreign currency cheques {including Travellers Cheques (TCs) & Money order
+(MO)} drawn on / payable in the country of the foreign currency (viz. $ in 
+USA, £ in UK, € in Euro Zone and so on) and also drawn on countries other 
+than the country of particular currency viz. US$ cheques payable outside USA.
+b) It is clarified that Travelers cheques issued by various Banks/Entities in various 
+currencies will continue to be paid (by collection & purchase) at 
+designated branches as per bilateral arrangements in place, as advised by 
+Global Markets (Foreign Department), Kolkata, from time to time.
+9.2 Accordingly, the Policy for International Cheque Collection shall cover the following 
+aspects:
+i) Type of settlement process in foreign countries for collection of cheques.
+ii) Arrangement for collection of cheques/instruments.
+iii) Time–frame for collection of cheques.
+iv) Interest payment for delayed collection.
+v) Collection instruments lost in transit.
+9.3 Settlement Process in Foreign Countries for collection of cheque:
+ Collection of cheques at various foreign centers differs vastly from the process 
+ prevalent in India, both in advanced markets, developing countries and also from 
+23 | P a g e
+ country to country within these two sub-groups. In some of the markets, clearing 
+ / settlement system can take more than 1 day, i.e. 2-4 days for return clearing and 
+ therefore, for final funds settlement. Further, in some countries like USA, the recall
+ of funds from the collecting banker can occur even after the time for return clearing 
+ for an undefined period, in cases where National Clearing involves more than one 
+ Fed Zone. Further, as per Section-15 chapter 2g, paragraph – 3 of “Manual of 
+ Forex Operations”, updates as on 31.03.2018, in the event of any USD cheque 
+ returned for any reason, in terms of Check 21 Act of USA, we may receive an image 
+ of the returned legal cheque including a paper copy of cheque image or a return
+ substitute cheque instead of a return original paper cheque. There are also 
+ countries like Germany where cheques are no more the preferred mode of
+ payments (replaced by online payments) and clearing takes place on a weekly basis. 
+ Cooling period of foreign currency cheques (FCC) collection, as per arrangements 
+ made by Global Link Services (GLS) for FCC denominated in US$, Euro €, GB £,
+ CAN $ is as under: 
+Instruments for collection Cooling Period
+US $ Cheques payable in USA 10 Working days
+Travellers Cheque, Money Order, Gift Cheques in US $ 10 Working days
+Euro payable in 10 countries 
+(Austria, Belgium, France, Germany, Italy, Luxembourg, 
+Netherland, Portugal, Spain & United Kingdom).
+11 Working days
+GBP payable in UK 14 Working days.
+CAD less than CAD10000/- 13 Working days.
+CAD 10000/- and above NIL,
+But holding period 
+of 60 days.
+Other Currencies 21 days.
+9.4 Arrangement for collection of foreign cheques/instruments: -
+a) We have a network of branches, linked branches and Global Link Services (GLS)/ 
+International Service Branch Ernakulam (ISBE), Departments of International 
+Banking Group (IBG). GLS/ISBE use services of different correspondent banks with 
+24 | P a g e
+large volumes, robust systems, suitable technology back up and country specific 
+strengths to provide efficient service at competitive prices. Different Correspondent 
+Banks are able to offer varied customized products to us for risk reduction, quicker 
+collection, improved reconciliation etc. at various prices. When FCNR (B)/NRE TDR 
+deposit receipt is to be issued against proceeds of FC cheques collected, Branches 
+have to ensure that: 
+i) FCNR (B)/ NRE TDR Receipt should be mailed / handed over to the 
+depositor only after the cooling period is over.
+ii) As no protection against frauds on the face of cheques is available in such 
+cases (a recall is possible within 1 year or more), the facility of loans, etc. 
+against such deposits should be extended only where branches are satisfied 
+with the bonafides of the transaction and availability of recourse, if required.
+iii) Value date of FCNR(B)/NRE TDR will be the date of credit in NOSTRO a/c.
+b) The USD, GBP, CAD & EURO cheques drawn on banks in USA, UK, CANADA and
+European countries respectively are accepted by Global Link Service, Mumbai/ 
+International Service Branch, Ernakulam for collection. Cheques on these currencies 
+drawn elsewhere as well as cheques of other currencies are required to be sent 
+directly to the drawee bank with clear instructions for remittance of proceeds to the 
+Banks’ account maintained with foreign offices/correspondent banks.
+9.5 Immediate credit of cheques to deposit accounts of individuals:-
+a) Authorised branches of the Bank will offer immediate credit of cheques drawn in 
+foreign currency for satisfactorily conducted accounts complying with KYC norms where 
+they are satisfied with the scope for recourse, if required, and the customers are willing 
+to pay the cheque purchase charges. In value terms, cheque purchases for issue of Rupee 
+TDRs may be authorized by Managers/Branch Managers in Scale III/IV incumbencies for 
+a Rupee equivalent up to ₹ 50,000/- (Rupees fifty thousand only) and by AGM branch/ 
+AGM Region for higher values in satisfactorily conducted accounts, subject to their 
+25 | P a g e
+discretionary power. In all other cases, the discretionary power to purchase cheques, in 
+aggregate for a customer, will be as per the laid down financial powers for clean 
+instruments, subject to usual reporting to the next higher authority.
+b) If a cheque/instrument, for which immediate credit has been afforded, is returned 
+unpaid, the Bank shall recover interest at clean overdraft rate for the period the Bank 
+remained out of funds and also cheque return charges and exchange loss, if any, subject 
+to the following:
+i. The Bank will charge interest from the date of credit of proceeds of the cheques 
+in the account till reimbursement of money to the Bank.
+ii. Where the cheque is credited to a Savings Bank account, such credits will not 
+be reckoned for interest purposes if the cheque is returned.
+iii. If proceeds are credited in an overdraft/loan account, interest would be 
+recovered at applicable rate/clean overdraft rate, whichever is higher, on the
+amount of returned cheques/instruments. 
+9.6 Time Frame for collection of instruments:- 
+ The time frame is from the date of deposit of a cheque/instrument at a branch to the 
+date of credit to the customer’s account, will be 10 days after the completion of cooling 
+period for the respective currencies. Cooling period starts from the date of credit to
+our NOSTRO account. However, the total time frame for the entire collection process 
+will not be exceeding 45 days from the date of deposit of cheques / instruments except 
+for the cheques / instruments in CAD for 10000/- & above, where it will be 10 days 
+from credit to NOSTRO account.
+9.7 Interest payment for delayed collection: - 
+a) Delay in collection of cheques payable at foreign centres will be construed if the 
+customer’s account is not credited within the time frame as mentioned in paragraph 
+9.6. 
+b) The Bank however, will not compensate the customer for delays in collection of 
+cheques drawn on banks in foreign countries as the bank would not be able to 
+ensure timely credit from overseas banks. It is the bank’s experience that time for 
+26 | P a g e
+collection of instruments drawn on banks in foreign countries differs from country to 
+country and even within a country, from place to place. The time norms for return of 
+instruments cleared provisionally also vary from country to country. 
+c) For the sake of uniformity and clarity, the date of Clear Credit is defined as the 
+ date on which clear funds are available in our Nostro Account after an actual or 
+ notional cooling period – for actual credit to customers’ account as per Bank’s 
+ agreement with the concerned Correspondent Bank. Wherever there is no specific 
+ agreement on the cooling period or the funds are directly collected from a paying 
+ bank, the Clear Credit Date will be after observing a cooling period, as per the
+ discretion of the Bank, for that specific currency/country/clearing system, from 
+ the date of actual credit to Bank’s Nostro Account.
+d) The compensation on account of delay in collection of instruments in foreign 
+ currency will be paid in Indian Rupee, as illustrated below: 
+i) At Savings Bank rate from the date of credit to Nostro Account till the date of 
+payment if the period of delay is beyond prescribed collection period:
+Description Date
+Date of NOSTRO A/C credit 01.08.2021
+Add 15 days cooling period 16.08.2021
+To be paid within 10 days 26.08.2021 (No delay)
+Delayed interest payment, if proceeds are not credited within 26.08.2021. The 
+date of delay will be counted from the date NOSTRO a/c credited to the date of 
+credit to the account (excluding credit date) i.e. payment after 26th Aug., will 
+entitle payment of interest from 1st Aug, 2021 till the date of payment upto 45 
+days from 26th Aug, 2021.
+ii) In case of abnormal delay, i.e. delays exceeding 45 days, interest will be 
+paid at Term deposit rate applicable for the period and for delays beyond 90 days, 
+2% above the applicable term deposit rate.
+27 | P a g e
+In the above example delay exceeding 45 days (beyond 26/08/21) will be,
+if not paid till 10th Oct, 2021.
+Delay/ Abnormal delay Delayed interest @
+>45 days to 90 days TDR rate.
+>90 days 2% above TDR rate.
+iii) In the event of the proceeds of cheque under collection being required to be 
+credited to an overdraft / loan account of the customer, interest will be paid at the 
+rate applicable to the loan account, if the delay is less than 45 days. For abnormal 
+delays, i.e. beyond 45 days, interest will be paid at the rate of 2 % above the 
+applicable interest rate to the loan account. 
+iv) Such interest shall be payable with a minimum of ₹ 25/-. 
+e) Compensation as detailed above shall be paid without any formal demand from
+customers.
+e) No separate compensation is payable by the Bank on account of movement in the 
+Exchange rate of the respective currencies.
+g) Returning time for dishonoured cheques
+ The dishonoured instruments are required to be returned / dispatched to the branches
+i.e by registered post, speed-post on receipt of the legal copy (if any) from the 
+Correspondent Banks. 
+h) International Cheques/instruments lost in transit/in clearing process :
+In the event, an international cheque or an instrument accepted for collection is lost
+ in transit or in the clearing process, the Bank shall, immediately on coming to know
+of the loss of an instrument, bring the same to the notice of the account holder so
+that the drawer can be informed to record stop payment. The Bank would also advise
+the correspondent/ drawee bank all particulars of lost cheques / instruments for
+exercising caution and provide all assistance to the customer in obtaining a duplicate
+instrument from the drawer of the cheques, if required. The Bank will endeavour to
+get payment of the instrument based on the photocopy/scanned image of the
+28 | P a g e
+instrument, wherever the practice is prevalent. The Bank will bear the actual charges
+of recording Stop Payment instructions levied by drawee bank. The Bank will also
+reimburse the customer with actual charges levied by the drawer / bank in issuing
+duplicate cheques/instrument, subject to a maximum of ₹250/-.
+10. General points for collection of cheque:
+10.1 Both the drop box facility and the facility for the acknowledgement of the cheques 
+at regular collection counters should be available to the customers and no branch 
+should refuse to give an acknowledgement if the customer tenders the cheques at 
+the counters.
+10.2 Branch should ensure that customers are not compelled to drop the cheques in 
+the drop-box.
+10.3 Further, in the context of customer awareness in this regard, branch should 
+invariably display on the cheque drop box itself that “customer can also tender the 
+cheques at the counter and obtain acknowledgement on the pay-in-slips”. The 
+above message is required to be displayed in English, Hindi and the concerned 
+regional language of the State.
+10.4 Branches are also advised to make absolutely fool proof arrangement accounting 
+for the number of instruments each time the box is opened so that there is no 
+dispute and the customer’s interest is not compromised.
+10.5 Branches shall not decline to accept outstation cheques deposited by its customers 
+for collection.
+10.6 Branches shall give wide publicity to the CCP by prominently displaying salient 
+features thereof in bold and visible letters on the notice board at their branches.
+10.7 A copy of the complete CCP shall be made available by the Branch Manager, if the 
+customer requires so.
+10.8 DISCRETIONARY POWER FOR PURCHASE OF CHEQUES:
+Branches should refer Bank’s Delegation of Financial Power for Unsecured 
+advances in the respective grade/scale, for purchase of cheques, revised from time 
+to time. 
+29 | P a g e
+11. POLICY FOR DEALING WITH INICIDENTS OF FREQUENT DISHONOUR 
+ OF CHEQUES AND FAILED NACH:
+11.1 Returning time for dishonoured cheques:
+The dishonoured instruments are required to be returned / dispatched to the customer 
+by registered post, speed-post, courier promptly without any delay in any case within
+T+1 working days of the dishonour.
+11.2 Procedure for return/dispatch of dishonoured cheques:
+a) The collecting branch should return dishonoured cheques presented through clearing 
+houses, strictly as per the return discipline prescribed for respective clearing house 
+in terms of Uniform Regulations and Rules for Bankers' Clearing Houses. The 
+collecting branch on receipt of such dishonoured cheques should dispatch it 
+immediately to the payee/account holder within T+1 working days of receipt of the 
+instruments. The Customer will be informed by automated SMS over registered 
+mobile number about returning of cheque. 
+b) In relation to cheques presented directly to the drawee branch across the counter for 
+settlement of transaction by way of transfer between two accounts of the same 
+branch / inter–branch, branch should return such dishonoured cheques to the 
+payees/ holders same day/or next day, in case of dishonour due to insufficiency of 
+fund.
+c) Cheques dishonoured for want of funds in respect of all accounts should be returned 
+along with a memo indicating therein the reason for dishonour as "insufficient funds".
+d) Cheques returned should be entered in “Cheques Referred and Returned e-Register” 
+available at SBI Times>Single Sign On>Branch e-Register>Registers>Cheque 
+Referred and Returned Register.
+11.3 Dealing with frequent dishonour of Cheques/ Failed NACH:
+a) With a view to enforce financial discipline among the customers, a condition for 
+operation of Savings Bank/ Current Account (SB/CA) account with cheque facility will 
+be incorporated that in the event of failed Standing Instruction for Loan 
+30 | P a g e
+Repayment/dishonour of a cheque/NACH due to lack of funds/insufficient funds
+drawn on a particular account of the drawer on 4 occasions during the financial year, 
+no fresh cheque book would be issued from any of the channels. In case of 
+unintended dishonour of cheques, the branch concerned will analyse such cases so 
+as to ensure that it does not result into penalising the customer for such unintended 
+dishonour of cheques. 
+b) The branch may consider closing Savings Bank account/Current account at its 
+discretion, after proper notice to the customer recording the reason of closure of 
+account with reporting to Controller at monthly intervals. However, in respect of 
+advances accounts such as cash credit account, overdraft account, the accounts may 
+be treated as stressed accounts and dealt with accordingly. The decision for issuance 
+of cheque book and/ or continuation of credit facilities may be taken by the 
+sanctioning authority.
+c) For the purposes of introduction of the condition mentioned at (a) and (b) above in 
+relation to operation of the existing accounts, branch may, at the time of issuing new 
+cheque book, obtain a letter from the constituents regarding acceptance of the new 
+condition for operation of account. In case, request for issuance of cheque book is 
+raised through INB/CINB, the system will be amended to make provision for accepting 
+the conditions before final submission. The condition may also be incorporated in 
+the Account Opening Forms as declaration from the constituent.
+d) If a cheque is dishonoured for a 3rd time during a financial year in respect of cheques 
+mentioned in para (a) above on a particular account of the drawer, a system 
+generated Cautionary Advice will be sent to the concerned constituent by SMS on his 
+registered mobile number or email and also a system generated letter on his recorded 
+address drawing his/her/their attention to aforesaid conditions, advising 
+him/her/them about the consequential stoppage of cheque facility in the event of 
+cheque being dishonoured on next occasion on the same account during the financial 
+year. 
+e) If an account is having cheque book facility and NACH mandate is also registered, 
+then the incidents of dishonour will be taken into account for both dishonour of 
+31 | P a g e
+cheque and failed NACH for computing the number of dishonour of cheques and 
+failed NACH.
+f) Branch may consider closing the account after serving 30 days notice to the customer 
+in the event of subsequent dishonour of cheque/ NACH mandate in the account.
+g) For follow up, the details of system generated e-mails/SMS/Letters to Customers will 
+be placed in Branch Report Folder.
+h) Weekly and monthly MIS reports (as a part of CBS reports) containing extract of all 
+incidents of cheque/NACH dishonored for 3rd time and 4th time, in a financial year will 
+be generated by CBS and sent to the Controllers as per format given in Ann. III, 
+IV&V. Controllers will follow up with the branches and submit compliance report at 
+quarterly intervals to DGM (B&O), for onward submission to LHO.
+11.4 Dishonour of NACH (Debit) Mandate: 
+(Section 25 of the Payment and Settlement System Act 2007)
+a) National Automated Clearing House (NACH) is a payment system operated by 
+National Payments Corporation of India (NPCI) on the lines of ECS, where 
+Corporations and Banks are members. The physical mandates are obtained by 
+Corporates/ Sponsor Banks and sent to NPCI through Mandate Management System 
+(MMS). The destination Banks receive the mandates through MMS and authorise 
+the same in their CBS. On the strength of the mandates, the future debits are raised
+by Sponsor Banks. Acceptance of ECS mandates is now stopped by Banks and only 
+NACH mandates are accepted. As ECS system is migrated to NACH by RBI.
+b) As per Section 25 of the Payment and Settlement Systems Act, 2007, where an 
+electronic funds transfer initiated by a person from an account maintained by him 
+cannot be executed on the ground that the amount of money standing to the credit 
+of that account is insufficient to honour the transfer instruction or that it exceeds
+the amount arranged to be paid from that account by an agreement made with a
+bank, there is provision to prosecute such person as per the above Act.
+c) The above Act accords the same rights and remedies to the payee (beneficiary)
+against dishonour of electronic fund transfer instructions under insufficiency of funds 
+32 | P a g e
+as are available under Section 138 of Negotiable Instruments Act, 1881. considering 
+the protection available, there is no need to obtain additional cheques, if any, from 
+customers in addition to ACH Debit mandates.
+d) NPCI has further advised that as migration of ECS to NACH has been completed at 
+all locations across India, banks should not accept PDC or Security PDC from its 
+customer and all existing PDCs/Security PDCs may be converted into NACH (Debit) 
+Mandates.
+e) RACPCs/RACCs/SMECCs/SECCs/Branches/ Other BPR outfits who have accepted 
+PDCs/Security PDCs from customers are advised to convert all such PDCs to NACH 
+(Debit) mandates and ensure that they accept only NACH (Debit) mandates and not 
+PDCs from customers in future.
+f) Procedure for handling failed NACH:
+i) If a Destination Branch (the bank branches where the Destination Account 
+holders maintain their bank account from which NACH utility payments are 
+debited.) is not in a position to debit a particular transaction for insufficiency 
+of funds, it should report the same with a Return Reason to the Service 
+Branch/Main Branch on the same day with the details of failed NACH, in any 
+case not later than T+1 working days of the returned /undebited processed in 
+the Clearing House.
+ii) NACH inward transactions are presently processed centrally at NACH Branch 
+Mumbai. In case of return of NACH transaction, a return file is generated at 
+NPCI and the Sponsor Bank will give the return memo to customer on the 
+strength of return reason code in return file.
+g) It would be the responsibility of the Sponsor Bank (Branch) (refer to the
+bank/branch which had agreed to act as the agent of the User company i.e. utilitycompanies, insurance/corporations/Collection Service Provider/ Govt. departments, or 
+33 | P a g e
+any institution receiving/collecting payments from a large number of branches/ credit 
+banker etc) to advise the User regarding failed NACH.
+h) If a User makes use of NACH mechanism for receiving payment from the same set of 
+beneficiaries every quarter/month or at more frequent intervals, and there is
+frequent return of debit NACH, in such cases, after return of the NACH, the Sponsor 
+Bank has the responsibility to intimate the User in addition to the Destination Account 
+Holders regarding termination of NACH mandate.
+i) In case of failed NACH due to insufficiency of funds, a communication from the 
+Destination branch is to be sent to the customer (Destination Account Holder) 
+intimating him that in case of failed NACH for 4 times in a financial year or otherwise, 
+the branch at its sole discretion may advise the sponsor bank/branch for cancellation 
+of all mandates given for the particular account in case of SB/CA, whereas for Cash 
+Credit accounts, a review may be put up to appropriate authority higher than the 
+sanctioning authority in the matter. The branch should also send the caution memo 
+after 3
+rdNACH failure in a financial year to the concerned User of NACH for whom the 
+NACH was registered.
+j) Branch may consider for closing of account after serving 30 days’ notice to the 
+customer after subsequent NACH failure, even though the account is not having any 
+cheque book facility and only NACH has been registered.
+k) Branch has to ensure compliance of above procedure so that no laxity is allowed in 
+delayed reporting of such failed NACH. In case of any findings of such circumstances 
+and non- compliance / non-adherence of instructions/ guidelines stated hereinabove, 
+suitable disciplinary action will be initiated against the erring staff as per the service 
+conditions governing them.
+l) Information / documentary proof of failed NACH should be provided, if requisitioned 
+by any court/consumer forum.
+34 | P a g e
+11.5 Information on Dishonoured Cheques/ Failed NACH:
+a) Data in respect of each dishonoured cheque for amount of ₹1 crore and above, and 
+below ₹1 crore and all cheques drawn in favour of stock exchanges should be made 
+part of bank's MIS on constituents and concerned branches should report such data 
+cheque wise & account wise to their respective controller separately.
+b) Data in respect of all failed NACH should be made part of Bank’s MIS on constituents 
+and concerned branch should report to their respective controllers.
+c) Reporting: The information is to be reported to the Controller on respective format 
+as per Annexure- III, IV & V. Branches/ AOs will send such consolidated report to LHO
+at quarterly intervals.
+11.6 Framing Appropriate Procedure for Dealing with Dishonoured Cheques:
+a) The appropriate procedure for dealing with dishonoured cheques have been devised 
+with inherent preventive measures and checks to prevent any scope for collusion of 
+the staff of the bank or any other person, with the drawer of the cheque for causing 
+delay in or withholding the communication of the fact of dishonour of the cheque to 
+the payee/ holder or the return of such dishonoured cheque to him.
+b) For the purpose of recording dishonour status of the cheque, every cheque received 
+at the paying branch /clearing CPCs/Service Branch must be recorded in the system, 
+whether balance is available in the account or not and in no case, it should be returned 
+without referring cheques to the “Cheque referred & returned Register” where cheque 
+is being returned for insufficient balance in the account.
+c) Branches/CPCs will clear the cheques on the basis of clear balance available at the 
+time of presentation. In no case, return of cheques at paying branch/Clearing 
+CPCs/Service Branch should be withheld till deposit of suitable balance by account 
+holder /party concerned to meet the fund requirement of the cheque.
+d) Branches/ Controllers has to ensure compliance of above procedure so that no laxity 
+is adopted / no internal collusion of staff in concealing the dishonour of the cheque or 
+35 | P a g e
+delayed reporting/returning of the cheque. In the event of finding of any such 
+circumstance, the internal guidelines for dealing with staff accountability for dereliction 
+in duty by the staff will be dealt with. Accordingly, Officers and staff should be cautious 
+enough to adhere to such guidelines and ensure strict compliance thereof to achieve 
+aforesaid objective of effective communication and delivery of dishonoured cheque to 
+the payee.
+e) Reports relating to cheques issued by VIP/Priority customers and presented in CTS 
+clearing will be available to CPCs/Branches under CDC report folder by 10am every 
+day. CCPC Head to verify the report containing list of VIP Customers on daily basis 
+and decide on the action to be taken well before return cut off time. In case of report 
+on the list of Priority Customers, a suitable official at CCPC should be assigned the 
+task of verifying the list on daily basis and take a decision as to honour or return the 
+cheque before return cut off time.
+11.7 Recovery of Service Charges on dishonour of Cheque/NACH
+ Recovery of such charges will be ensured as per extant instructions on Service 
+Charges in force. Returning of Cheque over the counter will also be recorded in the 
+system as rejected transaction and applicable service charges will be levied.
+11.8 For the purpose of adducing evidence to prove the fact of dishonour of cheque 
+ on behalf of a complainant (i.e. payee / holder of a dishonoured cheque) in any
+ proceeding relating to dishonoured cheque before a court, consumer forum or any 
+ other competent authority, branch should extend full co-operation, and should 
+ furnish him/her documentary proof of the fact of dishonour of cheque(s).
+12. Amendment/Modification of the Policy:
+ The Bank reserves the right to amend/modify this Policy, as and when deemed fit 
+ and proper, at its sole discretion. The Policy will be reviewed once in two years or 
+36 | P a g e
+ as and when required. Any changes in between two reviews will be approved by MD 
+(R&DB). Such changes will be incorporated in next review of policy.
+13. Force Majeure:
+ The Bank shall not be liable to pay to the customers under this Policy if some 
+ unforeseen event, including but not limited to civil commotion, sabotage, lockout, 
+ strike or other labour disturbances, accident, fire, natural disasters or other “Acts of 
+ God", war, damage to the SBI's or its correspondent bank(s) systems, communication 
+ channels etc. beyond the control of the SBI, prevents it from performing its 
+obligations within the specified service delivery parameters. Claims, if any in this 
+regard will be dealt with as per Bank’s Compensation Policy.
+37 | P a g e
+ANNEXURE -I
+List of Reasons for dishonour of cheque:
+(Applicable for instrument and image -based Cheque Clearing as detailed in Annexure D
+to Uniform Regulations and Rules for Bankers’ Clearing Houses)
+Code Reason for Return
+01 Funds insufficient
+02 Exceeds arrangement
+03 Effects not cleared, present again
+04 Refer to drawer
+05 Kindly contact Drawer/Drawee Bank and please present again
+10 Drawer’s signature incomplete
+11 Drawer’s signature illegible
+12 Drawer’s signature differs
+13 Drawer’s signature required
+14 Drawer’s signature not as per mandate
+15 Drawer’s signature to operate account not received
+16 Drawer’s authority to operate account not received
+17 Alteration requires drawer’s authentication
+20 Payment stopped by drawer
+21 Payment stopped by attachment order
+22 Payment stopped by court order
+23 Withdrawal stopped owing to death of account holder
+24 Withdrawal stopped owing to lunacy of account holder
+25 Withdrawal stopped owing to insolvency of account holder
+30 Instrument post dated
+31 Instrument out dated/stale
+32 Instrument undated/ without proper date
+33 Instrument mutilated; requires Bank’s guarantee
+34 Cheque irregularly drawn/ amount in words and figures differs
+35 Clearing House stamp/ date required
+36 Wrongly delivered/ Not drawn on us
+37 Present in proper zone
+38 Instrument contains extraneous matter
+39 Image not clear, present again with paper
+40 Present with document
+41 Item listed twice
+42 Paper not received
+38 | P a g e
+Code Reason for Return
+50 Account closed
+51 Account transferred to another branch
+52 No such account
+53 Title of account required
+54 Title of account wrong/ incomplete
+55 Account blocked (situation covered in 21-25)
+60 Crossed to two banks
+61 Crossing stamp not cancelled
+62 Clearing stamp not cancelled
+63 Instrument specially crossed to another bank
+64 Amount in protective crossing incorrect
+65 Amount in protective crossing required/illegible
+66 Payee’s endorsement required
+67 Payee’s endorsement irregular / requires collecting bank’s confirmation
+68 Endorsement by mark/ thumb impression requires attestation by Magistrate
+with seal
+70 Advice not received
+71 Amount /Name differs on advice
+72 Drawee bank’s fund with sponsor bank insufficient
+73 Payee’s separate discharge to bank required
+74 Not payable till 1st proximo
+75 Pay order/ cheque requires counter signature
+76 Required information not legible/ correct
+39 | P a g e
+ANNEXURE -II
+Illustrative but not exhaustive list of objections where customers are not at 
+default
+Code
+No.
+Reason for Return
+33 Instrument mutilated; requires bank’s guarantee
+35 Clearing House stamp/date required
+36 Wrongly delivered/not drawn on us
+37 Present in proper zone
+38 Instrument contains extraneous matter
+39 Image not clear; present again with paper
+40 Present with document
+41 Item listed twice
+42 Paper not received
+60 Crossed to two banks
+61 Crossing stamp not cancelled
+62 Clearing stamp not cancelled
+63 Instrument specially crossed to another bank
+67 Payee’s endorsement irregular/ requires collecting bank’s confirmation
+68 Endorsement by mark/ thumb impression requires attestation by Magistrate with
+seal.
+70 Advice not received
+71 Amount/ Name differs on advice
+72 Drawee bank’s fund with sponsor bank insufficient (applicable to sub-Members)
+73 Payee’s separate discharge to bank required
+74 Not payable till 1st proximo
+75 Pay order/cheque requires counter signature
+76 Required information not legible/correct
+80 Bank’s certificate ambiguous/incomplete/required
+81 Draft lost by issuing office; confirmation required from issuing office
+82 Bank/Branch blocked
+83 Digital Certificate validation failure
+84 Other reasons-connectivity failure
+87 ‘Payee’s a/c Credited’-Stamp required
+92 Bank excluded
+40 | P a g e
+Annexure-III
+INFORMATION ON DISHONOURED CHEQUES
+RETURN FOR THE QUARTER ENDED
+A. DISHONOUR OF CHEQUES OF ₹1 CRORE AND ABOVE WITH THE REASON 
+‘INSUFFICIENT FUNDS’.
+Sl. 
+No.
+Date 
+of 
+Return
+Cheque 
+No.
+Amount Drawer 
+Name/AC.No.
+Payee Collecting 
+Bank/Branch
+Paying 
+Bank/Branch
+Remarks
+B. DISHONOUR OF CHEQUES OF BELOW ₹.1 CRORE WITH THE REASON 
+‘INSUFFICIENT FUNDS’
+Sl. 
+No.
+Date 
+of 
+Return
+Cheque 
+No.
+Amount Drawer 
+Name/AC.No.
+Payee Collecting 
+Bank/Branch
+Paying 
+Bank/Branch
+Remarks
+41 | P a g e
+Annexure -IV
+INFORMATION ON DISHONOURED CHEQUES 
+RETURN FOR THE QUARTER ENDED
+DISHONOUR OF CHEQUES IN FAVOUR OF STOCK EXCHANGES WITH THE 
+REASON ‘INSUFFICIENT FUNDS’
+Sl. 
+No.
+Date 
+of 
+Return
+Cheque 
+No.
+Amount Drawer 
+Name/AC.
+No.
+Payee Collecting 
+Bank/Branch
+Paying 
+Bank/Branch
+Remarks
+Annexure-V
+INFORMATION ON FAILED NACH / ECS TRANSACTIONS FOR THE QUARTER 
+ENDED
+Sl. 
+No.
+Date 
+of 
+Return
+Customer 
+Account
+No.
+Amount Drawer 
+Name/AC.
+No.
+Payee Sponsor
+Bank/
+Branch
+Destination
+Branch
+Remarks
+42 | P a g e
+Annexure VI

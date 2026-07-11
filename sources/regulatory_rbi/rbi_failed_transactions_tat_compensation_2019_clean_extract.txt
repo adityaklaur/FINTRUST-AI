@@ -1,0 +1,81 @@
+Title: Harmonisation of Turn Around Time (TAT) and customer compensation for failed transactions using authorised Payment Systems
+Source URL: https://www.rbi.org.in/commonperson/English/Scripts/Notification.aspx?Id=3074
+Date: 20/09/2019
+RBI reference: RBI/2019-20/67 DPSS.CO.PD No.629/02.01.014/2019-20
+Source type: RBI notification clean text extract
+
+Purpose for FinTrust AI:
+Use this source for failed transaction questions, UPI/IMPS/card/ATM reversal timelines, and compensation logic. This is one of the most important sources for the "money debited but not credited" workflow.
+
+Key regulatory text:
+
+The Reserve Bank put in place a framework on Turn Around Time (TAT) for resolution of customer complaints and compensation across authorised payment systems.
+
+A failed transaction is a transaction which has not been fully completed due to a reason not attributable to the customer, such as failure in communication links, non-availability of cash in an ATM, time-out of sessions, non-credit to beneficiary account, or delay in initiating a reversal transaction.
+
+Wherever financial compensation is involved, it shall be effected to the customer's account suo moto, without waiting for a complaint or claim from the customer.
+
+Customers who do not get the benefit of redress as defined in the TAT can register a complaint with the Reserve Bank Integrated Ombudsman Scheme.
+
+Important TAT and compensation table:
+
+1. ATM / Micro-ATM
+- Incident: Customer account debited but cash not dispensed.
+- Timeline: Proactive reversal within maximum T + 5 days.
+- Compensation: Rs. 100 per day of delay beyond T + 5 days.
+
+2. Card to card transfer
+- Incident: Card account debited but beneficiary card account not credited.
+- Timeline: Transaction reversed latest within T + 1 day if credit is not effected.
+- Compensation: Rs. 100 per day of delay beyond T + 1 day.
+
+3. POS / card present including cash at POS
+- Incident: Account debited but confirmation not received at merchant location / charge slip not generated.
+- Timeline: Auto-reversal within T + 5 days.
+- Compensation: Rs. 100 per day of delay beyond T + 5 days.
+
+4. Card not present / e-commerce
+- Incident: Account debited but confirmation not received at merchant system.
+- Timeline: Auto-reversal within T + 5 days.
+- Compensation: Rs. 100 per day of delay beyond T + 5 days.
+
+5. IMPS
+- Incident: Account debited but beneficiary account not credited.
+- Timeline: If unable to credit beneficiary account, auto reversal by beneficiary bank latest on T + 1 day.
+- Compensation: Rs. 100 per day if delay is beyond T + 1 day.
+
+6. UPI fund transfer
+- Incident: Account debited but beneficiary account not credited.
+- Timeline: If unable to credit beneficiary account, auto reversal by beneficiary bank latest on T + 1 day.
+- Compensation: Rs. 100 per day if delay is beyond T + 1 day.
+
+7. UPI merchant payment
+- Incident: Account debited but transaction confirmation not received at merchant location.
+- Timeline: Auto-reversal within T + 5 days.
+- Compensation: Rs. 100 per day if delay is beyond T + 5 days.
+
+8. Aadhaar Enabled Payment System
+- Incident: Account debited but transaction confirmation not received at merchant location, or beneficiary account not credited.
+- Timeline: Acquirer to initiate credit adjustment within T + 5 days.
+- Compensation: Rs. 100 per day if delay is beyond T + 5 days.
+
+9. APBS
+- Incident: Delay in crediting beneficiary account.
+- Timeline: Beneficiary bank to reverse the transaction within T + 1 day.
+- Compensation: Rs. 100 per day if delay is beyond T + 1 day.
+
+10. NACH
+- Incident: Delay in crediting beneficiary account or reversal of amount.
+- Timeline: Beneficiary bank to reverse uncredited transaction within T + 1 day.
+- Compensation: Rs. 100 per day if delay is beyond T + 1 day.
+
+11. PPI / wallet on-us transaction
+- Incident: Beneficiary PPI not credited or PPI debited but transaction confirmation not received at merchant location.
+- Timeline: Reversal effected in remitter account within T + 1 day.
+- Compensation: Rs. 100 per day if delay is beyond T + 1 day.
+
+Implementation notes:
+- This source should be used as primary grounding for failed transaction TAT answers.
+- The assistant should distinguish P2P UPI transfer from UPI merchant payment.
+- The assistant should not promise compensation in every case; it should state conditions and cite the source.
+- The assistant should ask for transaction date, amount, channel, UTR/reference ID, app/bank, and complaint reference number.

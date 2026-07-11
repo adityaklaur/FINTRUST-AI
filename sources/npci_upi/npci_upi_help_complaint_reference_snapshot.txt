@@ -1,0 +1,1378 @@
+## Brand Guidelines
+
+### HELP
+
+##### What is UPI HELP?
+
+UPI HELP attempts to resolve UPI transaction related complaints through the UPI payment app
+
+##### UPI HELP will enable users to:
+
+In addition to this, in case of pending transactions, if a user don't take any action UPI Help proactively attempts to auto update the final status of complaints on the app
+
+Complaints can be raised 
+for all person-to-person 
+(P2P) transactions as 
+well as person-to-merchant 
+(P2M) transactions 
+Allow the end customer to 
+check status of 
+pending or failed 
+transactions in a simple 
+manner 
+
+Resolve UPI transaction related complaints through the APP/ PSP/ TPAP
+
+Note
+
+• Definition of UPI HELP is mandatory 
+• UPI HELP functionality provision to be mentioned on what's new section on Play store and app store 
+
+##### How UPI HELP Works?
+
+To raise concern on any trans action, go to transaction details page and click on UPI HELP for further assistance
+
+Here you can click the UPI HELP button and to raise the complaint
+
+This shall help resolve and update the final status of the transaction
+
+#### Know your payment icon 12:00
+
+Send Money
+
+Pay to UPI Id Pay to Self Pay to Contact
+
+Scan QR
+
+Success Failed Pending
+
+Transaction History Check Balance
+
+Receive Money Bank transfer
+
+Recognizable:
+
+Can be identified without labels
+
+Accessible:
+
+Honoring screen accessibility guidelines
+
+Scalable:
+
+Readable and can be reproduced
+
+Flexible:
+
+Adaptable to brands and Languages
+
+Filter Refresh
+
+All icon highlighted inside the mobile unit to be mandatorily followed
+
+##### The Logo & Colour
+
+The logo is derived from the UPI and NPCI brand elements. The word ‘UPI HELP’ will be written in ‘Helvetica’ font.
+
+Colour: The colour of UPI will be grey as shown here.
+
+Normal Logo Reverse Logo Single Color Logo
+
+##### Fonts
+
+The official typeface for UPI HELP is Helvetica Bold. The Futura font is designed for easy reading and offers a clean and sharp typeface.
+
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z 1 2 3 4 5 6 7 8 9 0
+
+Helvetica - Regular
+
+##### A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z 1 2 3 4 5 6 7 8 9 0
+
+Helvetica - Oblique
+
+##### A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z 1 2 3 4 5 6 7 8 9 0
+
+Helvetica - Bold
+
+##### A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z 1 2 3 4 5 6 7 8 9 0
+
+Helvetica - Bold Oblique
+
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z 1 2 3 4 5 6 7 8 9 0
+
+Helvetica - Light
+
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z 1 2 3 4 5 6 7 8 9 0
+
+Helvetica - Light Oblique
+
+##### The Logo Size
+
+Usage of UPI HELP in all the partners app, website and communication materials must adhere to the specification provided here and not be tempered with. Sizes given here are for representation purpose but while resizing or using the logo utmost care should be taken to maintain the visibility of the logo.
+
+Digital: In case of the digital communication, the size of the logo should not be less than 40 pixels in width and its corresponding height.
+
+Print: In case of print communication, the size of the logo 
+should be minimum 15% of the width of the layout or 
+30mm (whichever is higher). 
+. 
+
+##### Improper Usage
+
+The unit needs to be properly used as stated in the previous slides. Usage of any other mnemonic, icon, visual or graphic element even for representational purposes are strictly prohibited. Here are some representation examples of how not to use the unit.
+
+##### UP Help Mandates for Transaction
+
+Transaction History
+
+10:10
+
+Success
+
+Payment 
+Initiated 
+Payment 
+Completed 
+Payment 
+Processed 
+
+Payee Name Payee UPI ID
+
+Payer UPI ID
+
+Transaction ID
+
+Date
+
+Remarks
+
+Time
+
+XXXXXXXXXXX
+
+Amount `000.00
+
+Transaction tracking mandates comprise of rules to follow when showcasing success transactions on the app interface. These are clear guidelines for the use of iconography, colours and languages that must be followed when tracking transactions.
+
+#### Green (#56B947) with tick mark symbol: For successful transactions
+
+C 68% 0% 100% 0%
+
+86% 
+185% 
+71% 
+
+M Y K
+
+R G B
+
+##### UPI HELP Mandates for Transaction
+
+Refresh
+
+POWERED BY
+
+##### UPI HELP Mandates for Transaction
+
+Transaction tracking mandates comprise of rules to follow when showcasing pending transactions on the app interface. These are clear guidelines for the use of iconography, colours and languages that must be followed when tracking transactions.
+
+#### Amber (#FCB216) with clock symbol: For pending transactions
+
+C 0% 34% 100% 0%
+
+252% 
+178% 
+22% 
+
+M Y K
+
+R G B
+
+Transaction History
+
+10:10
+
+Pending
+
+Payment 
+Initiated 
+Confirmation 
+Awaited 
+Payment 
+Processing 
+
+Payee Name Payee UPI ID
+
+Payer UPI ID
+
+Transaction ID
+
+Date
+
+Remarks
+
+Time
+
+XXXXXXXXXXX
+
+Amount `000.00
+
+POWERED BY
+
+Refresh
+
+##### UPI HELP Mandates for Transaction
+
+Transaction tracking mandates comprise of rules to follow when showcasing failed transactions on the app interface. These are clear guidelines for the use of iconography, colours and languages that must be followed when tracking transactions.
+
+#### Red (#E31B22) with cross mark symbol: For failed transactions
+
+C 0% 100% 100% 0%
+
+227% 
+27% 
+34% 
+
+M Y K
+
+R G B
+
+Transaction History
+
+10:10
+
+Failed
+
+Payment 
+Initiated 
+Kindly 
+Try Again 
+Payment 
+Failed 
+
+Payee Name Payee UPI ID
+
+Payer UPI ID
+
+Transaction ID
+
+Date
+
+Remarks
+
+Time
+
+XXXXXXXXXXX
+
+Amount `000.00
+
+Refresh
+
+POWERED BY
+
+##### UPI HELP mandatory points
+
+##### UPI HELP mandatory points
+
+• UPI HELP CTA is Mandatory 
+• Definition of UPI Help is mandatory 
+• UPI HELP functionality provision to be mentioned on what's new section on Play store and app store 
+• All the icons need to be standardized as per the Payment Council of India (PCI) 
+• Colour code showing status of transaction is mandatory 
+• FAQs to be added in the search bar or chatbot 
+• Note to be added on all scenarios where UPI HELP is allowed and not allowed 
+• Complaint reasons should be populated based on type of transaction as per technical specification & product guidelines 
+• Fraudulent transaction note should be available for all transactions at both remitter and beneficiary’s end 
+• Transaction tracker and complaint tracker is needs to be displayed 
+• ‘Others’ option is mandatory while raising a complaint with an input field 
+• Check status CTA is mandatory for transactions on which complaint is raised 
+• Resolution reason to be provieded to customer 
+• Mandatory notes on how & where UPI HELP is of assistance 
+
+ Incase you are raising a complaint for a fraudulent transaction, kindly connect with your bank.
+
+For all transactions apart from P2P
+
+ You cannot raise complaint on person to person successful transaction
+
+For P2P transactions only
+
+• UPI HELP button to appear below Powered by UPI logo 
+• All the icons and journey specifications are mandatory 
+• Other option is mandatory with an input field 
+
+##### UPI HELP Indicative journey-P2M transaction
+
+##### UPI HELP P2M success scenario
+
+UPI HELP reason
+
+Note
+
+• UPI HELP button to appear below Powered by UPI logo 
+• Note to be added on every transaction details screen where UPI HELP is eligible 
+• Other option is mandatory with an input field 
+
+10:10
+
+Confirm
+
+Transaction History
+
+UPI HELP
+
+Goods & services not provided/ received 
+Credit not processed for cancelled or 
+returned goods & services 
+Account debited but transaction 
+confirmation not received at 
+merchant location 
+Duplicate / Multiple Transaction 
+Others 
+
+Please select a preferred option to raise your concern
+
+Transaction History
+
+10:10
+
+Success
+
+Payment Initiated
+
+Payment Completed
+
+Payment Processed
+
+Payee Name Payee UPI ID
+
+Payer UPI ID
+
+Transaction ID
+
+Date
+
+Remarks
+
+Time
+
+XXXXXXXXXXX
+
+Amount `000.00
+
+UPI HELP
+
+POWERED BY
+
+Note: Incase you are raising a complaint for a fraudulent transaction, kindly connect with your bank.
+
+User can check the transaction status and opt UPI HELP Successful
+
+Transaction History
+
+10:10
+
+Payee Name Payee UPI ID
+
+Payer UPI ID
+
+Transaction ID
+
+Date
+
+Remarks
+
+Time
+
+XXXXXXXXXXX
+
+Amount `000.00
+
+Complaint Raised Successfully
+
+Complaint Reference number XXXXXX XX
+
+Check Status
+
+It may take upto ‘X’ days
+
+Refresh Refresh Refresh
+
+x
+
+User needs to select transaction which is completed
+
+Transaction History
+
+Payee Name
+
+Date | Time
+
+Approved
+
+Payee UPI ID `00.00
+
+or
+
+Pending
+
+Failed
+
+Payee Name
+
+Date | Time
+
+Payee UPI ID
+
+Payee Name
+
+Date | Time
+
+Payee UPI ID
+
+Payee Name
+
+Date | Time
+
+Approved
+
+Payee UPI ID
+
+Pending
+
+Payee Name
+
+Date | Time
+
+Payee UPI ID
+
+10:10
+
+POWERED BY `00.00 `00.00 `00.00 `00.00
+
+Filter Refresh
+
+##### UPI HELP P2M Pending scenario
+
+User can check the transaction status and opt UPI HELP Successful
+
+Transaction History
+
+10:10
+
+Pending
+
+Payment Initiated
+
+Confirmation Awaited
+
+Payment Processing
+
+Payee Name Payee UPI ID
+
+Payer UPI ID
+
+Transaction ID
+
+Date
+
+Remarks
+
+Time
+
+XXXXXXXXXXX
+
+Amount `000.00
+
+UPI HELP
+
+POWERED BY
+
+Note: Incase you are raising a complaint for a fraudulent transaction, kindly connect with your bank.
+
+Transaction History
+
+10:10
+
+Payee Name Payee UPI ID
+
+Payer UPI ID
+
+Transaction ID
+
+Date
+
+Remarks
+
+Time
+
+XXXXXXXXXXX
+
+Amount `000.00
+
+Complaint Raised Successfully
+
+Complaint Reference number XXXXXX XX
+
+Check Status
+
+It may take upto ‘X’ days
+
+Refresh Refresh
+
+UPI HELP reason
+
+10:10
+
+x
+
+Transaction History
+
+UPI HELP
+
+Goods & services not provided/ received Credit not processed for cancelled or returned goods & services Account debited but transaction confirmation not received at merchant location Duplicate / Multiple Transaction
+
+It may take upto ‘X’ days Please select correct option to raise a complaint.
+
+Others
+
+Please select a preferred option to raise your concern
+
+Confirm
+
+User needs to select transaction which is not completed
+
+Transaction History
+
+Payee Name
+
+Date | Time
+
+Approved
+
+Payee UPI ID `00.00
+
+or
+
+Pending
+
+Failed
+
+Payee Name
+
+Date | Time
+
+Payee UPI ID
+
+Payee Name
+
+Date | Time
+
+Payee UPI ID
+
+Payee Name
+
+Date | Time
+
+Approved
+
+Payee UPI ID
+
+Pending
+
+Payee Name
+
+Date | Time
+
+Payee UPI ID
+
+10:10
+
+POWERED BY `00.00 `00.00 `00.00 `00.00
+
+Filter Refresh
+
+Note
+
+• UPI HELP button to appear below Powered by UPI logo 
+• Note to be added on every transaction details screen where UPI HELP is eligible 
+• Other option is mandatory with an input field 
+
+##### UPI HELP P2M failed scenario
+
+UPI HELP reason
+
+10:10
+
+Confirm
+
+Transaction History
+
+UPI HELP
+
+Others
+
+Please select a preferred option to raise your concern
+
+User can check the transaction status and opt UPI HELP
+
+Transaction History
+
+10:10
+
+Failed
+
+Payment Initiated
+
+Kindly Try Again
+
+Payment Failed
+
+Payee Name Payee UPI ID
+
+Payer UPI ID
+
+Transaction ID
+
+Date
+
+Remarks
+
+Time
+
+XXXXXXXXXXX
+
+Amount `000.00
+
+UPI HELP
+
+POWERED BY
+
+Note: Incase you are raising a complaint for a fraudulent transaction, kindly connect with your bank.
+
+Customer account not credited back for failed merchant transaction
+
+Successful
+
+Transaction History
+
+10:10
+
+Payee Name Payee UPI ID
+
+Payer UPI ID
+
+Transaction ID
+
+Date
+
+Remarks
+
+Time
+
+XXXXXXXXXXX
+
+Amount `000.00
+
+Complaint Raised Successfully
+
+Complaint Reference number XXXXXX XX
+
+Check Status
+
+It may take upto ‘X’ days
+
+Refresh x
+
+User needs to select transaction
+
+which is failed
+
+Transaction History
+
+Payee Name
+
+Date | Time
+
+Approved
+
+Payee UPI ID `00.00
+
+or
+
+Pending
+
+Failed
+
+Payee Name
+
+Date | Time
+
+Payee UPI ID
+
+Payee Name
+
+Date | Time
+
+Payee UPI ID
+
+Payee Name
+
+Date | Time
+
+Approved
+
+Payee UPI ID
+
+Pending
+
+Payee Name
+
+Date | Time
+
+Payee UPI ID
+
+10:10
+
+POWERED BY `00.00 `00.00 `00.00 `00.00
+
+Filter Refresh
+
+Note
+
+• UPI HELP button to appear below Powered by UPI logo 
+• Note to be added on every transaction details screen where UPI HELP is eligible 
+• Other option is mandatory with an input field 
+
+##### UPI HELP Indicative journey-P2P transaction
+
+• UPI HELP button to appear below Powered by UPI logo 
+• All the icons and journey specifications are mandatory 
+• Other option is mandatory with an input field 
+
+##### UPI HELP P2P Pending scenario
+
+User can check the transaction status and opt UPI HELP UPI HELP reason
+
+Transaction History
+
+10:10
+
+Pending
+
+Payment Initiated
+
+Confirmation Awaited
+
+Payment Processing
+
+Payee Name Payee UPI ID
+
+Payer UPI ID
+
+Transaction ID
+
+Date
+
+Remarks
+
+Time
+
+XXXXXXXXXXX
+
+Amount `000.00
+
+UPI HELP
+
+POWERED BY
+
+10:10
+
+x
+
+Confirm
+
+Transaction History
+
+UPI HELP
+
+Others
+
+Please select a preferred option to raise your concern
+
+Note: Incase you are raising a complaint for a fraudulent transaction, kindly connect with your bank.
+
+Beneficiary account is not credited for a pending / timeout transaction
+
+Successful
+
+Transaction History
+
+10:10
+
+Payee Name Payee UPI ID
+
+Payer UPI ID
+
+Transaction ID
+
+Date
+
+Remarks
+
+Time
+
+XXXXXXXXXXX
+
+Amount `000.00
+
+Complaint Raised Successfully
+
+Complaint Reference number XXXXXX XX
+
+Check Status
+
+It may take upto ‘X’ days
+
+Refresh Refresh Refresh
+
+User needs to select transaction which is not completed
+
+Transaction History
+
+Payee Name
+
+Date | Time
+
+Approved
+
+Payee UPI ID `00.00
+
+or
+
+Pending
+
+Failed
+
+Payee Name
+
+Date | Time
+
+Payee UPI ID
+
+Payee Name
+
+Date | Time
+
+Payee UPI ID
+
+Payee Name
+
+Date | Time
+
+Approved
+
+Payee UPI ID
+
+Pending
+
+Payee Name
+
+Date | Time
+
+Payee UPI ID
+
+10:10
+
+POWERED BY `00.00 `00.00 `00.00 `00.00
+
+Filter Refresh
+
+Note
+
+• UPI HELP button to appear below Powered by UPI logo 
+• Note to be added on every transaction details screen where UPI HELP is eligible 
+• Other option is mandatory with an input field 
+
+##### UPI HELP P2P failed scenario
+
+UPI Help reason
+
+10:10
+
+Confirm
+
+Transaction History
+
+UPI HELP
+
+Others
+
+Please select a preferred option to raise your concern
+
+User can check the transaction status and opt UPI HELP
+
+Transaction History
+
+10:10
+
+Failed
+
+Payment Initiated
+
+Kindly Try Again
+
+Payment Failed
+
+Payee Name Payee UPI ID
+
+Payer UPI ID
+
+Transaction ID
+
+Date
+
+Remarks
+
+Time
+
+XXXXXXXXXXX
+
+Amount `000.00
+
+UPI HELP
+
+POWERED BY
+
+Note: Incase you are raising a complaint for a fraudulent transaction, kindly connect with your bank.
+
+Customer account not credited back for failed P2P transaction
+
+Successful
+
+Transaction History
+
+10:10
+
+Payee Name Payee UPI ID
+
+Payer UPI ID
+
+Transaction ID
+
+Date
+
+Remarks
+
+Time
+
+XXXXXXXXXXX
+
+Amount `000.00
+
+Complaint Raised Successfully
+
+Complaint Reference number XXXXXX XX
+
+Check Status
+
+It may take upto ‘X’ days
+
+Refresh Refresh Refresh
+
+x
+
+User needs to select transaction which is not completed
+
+Transaction History
+
+Payee Name
+
+Date | Time
+
+Approved
+
+Payee UPI ID `00.00
+
+or
+
+Pending
+
+Failed
+
+Payee Name
+
+Date | Time
+
+Payee UPI ID
+
+Payee Name
+
+Date | Time
+
+Payee UPI ID
+
+Payee Name
+
+Date | Time
+
+Approved
+
+Payee UPI ID
+
+Pending
+
+Payee Name
+
+Date | Time
+
+Payee UPI ID
+
+10:10
+
+POWERED BY `00.00 `00.00 `00.00 `00.00
+
+Filter Refresh
+
+Note
+
+• UPI HELP button to appear below Powered by UPI logo 
+• Note to be added on every transaction details screen where UPI HELP is eligible 
+• Other option is mandatory with an input field 
+
+##### UPI HELP P2P success
+
+P2P Success screen
+
+Transaction History
+
+10:10
+
+Success
+
+Payment Initiated
+
+Payment Completed
+
+Payment Processed
+
+Payee Name Payee UPI ID
+
+Payer UPI ID
+
+Transaction ID
+
+Date
+
+Remarks
+
+Time
+
+XXXXXXXXXXX
+
+Amount `000.00
+
+POWERED BY
+
+Note: You cannot raise complaint on person to person successful transaction.
+
+Note • Note to be added for P2P successful transaction
+
+Refresh
+
+##### UPI HELP when complaint raising fails for P2M & P2P
+
+Note
+
+• Check Status button to appear when complaint is already raised 
+• Adding reason for resolution of complaint is mandatory after complaint is resolved 
+• All the icons and journey specifications are mandatory 
+
+##### UPI HELP complaint raising failure P2P & P2M
+
+Incase Complaint raising fails
+
+Transaction History
+
+10:10
+
+Failed
+
+Sorry, we are unable to raise the complaint. Please try after some time
+
+Refresh
+
+All the icons and journey specifications are mandatory
+
+##### UPI HELP check status flow for P2M & P2P
+
+##### UPI HELP if complaint status check immediately
+
+Complaint resolution in process
+
+Complaint Closed
+
+10:10
+
+Transaction History
+
+UPI HELP Status
+
+Complaint Raised
+
+Resolution in process
+
+Complaint closed
+
+Reson of resoultion Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
+
+10:10
+
+Transaction History
+
+UPI HELP Status x x
+
+Complaint Raised
+
+Resolution in process
+
+Complaint resolved
+
+Successful
+
+Transaction History
+
+10:10
+
+Payee Name Payee UPI ID
+
+Payer UPI ID
+
+Transaction ID
+
+Date Time
+
+XXXXXXXXXXX
+
+Amount `000.00
+
+Complaint Raised Successfully
+
+Complaint Reference number XXXXXX XX
+
+Check Status
+
+It may take upto ‘X’ days
+
+Note
+
+• Check Status button to appear when complaint is already raised 
+• Adding reason for resolution of complaint is mandatory after complaint is resolved 
+
+Refresh Refresh Refresh
+
+##### UPI HELP if complaint status is checked later
+
+Pending transaction screen
+
+Transaction History
+
+10:10
+
+Pending
+
+Payment Initiated
+
+Confirmation Awaited
+
+Payment Processing
+
+Payee Name Payee UPI ID
+
+Payer UPI ID
+
+Transaction ID
+
+Date
+
+Remarks
+
+Time
+
+XXXXXXXXXXX
+
+Amount `000.00
+
+POWERED BY
+
+Note: Incase you are raising a complaint for a fraudulent transaction, kindly connect with your bank.
+
+Check Status
+
+Complaint resolution in process
+
+Complaint Closed
+
+10:10
+
+Transaction History
+
+Complaint Raised
+
+Resolution in process
+
+Complaint closed
+
+Reson of resoultion Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
+
+10:10
+
+Transaction History
+
+Complaint Raised
+
+Resolution in process
+
+Complaint resolved
+
+Note
+
+• Check Status button to appear when complaint is already raised 
+• Adding reason for resolution of complaint is mandatory after complaint is resolved 
+
+Refresh Refresh Refresh
+
+UPI HELP Status UPI HELP Status x x
+
+User needs to select transaction on which complaint is raised
+
+Transaction History
+
+Payee Name
+
+Date | Time
+
+Approved
+
+Payee UPI ID `00.00
+
+or
+
+Pending
+
+Failed
+
+Payee Name
+
+Date | Time
+
+Payee UPI ID
+
+Payee Name
+
+Date | Time
+
+Payee UPI ID
+
+Payee Name
+
+Date | Time
+
+Approved
+
+Payee UPI ID
+
+Pending
+
+Payee Name
+
+Date | Time
+
+Payee UPI ID
+
+10:10
+
+POWERED BY `00.00 `00.00 `00.00 `00.00
+
+Filter Refresh
+
+#### UPI HELP FAQs
+
+All UPI HELP FAQs to be incorporated on App’s front end via chatbot/ in-app search or any other medium
+
+#### UPI HELP FAQs
+
+UPI HELP attempts to resolve UPI transaction related complaints through the UPI payment app
+
+What is UPI HELP?
+
+When amount gets successfully debited from your account and gets successfully credited into receiver’s account, the transaction is successful
+
+What is successful transaction?
+
+When amount gets stuck in payment process either at your end or at receiver’s end, the transaction goes to pending state. Payment confirmation is not received in such scenarios/instances
+
+What is Pending Transaction?
+
+The transaction gets failed when there is some technical issue at your or receiver’s end. You will get your money back in case money is debited
+
+What is Failed Transaction?
+
+Transactions which are done without your permission are termed as fraudulent transactions. Such scenarios 
+can happen if UPI PIN is shared with anyone 
+Kindly refrain from sharing your UPI PIN 
+
+What is a fraudulent transaction?
+
+• Click on transaction history 
+• Select the transaction for raising complaint 
+• Click on UPI HELP 
+• Select the reason and click on confirm 
+• Complaint raised successfully 
+
+How to use UPI HELP?
+
+#### UPI HELP FAQs
+
+You can raise complaint on all debit transactions apart from person-to-person success transactions
+
+What type of transactions are supported under UPI Help?
+
+• Click on transaction history 
+• Select the transaction you have raised complaint 
+• Click on check complaint status 
+
+How can I know the current status of my complaint?
+
+You can raise complaint after 5 minutes of the transactions
+
+When can I raise complaint on a particular transactions?
+
+No, complaints can only be raised on debit transaction
+
+Can I raise complaint on credit transaction?
+
+Beneficiary/payee/receiver means the person who is going to receive the money
+
+What is the meaning of beneficiary/payee/receiver?
+
+Remitter/payer/sender means the person who is sending the money
+
+What is the meaning of remitter/payer/sender?
+
+Yes, in case of a wrong debit, your money will be credited back in your account. Kindly raise your concern under UPI HELP for easy resolution
+
+Will I get my money back if the transaction is pending/failed?
+
+Refresh button HELPs you to get the present status of transaction. If transaction is in pending state, refresh button HELPs you to get the exact status of transaction
+
+What is the benefit of using refresh button?
+
+##### UP HELP Transaction Type
+
+Transaction type Reason Code Explanation U008 Goods/services are not provided. U021 Credit not processed for cancelled or returned goods & services U022 Account debited but transac�on confirma�on not received by merchant U023 Paid by alternate means/Duplicate payment P2M Failed U009 Customer account not credited back for failed merchant transac�on P2P Pending U010 Beneficiary account is not credited for a pending / �meout transac�on P2P Failed U005 Customer account not credited back for failed P2P transac�on
+
+P2M Success/Pending
+
+Note • Refer UDIR TSD for detailed understanding
+

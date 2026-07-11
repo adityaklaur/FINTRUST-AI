@@ -1,0 +1,834 @@
+1
+POLICY ON BANK DEPOSITS
+Revised on 24-03-2025
+2
+Notice to the Reader
+This policy on deposits outlines the guiding principles in respect of formulation of various 
+deposit products offered by the Bank and terms and conditions governing the conduct of 
+the deposit accounts. The document recognizes the rights of depositors (small depositors 
+in particular) and aims at dissemination of information with regard to various aspects of 
+acceptance of deposits from the members of the public, conduct and operations of various 
+deposits accounts, payment of interest on various deposit accounts, closure of deposit 
+accounts, method of disposal of deposits of deceased depositors, etc., for the benefit of 
+customers. It is expected that this document will impart greater transparency in dealing with 
+the individual customers and create awareness among customers of their rights. The 
+ultimate objective is that the customer will get services they are rightfully entitled to receive 
+without demand.
+While adopting these policies, the bank reiterates its commitments to individual customers 
+outlined in Code of Bank’s Commitment to Customers. This document is a broad 
+framework under which the rights of common depositors are recognized. Detailed 
+operational instructions on various deposit schemes and related services will be issued from 
+time to time separately.
+This policy document is the property of Federal Bank Limited and is for use only by Federal 
+Bank Limited or any of its group companies. It must not be copied, disclosed, circulated or 
+referred to in correspondence with external parties or discussed with any other third party 
+other than for any regulatory requirements without prior written consent from Bank or any 
+other nominated person.
+3
+Table of Contents
+Sl No. Topics Page No.
+1 Preamble 4
+2 Types of Deposit accounts 4
+3 Opening of Deposit Accounts 5
+4 Operation of Accounts 10
+5 Stop Payment Facility 12
+6 Dishonor of Cheque and NACH Mandate 13
+7
+Extension of Alternate Delivery Channels to Savings Bank & Current 
+Deposit account holders 13
+8 Payment of Interest 13
+9 Premature Withdrawal/Closure of Term deposits 15
+10 Insurance Cover for deposits 16
+11 Loan against Deposits 16
+12 Settlement of dues in deceased deposit account 17
+13 Inoperative accounts 18
+14 Unclaimed Deposits 20
+15 Confidentiality of Customer Information 21
+16 Redressal of Complaints and Grievances 21
+17 Secured credit card based on Fixed Deposit 21
+18 Post-facto change in policy matters 21
+4
+1. PREAMBLE
+One of the important functions of the Bank is to accept deposits from the public for the 
+purpose of lending. In fact, depositors are the major stakeholders of the Banking System. 
+The depositors and their interests form the key area of the regulatory framework for banking 
+in India and this has been enshrined in the Banking Regulation Act, 1949. The Reserve Bank 
+of India is empowered to issue directives / advice on interest rates on deposits and other 
+aspects regarding conduct of deposit accounts from time to time. The changes stipulated by 
+RBI from time to time with respect to various policies related to KYC/operation of accounts 
+/rules and procedures are applicable to all types of deposit accounts. With liberalization in 
+the financial system and deregulation of interest rates, banks are now free to formulate their 
+own Policy on Deposits and to offer deposit products within the broad guidelines issued by 
+RBI.
+(See annexure for details of RBI circulars referred)
+2. TYPES OF DEPOSIT ACCOUNTS
+The deposit products / services offered by the Bank, though may be under different names, 
+can be categorized broadly into the following types:
+"Demand deposits" means a deposit received by the Bank, which is withdrawable on 
+demand.
+"Current Account" is a form of non-interest-bearing demand deposit wherefrom withdrawals 
+are allowed any number of times depending upon the balance in the account or up to a 
+particular agreed amount and will also include other deposit accounts which are neither 
+savings deposits nor term deposits.
+"Savings deposits" means a form of interest-bearing demand deposit, by whatever name 
+called and is subject to restrictions as to the number and amount of withdrawals permitted by 
+the Bank during any specified period.
+"Term deposit" means a deposit received by the Bank for a fixed period withdrawable only 
+after the expiry of the fixed period and includes deposits in which interest is reinvested. This 
+includes Fixed deposit, Cash Certificate, Recurring Deposit, Flexi deposits, Tax saving 
+deposits, Sweep-in deposits, Annuity deposits, short term deposits, Long-term deposits etc.
+“Recurring Deposits” means a form of deposit, which stipulates remittance of regular 
+installments for a pre-fixed period at pre-fixed intervals by the customer. It forms part of term 
+deposits. The minimum and maximum period of recurring deposit is decided from time to time 
+by the ALCO of the Bank. A recurring deposit will be due for payment on maturity date or one 
+month after the date of payment of last scheduled installment, whichever is later.
+“Non- callable deposits” is primarily targeted at the interest conscious customer base 
+including both resident and non-resident. As is evident from the name, premature closure is 
+not permitted for such deposits and the customer in turn receives an enhanced interest rate. 
+The rate would be a mark-up from the existing rates offered to other customers for normal 
+term deposits for the same tenure.
+“Bulk Deposit” is referred to as single Rupee term deposits with minimum deposit value as 
+defined by RBI from time to time. The bank shall maintain the bulk deposit interest rate card 
+separately in Core Banking System to facilitate supervisory review.
+5
+3. OPENING OF DEPOSIT ACCOUNTS
+3.1. The account opening forms and other material would be provided to the prospective 
+depositor by the Bank. The same will contain details of information to be furnished and 
+documents to be produced for verification and / or for record. The Bank official dealing with 
+the customer and opening the account shall explain the procedural formalities and provide 
+necessary clarifications sought by the prospective depositor when he/she approaches for 
+opening a deposit account.
+3.2. The Bank before opening any deposit account will carry out due diligence as required 
+under “Know Your Customer” (KYC) guidelines issued by RBI Anti –Money laundering 
+rules and regulations and or such other norms or procedures as per Policy on Combating 
+Financial Crime adopted by the Bank. As per the latest statutory and due diligence 
+requirements, the customer is required to provide an officially valid document (OVD) and 
+PAN/forms as regulatory prescribed. The Bank shall obtain photographs of the 
+depositors/account holders and those who are authorized to operate the accounts at the 
+time of opening of all new accounts. The photographs should be recent. Bank may not 
+insist for photograph in case of accounts of staff members (Single/Joint). However, 
+photographs may be insisted upon in case the joint holder is not an employee/ existing 
+customer. The Bank will encourage all customers requiring PAN under the Income Tax 
+Act to submit PAN details while opening the account and only those customers who have 
+income less than the relevant slabs mentioned in the Income Tax Act or having mainly the 
+agricultural income will be advised to open accounts with Form 60.
+3.3. Savings Bank Accounts can be opened for eligible person / persons and certain 
+organizations / agencies (as advised by Reserve Bank of India (RBI) from time to time).
+3.4. Current Accounts can be opened by individuals / partnership firms / Private and Public 
+Limited Companies / HUFs / Specified Associates / Societies / Trusts / Departments of 
+Authority created by Government (Central or State), Limited Liability Partnership etc.
+3.5. Term Deposits Accounts including recurring deposits can be opened by individuals / 
+partnership firms / Private and Public Limited Companies / HUFs/ Specified Associates / 
+Societies / Trusts / Departments of Authority created by Government (Central or State) / 
+Limited Liability Partnership etc.
+3.6. As defined by FEMA, Non-Resident Indian (NRI) means person resident outside India 
+who is citizen of India or is a person of Indian origin. As per the Schedule I and III of the 
+Foreign Exchange Management (Deposit) Regulations, 2016 Non- Resident Indian (NRI) 
+and Person of Indian Origin (PIO)/ Overseas Citizen of India (OCI) can open NRE accounts 
+in various forms such as savings, current, recurring, or fixed deposit accounts. Similarly, a 
+Non-Resident (including NRI/PIO/OCI) can open NRO accounts in various forms such as 
+savings, current, recurring, or fixed deposit accounts. NRIs and PIOs are also eligible to 
+open and maintain FCNR (B) accounts with an authorized dealer.
+6
+3.7. For deposit products like Savings Bank Account and Current Deposit Account, the 
+Bank will normally stipulate certain minimum balances to be maintained as part of the 
+terms and conditions governing operation of such accounts. Failure to maintain the 
+minimum balance in the account will attract levy of charges as specified by the Bank from 
+time to time. For Saving Bank Account, the Bank may also place restrictions on the number 
+of transactions, cash withdrawals, etc., for a given period. Similarly, the Bank may specify 
+charges for issue of cheque books, additional statement of accounts, duplicate passbook, 
+folio charges, etc. All such details regarding terms and conditions for operation of the 
+accounts and schedule of charges for various services provided will be communicated to 
+the prospective depositor while opening the account. Bank will be levying service charges 
+on Savings Bank and Current Account as per bank's policy on service charges which is 
+approved by the board.
+3.8. Bank has introduced BSBDA scheme in line with the RBI guidelines on BSBDA 
+account from time to time. The Bank is committed to providing basic banking services as 
+part of its financial inclusion agenda. Banking services will be offered to them through the 
+Basic Savings Bank Deposit Account Scheme and additionally, Small Accounts opened in 
+terms of sub-rule (5) of the PML Rules, 2005 which has relaxed customer acceptance 
+norms as per regulatory guidelines. The terms and conditions of these accounts are 
+published and maintained on the bank’s website.
+3.9. In the Core Banking platform, the Bank is allotting a Customer ID for each customer 
+on the basis of information collected through the Customer Information Form. When a 
+customer, who is having KYC complied Customer ID, desires to open another account, 
+the bank will not insist for submission of KYC documents again.
+3.10. While opening Current Accounts, the Bank shall ensure adherence to all the 
+requirements from RBI regarding Opening and operation of Current Accounts as amended 
+from time to time. In particular:
+a) If the customer is not enjoying any credit facilities from the banking system, a current 
+account can be opened without restrictions, subject to compliance of KYC norms and 
+other due diligence.
+b) If the customer is enjoying credit facility from Banking system, the opening will be 
+permitted only as per the directions issued by RBI from time to time. guideline of RBI. 
+Periodic monitoring also will be implemented as prescribed by the RBI.
+c) Bank may open the of current accounts, for the category of entities exempted by the 
+RBI, even if they are enjoying credit facility from the Banking system.
+3.11. A savings / fixed / recurring bank deposit account can be opened by a minor of any 
+age through his/her natural (mother or father) or legally appointed guardian, (known as 
+Minor’s Account). Minors above the age of 10 will also be allowed to open and operate a 
+savings bank account independently. OVD of minors and their guardians (natural / legal) 
+is mandatory for opening minor accounts. In cases where the minor does not possess 
+OVD, BSBDA small account shall be opened with an option to upgrade to normal account 
+on submitting valid OVD. Separate introduction or certificate from head of the educational 
+institution where the minor is studying is not required. Single/Guardian/ Joint mode of 
+7
+operation is permitted for minors of age 10 year and above. Guardian mode operation is 
+mandatory for minors under the age of 10. While opening accounts in guardian mode, “E 
+or S’ operation is not permissible. (Due to restrictions placed for Mother to act as natural 
+guardian of a Hindu minor under section 6 of Hindu Minority and Guardianship Act, it is 
+advisable to ensure that such accounts are always kept in credit). However, no overdraft 
+will be granted to the minor. No Cheque will be provided wherever minors are operating 
+the account by himself/ herself. Fresh photographs and KYC documents shall be obtained 
+for minors on becoming major. At that time, it shall be ensured that Customer Due 
+Diligence (CDD) documents as per the CDD standards are available with the Bank. On 
+attaining majority, the erstwhile minor should confirm the balance in his/her account and if 
+the account is operated by the natural guardian / guardian, fresh specimen signature of 
+erstwhile minor would be obtained and kept on record for all operational purposes. 
+3.12. In addition to the conventional deposit products, bank may offer a variety of special 
+value-added products and services thereby increasing product offerings and providing 
+greater convenience for customers, such as higher rate deposit accounts for senior 
+citizens.
+i. Bank may offer Fed Flexi Smart Saver deposit for NRIs, Smart deposits for Resident 
+customers via Fintech platforms, which gives the convenience of choosing a core 
+amount and instalment up to ten times of the core amount chosen.
+ii. Special Non Resident deposits with higher return by way of forward-booking of 
+underlying foreign currency, known as Federal Rupee Plus is offered to NR customers.
+iii. Bank may offer Millionaire Federal Savings Fund, a recurring deposit scheme which 
+lets the customer choose a certain tenure and installment amount that will produce 
+returns that will make a customer a "millionaire" upon successful remittances of 
+installments. 
+iv. a. Bank also offers digital platforms through which customers can open operative 
+accounts instantly using the OTP based e-KYC. Accounts can be opened online by 
+customers who have their mobile number linked with Aadhaar and registered with 
+UIDAI. These accounts are minimum KYC accounts which can be instantly operated 
+up to Regulatory permitted limits. There are regulatory restrictions on the transaction 
+limits and balances till the customer completes KYC requirements as per Policy on 
+Combating Financial Crime. To avail the full benefits of banking, customers should 
+complete their normal KYC within one year by visiting a branch of the Bank or by 
+completing Video based Customer Identification Process (V-CIP) formalities through 
+Video KYC portal.
+Any new product issued in this category shall be subject to the Bank’s extant 
+requirements for New Product Approval Policy.
+b. With the introduction of Video Based customer identification process, the Bank is 
+offering Video Based Account Opening (VAO) where a customer can open an account 
+instantly through approved digital means after completing OTP based e-KYC and then 
+by face-to-face interaction with an official of the Bank through a video call. The 
+customer can instantly activate Mobile Banking after the account is activated post 
+completion of Video based Customer Identification Process (V-CIP) formalities.
+8
+c. Bank may enter into arrangements with entities, wherein these entities will refer their 
+clients to open accounts with the Bank. Standard account opening procedures, 
+including Customer Due Diligence as per the Bank's Policy on Combating Financial 
+Crime, will be followed for these clients, and the accounts will be opened based on the 
+customers' requirements. The role of third-party entities in the arrangement will be 
+limited to referring the clients to the Bank.
+d. Account Opening through Fintech Partnerships: 
+Savings Accounts and Term Deposit accounts can be opened by customers through 
+digital platforms provided by Fintech partners of the Bank. This would serve as an 
+additional distribution channel for the Bank.
+• Customers can download the Fintech Partner’s mobile application and open 
+the Savings Bank account. Post opening the savings account, the customer 
+can also open term deposit account for the prescribed period. 
+• The limited facility account will be opened through Aadhaar OTP based e-KYC. 
+The account will be fully activated on completion of video KYC.
+• Accounts that have not completed VCIP within a year will be closed centrally 
+and the outstanding balance will be transferred to the customer after collecting 
+the alternate Savings account of the customer.
+• Customers will be allowed to apply for products like debit card, cheque book 
+and services like fund transfer, deposit opening, nominee addition, account 
+closure etc. through the Fintech app.
+• For a few services like offline mobile number updation etc. customers will have 
+to visit the nearest branch. 
+Fixed Deposits Opening through Fintech Partnerships as Security for 
+Secured Credit Cards:
+• A customer not having an account or an existing relationship with the Bank can 
+open a Fixed Deposit through Bank’s Co- Branded Credit Card partners, for 
+the purpose of keeping security deposits for obtaining credit cards.
+• Such deposits will be lien marked as security for the Credit Card issued.
+If the deposits are funded from another Bank account of the customer, the open 
+date of the deposit will be the date on which the Bank has received the funds in its 
+account.
+3.13. The Bank may at its discretion open deposit accounts other than Savings Bank 
+Accounts for illiterate persons. The account of such a person may be opened provided he 
+/ she calls the Bank personally along with a witness who is known to both the depositor 
+and the Bank. Normally, no Cheque book facility is provided for such Savings Bank 
+Account. At the time of withdrawal / repayment of deposit amount and/or interest, the 
+account holder should affix his / her thumb impression or mark in the presence of the 
+authorized officer who should verify the identity of the person. The Bank should explain 
+the need for proper care and safekeeping of the passbook etc. given to the account holder. 
+The Bank official shall explain the terms and conditions governing the account to the 
+illiterate person.
+9
+3.14. In order to facilitate access to banking facilities by visually challenged persons, bank 
+shall offer banking facilities including Cheque book facility / operation of ATM/ locker etc., 
+to the visually challenged as they are legally competent to enter into contracts. Bank shall 
+offer all the banking facilities such as Cheque book facility including third party cheques, 
+ATM facility, Net Banking facility, locker facility, retail loans, credit cards etc., to the visually 
+challenged without any discrimination, if they agree to take the risks associated with 
+availing these facilities and assume full responsibility for the losses, if any suffered by 
+him/her as well as the bank on account of his/her availing such facilities. The opening and 
+operation of such accounts shall be subject to special rules framed by the Bank to protect 
+the interests of the visually challenged customers.
+3.15. Banking facilities may also be extended to sick / incapacitated / old people who are 
+unable to be physically present in the branch and too ill to put in a signature. The customer 
+maybe be allowed banking facilities if he can put a thumb impression/unable to put even 
+a thumb impression. In case the customer is able to give a thumb impression it must be 
+witnessed by two persons one of whom is an authorized employee of the bank. Where the 
+customer cannot put a thumb impression, a mark can be obtained on the withdrawal 
+form/Cheque which must be witnessed by two persons one of whom is an authorized 
+employee of the bank. The customer may be asked as to who would be withdrawing the 
+amount on the basis of the Cheque/ withdrawal form and such a person must be identified 
+by two independent witnesses. The person withdrawing the amount should also furnish 
+his signature to the bank.
+3.16. Savings bank and term deposits can be opened in the name of persons with autism, 
+cerebral palsy, mental retardation and multiple disabilities by the legal guardian appointed 
+by the District Court under Mental Health Act, 1987 or by the Local Level Committees set 
+up under the National Trust for welfare of persons with autism, cerebral palsy, mental 
+retardation, and multiple disabilities under Disabilities Act, 1999. Appointment of guardian 
+is given in Form B (Form of confirmation of appointment of guardian) by the committee. 
+The authenticity of Form B should be verified with the Local Level Committee and the 
+branch shall contact the Committee at periodic intervals to ensure the validity of 
+guardianship. Branches shall ensure strict adherence to rules applicable for opening of 
+Savings Bank, Recurring Deposits and Term Deposits.
+3.17. The Bank ensures that all account opening formalities (except for accounts opened 
+through digital channels) are completed inside the branch premise or in case of necessity an 
+authorized official is deputed to obtain the completed account opening forms along with 
+photograph and other documents. Bank officials may also open deposit accounts using 
+approved system capabilities and devices, through assisted journeys after obtaining the 
+necessary documents digitally and ensuring KYC, at the customer locations outside the 
+branch.
+3.18. A nomination facility is available on all deposit accounts opened by the individuals 
+including a sole proprietary concern account. Nomination can be made in favor of one 
+individual only, which may include a minor as well. Nomination so made can be cancelled 
+or changed by the account holder/s any time. While making nomination, cancellation or 
+10
+change thereof, thumb impressions are required to be witnessed by a third party for those 
+accounts without a valid signature captured in account. (Signatures of Account holders 
+need not be attested by witnesses). Nomination can be modified with the consent of 
+account holder/s. Bank recommends that all depositors avail nomination facility. The 
+nominee, in the event of death of the depositor/s, would receive the balance outstanding 
+in the account as a trustee of legal heirs. The depositor will be informed of the advantages 
+of the nomination facility while opening a deposit account. Unless the customer prefers not 
+to nominate, (this may be recorded, without giving scope for conjecture of non-compliance) 
+nomination should be a rule, to cover all existing and new accounts. Bank’s Policy on 
+Settlement of Claims covers in detail the settlement of claims with or without nomination.
+3.19. The regulatory guidelines require banks to categorize customers based on risk 
+perception and prepare profiles of customers for the purpose of transaction monitoring. 
+The inability or unwillingness of a prospective customer to provide necessary information 
+/ details could result in the bank not opening an account. The inability of an existing 
+customer to furnish details required by the bank to fulfill statutory obligations could also 
+result in closure of the account after due notice(s) is provided to the customer. The Bank’s 
+policy prescriptions and procedure for client risk categorization are covered in the Policy 
+on Combating Financial Crime.
+3.20. Based on the customer request, the Bank at its discretion will sanction sweep facility 
+in savings and current accounts at applicable interest rates prevailing for respective 
+tenure.
+3.21. Deposit accounts can be opened by an individual in his own name (known as account 
+in single name) or by more than one individual in their own names (known as Joint 
+Account), as the case may be.
+3.22. Submission of GSTIN: To avail input tax credit, the Bank recommends submission of 
+GSTIN for updation of the same in the Bank records.
+3.23. In case of failure to submit PAN, the Bank shall take necessary action as required 
+under the applicable rules.
+4. OPERATION OF ACCOUNTS
+4.1. Accounts can be opened in single names or joint names; they can also be operated 
+singly or jointly as per the instructions given by the customer at the time of opening the 
+account or given/amended thereafter from time to time.
+4.2. The Joint Account opened by more than one individual can be operated by any single 
+individual or jointly by more than one individual. The mandate for operating the account 
+can be modified with the consent of all account holders. The Savings Bank Account 
+opened by minor jointly with natural guardian / guardian can be operated by natural 
+guardian / guardian only.
+4.3. The joint account holders can give any of the following mandates for the disposal of 
+balance in the accounts: 
+11
+4.3.1 Either or Survivor: If the account is held by two individuals say, A & B, the final 
+balance along with interest, if applicable, will be paid to the survivor on death 
+of anyone of the account holder.
+4.3.2 Anyone or Survivor/s: If the account is held by more than two individuals say, 
+A, B and C, the final balance along with interest, if applicable, will be paid to 
+the survivor on death of any two account holders. Similarly, operation by ‘former 
+or survivor’, ‘Latter or survivor’ etc. are also permitted. In the case of term 
+deposits, such mandates will be applicable to or become operational only on 
+or after the date of maturity of term deposits. This mandate can be modified by 
+the consent of all the account holders. According to RBI, the joint account 
+holder facility may be extended to all types of resident accounts including 
+savings bank accounts. While extending this facility, the banks should satisfy 
+itself about the actual need for such a facility and also obtain a declaration, duly 
+signed by the non-resident account holder. However, such non- resident Indian 
+close relatives shall not be eligible to operate the account during the lifetime of 
+the resident account holder.
+4.3.3 RBI has permitted NRIs/PIOs to open NRE SB accounts with resident close 
+relatives on Former or Survivor(F/S) basis, wherein the first holder in the 
+account should invariably be NRI/PIO (Relatives as defined in Companies act 
+,2013). The resident survivor can operate the account only as a power of 
+attorney holder during the lifetime of the NRI /PIO account holder.
+4.3.4 The bank may at the request of all the joint account holders allow addition or 
+deletion of name/s of joint account holder/s if the circumstances so warrant or 
+allow an individual depositor to add the name of another person as a joint 
+account holder.
+4.3.5 In case of addition / deletion of joint holders at the request of the account 
+holder/s, the bank must take utmost care to suitably modify the specimen 
+signatures of the operators in tune with the change in constitution of the 
+account to avoid fraudulent operations.
+4.3.6 At the request of the depositor, the Bank may register a mandate / power of 
+attorney given by him authorizing another person to operate the account on his 
+behalf.
+4.3.7 The Domestic, NRE & NRO Rupee Term Deposits can be opened for the 
+minimum and maximum period as decided by ALCO from time to time, subject to 
+the period permitted by RBI and subject to the categories of deposits as stipulated 
+by RBI.
+4.3.8 The Term Deposit Account holders at the time of placing their deposits can give 
+instructions with regard to closure of the Deposit Account or renewal of deposit 
+for a further period on the date of maturity. Unless otherwise instructed, term 
+deposits other than specific deposit schemes like non-callable deposit, Rupee 
+Plus and recurring deposits will be automatically renewed for an identical period 
+as that of the original deposit on the date of maturity.
+4.3.9 Even if the customer's instruction was for auto renewal at the time of deposit 
+opening, if the customer's status is KYC-non complied at the time of deposit 
+maturity, the deposit may be converted to overdue deposit status.
+12
+4.3.10 Recurring deposits will not be automatically renewed. On maturity, the 
+customer will be paid a lump sum amount which includes the regular, periodic 
+investments and the interest earned on them and the maturity amount will be 
+credited to the operative account of the customer. In case there is no such 
+operative account, the proceeds will be transferred to ‘overdue deposits’ 
+account. In the case of default in installments, nominal penal charge will be 
+taken, and the maturity amount will be reduced to the extent of defaulted 
+amount and penal charge.
+4.3.11 A statement of account will be provided by the Bank to Savings Bank as well 
+as Current Deposit Account Holders periodically as per terms and conditions 
+of the relevant deposit scheme. Alternatively, the Bank may issue a Passbook 
+in lieu of statement of account to Savings Bank account holders, particularly 
+when requested by the customer.
+4.3.12 Deposit accounts which include SB, CD and Term Deposit accounts may be 
+transferred to any other branch of the Bank at the request of the depositor at 
+no cost to the depositor. The account transfer form will be issued to the 
+customer from the transferring branch or transferee branch with approval of the 
+home branch on submission of passbook and other required documents as 
+intimated by the branch officials.
+4.3.13 Any changes in service charges will be made available to all depositors in 
+advance with one month’s notice through the Bank’s website and / or through 
+mail. / or through SMS or any other means of communication available. 
+However, in case of changes due to regulatory requirements the Bank may 
+reduce the notice period with reasons recorded and publicized.
+4.3.14 The rate of interest to be paid on the overdue term deposits shall be subject to 
+the stipulation contained in the Interest rate framework. If a Term Deposit (TD) 
+matures and proceeds are unpaid, the amount left unclaimed with the bank 
+shall attract a rate of interest as applicable to savings account or the contracted 
+rate of interest on the matured TD, whichever is lower. 
+5. STOP PAYMENT FACILITY
+The Bank will accept stop payment instructions from the depositors in respect of Cheques 
+issued by them. A customer or a person having authority to draw cheques shall submit a 
+notice of stop payment of cheques. In case of joint accounts, partnership accounts, 
+accounts of companies, associations, etc., where Cheque is drawn by either a joint 
+account holder or one or more of the persons authorized by a resolution, a notice of stop 
+payment in the proper manner by any one of authorized drawers or principal party or one 
+among the principal parties who appointed the authorized drawers can be accepted. It 
+shall be ensured that the instruction is clear, definite and unambiguous. In the same way, 
+Customer may revoke a stop payment instruction. Customer shall submit the request in 
+writing for revoking stop payment in the Home Branch of account or at the customer 
+contact center of the Bank. Charges as prescribed will be collected.
+13
+6. DISHONOUR OF CHEQUES AND NACH MANDATES 
+Dealing with frequent dishonor of Cheques and NACH mandate in Savings and Current 
+accounts
+6.1 If the number of cheques returns for the reason of insufficient funds reaches three, 
+Bank may issue a cautionary advice to the concerned constituent drawing his attention 
+to the irregularity and consequential stoppage of cheque facility as well as closure of 
+account, in the event of cheque being dishonored on fourth occasion on the same 
+account during the financial year.
+6.2 If four Cheques are returned in a financial year for the reason of insufficiency of funds, 
+bank has the freedom to stop issuance of further cheque books in the account.
+6.3 Also, if the cheque is returned four times in a financial year for the reason of 
+insufficiency of funds, bank at its discretion can initiate steps to close the account, after 
+giving 30 days’ notice to the customer.
+6.4 If the NACH debit mandate fails 4 times in a financial year for the reason of insufficiency 
+of funds, the bank at its discretion can initiate steps to close the account, after giving 
+30 days’ notice to the customer.
+7. EXTENSION OF ALTERNATE DELIVERY CHANNELS TO SAVINGS BANK & 
+CURRENT DEPOSIT ACCOUNT HOLDERS 
+The Bank offers a choice of electronic channels to customers for conducting their banking 
+transactions. The choice of electronic channels includes Debit Card, Internet banking and 
+Mobile banking inclusive of SMS banking facility, missed call banking, AI powered Virtual 
+Assistant and WhatsApp banking. Wherever such electronic facilities are offered as a 
+part of the basic account / product, Bank will obtain confirmation from the customer for 
+availing the facility. Bank will place per transaction/day limits for such channels based on 
+their own risk perception with the necessary approval in the bank. Such limits will be 
+communicated to customers also and customers will be given an option in digital touch 
+points for modifying the limits as per their convenience but within the approved overall 
+limit. The Bank shall not offer facilities of electronic transactions, other than ATM cash 
+withdrawals, to customers who do not provide mobile numbers to the Bank.
+8. PAYMENT OF INTEREST
+8.1 Interest shall be paid on savings account and term deposit at the rate and periodicity as 
+decided upon by the Bank from time to time in conformance with the directives specified 
+by Reserve Bank of India and ALM Policy of the Bank.
+8.2 The interest rates shall be uniform across all branches and for all customers and there 
+shall be no discrimination in the matter of interest paid on the deposits, between one 
+deposit and another of similar amount, accepted on the same date, for the same tenure, 
+at any branches. Interest rates payable on deposits shall be strictly as per the schedule of 
+interest rates disclosed.
+8.3 In terms of Reserve Bank of India directives, interest shall be calculated at quarterly 
+intervals on term deposits and paid at the rate decided by the Bank depending upon the 
+period of deposits. In the case of a monthly interest payment scheme, the interest shall be 
+14
+calculated for the quarter and paid monthly at a discounted value. The interest on term 
+deposits is calculated by the Bank in accordance with the required regulatory norms and 
+the rates are as displayed on the Bank’s official website.
+8.4 The rate of interest on deposits will be prominently displayed in the branch premises. 
+Changes, if any, with regard to the deposit schemes and other related services shall also 
+be communicated upfront and shall be prominently displayed. All these details will be 
+displayed on the Bank’s website also.
+8.5 When a term deposit is renewed on maturity, interest rate on renewed deposit for the 
+period specified by the depositor as applicable on the date of maturity would be applied. If 
+the deposit is not renewed automatically for any reason and if request for renewal of such 
+deposit is received after the date of maturity, such overdue deposits will be renewed with 
+effect from the date of maturity at interest rate applicable as on the due date, provided 
+such request is processed within 14 days from the date of maturity. In respect of overdue 
+deposits renewed after 14 days from the date of maturity of the original term deposit, the 
+deposit will be treated as fresh deposit from the date of renewal. The interest for the 
+overdue period (from the date of maturity of original term deposit to date of renewal) will 
+be at rate of interest as applicable to savings account or the contracted rate of interest on 
+the matured TD, whichever is lower.
+8.6 No interest will be paid, where premature withdrawal of deposits takes place before 
+completion of the minimum period as decided by ALCO from time to time, subject to the 
+minimum period permitted by RBI for Resident, NRO, NRE & FCNR (B) term deposits.
+8.7 The Bank has statutory obligation to deduct tax at source if the total interest paid / payable 
+on all term deposits held by a person exceeds the amount specified under the Income Tax 
+Act. The Bank will issue a tax deduction certificate (TDS Certificate) for the amount of tax 
+deducted. The depositor, if entitled to exemption from TDS can submit declaration in the 
+prescribed format at the beginning of every financial year.
+8.8 INTEREST RATES ON RUPEE DEPOSITS-NON-RESIDENTS
+Interest on deposits of money accepted or renewed under NRE/NRO deposit scheme shall be 
+on the terms and conditions specified below.
+(a) The interest rates shall be subject to the conditions as per the - ALM Policy of the Bank.
+(b) Interest rates on savings deposits under Non-Resident (External) Rupee (NRE) 
+Deposit / Ordinary Non-Resident (NRO) Deposits shall be in accordance with the 
+directions below.
+Interest on domestic rupee savings deposits shall be calculated on a daily product basis 
+as under:
+i. A uniform interest rate shall be set on balance up to Rupees one lakh, irrespective of 
+the amount in the account within this limit.
+ii. Differential rates of interest may be provided for any end-of-day savings bank 
+balance exceeding Rupees one lakh.
+15
+(c) Interest rates on NRE/NRO term deposits shall vary only on account of one or more of 
+the following reasons:
+(i) Tenure of Deposits: - Bank will offer term deposit with different maturity/tenure of 
+the deposit, subject to the condition that minimum period of NRE and NRO term 
+deposits shall be decided by ALCO subject to the minimum period permitted by RBI 
+from time to time.
+(ii) Size of Deposits: - Differential interest rate shall be offered only on bulk deposits
+(iii) Non-availability of Premature withdrawal option: - Bank will offer NRE / NRO term 
+deposits without premature withdrawal option, provided that all NRE / NRO term 
+deposits accepted from individuals (held singly or jointly) for amount of Rupees one 
+crore and below shall have premature-withdrawal-facility.
+(d) Interest rates on NRE/ NRO deposits shall not be higher than those offered by the 
+Bank on comparable domestic rupee term deposits.
+(e) The benefit of additional interest rate on deposits on account of being bank’s own staff 
+or senior citizens shall not be available to NRE and NRO deposits.
+(f) Interest on savings deposits shall be credited at quarterly or shorter intervals.
+(g) If an NRE account holder, immediately on return to India, requests for conversion of 
+the NRE term deposit into Resident Foreign Currency Account (RFC), interest shall be 
+paid as under: 
+(i) if the NRE deposit has not run for a minimum period as decided by ALCO subject 
+to the minimum period permitted by RBI from time to time, interest shall be paid at a 
+rate not exceeding the rate payable on savings deposits held in RFC accounts.
+(ii) In all other cases, interest shall be paid at the contracted rate.
+Prohibition on marking lien
+Bank shall not mark any type of lien, direct or indirect, against NRE saving deposits.
+9. PREMATURE WITHDRAWAL / CLOSURE OF TERM DEPOSITS
+9.1 The Bank on request from the depositor, at its discretion may allow withdrawal of 
+term deposit before completion of the period of deposit agreed upon at the time of 
+placing the deposit, at a penalty prescribed by the Bank from time to time, which will 
+be disclosed to the customer at the time of opening the deposit. In the case of a 
+deposit account opened as either-or survivor, signature of both the account holders 
+are required for premature closure of the account.
+9.2 In case the depositor desires to renew the deposit by seeking premature closure of 
+an existing term deposit account, the Bank will permit the renewal at the applicable 
+rate on the date of renewal. While prematurely closing a deposit for the purpose of 
+renewal, interest on the deposit for the period it has remained with the bank will be 
+paid at the rate applicable to the period for which the deposit remained with the bank 
+after debiting the applicable premature closure charges and not at the contracted 
+rate. The bank, on request from the depositor, shall allow withdrawal of a term 
+deposit before completion of the period of the deposit agreed upon at the time of 
+16
+making the deposit. However, the bank, at its discretion, may disallow premature 
+withdrawal of large deposits held by entities other than individuals and Hindu 
+Undivided Families (HUFs). The interest rates applicable on term deposits 
+withdrawn before the maturity date shall be as under:
+• Interest shall be paid at the rate applicable to the amount and period for which 
+the deposit remained with the bank and not at the contracted rate.
+• No interest shall be paid, where premature withdrawal of deposits takes place 
+before completion of the minimum period applicable for the deposit scheme.
+• The bank has the freedom to determine its own penal interest rate in respect of 
+premature withdrawal of term deposits. The bank ensures that the depositors are 
+made aware of the applicable penal rate along with the deposit rate.
+9.3 In the case of term deposits of deceased depositors, premature closure of term 
+deposits would be allowed, and such premature withdrawal would not attract any 
+penal charges.
+10. INSURANCE COVER FOR DEPOSITS
+All bank deposits are covered under the insurance scheme offered by Deposit Insurance 
+and Credit Guarantee Corporation of India (DICGC) subject to certain limits and 
+conditions. The details of the insurance cover in force will be made available to the 
+depositor. Protection cover is extended to deposits such as savings bank, current, term 
+and recurring deposits except:
+a. Deposits of foreign Governments
+b. Deposits of Central/State Governments
+c. Inter-bank deposits
+d. Deposits of the State Land Development Banks with the State co-operative bank
+e. Any amount due on account of and deposit received outside India
+f. Any amount, which has been specifically exempted by the corporation with the 
+previous approval of Reserve Bank of India 
+11. LOAN AGAINST DEPOSITS
+The Bank may consider request of the depositor/s for loan against term deposits (AADAdvance against Deposit, / overdraft facility against term deposits (Federal Easy Cash 
+Scheme). Such loans or overdrafts are provided on execution of necessary security 
+documents. The Bank may also consider loan against deposit standing in the name of 
+minor, however, a suitable declaration stating that loan is for the benefit of the minor, is 
+to be furnished by the depositor – applicant and bank is convinced of the bona fides of 
+the request. The detail of the term deposit against which the loan/advance is being 
+availed is to be clearly mentioned in the application form. Signature of all joint holders to 
+be obtained in the case of term deposit/s opened in joint names. AAD/OD against deposit 
+can also be opened/closed through digital platforms Here only the login credentials for 
+the electronic facility are required. The amount will be credited to the operative account 
+of the account holder. Such facility of loan will be offered in specific schemes based on 
+features available and the details will be made available to the depositor.
+17
+12. SETTLEMENT OF DUES IN DECEASED DEPOSIT ACCOUNT
+Settlement of dues in deceased accounts shall be guided by the Policy on Settlement of 
+Claims framed as per the IBA model policy and the provisions below shall always be 
+aligned to the said Policy. In the case of deposit accounts where the depositor had utilized 
+the nomination facility and made a valid nomination or where the account was opened 
+with the survivors provided: ("either or survivor", or "anyone or survivor", or "former or 
+survivor" or "latter or survivor"), the payment of the balance in the deposit account to the 
+survivor(s)/nominee of a deceased deposit account holder represents a valid discharge 
+of the bank's liability provided :
+I. The bank has exercised due care and caution in establishing the identity of the 
+survivor(s) / nominee and the fact of death of the account holder, through appropriate 
+documentary evidence.
+II. There is no order from the competent court restraining the bank from making the 
+payment from the account of the deceased; and
+III. It has been made clear to the survivor(s) / nominee that he would be receiving the 
+payment from the bank as a trustee of the legal heirs of the deceased depositor, i.e., 
+such payment to him shall not affect the right or claim which any person may have 
+against the survivor(s) / nominee to whom the payment is made.
+12.1 In a joint deposit account, when one of the joint account holders dies, the Bank 
+is required to make payment jointly to the legal heirs of the deceased person and the 
+surviving depositor(s). However, if the joint account holders had given mandate for 
+disposal of the balance in the account in the forms such as either-or survivor, former 
+/ latter or survivor, anyone of survivors or survivor; etc., the payment will be made as 
+per the mandate to avoid delays in production of legal papers by the heirs of the 
+deceased.
+12.2 In the event of death of both/all joint accountholders where there is no 
+registered nomination, the balance outstanding will be paid jointly to the legal heirs 
+(or any of them as mandated by all the legal heirs).
+12.3 In the absence of nomination and when there are no disputes among the 
+claimants, the Bank will pay the amount outstanding in the account of deceased 
+person against joint application and indemnity by all legal heirs or the person 
+mandated by the legal heirs to receive the payment on their behalf without insisting 
+on legal documents up to the limit approved by the bank’s board. 
+12.4 In the event of death of the depositor before the date of maturity of deposit and 
+amount of the deposit is claimed after the date of maturity, the Bank shall pay interest 
+at the contracted rate till the date of maturity. From the date of maturity to the date of 
+payment, the Bank shall pay simple interest at the applicable rate as on the date of 
+maturity, for the period for which the deposit remained with the Bank beyond the date 
+of maturity. If the deposit is closed before the maturity date, interest on the deposit 
+for the period it has remained with the bank will be paid at the rate applicable to the 
+period for which the deposit remained with the bank and not at the contracted rate 
+upon request from survivors/Nominee to the deposit.
+18
+12.5 However, in the case of death of the depositor after the date of maturity of the 
+deposit, the bank shall pay interest at savings deposit rate for the maturity value from 
+the date of maturity till the date of payment.
+SETTLEMENT OF CLAIMS IN RESPECT OF MISSING PERSONS
+As per Indian Evidence Act, 1872 (section 107 and 108) presumption of death can be 
+raised only after a lapse of seven years from the date of person reported as “missing”.
+As such, nominee / legal heirs have to raise an express presumption of death of the 
+customer, under section 107 / 108 of the Indian Evidence Act before a competent court. 
+If the court presumes that he / she is dead, then the claim in respect of a missing person 
+can be settled with consultation of Legal department of Bank.
+Interest payable on the NRE term deposit account of deceased depositor
+In case the claimants of an NRE term deposit account of a deceased depositor are 
+residents, the deposit on maturity shall be treated as a domestic rupee term deposit and 
+interest shall be paid for the subsequent period at a rate applicable to a domestic term 
+deposit of similar maturity.
+13. INOPERATIVE ACCOUNTS
+13.1. A Savings / Current account shall be classified as “Inoperative account‟ if there 
+are no customer induced transactions in the account as defined by the RBI guidelines.
+13.2.The credit balance in any deposit account maintained with the Bank, which has not 
+been operated upon for ten years or more, or any amount remaining unclaimed for ten 
+years or more as per the Depositor Education and Awareness (DEA) Fund Scheme 
+2014. 
+13.3.Bank will pursue the following procedure for classification of accounts as inoperative 
+accounts
+13.3.1 Bank shall undertake at least an annual review in respect of accounts, where 
+there are no customer induced transactions as defined by the RBI guidelines for 
+more than a year. In cases where there is no explicit mandate to renew the term 
+deposit, the bank should review such accounts if the customers have not 
+withdrawn the proceeds after maturity or transferred these to their 
+savings/current account in order to prevent such deposits from becoming 
+unclaimed. The bank shall inform the account/deposit holders in writing through 
+letters or email or SMS (if the email and mobile number are registered with the 
+bank) that there has been no operation in their accounts/deposits in the last 
+one year, as the case may be. The alert messages shall invariably mention that 
+the account would become ‘inoperative’ if no operations are carried out during 
+the next one year and, the account holder would be required to submit KYC 
+documents afresh for reactivating the account in such case.
+13.3.2 If the letters are returned undelivered or no response is received through 
+registered email, the bank shall immediately undertake an enquiry to find out 
+19
+the whereabouts of account holder or his/her nominee/legal heirs in case the 
+account holder is deceased.
+13.3.3 In case any response is received from the account holder giving the reasons 
+for not operating the account, the bank shall continue to classify the account as 
+operative for one more year and the account holder shall be advised to operate 
+the account within a period of one year (herein after referred to as ‘extended 
+period’). In case the account holder still fails to operate the account within the 
+extended period, the bank shall classify the said account as inoperative account 
+after the expiry of the extended period.
+13.3.4 For the purpose of classifying an account as ‘inoperative’, only customer 
+induced transactions and not bank induced transactions shall be considered. 
+There may be instances where the customer has been given a mandate like 
+Standing Instructions (SI)/ auto-renewal instructions and there are no other 
+operations in the Savings /Current account or the Term Deposit. These 
+transactions shall also be treated as customer induced transactions. Apart from 
+the above, any additional transactions in the account, as notified by the Reserve
+Bank of India to establish the status of the account as inoperative will be duly 
+considered.
+13.3.5 The classification of an account as inoperative shall be for a particular account 
+of the customer and not with reference to the customer. In case a customer is 
+maintaining multiple accounts/deposits with a bank, all such accounts/deposits 
+shall be assessed individually for the purpose of classifying them as inoperative 
+account/ unclaimed deposit, as the case may be.
+13.3.6 In case the account holder is not carrying out transaction and the account is -
+inoperative due to shifting of primary account to another bank, the account 
+holder may be requested to provide the details of the new bank account with 
+authorisation to enable the bank to transfer the balance from the existing bank 
+account.
+13.3.7 Category of accounts (Eg. Zero Balance accounts for receiving scholarships/ 
+DBT etc) , notified by the Reserve Bank of India, from time to time, will be 
+excluded from the stipulation of inoperative account.
+13.4 Periodic interest, if any, shall be credited to inoperative accounts.
+13.5 Tracing of Customers of Inoperative Accounts/ Unclaimed Deposits
+13.5.1 The bank shall contact the holder(s) of the inoperative account/ unclaimed 
+deposit through letters, email or SMS (if the email and mobile number are registered 
+with the bank). The email/ SMS shall be sent on a quarterly basis.
+13.5.2 In case the whereabouts of the holder(s) of the inoperative account/ unclaimed 
+deposit are not traceable, the bank shall contact the introducer, if any, who had 
+introduced the account holder to the bank at the time of opening of the account. The 
+bank shall also contact the nominee, if registered, for tracing the customer.
+13.5.3 The bank shall undertake special drives periodically to find out the whereabouts 
+of the customers, their nominees or legal heirs in respect of inoperative accounts / 
+unclaimed deposits.
+20
+13.6 Activation of Inoperative Accounts
+13.6.1 The bank shall make available the facility of updation of KYC for activation of 
+inoperative accounts/ unclaimed deposits at all branches (including non-home 
+branches). Other modes of KYC updation for revival of dormant accounts will 
+be added in due course as per the latest guidelines from the regulator.
+13.6.2 The bank shall activate the inoperative accounts/ unclaimed deposits, including 
+those which are under freeze by orders of various agencies like Courts, 
+Tribunals, Law Enforcement Agencies, only after adhering to the RBI guidelines 
+on KYC and Bank’s Policy on Combating Financial Crime. 
+13.6.3 The bank is in the process of implementing automatic intimation to the 
+customers through SMS and email stating that on the basis of the KYC 
+documents submitted by them, the inoperative status of the account has been 
+removed. The banks shall process the requests for activation of inoperative 
+account/ unclaimed deposits within three working days from the receipt of the 
+complete application.
+13.6.4 The bank will not levy penal charges for non-maintenance of minimum balances 
+in any account that is classified as an inoperative account. No charges will be 
+levied for activation of inoperative accounts.
+13.6.5 The Bank shall not allow any debit transaction in an inoperative account unless 
+there is a customer induced activation of the account. Further, Bank may apply 
+a cooling-off period on reactivation of the account, where restrictions on the 
+number and amount of transactions may imposed during the cooling-off period.
+14. UNCLAIMED DEPOSIT ACCOUNTS
+RBI had established guidelines for a mechanism for periodic transfer of unclaimed 
+deposits to Depositor education and awareness fund scheme (DEAF) as well as 
+settlement of refund claims related to inoperative accounts. Bank shall host the details of 
+unclaimed deposits {only name, address (without pin code) and Unclaimed Deposit 
+Reference Number (UDRN)}, which have been transferred to DEA Fund of RBI on their 
+respective websites, which shall be updated regularly, at least on a monthly basis. The 
+database hosted on the website shall provide a search option to enable the public to 
+search for their unclaimed deposits using name in combination with the address of the 
+account holder/ entity. In case such accounts are not in the name of individuals, the 
+names of individuals authorized to operate the accounts shall also be indicated. 
+CUSTOMER AWARENESS
+The banks shall provide on their website as well as at their branches, the information on 
+the process for activation of the inoperative account/ unclaimed deposits and claiming 
+the balances therein. Necessary claim forms and documents may be made available for 
+the benefit of customers. The banks shall conduct public awareness and financial literacy 
+campaigns regularly to educate the members of public about the activation of inoperative 
+accounts/unclaimed deposits and the prescribed procedure to claim amounts lying 
+therein by a depositor or his/her nominee/ legal heir in case of deceased depositor.
+21
+15. CONFIDENTIALITY OF CUSTOMER INFORMATION
+15.1 Customer Information: The customer information collected from the customers shall 
+not be used for cross selling of services or products by the Bank, their subsidiaries 
+and affiliates. If the Bank proposes to use such information, it will be with the consent 
+of the account holder.
+15.2 Secrecy of Customer’s Accounts: The Bank shall not disclose details / particulars of 
+the customer’s account to a third person or party without the expressed or implied 
+consent from the customer. However, there are some exceptions, viz. disclosure of 
+information under the compulsion of law, where there is a duty to the public to disclose 
+and where the interest of the Bank requires disclosure.
+15.3 The protection of personal data of customers, including permitted disclosures shall 
+be as guided by the Digital Protection of Personal Data (DPDP) Act as and when the 
+Act, Rules and Regulations are in force. 
+16. REDRESSAL OF COMPLAINTS AND GRIEVANCES
+The bank has got a Grievance Redressal Policy, which is published on the bank website. 
+Depositors having any complaint / grievance with regard to services rendered by the Bank 
+have a right to approach authority(ies) designated by the Bank for handling customer 
+complaint / grievances. The details of the internal officers set up for redressal of 
+complaints/grievances will be available in the branches. The branch officials will provide 
+the required information regarding procedure for lodging the complaint. In case the 
+depositor does not get response from the Bank within 30 days of lodging a complaint with 
+us or is not satisfied with the response received from the Bank, he has a right to approach 
+Banking Ombudsman appointed by Reserve Bank of India
+17. SECURED CREDIT CARD BASED ON FIXED DEPOSIT
+A Secured credit card against Term deposit will be issued to a resident customer in 
+exchange for a term deposit that he pledges as a security for the card. The credit limit of 
+a secured credit card will be decided based on the criteria set by the bank for secured 
+credit cards. The Cardholder shall be required to place the term deposits in the manner 
+specified and upon execution of the relevant documents as specified by the Bank from 
+time to time. Upon issuance of the Credit Card, Bank shall mark a lien on the entire amount 
+of the term deposit amount. In the event of cancellation of the Card by the Cardholder or 
+the Bank, the lien on term deposits linked to Credit Card would be released after adjusting 
+of dues by the Cardholder. 
+18. POST-FACTO CHANGE IN POLICY MATTERS 
+Policy shall stand revised to the extent of changes in any of the guidelines as might be 
+advised by RBI /Govt. and any other regulatory bodies from time to time relating to this 
+policy.
+22
+Annexure
+Reference circulars from RBI
+• Master Circular on Interest Rates on Rupee Deposits held in Domestic, Ordinary NonResident (NRO) and Non-Resident (External) (NRE) Accounts-RBI/2015-16/39--
+DBR.No.Dir.BC.7/13.03.00/2015-16 dated 1.7.2015
+• Master Circular – 'Know Your Customer' (KYC) Guidelines – Anti Money Laundering 
+Standards (AML) - 'Prevention of Money Laundering Act, 2002 - Obligations of NBFCs 
+in terms of Rules notified thereunder’--RBI/2015-16/108
+DNBR (PD) CC No. 051/03.10.119/2015-16 dated 01.07.2015
+• Master Direction - Reserve Bank of India (Interest Rate on Deposits) Directions, 2016-
+-Master Direction DBR. Dir. No.84/13.03.00/2015-16 dated 03.03.2016
+• Master Direction - Know Your Customer (KYC) Direction, 2016--RBI/DBR/2015-16/18
+• Master Direction DBR.AML.BC.No.81/14.01.001/2015-16 dated 25.02.2016 
+• Master Direction - Deposits and Accounts--RBI/FED/2015-16/9
+FED Master Direction No. 14/2015-16 dated 01.01.2016 
+• The Depositor Education and Awareness Fund Scheme, 2014 –Section 26A of 
+Banking Regulation Act, 1949--RBI/2013-14/614DBOD.No.DEAF 
+Cell.BC.114/30.01.002/2013-14 dated 27.05.2014
+• RBI Circular – Consolidated Circular on Opening of Current Accounts and CC/OD 
+Accounts by Banks RBI/2022-23/27 DOR.CRE.REC.23/21.08.008/2022-23 dated 
+April 19, 2022
+• Customer Protection – Limiting Liability of Customers in Unauthorised 
+Electronic Banking Transactions dated July 6, 2017
+• Master Direction - Reserve Bank of India (Interest Rate on Deposits) Directions, 2016 
+dated March 03, 2016
+• Foreign Exchange Management (Deposit) Regulations, 2016 dated April 01, 2016
+• Master Circular on Customer Service in Banks dated July 1, 2015
+• Inoperative Accounts /Unclaimed Deposits in Banks- Revised Instructions dated 
+January 1, 2024
+More details on each of the deposit schemes are made available in the bank website 
+www.federalbank.co.in

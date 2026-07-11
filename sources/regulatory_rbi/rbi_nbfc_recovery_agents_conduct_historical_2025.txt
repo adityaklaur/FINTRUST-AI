@@ -1,0 +1,201 @@
+Database - Historical Data- Reserve Bank of India
+
+Skip to main content
+
+Change Language हिंदी
+
+Search the Website Search
+
+DOR.MCS.REC.No. /01-01-039/ 2026-27
+
+XXXXXX XX, 2026
+
+Draft Reserve Bank of India (Non-Banking Financial Companies - Responsible Business Conduct) ……. Amendment Directions, 2026
+
+Certain instructions on matters related to engagement of recovery agents by Non-Banking Financial Companies (NBFCs) have been issued to NBFCs under Chapter III on ‘Responsible Lending Conduct’ of the Reserve Bank of India (Non-Banking Financial Companies – Responsible Business Conduct) Directions, 2025. The extant instructions have since been reviewed and it has been decided to issue comprehensive instructions on conduct related matters in recovery of loan dues and engagement of recovery agencies to all NBFCs, excluding Mortgage Guarantee Companies, Core Investment Companies, NBFC-Account Aggregators, Standalone Primary Dealers, Non-Operating Financial Housing Companies, and NBFCs not having any customer interface.
+
+2. In exercise of the powers conferred by Sections 45JA, 45L and 45M of the Reserve Bank of India Act, 1934, the Reserve Bank, being satisfied that it is necessary and expedient in public interest so to do, hereby issues the Amendment Directions hereinafter specified.
+
+3. Short Title and Commencement
+
+(1) These Directions shall be called the Reserve Bank of India (Non-Banking Financial Companies - Responsible Business Conduct) …… Amendment Directions, 2026.
+
+(2) These Directions shall come into effect from October 1, 2026.
+
+4. These Amendment Directions shall modify the Reserve Bank of India (Non-Banking Financial Companies – Responsible Business Conduct) Directions, 2025 as under:
+
+(1) In paragraph 6, the following definitions shall be inserted after sub-paragraph 6(11), namely:
+
+“6(11A) Recovery agency means an entity or individual (other than NBFC’s own employees) who has been engaged by an NBFC, irrespective of the contractual designation / nomenclature used for such engagement, under an outsourcing arrangement to assist in recovery of loan dues from a borrower in default, including taking possession of a security.
+
+6(11B) Recovery agent means a representative of a recovery agency who is involved in recovery related activities, on behalf of an NBFC, at the point of customer interface.
+
+Explanation: Wherever an individual is directly engaged by an NBFC under an outsourcing arrangement for recovery / possession related activities, instructions applicable to recovery agency as well as recovery agent shall apply to such an individual.”
+
+(2) In Chapter II on ‘Institutional Framework’, the sub-paragraphs 7(7) and 7(8) shall be deleted.
+
+(3) In Chapter III on ‘Responsible Lending Conduct’, the paragraphs 89 to 97 shall be deleted.
+
+(4) In Chapter III on ‘Responsible Lending Conduct’, the section I on ‘Responsibilities of Recovery Agents of the NBFC’ and the paragraphs 98 to 100 thereunder shall be deleted. Further, the following section and paragraphs shall be inserted after paragraph 100, namely:
+
+“J. Conduct of NBFCs in Recovery of Loan Dues and Engagement of Recovery Agencies
+
+100A. The provisions under this Section shall apply to recovery of loan dues by an NBFC from borrowers in default, including taking possession of a security.
+
+Provided that, wherever explicitly specified, these provisions shall also apply, mutatis mutandis, to collection of dues in the normal course from the borrowers who are not in default.
+
+100B. The provisions under this Section shall be without prejudice to any statutory rights available to an NBFC, and / or obligations, relating to enforcement of security under any statute, as well as provisions relating to specific recovery actions such as one-time settlement contained in other relevant Directions.
+
+100C. ‘NBFC employees’, for the purpose of this Section, shall include those employees of an NBFC who are deployed for recovery of loan dues, including taking possession of a security.
+
+J.1 Policy
+
+100D. An NBFC shall put in place a policy on collection / recovery of loan dues, including taking possession of a security, by its own employee or recovery agent. The policy shall generally cover aspects related to, inter alia, trigger(s) for initiation of recovery process, graded actions as per an escalation matrix for loan recovery, code of conduct for employees and recovery agents, recovery of loan dues in case of demise of borrower, etc. Further, with regard to engagement of recovery agencies, the policy shall cover, inter alia, eligibility and due diligence criteria for engagement of recovery agencies, performance evaluation standards, inspection / audit, control mechanisms to ensure compliance with statutory / regulatory requirements, procedures to be followed / penal actions to be taken in case of non-compliant recovery agencies and / or their agents, etc. The policy shall also incorporate provisions relating to compensation to the borrowers / guarantors for loss arising on account of recovery related actions of the NBFC or the recovery agencies not consistent with these Directions.
+
+J.2 Engagement of recovery agencies for recovery of loan dues
+
+J.2.1 Due diligence
+
+100E. An NBFC engaging recovery agencies shall put in place a due diligence process for their engagement, which shall conform to the instructions issued by the Reserve Bank in the Reserve Bank of India (Non-Banking Financial Companies – Managing Risks in Outsourcing) Directions, 2025, as amended from time to time. An NBFC shall also ensure that the recovery agencies engaged by it carry out verification of the antecedents of their recovery agents at pre-engagement level and subsequently, on an ongoing basis at a pre-defined periodicity as specified in the NBFC’s policy.
+
+J.2.2 Training
+
+100F. An NBFC shall ensure that the recovery agency engages only those agents who have obtained the certificate from Indian Institute of Banking and Finance (IIBF) after completing the training programme for Debt Recovery Agents offered by IIBF or any other institute having a tie-up arrangement with IIBF. An NBFC shall also ensure that recovery agents already engaged by its recovery agencies, but not holding the aforesaid certificate, obtain the certificate from IIBF within a period of one year from the date of issuance of these Directions.
+
+J.2.3 Code of Conduct for recovery agents and NBFC employees
+
+100G. An NBFC, based on the instructions mentioned in these Directions, shall put in place a code of conduct for recovery agents and its own employees. Where a recovery agency has been engaged, the NBFC shall obtain an undertaking from the recovery agency that its recovery agents agree to abide by the code of conduct.
+
+J.3 Responsibilities of an NBFC
+
+J.3.1 Disclosure of information on recovery agencies
+
+100H. An NBFC shall make available an up-to-date list of recovery agencies empanelled with or engaged by it on all prominent channels through which it engages with customers, viz., branches / offices or digital platforms such as website, mobile app, etc., as applicable. Such list shall include the name and other details of the recovery agencies such as type (corporate / individual), correspondence address, the period of engagement, purpose of engagement (recovery / possession of security) and assigned geographical areas, if any. The NBFC shall update the list within seven calendar days of any modification to the list. However, in the event of termination of the agreement with a recovery agency for any reason, the NBFC shall immediately update such list.
+
+100I. While forwarding a case to any recovery agency for recovery of loan dues through in-person visit to the place of the borrower / guarantor, the NBFC shall notify the details of the recovery agency to the borrower / guarantor to ensure due intimation and proper authorisation, at least one day prior to the first visit, by sending a message and / or email on the registered mobile number / email address. Where the registered mobile number or email address is not available with the NBFC, such a notice shall be sent to the borrower / guarantor by way of a letter to his / her current address at least three days prior to the first visit.
+
+100J. In case of change of the recovery agency during an ongoing recovery process, the NBFC shall immediately notify the borrower / guarantor of the change.
+
+100K. In the event of termination of the agreement with a recovery agency for any reason, the NBFC shall immediately notify the same to the borrowers / guarantors, to whom such recovery agency was assigned, so as to ensure that they do not continue to deal with that agency or its recovery agents.
+
+J.3.2 Fair treatment to borrowers during recovery process
+
+100L. An NBFC shall ensure that the disclosure of any borrower’s / guarantor’s information to its employees / recovery agencies is limited to the extent required to enable them to discharge their loan recovery related duties. Further, the NBFC shall put in place mitigants, including penal provisions, to ensure that its employees / recovery agencies do not misuse any customer information in any manner.
+
+100M. Where a grievance related to the loan dues or recovery thereof has been lodged by a borrower, the NBFC shall not forward the concerned recovery case to an employee / recovery agency till it finally disposes of the grievance.
+
+100N. An NBFC shall document the time and number of calls made by its employee / recovery agent to the borrower / guarantor for recovery of loan dues. Further, the NBFC shall ensure that there is a recording of the content / text of the calls made by the employee / recovery agent to the borrower / guarantor and the calls made by the borrower / guarantor to the telephone / mobile number conveyed by the NBFC. The record shall be preserved for a period of six months from the date the call was made, or in cases which are sub judice, till they are disposed of. Further, the NBFC shall take reasonable precautions such as intimating the borrower / guarantor that the conversation is being recorded, etc.
+
+100O. An NBFC shall ensure that the recovery targets or the structure of incentives in the contract with a recovery agency do not induce adoption of harsh recovery practices as described at paragraph 100X below.
+
+J.3.3 Taking possession of security
+
+100P. Where an NBFC has incorporated a possession clause in the loan contract / agreement with a borrower and relies on such possession clause for enforcing its rights, the NBFC shall ensure that the possession clause is legally valid and that such possession clause is clearly brought to the notice of the borrower at the time of execution of the loan contract / agreement. Accordingly, the terms and conditions of the loan contract / agreement shall contain provisions regarding:
+
+(1) notice period before taking possession;
+
+(2) circumstances under which the notice period can be waived;
+
+(3) the procedure for taking possession of the security;
+
+(4) final chance to be given to the borrower for repayment of loan before the sale / auction of the security;
+
+(5) the procedure for giving the possession of the security back to the borrower; and
+
+(6) the procedure for sale / auction of the security.
+
+J.3.4 Deployment of technology-based mechanism for recovery of loan dues
+
+100Q. An NBFC shall not deploy any technology-based mechanism which restricts or disables any of the functionalities of a mobile device of a borrower such as mobile phone, tablet, etc., as a recovery tool, except to recover its loan dues arising out from financing of such a device. The NBFC may resort to such restriction or disablement of the functionalities of a mobile device provided the following conditions are satisfied:
+
+(1) The acquisition of the concerned mobile device is financed by the NBFC through a loan;
+
+(2) The loan contract / agreement expressly and unambiguously permits such an action. The contract / agreement shall specify, inter alia, the events that may trigger issuance of notice for loan recovery and imposition of restrictions on the functionalities of the device, means by which such notices shall be served, graduated approach that shall be employed to restrict the functionalities of the device in case of non-repayment of loan, time allowed to cure the loan default, grievance redressal mechanism, etc.;
+
+(3) A notice is issued to the borrower after the loan becomes 60 days past due , with at least 21 days of time being provided to the borrower to cure the default; and
+
+(4) Another notice has been given to the borrower after the expiry of the notice in paragraph 100Q(3) above with at least another 7 days of time being provided to the borrower to cure the default.
+
+Explanation: The NBFC shall not deploy the mechanism to restrict or disable the functionalities of the device until the associated loan has become 90 days past due and the borrower has not cured the default despite being served notices mentioned at paragraph 100Q(3) and (4) above.
+
+100R. An NBFC, deploying any technology-based mechanism for restricting or disabling the functionalities of a mobile device of a borrower, shall ensure adherence to the following:
+
+(1) The NBFC shall adopt a graduated approach rather than disabling the device, ab initio.
+
+(2) The NBFC shall not restrict / disable certain essential functionalities, such as access to internet, incoming calls, emergency SOS features, and receipt of emergency Government or public-safety notifications.
+
+(3) The NBFC shall ensure that the restrictions on device functionalities are reversed expeditiously, in any case within one hour of the borrower curing the default.
+
+(4) In cases involving wrongful restriction or delay in reversal of restriction in the device functionalities after the borrower cures the default, the lender shall compensate the borrower at the rate of ₹250 per hour till the wrongful action is remedied.
+
+(5) The technology-based mechanism deployed for restricting the functionalities of the mobile device shall be uninstalled soon after the loan is repaid in full.
+
+(6) The borrower shall have the right to prepay the loan, either partly or fully, at any stage.
+
+(7) The NBFC shall put in place a robust grievance redressal mechanism to resolve borrower’s grievances regarding delays and issues in unlocking of mobile device functionalities.
+
+100S. An NBFC shall neither access or use nor obtain or retain the data stored in the mobile device of a borrower for the purpose of loan recovery or any other purpose under any circumstances.
+
+J.3.5 Periodic review, monitoring and control
+
+100T. An NBFC shall put in place a management structure to monitor and control the activities of its recovery agencies and ensure that they refrain from actions that could damage the NBFC’s integrity and reputation. The NBFC shall ensure that its agreement with a recovery agency contains necessary provisions for achieving the same.
+
+100U. An NBFC, engaging recovery agencies, shall undertake a periodic review of the mechanism to learn from experience and to effect improvement therein.
+
+J.4 Conduct of NBFC’s employees and recovery agents
+
+100V. An NBFC’s employee and recovery agent, while visiting the borrower / guarantor for collection / recovery of loan dues / taking possession of security, shall identify themselves by displaying their identity card issued by the NBFC and recovery agency, respectively. The recovery agent shall also carry an authorisation letter issued by the NBFC or the recovery agency and a copy of the notice issued by the NBFC in terms of paragraph 100I above. The authorisation letter and the notice shall, among other details, include the telephone number of the / recovery agency and the grievance redressal officer appointed by the NBFC in terms of paragraph 100Y below.
+
+100W. An NBFC shall ensure that its employee / recovery agent engaged in activities related to collection / recovery of loan dues adheres to the following:
+
+(1) An employee / recovery agent shall discuss the matters related to the loan dues and collection / recovery thereof only with the borrower / guarantor, as applicable.
+
+(2) An employee / recovery agent shall interact with the borrower / guarantor in a civil manner. Further, he / she shall maintain decency and decorum during visits to the borrower’s / guarantor’s place for collection / recovery of loan dues.
+
+(3) Only the representative(s) authorised by the NBFC / recovery agency shall visit the borrower’s / guarantor’s premises for activities related to recovery of loan dues.
+
+(4) An employee / recovery agent shall contact / visit the borrower / guarantor only between 08:00 hours and 19:00 hours. Calls / visits earlier or later than the prescribed time period shall be done only when the borrower / guarantor has expressly given a request or authorisation to do so. Further, the borrower’s / guarantor’s request to avoid call / visit at a particular time shall be honoured in normal circumstances.
+
+(5) An employee / recovery agent shall ordinarily contact a borrower / guarantor at the place of the borrower’s / guarantor’s choice. In the absence of any specific choice or if the borrower / guarantor fails to appear at the chosen place on two or more successive occasions, the employee / recovery agent may contact the borrower / guarantor at the place of his / her residence or at the place of his / her business / occupation.
+
+(6) An employee / recovery agent shall avoid inappropriate occasions such as bereavement in the family or such other calamitous occasion, or marriage functions, etc. for making calls / visits to recover loan dues from a borrower / guarantor.
+
+(7) In case of microfinance loans, collection / recovery shall be made at a designated / central designated place decided mutually by the borrower and the NBFC. However, field staff shall be allowed to make collection / recovery at the place of residence or work of the borrower if the borrower fails to appear at the designated / central designated place on two or more successive occasions.
+
+(8) Written communication, if any, sent by an employee / recovery agent to the borrower / guarantor shall have prior approval of the NBFC and shall contain the name and contact details of the sender.
+
+(9) An employee / recovery agent shall promptly give proper acknowledgement / receipt on collection / recovery of loan dues from the borrower / guarantor.
+
+100X. An NBFC’s employee / recovery agent shall not engage in any harsh methods towards collection / recovery. Without limiting the general application of the foregoing, following practices shall be deemed as harsh:
+
+(1) Use of minatory or abusive language;
+
+(2) Use of social media for posting video / audio recordings or personal details of the borrower / guarantor;
+
+(3) Sending inappropriate messages either on mobile or through social media;
+
+(4) Excessively calling / messaging to the borrower / guarantor and / or calling / messaging outside the prescribed hours;
+
+(5) Making threatening and / or anonymous calls;
+
+(6) Intimidating or harassing the borrower / guarantor and / or his / her relatives, referees, friends, or co-workers in either verbal, physical or any other manner, including acts intended to humiliate them publicly or intruding upon their privacy;
+
+(7) Use or threat of use of violence or other similar means to harm the borrower / guarantor or their family / assets / reputation;
+
+(8) Making false or misleading representations to the borrower / guarantor, especially about the extent of the debt or the consequences of non-repayment.
+
+J.5 Complaints against NBFC’s employees and its recovery agents
+
+100Y. An NBFC shall have a dedicated mechanism for redressal of recovery related grievances. The details of this mechanism shall be provided to the borrower by including the same under the loan agreement and while advising the details of the recovery agency as at paragraph 100I above. Further, all recovery related communications issued by the NBFC must contain the name, email address, telephone number and address of the grievance redressal officer concerned of the NBFC whom the borrower / guarantor can contact.
+
+J.6 Adherence to other regulations issued by the Reserve Bank / other authorities
+
+100Z. In addition to the Directions mentioned herein, an NBFC shall also ensure compliance with any relevant guidelines issued by the Reserve Bank on related matters and also with guidelines issued by the relevant authorities from time to time, including the guidelines issued by Telecom Regulatory Authority of India (TRAI) on aspects related to commercial communication such as the Telecom Commercial Communications Customer Preference Regulations (TCCCPR), 2018, as amended from time to time.”
+
+(Veena Srivastava) Chief General Manager
+
+| () |
+| --- |
+| Draft - Reserve Bank of India (Non-Banking Financial Companies - Responsible Business Conduct) ……. Amendment Directions, 2026 |
+
+Top

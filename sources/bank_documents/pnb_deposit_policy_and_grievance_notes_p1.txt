@@ -1,0 +1,29 @@
+Title: Punjab National Bank - Deposit Policy and Grievance Redressal Notes
+Source URLs:
+- https://www.pnbindia.in/model-policy-on-bank-deposits.html
+- https://www.pnbindia.in/Citizen-grievance-redressal.html
+- https://www.pnbindia.in/download-form.html
+Source type: official PNB website notes / snapshots
+
+Use for FinTrust AI:
+- PNB-specific deposit account questions.
+- PNB-specific grievance redressal route.
+- PNB deceased account / nomination claim form discovery.
+
+Key points:
+- PNB publishes "Policy of the Bank For Domestic Resident Rupee Deposits" and policy links including KYC-AML Policy, Grievance Redressal Policy, Customer Compensation Policy, Model Policy on Bank Deposits, Cheque Collection Policy and Customer Rights Policy.
+- PNB grievance redressal starts with the concerned Branch Head.
+- PNB provides online grievance registration and complaint status tracking.
+- PNB endeavors to redress complaints within 15 working days.
+- For issues needing detailed investigation, PNB sends final response or reasons for further time within 30 days.
+- If unresolved within 30 days or unsatisfactory, customer may approach RBI Ombudsman under Integrated Ombudsman Scheme.
+- PNB forms page lists nomination forms and deceased account claim forms including cases where nomination is done and not done.
+
+Manual follow-up:
+- Download actual PDFs from PNB policy/download pages:
+  - Grievance Redressal Policy
+  - Customer Compensation Policy
+  - Cheque Collection Policy
+  - Customer Rights Policy
+  - Deposit Policy
+  - Deceased account claim forms

@@ -1,0 +1,90 @@
+[
+  {
+    "file": "regulatory_rbi/rbi_unauthorized_electronic_banking_customer_liability_2017.pdf",
+    "url": "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/NOTI1506072017.PDF",
+    "ok": false,
+    "returncode": 0,
+    "bytes": 627,
+    "stderr": "  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n100   627  100   627    0     0    718      0 --:--:-- --:--:-- --:--:--   718\n"
+  },
+  {
+    "file": "bank_documents/kotak_811_dream_different_kfs_grievance.pdf",
+    "url": "https://www.kotak.com/content/dam/Kotak/files/key-fact-statement/811DreamDifferent.pdf",
+    "ok": true,
+    "returncode": 0,
+    "bytes": 746201,
+    "stderr": "ed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n100   298    0   298    0     0    471      0 --:--:-- --:--:-- --:--:--   470\n\n100  163k    0  163k    0     0   129k      0 --:--:--  0:00:01 --:--:--  129k\n100  728k    0  728k    0     0   485k      0 --:--:--  0:00:01 --:--:-- 2326k\n"
+  },
+  {
+    "file": "bank_documents/kotak_white_reserve_kfs_grievance.pdf",
+    "url": "https://www.kotak.com/content/dam/Kotak/files/key-fact-statement/key-fact-statement-kfs-white-reserve.pdf",
+    "ok": true,
+    "returncode": 0,
+    "bytes": 122334,
+    "stderr": "  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n100   317    0   317    0     0   1090      0 --:--:-- --:--:-- --:--:--  1093\n\n100  119k  100  119k    0     0   218k      0 --:--:-- --:--:-- --:--:--  218k\n"
+  },
+  {
+    "file": "bank_documents/idfc_escalation_matrix_tat.pdf",
+    "url": "https://www.idfcfirstbank.com/content/dam/idfcfirstbank/grievance-redressal/List-of-escalation-matrix-with-TAT-v2-2.pdf",
+    "ok": true,
+    "returncode": 0,
+    "bytes": 272388,
+    "stderr": "d\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n\n100   341  100   341    0     0    576      0 --:--:-- --:--:-- --:--:--   576\n\n100  266k  100  266k    0     0   239k      0  0:00:01  0:00:01 --:--:--  239k\n"
+  },
+  {
+    "file": "bank_documents/idfc_credit_card_mitc.pdf",
+    "url": "https://www.idfcfirstbank.com/content/dam/idfcfirstbank/pdf/credit-card/MITC-Document-Customer.pdf",
+    "ok": true,
+    "returncode": 0,
+    "bytes": 15903883,
+    "stderr": "851k\n 86 15.1M   86 13.1M    0     0  1223k      0  0:00:12  0:00:11  0:00:01  687k\n 90 15.1M   90 13.7M    0     0  1174k      0  0:00:13  0:00:12  0:00:01  665k\n 94 15.1M   94 14.3M    0     0  1125k      0  0:00:13  0:00:13 --:--:--  598k\n 97 15.1M   97 14.8M    0     0  1078k      0  0:00:14  0:00:14 --:--:--  540k\n100 15.1M  100 15.1M    0     0  1059k      0  0:00:14  0:00:14 --:--:--  537k\n"
+  },
+  {
+    "file": "bank_documents/indusind_grievance_redressal_policy.pdf",
+    "url": "https://www.indusind.com/content/dam/regulatoryDisclosure/grievanceRedressal/grievance_redressal_policy.pdf",
+    "ok": false,
+    "returncode": 0,
+    "bytes": 266,
+    "stderr": "  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n100   266  100   266    0     0    310      0 --:--:-- --:--:-- --:--:--   310\n"
+  },
+  {
+    "file": "bank_documents/indusind_mitc_premium.pdf",
+    "url": "https://www.indusind.com/content/dam/indusind-corporate/credit-cards/MITC_Premium.pdf",
+    "ok": false,
+    "returncode": 0,
+    "bytes": 266,
+    "stderr": "  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n100   266  100   266    0     0    275      0 --:--:-- --:--:-- --:--:--   274\n"
+  },
+  {
+    "file": "bank_documents/rbl_credit_card_issuance_conduct_policy.pdf",
+    "url": "https://webassets.rblbank.com/document/bank-policies/policy-for-credit-card-issuance-and-conduct.pdf",
+    "ok": true,
+    "returncode": 0,
+    "bytes": 457089,
+    "stderr": "  0\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n\n  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0\n 74  446k   74  332k    0     0   128k      0  0:00:03  0:00:02  0:00:01  301k\n100  446k  100  446k    0     0   158k      0  0:00:02  0:00:02 --:--:--  335k\n"
+  },
+  {
+    "file": "bank_documents/yesbank_emi_mitc.pdf",
+    "url": "https://www.yesbank.in/content/published/api/v1.1/assets/CONT87622D44917E4AD7B2262766DAC01C2B/native/EMI_MITC_A4_Document_Digital_Version.pdf?download=false&channelToken=21f7ccfa2fc3401091938f541a6f8f2a",
+    "ok": true,
+    "returncode": 0,
+    "bytes": 1164,
+    "stderr": "ent\n                                 Dload  Upload   Total   Spent    Left  Speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n\n100  1164  100  1164    0     0    971      0  0:00:01  0:00:01 --:--:--   971\n"
+  },
+  {
+    "file": "bank_documents/yesbank_key_fact_statement.pdf",
+    "url": "https://www.yesbank.in/content/published/api/v1.1/assets/CONT07A77C257C7A4BDD85DB97E51D2B5B8F/native/yesbank_key_fact_statement.pdf?download=false&channelToken=21f7ccfa2fc3401091938f541a6f8f2a",
+    "ok": true,
+    "returncode": 0,
+    "bytes": 1164,
+    "stderr": "ent\n                                 Dload  Upload   Total   Spent    Left  Speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n\n100  1164  100  1164    0     0    905      0  0:00:01  0:00:01 --:--:--   905\n"
+  },
+  {
+    "file": "bank_documents/standard_chartered_grievance_redressal_policy.pdf",
+    "url": "https://av.sc.com/in/content/docs/in-updated-grevience-redressal.pdf",
+    "ok": true,
+    "returncode": 0,
+    "bytes": 389114,
+    "stderr": "rent\n                                 Dload  Upload   Total   Spent    Left  Speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n 14  379k   14 57296    0     0  50217      0  0:00:07  0:00:01  0:00:06 50215\n100  379k  100  379k    0     0   233k      0  0:00:01  0:00:01 --:--:--  233k\n"
+  }
+]

@@ -1,0 +1,630 @@
+Notifications - Reserve Bank of India
+
+Skip to main content
+
+Change Language हिंदी
+
+Search the Website Search
+
+# Notifications
+
+## Master Direction - Non-Banking Financial Company - Account Aggregator (Reserve Bank) Directions, 2016 (Updated as on September 06, 2024)
+
+RBI/DNBR/2016-17/46 Master Direction DNBR.PD.009/03.10.119/2016-17
+
+September 02, 2016 (Updated as on September 06, 2024) (Updated as on February 22, 2024) (Updated as on November 10, 2023) (Updated as on December 29, 2022) (Updated as on November 23, 2022) (Updated as on October 05, 2021) (Updated as on November 22, 2019)(Updated as on February 23, 2018) (Updated as on November 09, 2017)
+
+Master Direction - Non-Banking Financial Company - Account Aggregator (Reserve Bank) Directions, 2016
+
+The Reserve Bank of India, (the Bank), in exercise of the powers conferred under section 45JA of the Reserve Bank of India Act, 1934 (hereinafter referred to “the Act”), and of all the powers enabling it in this behalf, hereby issues these directions for compliance of the same by every non-banking financial company undertaking the business of Account Aggregator as defined herein.
+
+1. Short title, commencement and applicability of the directions :
+
+(i) These directions shall be known as the "Non-Banking Financial Company - Account Aggregator (Reserve Bank) Directions, 2016".
+
+(ii) These directions shall come into force with effect from the date of notification, by the Bank in the Official Gazette, of a non-banking institution that carries on 'the business of an account aggregator' to be a non-banking financial company, under sub-clause (iii) of clause (f) of section 45I of the Act.
+
+1A. 1Regulatory Structure under Scale Based Regulation for NBFCs
+
+Regulatory structure for NBFCs shall comprise of four layers based on their size, activity and perceived riskiness. NBFCs in the lowest layer shall be known as NBFCs-Base Layer. NBFCs in Middle Layer and Upper Layer shall be known as NBFCs-Middle Layer and NBFCs-Upper Layer respectively. The Top Layer is ideally expected to be empty and NBFCs in that Layer will be known as NBFCs-Top Layer. NBFC- Account Aggregator shall always remain in the Base Layer of the regulatory structure.
+
+2. Scope
+
+These directions provide a framework for the registration and operation of Account Aggregator in India.
+
+3. Definitions
+
+(1) In these directions unless the context otherwise requires,
+
+i. “Account Aggregator” means a non-banking financial company as notified under in sub-clause (iii) of clause (f) of section 45-I of the Act, that undertakes the business of an account aggregator, for a fee or otherwise, as defined at clause (iv) of sub-section 1 of section 3 of these directions.
+
+ii. "bank" means -
+
+a banking company; or
+
+a corresponding new bank; or
+
+the State Bank of India; or
+
+a subsidiary bank; or
+
+such other bank which the Bank may, by notification, specify for the purposes of these directions; and
+
+a co-operative bank as defined under clause (cci) of section 5 read with section 56 of the Banking Regulation Act, 1949 (10 of 1949);
+
+iii. "Banking company" means a banking company as defined in clause (c) of section 5 of the Banking Regulation Act, 1949 (10 of 1949);
+
+iv. “business of an account aggregator” means the business of providing under a contract, the service of,
+
+retrieving or collecting such financial information pertaining to its customer, as may be specified by the Bank from time to time;
+
+and
+
+consolidating, organizing and presenting such information to the customer or any other financial information user as may be specified by the Bank;
+
+Provided that, the financial information pertaining to the customer shall not be the property of the Account Aggregator, and not be used in any other manner.
+
+v. “Company” means a company registered under section 3 of the Companies Act, 1956 or a company registered under sub section (20) of section 2 of the Companies Act, 2013;
+
+vi. “Customer” for the purpose of these directions means a ‘person’ who has entered into a contractual arrangement with the Account Aggregator to avail services provided by the Account Aggregator;
+
+vii. “Depository” means a company which has been granted a certificate of registration under sub-section (1A) of section 12 of the Securities and Exchange Board of India Act, 1992;
+
+viii. “Depository Participant” means a person registered under sub-section (1A) of section 12 of the Securities and Exchange Board of India Act, 1992;
+
+viii (a). “Dividend Payout Ratio” means the ratio between the amount of the dividend payable in a year and the net profit as per the audited financial statements for the financial year for which the dividend is proposed. Proposed dividend shall include both dividend on equity shares and compulsory convertible preference shares eligible for inclusion in Tier I Capital/ owned funds. In case the net profit for the relevant period includes any exceptional and/or extra-ordinary profits/ income or the financial statements are qualified (including ’emphasis of matter’) by the statutory auditor that indicates an overstatement of net profit, the same shall be reduced from net profits while determining the Dividend Payout Ratio.
+
+ix. “Financial Information” means information in respect of the following with financial information providers:
+
+bank deposits including fixed deposit accounts, savings deposit accounts, recurring deposit accounts and current deposit accounts,
+
+Deposits with NBFCs
+
+Structured Investment Product (SIP)
+
+Commercial Paper (CP)
+
+Certificates of Deposit (CD)
+
+Government Securities (Tradable)
+
+Equity Shares
+
+Bonds
+
+Debentures
+
+Mutual Fund Units
+
+Exchange Traded Funds
+
+Indian Depository Receipts
+
+CIS (Collective Investment Schemes) units
+
+Alternate Investment Funds (AIF) units
+
+Insurance Policies
+
+Balances under the National Pension System (NPS)
+
+Units of Infrastructure Investment Trusts
+
+Units of Real Estate Investment Trusts
+
+Goods and Services Tax (GST) Returns, viz. Form GSTR-1 and Form GSTR-3B
+
+Any other information as may be specified by the Bank for the purposes of these directions, from time to time;
+
+x. “Financial Sector regulator” for the purpose of these directions, shall mean the Reserve Bank of India, Securities and Exchange Board of India, Insurance Regulatory and Development Authority, Pension Fund Regulatory and Development Authority and Department of Revenue2, Ministry of Finance;
+
+xi. “Financial information provider” means bank, banking company, non-banking financial company, asset management company, depository, depository participant, insurance company, insurance repository, Central Recordkeeping Agency3, Goods and Services Tax Network (GSTN)4, Clearing Corporation of India Limited5 and such other entity as may be identified by the Bank for the purposes of these directions, from time to time;
+
+Note: Clearing Corporation of India Limited shall provide financial information on Government Securities held by retail investors in their Retail Direct Gilt accounts under Retail Direct Scheme.
+
+xii. “Financial information user” means an entity registered with and regulated by any financial sector regulator;
+
+xiii. “Insurance Repository” means a company formed under the Companies Act, 1956 and which has been granted a certificate of registration by Insurance Regulatory and Development Authority (IRDA) for maintaining data of insurance policies in electronic form on behalf of insurers.
+
+xiv. “Leverage Ratio” means the ratio of the Outside Liabilities excluding borrowings/ loans from the group entities to Owned Funds.
+
+xv. “Non-banking financial company” means a company registered under the Companies Act and which has been granted certificate of registration by the Bank under section 45IA of the Act;
+
+xvi. "Person" means
+
+an individual,
+
+a Hindu undivided family,
+
+a company,
+
+a firm,
+
+an association of persons or a body of individuals, whether incorporated or not, and
+
+every artificial juridical person, not falling within any of the preceding sub-clauses.
+
+(2) Words or expressions used in these directions but not defined herein but defined in the Act, shall have the same meaning as assigned to them under the Act. Any other words or expressions not defined in the Act, shall have the same meaning assigned to them in the Companies Act, 1956/ 2013.
+
+4. Registration and matters incidental thereto
+
+4.1 (a) No entity other than a company shall undertake the business of an Account Aggregator.
+
+(b) No company shall commence or carry on the business of an Account Aggregator without obtaining a certificate of registration from the Bank.
+
+Provided that, entities being regulated by other financial sector regulators and aggregating only those accounts relating to the financial information pertaining to customers of that particular sector will be excluded from the above registration requirement.
+
+(c) Subject to the above proviso, entities that are undertaking the business of an Account Aggregator, as defined at paragraph 3(iv) of these directions, as on the date of effect of these directions, shall apply for registration as an Account Aggregator, in compliance with these directions, to the Bank within a month from that date. Such companies, which have applied to the Bank for registration as an NBFC - Account Aggregator, shall be permitted to continue the business of an Account Aggregator till their application for issue of Certificate of Registration is rejected or twelve months from date of the application, whichever is earlier.
+
+(d) Every company seeking registration with the Bank as an Account Aggregator shall have a net owned fund of not less than rupees two crore, or such higher amount as the Bank may specify.
+
+Provided that, those companies not having a Net Owned Fund of minimum of Rupees two crore at the time of seeking registration, shall meet the Net Owned Fund criteria within the period of validity of the in-principle approval for grant of certification of registration given by the Bank.
+
+4.2 Process of registration
+
+4.2.1 Every company seeking registration as an NBFC-Account Aggregator shall make an application for registration to the Department of Regulation, Mumbai of the Bank, in the form specified by the Bank for the purpose at Annex 1.
+
+4.2.2 The Bank for the purpose of considering the application for registration shall require to be satisfied that the following conditions are fulfilled:-
+
+The company has the necessary resources and wherewithal to offer such services to customers.
+
+The company has the adequate capital structure to undertake the business of an account aggregator.
+
+The promoters of the company are fit and proper.
+
+The general character of the management or proposed management of the company are not prejudicial to the public interest.
+
+The company has a plan for a robust Information Technology system.
+
+The company shall not have a leverage ratio of more than seven.
+
+That the public interest shall be served by the grant of certificate of registration to the Account Aggregator to commence or to carry on the business in India.
+
+Any other condition that made be specified by the Bank from time to time, the fulfilment of which in the opinion of the Bank shall be necessary to ensure that the commencement of or carrying on the business in India shall not be prejudicial to the public interest.
+
+4.2.3 The Bank may, after being satisfied that the conditions specified under paragraph 4.2.2 are fulfilled, grant in-principle approval for registering as an Account Aggregator subject to such conditions as it may consider fit to impose.
+
+4.2.4 The validity of the in-principle approval issued by the Bank will be twelve months from the date of granting such in-principle approval.
+
+4.2.5 Within the period of twelve months, the company shall put in place the technology platform, enter into all other legal documentations required to be ready for operations and report position of compliance with the terms of grant of in-principle approval to the Bank. The Bank may, after being satisfied that the company is ready to commence operations and in compliance with the registration requirements, grant it a Certificate of Registration as an NBFC - Account Aggregator subject to such conditions as it may consider fit to impose.
+
+4.2.6 The Bank may cancel the certificate of registration granted to an Account Aggregator, if such company -
+
+(a) ceases to carry on the business of an Account Aggregator in India; or
+
+(b) has failed to comply with any condition subject to which the certificate of registration has been issued to it; or
+
+(c) it comes to the notice of the Bank that the Account Aggregator is no longer eligible to hold the certificate of registration; or
+
+(d) at any time fails to fulfill any of the conditions referred to in paragraphs 4.2.2 and 4.2.5; or
+
+(e) fails to -
+
+comply with any direction issued by the Bank; or
+
+maintain accounts, publish and disclose its financial position in accordance with the requirements of any law or any direction or order issued by the Bank; or
+
+submit or offer for inspection its books of account or other relevant documents when so demanded by the Bank.
+
+4.3 Investment from FATF non-compliant jurisdictions6
+
+4.3.1 Investments in NBFC-AA from FATF non-compliant jurisdictions shall not be treated at par with that from the compliant7 jurisdictions. New investors from or through non-compliant FATF jurisdictions, whether in existing NBFC-AA or in companies seeking Certification of Registration (COR), should not be allowed to directly or indirectly acquire ‘significant influence’ in the investee, as defined in the applicable accounting standards. In other words, fresh investors (directly or indirectly) from such jurisdictions in aggregate should be less than the threshold of 20 per cent of the voting power (including potential8 voting power) of the NBFC-AA.
+
+4.3.2 Investors in existing NBFC-AAs holding their investments prior to the classification of the source or intermediate jurisdiction/s as FATF non-compliant, may continue with the investments or bring in additional investments as per extant regulations so as to support continuity of business in India.
+
+5. Duties and Responsibilities of an Account Aggregator
+
+Account Aggregator shall provide services to a customer based on the customer’s explicit consent.
+
+Account Aggregator shall ensure that the providing of services to a customer. shall be backed by appropriate agreements/ authorisations between the Account Aggregator, the customer and the Financial information providers.
+
+Account Aggregator shall not support transactions by customers.
+
+Account Aggregator shall ensure appropriate mechanisms for proper customer identification.
+
+Account Aggregator shall share information as referred to under paragraph 3(iv) only with the customer to whom it relates or any other financial information user as authorized by the customer in accordance with the terms of the consent provided by the customer.
+
+Account Aggregator shall not undertake any other business other than the business of account aggregator. Deployment of investible surplus by an Account Aggregator in instruments, not for trading, shall however be permitted.
+
+No financial information of the customer accessed by the Account Aggregator from the financial information providers shall reside with the Account Aggregator.
+
+Account Aggregator shall not use the services of a third party service provider for undertaking the business of account aggregation.
+
+User authentication credentials of customers relating to accounts with various financial information providers shall not be accessed by the Account Aggregator.
+
+Account Aggregator shall have a Citizen's Charter that explicitly guarantees protection of the rights of a customer. The Account Aggregator shall not part with any information that it may come to acquire from/ on behalf of a customer without the explicit consent of the customer.
+
+In the event of any difference in position of financial information in the statement generated by/from the Account Aggregator and the books of the Financial information provider, the position as reflected in the records of the Financial information provider shall be considered as correct.
+
+6. Consent Architecture
+
+6.1 No financial information of the customer shall be retrieved, shared or transferred by the Account Aggregator without the explicit consent of the customer.
+
+6.2 An Account Aggregator shall perform the function of obtaining, submitting and managing the customer’s consent in accordance with these directions.
+
+6.3 The consent of the customer obtained by the Account Aggregator shall be a standardised consent artefact which shall contain the following details, namely:—
+
+identity of the customer and optional contact information;
+
+the nature of the financial information requested;
+
+purpose of collecting such information;
+
+the identity of the recipients of the information, if any;
+
+URL or other address to which notification needs to be sent every time the consent artefact is used to access information
+
+Consent creation date, expiry date, identity and signature/ digital signature of the Account Aggregator; and
+
+any other attribute as may be prescribed by the Bank.
+
+6.4 The consent artefact can also be obtained in electronic form.
+
+6.5 At the time of obtaining consent, the Account Aggregator shall inform the customer of all necessary attributes to be contained in the consent artefact as per paragraph 6.3 above and the right of the customer to file complaints with relevant authorities in case of non-redressal of grievances.
+
+6.6 An Account Aggregator shall also provide its customers a functionality to revoke consent to obtain information that is rendered accessible by a consent artefact, including the ability to revoke consent to obtain parts of such information. Upon revocation, a fresh consent artefact shall be shared with the Financial Information provider.
+
+6.7 An electronic consent artefact shall be capable of being logged, audited and verified.
+
+7. Sharing of financial information by Financial Information providers upon valid consent artefact being presented
+
+7.1 Financial Information providers shall share financial information of a customer with an Account Aggregator on being presented a valid consent artefact by an Account Aggregator in accordance with Clause 6.
+
+7.2 Upon being presented the consent artefact, the Financial Information provider shall verify:
+
+(a) validity of consent
+
+(b) specified dates and usage; and
+
+(c) the credentials of the Account Aggregator
+
+through appropriate means.
+
+7.3 Upon due verification, the Financial Information providers shall digitally sign the financial information and securely transmit the same to the Account Aggregator in accordance with the terms contained in the consent artefact.
+
+7.4 All responses of the Financial Information provider shall be in real time.
+
+7.5 To enable these data flows, the Financial Information providers shall:
+
+implement interfaces that will allow an Account Aggregator to submit consent artefacts, and authenticate each other, and would enable secure flow of financial information to the Account Aggregator;
+
+adopt means to verify the consent including digital signatures, if any, contained in the consent artefact;
+
+implement means to digitally sign the financial information that is shared by them about the customers;
+
+maintain a log of all information sharing requests and the actions performed by them pursuant to such requests, and submit the same to the Account Aggregator.
+
+7.6 Use of information by Account Aggregator and Financial Information user
+
+7.6.1 Where financial information has been provided by a Financial Information provider to an Account Aggregator for transferring to a Financial Information user with the customer's explicit consent, the Account Aggregator shall:
+
+verify the identity of the Financial Information user; and, if verified,
+
+securely transfer the customer’s information to the intended recipient in accordance with the terms of the consent artefact.
+
+7.6.2 Where financial information has been provided by a Financial Information provider to an Account Aggregator for transferring to the customer or to a Financial Information user, it shall not be used or disclosed by an Account Aggregator or the Financial Information user except as may be specified in the consent artefact.
+
+7.7 Joining the Account Aggregator Ecosystem as Financial Information User9
+
+With a view to ensure efficient and optimum utilisation of the Account Aggregator ecosystem, regulated entities of the Reserve Bank joining the Account Aggregator ecosystem as Financial Information User shall necessarily join as Financial Information Provider also, if they hold the specified financial information and fall under the definition of Financial Information Provider.
+
+8. Data Security
+
+(a) Business of an Account Aggregator will be entirely Information Technology (IT) driven. Account Aggregator shall adopt required IT framework and interfaces to ensure secure data flows from the Financial Information providers to its own systems and onwards to the Financial Information users.
+
+(b) Account Aggregator shall not request or store customer credentials (like passwords, PINs, private keys) which may be used for authenticating customers to the Financial Information providers. Access by Account Aggregators to customer’s information shall only be based on consent-based authorisation.
+
+(c) The technology should also be scalable to cover any other financial information or financial information provider as may be specified by the Bank in future.
+
+(d) There shall be adequate safeguards built in its IT systems to ensure that it is protected against unauthorised access, alteration, destruction, disclosure or dissemination of records and data.
+
+(e) Appropriate measures for Disaster Risk Management and Business Continuity shall be in place.
+
+(f) Information System Audit of the internal systems and processes shall be in place and shall be conducted at least once in two years by CISA certified external auditors. Report of the external auditor shall be submitted to the Regional Office of the Department of Supervision of the Bank, under whose jurisdiction the Registered Office of the Account Aggregator is located, within one month of submission of the report by the external auditor.
+
+8A. Guidance Note on Operational Risk Management and Operational Resilience
+
+NBFC-AA may make use of the‘Guidance Note on Operational Risk Management and Operational Resilience’ dated April 30, 2024, as amended from time to time.
+
+9. Technical Specification for all participants of the Account Aggregator ecosystem
+
+9.1 The NBFC-AA consolidates financial information of a customer held with different financial entities under different financial sector regulators. In order to ensure that movement of data among different financial entities, spread across financial sector regulators adopting different IT systems and interfaces; is secured, duly authorised, smooth and seamless, a set of core technical specifications for the participants of the AA ecosystem have been framed by Reserve Bank Information Technology Private Limited (ReBIT), and published the same on its website (www.rebit.org.in).
+
+9.2 All regulated entities of the Bank, acting either as NBFC-AA or Financial Information Providers or Financial Information Users are expected to adopt the technical specifications published by ReBIT, as updated from time to time.
+
+9.3 The document referred to in para 9.1 above only provides specifications for Application Programming Interfaces (API). It shall be the responsibility of the NBFC-AA to ensure that its IT systems have all features necessary to carry out its functions strictly in conformity with the NBFC-AA Master Directions as updated from time to time.
+
+10. Rights of the customer
+
+a) An Account Aggregator shall enable the customer to access a record of the consents provided by him and the Financial Information users with whom the information has been shared.
+
+b) An Account Aggregator shall not use or access any customer information other than for performing the business of account aggregator explicitly requested by the customer.
+
+11. Customer Grievance
+
+11.1 An account aggregator shall have in place a Board approved policy for handling/ disposal of customer grievances/ complaints. It shall have a dedicated set-up to address customer grievances/ complaints.
+
+11.2 Customer complaints shall be handled/ disposed of by the Account Aggregator within such time and in such manner as provided for in its Board approved policy, but in any case not beyond a period of one month from its receipt.
+
+11.3 At the operational level, Account Aggregator shall display the following information prominently, for the benefit of customers, on the website and at the place/s of business:
+
+(a) the name and contact details (Telephone / Mobile nos. as also email address) of the Grievance Redressal Officer who can be approached by the public for resolution of complaints against the company.
+
+(b) that if the complaint / dispute is not redressed within a period of one month, the customer may appeal to the Bank.
+
+12. Reserve Bank – Integrated Ombudsman Scheme, 2021
+
+NBFCs covered under the Reserve Bank – Integrated Ombudsman Scheme, 2021(RBIOS, 2021) shall comply with the directions provided under the said Scheme.
+
+13. Pricing
+
+13.1 An Account Aggregator would require to have a Board approved policy for pricing of services. Pricing of services will be in strict conformity with the internal guidelines adopted by the Account Aggregator which need to be transparent and available in public domain.
+
+14. Corporate Governance
+
+14.1 An Account Aggregator shall have adequate internal mechanisms for reviewing, monitoring and evaluating its controls, systems, procedures and safeguards. The integrity of the IT systems shall be maintained at all times and all necessary precautions taken to ensure that the records are not lost, destroyed or tampered with.
+
+14.1A 10Experience of the Board
+
+Considering the need for professional experience in managing the affairs of the NBFC-AA, at least one of the directors shall have relevant experience of having worked in a bank/NBFC.
+
+14.2 Audit Committee
+
+14.2.1 An Account Aggregator shall constitute an Audit Committee, consisting of not less than three members of its Board of Directors.
+
+Explanation I: If NBFC-AA is required to constitute Audit Committee under Section 177 of the Companies Act, 2013, the Audit Committee so constituted by it shall be treated as the Audit Committee for the purpose of this paragraph.
+
+Explanation II : The Audit Committee constituted under this paragraph shall have the same powers, functions and duties as laid down in Section 177 of the Companies Act, 2013.
+
+14.3 Nomination Committee
+
+14.3.1 An Account Aggregator shall form a Nomination Committee consisting of not less than three members of its Board of Directors to ensure 'fit and proper' status of proposed/ existing directors.
+
+Explanation I: The Nomination Committee constituted under this paragraph shall have the same powers, functions and duties as laid down in Section 178 of the Companies Act, 2013.
+
+Explanation II: If NBFC-AA is required to constitute Nomination and Remuneration Committee (NRC) under section 178 of the Companies Act, 2013, the NRC so constituted by it shall be treated as the Nomination Committee for the purpose of this paragraph.
+
+14.4 Risk Management Committee
+
+14.4.1 The account aggregator shall establish a well-documented risk management framework which shall include
+
+a) A sound and robust technology risk management framework;
+
+b) Strengthening system security, reliability, resiliency, and recoverability; and
+
+c) Deploying strong authentication to protect access to customer data and systems.
+
+14.4.2 To manage the integrated risk and evaluate overall risks faced, an Account Aggregator shall form a Risk Management Committee either at the Board or executive level, consisting of not less than three members of its Board of Directors. The Risk Management Committee shall
+
+a) give due consideration to factors such as reputation, customer confidence, consequential impact and legal implications, with regard to investment in controls and security measures for computer systems, networks, data centres, operations and backup facilities.
+
+b) have oversight of technology risks and ensure that the organisation’s IT function is capable of supporting its business strategies and objectives.
+
+14.5 Fit and Proper Criteria
+
+14.5.1 An Account Aggregator shall
+
+i. ensure that a policy is put in place with the approval of the Board of Directors for ascertaining the fit and proper criteria of the directors/ managing director/ CEO at the time of appointment, and on a continuing basis. The policy on the fit and proper criteria shall be on the lines of the Guidelines contained in Annex 4;
+
+ii. obtain a declaration and undertaking from the directors/ managing director/ CEO giving additional information on the directors/ managing director/ CEO. The declaration and undertaking shall be on the lines of the format given in Annex 5;
+
+iii. obtain a Deed of Covenant signed by the directors/ managing director/ CEO, which shall be in the format as given in Annex 6;
+
+iv. furnish to the Bank an annual statement on change of directors/ managing director/ CEO duly certified by the Statutory Auditors that fit and proper criteria in selection of the directors has been followed. The statement must reach the Regional Office of the Bank within 15 days of the close of the year.
+
+14.6 11Disclosure Requirements:
+
+NBFC-AA shall comply with the disclosure requirements specified in Section I of Annex VII of the Master Direction – Reserve Bank of India (Non-Banking Financial Company – Scale Based Regulation) Directions, 2023(read with General instructions for such disclosures contained in Annex VII), as amended from time to time. These disclosures are in addition to and not in substitution of the disclosure requirements specified under other laws, regulations, or accounting and financial reporting standards. More comprehensive disclosures than the minimum required are encouraged, especially if such disclosures significantly aid in the understanding of the financial position and performance.
+
+15. Requirement to obtain prior approval of the Bank for acquisition or transfer of control of Account Aggregators –
+
+15.1 (i) The prior written permission of the Bank shall be required for -
+
+a) any takeover or acquisition of control of an Account Aggregator, which may or may not result in change of management;
+
+b) any change in the shareholding of an Account Aggregator, including progressive increases over time, which would result in acquisition / transfer of shareholding of 26 per cent or more of the paid up equity capital of the Account Aggregator.
+
+Provided that, prior approval would not be required in case of any shareholding becoming 26% or more due to buyback of shares / reduction in capital where it has approval of a competent Court. The same is to be reported to the Bank not later than one month from its occurrence;
+
+c) any change in the management of the Account Aggregator which would result in change in more than 30 per cent of the directors, excluding independent directors.
+
+Provided that, prior approval would not be required in case of directors who get re-elected on retirement by rotation.
+
+d) any change in shareholding that will give the acquirer a right to nominate a director.
+
+15.2 Application for prior approval
+
+(i) An Account Aggregator shall submit an application, on the company letter head, for obtaining prior approval of the Bank, along with the following documents:
+
+a) Information about the proposed promoters/ directors/ shareholders of the company as per Annex 2 and information about the proposed corporate promoters of the company as per Annex 3;
+
+b) Sources of funds of the proposed shareholders acquiring the shares in the Account Aggregators; and
+
+c) Bankers' Report on the proposed directors / shareholders.
+
+(ii) Applications in this regard may be submitted to the Regional Office of the Department of Supervision of the Bank where it is registered.
+
+15.3 Public notice about change in control/ management
+
+i. A public notice of at least 30 days shall be given before effecting the sale of, or transfer of the ownership by sale of shares, or transfer of control, whether with or without sale of shares. Such public notice shall be given by the Account Aggregator and also by the other party or jointly by the parties concerned, after obtaining the prior permission of the Bank.
+
+ii. The public notice shall indicate the intention to sell or transfer ownership/ control, the particulars of transferee and the reasons for such sale or transfer of ownership/ control. The notice shall be published in at least one leading national and in one leading local (covering the place of registered office) vernacular newspaper.
+
+15.4 Information with respect to change of address, directors, auditors, etc. to be submitted
+
+Every Account Aggregator shall communicate, not later than one month from the occurrence of any change in :
+
+(a) the complete postal address, telephone number/s and fax number/s of the registered / corporate office;
+
+(b) the names and residential addresses of the directors of the company;
+
+(c) the names and office address of the auditors of the company; and
+
+(d) the specimen signatures of the officers authorised to sign on behalf of the company
+
+to the Regional Office of the Department of Supervision of the Bank in whose jurisdiction the Registered Office of the Account Aggregator is located.
+
+15.5 Investment from FATF non-compliant jurisdictions
+
+AAs shall also ensure compliance to the instructions as specified in the Paragraph 4.3 of these directions.
+
+15A. Declaration of dividends by NBFC-AAs12
+
+NBFC-AAs shall comply with the following guidelines to declare dividends.
+
+15A.1 The Board of Directors, while considering the proposals for dividend, shall take into account each of the following aspects:
+
+(i) Qualifications in the Auditors Report to the financial statements.
+
+(ii) Long term growth plans of the NBFC-AA.
+
+15A.2 NBFC-AAs that meet the following minimum prudential requirements shall be eligible to declare dividend:
+
+(i) NBFC-AAs shall have met the leverage ratio requirements prescribed under paragraph 4 of this Master Direction in each of the last three13 financial years including the financial year for which the dividend is proposed.
+
+(ii) NBFC-AAs shall comply with the provisions of Section 45 IC of the Reserve Bank of India Act, 1934.
+
+(iii) NBFC-AAs shall be compliant with the prevailing regulations/ guidelines issued by the Reserve Bank. The Reserve Bank shall not have placed any explicit restrictions on declaration of dividend.
+
+15A.3 NBFC-AAs that meet the eligibility criteria specified in paragraph 15A.2 above can declare dividend upto a dividend payout ratio of 50 per cent. There will be no ceiling on dividend payout ratio for eligible AAs that do not accept public funds.
+
+15A.4 An NBFC-AA which does not meet the applicable leverage ratio requirements as above, for each of the last three financial years, shall be eligible to declare dividend, subject to a cap of 10 per cent on the dividend payout ratio, provided the NBFC-AA meets the applicable leverage ratio requirement, as per this Master Direction, in the financial year for which it proposes to pay dividend.
+
+15A.5 The Board shall ensure that the total dividend proposed for the financial year does not exceed the ceilings specified in these guidelines. The Reserve Bank shall not entertain any request for ad-hoc dispensation on declaration of dividend.
+
+15A.6 NBFC-AAs declaring dividend shall report details of dividend declared during the financial year as per the format prescribed below.
+
+| Details of dividend declared during the financial year |
+| --- |
+| Name of the NBFC-AA |
+| Accounting period * | Net profit for the accounting period (₹ crore) | Rate of dividend (per cent) | Amount of dividend (₹ crore) | Dividend Payout ratio (per cent) |
+| * quarter or half year or year ended ----- as the case may be; |
+
+The report shall be furnished within a fortnight after declaration of dividend to the Regional Office of the Department of Supervision of the Reserve Bank.
+
+16. Managing Risks and Code of Conduct in Outsourcing of Financial Services by NBFC-AA.
+
+Every Account Aggregator shall conduct a self-assessment of their existing outsourcing arrangements and bring these in line with the directions as provided at Annex 7.
+
+17. Returns
+
+The Bank may, from time to time, prescribe return/s to be submitted by Account Aggregator as deemed fit.
+
+18. Supervision
+
+The Bank may, at any time, cause an inspection by one or more of its officers or employees or other persons, of any Account Aggregator and at any intervals as it deems fit.
+
+19. Exemptions
+
+19.1 The Bank may, if it considers necessary for avoiding any hardship or for any other just and sufficient reason, grant extension of time to comply with or exempt any company or class of companies or all companies, from all or any of the provisions of these guidelines either generally or for any specified period, subject to such conditions as the Bank may impose.
+
+19.2 The Bank can give any clarification in respect of the above directions and such clarification shall be treated as part of these directions. The directions can be amended by the Bank from time to time.
+
+(J. P. Sharma) Chief General Manager
+
+---
+
+1 Vide circular DOR.CRE.REC.No.60/03.10.001/2021-22 dated October 22, 2021.
+
+2 Vide circular DoR.FIN.REC.82/03.10.123/2022-23 dated November 22, 2022. Department of Revenue is regulator for specific purpose of inclusion of GSTN as Financial Information Provider.
+
+3 Vide circular DoR.FIN.REC.52/03.10.123/2023-24 dated October 26, 2023
+
+4 Vide circular DoR.FIN.REC.82/03.10.123/2022-23 dated November 23, 2022
+
+5 Vide circular DoR.FIN.REC.77/03.10.123/2023-24 dated February 22, 2024
+
+6 Vide circular DOR.CO.LIC.CC No.119/03.10.001/2020-21 dated February 12, 2021.
+
+7 The Financial Action Task Force (FATF) periodically identifies jurisdictions with weak measures to combat money laundering and terrorist financing (AML/CFT) in its following publications: i) High-Risk Jurisdictions subject to a Call for Action, and ii) Jurisdictions under Increased Monitoring. A jurisdiction, whose name does not appear in the two aforementioned lists, shall be referred to as a FATF compliant jurisdiction.
+
+8 Potential voting power could arise from instruments that are convertible into equity, other instruments with contingent voting rights, contractual arrangements, etc. that grant investors voting rights (including contingent voting rights) in the future. In such cases, it should be ensured that new investments from FATF non-compliant jurisdictions are less than both (i) 20 per cent of the existing voting powers and (ii) 20 per cent of existing and potential voting powers assuming those potential voting rights have materialised.
+
+9 Vide circular DoR.FIN.REC.53/03.10.123/2023-24 dated October 26, 2023
+
+10 Vide circular DOR.CRE.REC.No..60/03.10.001/2021-22 dated October 22, 2021.
+
+11 Vide circular DOR.CRE.REC.No.60/03.10.001/2021-22 dated October 22, 2021.
+
+12 Vide Circular DOR.ACC.REC.No.23/21.02.067/2021-22 dated June 24, 2021.
+
+13 Where an AA has been in existence for less than three financial years, it shall be since registration.
+
+| () |
+| --- |
+
+## 2026
+
+## 2025
+
+## 2024
+
+## 2023
+
+## 2022
+
+## 2021
+
+## 2020
+
+## 2019
+
+## 2018
+
+## 2017
+
+## Archives
+
+## 2016
+
+## 2015
+
+## 2014
+
+## 2013
+
+## 2012
+
+## 2011
+
+## 2010
+
+## 2009
+
+## 2008
+
+## 2007
+
+## 2006
+
+## 2005
+
+## 2004
+
+## 2003
+
+## 2002
+
+## 2001
+
+## 2000
+
+## 1999
+
+## 1998
+
+## 1997
+
+## 1996
+
+## 1995
+
+## 1994
+
+## 1993
+
+## 1992
+
+## 1991
+
+Top

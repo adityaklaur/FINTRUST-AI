@@ -1,0 +1,215 @@
+FAQ | DICGC
+
+Chat with DIA
+
+DIA
+
+The DICGC Assistant
+
+Get Started with DICGC Assistant!
+
+Happy to help you.
+
+I have read, understood and accepted all the Terms & Conditions
+
+Get Started!
+
+##### FAQs
+
+- Depositors
+- Liquidators
+- Banks
+
+Expand All
+
+## Which banks are insured by the DICGC ?
+
+Commercial Banks : All commercial banks including branches of foreign banks functioning in India, local area banks and regional rural banks are insured by the DICGC. Cooperative Banks : All State, Central and Primary cooperative banks, also called urban cooperative banks, functioning in States / Union Territories which have amended the local Cooperative Societies Act empowering the Reserve Bank of India (RBI) to order the Registrar of Cooperative Societies of the State / Union Territory to wind up a cooperative bank or to supersede its committee of management and requiring the Registrar not to take any action regarding winding up, amalgamation or reconstruction of a co-operative bank without prior sanction in writing from the RBI are covered under the Deposit Insurance Scheme. At present all co-operative banks are covered by the DICGC. Primary cooperative societies are not insured by the DICGC.
+
+## What does the DICGC insure?
+
+The DICGC insures all deposits such as savings, fixed, current, recurring, etc. deposits except the following types of deposits Deposits of foreign Governments; Deposits of Central/State Governments; Inter-bank deposits; Any amount due on account of any deposit received outside India Any amount, which has been specifically exempted by the corporation with the previous approval of Reserve Bank of India
+
+## What is the maximum deposit amount insured by the DICGC?
+
+Each depositor in a bank is insured upto a maximum of ₹ 5,00,000 (Rupees Five Lakhs) for both principal and interest amount held by him in the same right and same capacity as on the date of liquidation/cancellation of bank's license or the date on which the scheme of amalgamation/merger/reconstruction comes into force/imposition of “All Inclusive Directions” on the bank by the Reserve Bank of India, with restrictions on withdrawal of deposits.
+
+## How will you know whether your bank is insured by the DICGC or not?
+
+The DICGC while registering the banks as insured banks furnishes them with printed leaflets for display giving information relating to the protection afforded by the Corporation to the depositors of the insured banks. In case of doubt, depositor should make specific enquiry from the branch official in this regard.
+
+## What is the ceiling on amount of Insured deposits kept by one person in different branches of a bank?
+
+The deposits kept in different branches of a bank are aggregated for the purpose of insurance cover and a maximum amount of upto Rupees five lakhs is paid.
+
+## Does the DICGC insure just the principal on an account or both principal and accrued interest?
+
+The DICGC insures principal and interest upto a maximum amount of ₹ 5 lakh. For example, if an individual had an account with a principal amount of ₹ 4,95,000 plus accrued interest of ₹ 4,000, the total amount insured by the DICGC would be ₹4,99,000. If, however, the principal amount in that account was ₹ 5 lakh, the accrued interest would not be insured, not because it was interest but because that was the amount over the insurance limit.
+
+## Can deposit insurance be increased by depositing funds into several different accounts all at the same bank?
+
+All funds held in the same type of ownership at the same bank are added together before deposit insurance is determined. If the funds are in different types of ownership or are deposited into separate banks they would then be separately insured.
+
+## Are deposits in different banks separately insured?
+
+Yes. If you have deposits with more than one bank, deposit insurance coverage limit is applied separately to the deposits in each bank.
+
+## If I have my funds on deposit at two different banks, and those two banks are closed on the same day, are my funds added together, or insured separately?
+
+Your funds from each bank would be insured separately, regardless of the date of closure.
+
+## What is the meaning of deposits held in the same capacity and same right; and deposits held in different capacity and different right?
+
+If an individual opens more than one deposit account in one or more branches of a bank for example, Shri S.K. Pandit opens one or more savings/current account and one or more fixed/recurring deposit accounts etc., all these are considered as accounts held in the same capacity and in the same right. Therefore, the balances in all these accounts are aggregated and insurance cover is available up to Rupees Five Lakhs in maximum. If Shri S.K. Pandit also opens other deposit accounts in his capacity as a partner of a firm or guardian of a minor or director of a company or trustee of a trust or a joint account, say with his wife Smt. K. A. Pandit, in one or more branches of the bank then such accounts are considered as held in different capacity and different right. Accordingly, such deposits accounts will also enjoy the insurance cover up to Rupees Five Lakhs separately. It is further clarified that the deposit held in the name of the proprietary concern where a depositor is the sole proprietor and the amount of Deposit held in his individual capacity are aggregated and insurance cover is available up to Rupees Five Lakhs in maximum. Deposits held in joint accounts (revised w.e.f. April 26, 2007): If more than one deposit accounts (Savings, Current, Recurring or Fixed deposit) are jointly held by individuals in one or more branch of a bank say three individuals A, B & C hold more than one joint deposit accounts in which their names appear in the same order then all these accounts are considered as held in the same capacity and in the same right. Accordingly, balances held in all these accounts will be aggregated for the purpose of determining the insured amount within the limit of Rupees Five Lakhs. However, if individuals open more than one joint accounts in which their names are not in the same order for example, A, B and C; C, B and A; C, A and B; A, C and B; or group of persons are different say A, B and C and A, B and D etc. then, the deposits held in these joint accounts are considered as held in the different capacity and different right. Accordingly, insurance cover will be available separately up to Rupees Five Lakhs to every such joint account where the names appearing in different order or names are different.
+
+## Can the bank deduct the amount of dues payable by the depositor?
+
+Yes. Banks have the right to set off their dues from the amount of deposits as on cut off date. The deposit insurance is available after netting of such dues.
+
+## Who pays the cost of deposits insurance?
+
+Deposit insurance premium is borne entirely by the insured bank.
+
+## When is DICGC liable to pay?
+
+If a bank goes into liquidation, DICGC is liable to pay to the liquidator the claim amount of each depositor up to Rupees five lakhs within two months from the date of receipt of claim list from the liquidator. The liquidator has to disburse the claim amount to each insured depositor corresponding to their claim amount." If a bank is reconstructed or amalgamated / merged with another bank: The DICGC pays the bank concerned, the difference between the full amount of deposit or the limit of insurance cover in force at the time, whichever is less and the amount received by him under the reconstruction / amalgamation scheme within two months from the date of receipt of claim list from the transferee bank / Chief Executive Officer of the insured bank/transferee bank as the case may be." If a bank is placed under directions by RBI and such directions prevent depositors from accessing their deposits in the bank, then DICGC becomes liable to pay an amount payable under section 16.
+
+## Does the the DICGC directly deal with the depositors of liquidated banks?
+
+No. In the event of a bank's liquidation, the liquidator prepares depositor wise claim list and sends it to the DICGC for scrutiny and payment. The DICGC pays the money to the liquidator who is liable to pay to the depositors. In the case of amalgamation / merger of banks, the amount due to each depositor is paid to the transferee bank.
+
+## Can any insured bank withdraw from the the DICGC coverage?
+
+No. The deposit insurance scheme is compulsory and no bank can withdraw from it.
+
+## Can the DICGC withdraw deposit insurance coverage from any bank?
+
+The Corporation may cancel the registration of an insured bank if it fails to pay the premium for three consecutive periods. In the event of the DICGC withdrawing its coverage from any bank for default in the payment of premium the public will be notified through newspapers. Registration of an insured bank stands cancelled: a) If the bank is prohibited from receiving fresh deposits; b) or its licence is cancelled or a licence is refused to it by the RBI; c) or it is wound up either voluntarily or compulsorily; d) or it ceases to be a banking company or a co-operative bank within the meaning of Section 36A(2) of the Banking Regulation Act, 1949; e) or it has transferred all its deposit liabilities to any other institution; f) or it is amalgamated with any other bank or a scheme of compromise or arrangement or of reconstruction has been sanctioned by a competent authority and the said scheme does not permit acceptance of fresh deposits. In the event of the cancellation of registration of a bank, deposits of the bank remain covered by the insurance till the date of the cancellation.
+
+## What will be the Corporation's liability to the banks on de-registration?
+
+The Corporation has deposit insurance liability on liquidation etc. of "Insured banks" i.e. banks which have been de-registered: (a) on account of prohibition on receiving fresh deposits (b) or on cancellation of license or it is found that license cannot be granted. The liability of the Corporation in these cases is limited to the extent of deposits as on the date of cancellation of registration of bank as an insured bank. On liquidation etc. of other de-registered banks i.e. banks which have been de-registered on other grounds such as non payment of premium or their ceasing to be eligible co-operative banks under section 2(gg) of the DICGC Act, 1961, the Corporation will have no liability.
+
+## What will be the Corporation's liability to the banks placed under All-Inclusive Directions?
+
+In terms of Section 18A (with effect from September 01, 2021) read with Section 16 of the DICGC Act, 1961, the Corporation is liable to settle deposit insurance claims of insured banks placed under All-Inclusive Directions (AID) within 90 days, subject to submission of a list showing outstanding deposits of each depositor by the insured bank within the statutory timeline of 45 days of imposition of AID by RBI.
+
+## What are depositors required to do when a bank is placed under AID?
+
+Depositors are required to approach the CEO / administrator of such bank, as the case may be, and furnish the duly signed willingness form (available with the bank) accompanied by duly attested copies of officially valid documents (OVDs) ascertaining the identity of the depositor.
+
+## Whether DICGC can deny settlement of claims under Section 18A?
+
+In terms of Section 18A (2) of the DICGC Act, 1961, insured banks placed under AID are mandated to furnish, in the format prescribed by DICGC, a list showing the outstanding deposits of each depositor as on the date of imposition of AID within 45 days from the date of imposition of AID. Delayed or non-submission of the required data by the banks within 45 days shall constrain the corporation from the settlement of claims under section 18A in respect of such banks.
+
+## Is there any cut-off date for submission of willingness forms by depositors?
+
+No, depositors can submit the willingness forms to the bank at any time for onward submission of claims to DICGC, provided the bank is under AID at the time of submission of willingness form by the depositors.
+
+## How long does DICGC take to settle the claims of banks placed under AID?
+
+Under Section 18A of the DICGC Act, 1961, banks are required to furnish the depositors’ list within 45 days from the date of imposition of AID. DICGC shall verify the authenticity and genuineness of the claims made by the bank within 30 days from its receipt and make payment to depositors within 15 days from the completion of such verification, provided the total time from the date of imposition of AID and the date of payment shall not exceed 90 days.
+
+Expand All
+
+## What is claims settlement?
+
+In terms of provisions of the DICGC Act, 1961, on cancellation of registration as an insured bank, the Corporation is liable to pay every depositor, the eligible amount subject to the limit of the insurance cover, based on his deposit/s and loans in the bank as on the cut-off date.
+
+## Who has to prepare Claim list?
+
+The claim list is required to be prepared by the Liquidator appointed by the respective RCS or CRCS to complete the liquidation process. The liquidator represents the interests of all creditors.
+
+## What is cut off date and what is its significance?
+
+The date of deregistration of a bank as an insured bank is the cut-off date. The claim amount (including interest) payable to each depositor, after set-off of loans and advances and clubbing of deposits, in the 'same capacity and same right' is to be prepared depositor-wise as on the cut-off date.
+
+## What are the requirements to prepare the list of claims?
+
+The claim list is prepared depositor-wise after exercising proper set-off of dues, if any, and clubbing of deposits in the same capacity and same right etc. Please refer to the link 'Guidelines to Liquidator'.
+
+## What is the timeframe permitted for preparing the list of claims by liquidator?
+
+The statutory requirement is that after the liquidator's appointment, he should submit the claim list in such form and manner stipulated by DICGC, with least possible delay and under any circumstances not later than 3 months from the date of his/her assuming charge as liquidator.
+
+## How are the claims settled by DICGC?
+
+If a bank goes into liquidation, the DICGC is liable to pay to each depositor through the liquidator, the admissible amount upto a maximum amount of Rupees five lakhs after exercising proper set-off of dues, if any, and clubbing of deposits in the same capacity and same right. On scrutiny of the main Claim list submitted by the Liquidator, admissible claim amount is arrived at by the Corporation. If the liquidated bank has liquid funds available with them, they are advised to pay to the eligible depositors as per DICGC Act, 1961 out of the liquid funds and no amount is released by DICGC. However, in case of partial or non-availability of liquid funds, part or full payment, as applicable, is released by DICGC. The amount paid from liquid funds by the liquidator is accounted as release of funds by DICGC and simultaneous repayment received from the bank by the Corporation.
+
+## Is the liquidator required to repay the amount to the Corporation?
+
+Yes, the liquidator is bound by statute to repay the amount released by DICGC. However, if the claim is settled out of liquid funds available with the bank, the same amount is adjusted towards repayments received by the Corporation.
+
+## What is undisbursed amount?
+
+The admissible claim amount which has been released by DICGC but lying with the liquidator for disbursement to the depositors who have not approached the liquidator for receipt of the amount is the undisbursed amount.
+
+## Should the undisbursed amount be refunded to DICGC?
+
+Yes. The undisbursed amount should necessarily be refunded to DICGC.
+
+## What is the time limit for refund of the undisbursed amount to DICGC?
+
+The undisbursed amount is to be refunded to DICGC without fail within 15 days after four months from the date of release of the fund by DICGC.
+
+## How to refund the undisbursed amount to DICGC?
+
+The amount should be refunded along with the list of the depositors and claim numbers against whom the amount pertains. The details of amount refunded and list of the depositors should also be sent by email to dicgc@rbi.org.in.
+
+## Are the liquidators required to submit any statement's to DICGC?
+
+Yes. The data in the statement should be correct and there should not be any delay / default in submission of such statements. Please refer to the link 'Guidelines to the Liquidator'.
+
+## Is there any ceiling on amount of admissible Insured deposit amount to be paid to each depositor?
+
+Yes. DICGC insures principal and interest of eligible depositors upto a maximum admissible amount of Rupees five lakhs. The deposits kept in different branches of a bank are aggregated for the purpose of insurance cover and a maximum admissible amount.
+
+## What are the account details of DICGC for transferring fund to DICGC?
+
+The mode of payment: RTGS/NEFT; Current account number: 8705688; IFSC Code: DICG0000002; Beneficiary Name: DICGC
+
+## What is the email id of DICGC?
+
+The email id of DICGC is dicgc@rbi.org.in. In case you want to report a complaint, please email us at dicgc.complaints@rbi.org.in
+
+Expand All
+
+## What is the basis of premium to be paid by the bank?
+
+Premium payable by a bank is determined on the basis of its total deposits as on the last day of the preceding half year. (For e.g., for half year ending September 30, 2024, the deposit base is March 31, 2024 and last date for payment is May 31, 2024). Banks willfully making statement which is false in any material or omitting any substantial information shall be punishable with imprisonment for a term which may extend to three years and shall also be liable to fine as per Act. {DICGC Act Section 47(1)}.
+
+## What is the due date for a bank to make the premium payment?
+
+Insured banks are given a two-month time period to make premium payment to DICGC on its total deposits. (For e.g., for half year ending September 30, 2024, deposit base is March 31, 2024 and payment can be made between April 01 to May 31, 2024).
+
+## What is the penal interest charged to the bank for delay in premium payment?
+
+In case of delay in premium payment, banks are liable to pay penal interest at 8 per cent above the Bank rate from the beginning of the financial half year till the date of payment. For e.g., for half year ending September 30, 2024, Penal Interest will be charged at Bank rate+ 8% from April 01, 2024 till the date of payment). Hence, it is in bank’s own interest to pay premium within the due date.
+
+## What about Banks making NEFT/RTGS Payment through other banks?
+
+It has been observed that premium payment made by a bank through remitting banks sometimes gets returned to the remitting bank, resulting in imposition of penal interest due to delayed payment to DICGC. Therefore, banks are advised to confirm from remitting bank that the payment has been credited to DICGC.
+
+## What is the due date for submission of Deposit Insurance Returns?
+
+DI Returns should be submitted on the DICGC portal along with the payment. Under Section 47(2) if any person fails to produce any book, account or other document or to furnish any statement or information which, under the provisions of this Act, it is his duty to produce or furnish, he shall be liable to penalty which may extend to one lakh fifty thousand rupees in respect of each failure, and in the case of a continuing failure, with an additional penalty which may extend to seven thousand five hundred rupees for every day during which the failure continues after the first such failure.
+
+## What are the account details of DICGC for Premium Payment by the banks?
+
+Mode of Payment - RTGS/NEFT Current Account No. - 8705688 IFSC Code - DICG0000002 Beneficiary Name - DICGC LEI Number of DICGC: 3358009Y3QIG75JPJ806
+
+## What is the email id of DICGC for premium related queries?
+
+ioddicgc@rbi.org.in
+
+## Where can I get more information about premium payment?
+
+DICGC Website> For banks
+
+Subscribe
+
+To get the latest updates from DICGC.
+
+Subscribe
+
+Social media

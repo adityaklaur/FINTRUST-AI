@@ -1,0 +1,50 @@
+[
+  {
+    "file": "regulatory_rbi/rbi_floating_rate_emi_reset_faq_2025.pdf",
+    "url": "https://www.rbi.org.in/commonman/Upload/English/FAQs/PDFs/FAQRFIR10012025.pdf",
+    "ok": false,
+    "returncode": 0,
+    "bytes": 627,
+    "stderr": "  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n100   627  100   627    0     0   1737      0 --:--:-- --:--:-- --:--:--  1741\n"
+  },
+  {
+    "file": "regulatory_rbi/rbi_beaware_fraud_booklet_2022.pdf",
+    "url": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/BEAWARE07032022.pdf",
+    "ok": true,
+    "returncode": 0,
+    "bytes": 43281,
+    "stderr": "  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n100 43281  100 43281    0     0   109k      0 --:--:-- --:--:-- --:--:--  109k\n"
+  },
+  {
+    "file": "regulatory_rbi/rbi_fame_financial_awareness_messages_2024.pdf",
+    "url": "https://www.rbi.org.in/commonman/images/FAME202426022024.pdf",
+    "ok": false,
+    "returncode": 0,
+    "bytes": 627,
+    "stderr": "  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n100   627  100   627    0     0   1630      0 --:--:-- --:--:-- --:--:--  1632\n"
+  },
+  {
+    "file": "regulatory_rbi/dicgc_information_booklet_2025.pdf",
+    "url": "https://www.dicgc.org.in/sites/default/files/2025-02/dicgc-information-booklet.pdf",
+    "ok": true,
+    "returncode": 0,
+    "bytes": 1288977,
+    "stderr": "  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n100 1258k  100 1258k    0     0  1431k      0 --:--:-- --:--:-- --:--:-- 1430k\n"
+  },
+  {
+    "file": "regulatory_rbi/rbi_udgam_faq_portal.pdf",
+    "url": "https://www.rbi.org.in/commonman/Upload/English/FAQs/PDFs/FAQonUDGAMPortal.pdf",
+    "ok": false,
+    "returncode": 0,
+    "bytes": 628,
+    "stderr": "  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n100   628  100   628    0     0   1949      0 --:--:-- --:--:-- --:--:--  1944\n100   628  100   628    0     0   1949      0 --:--:-- --:--:-- --:--:--  1944\n"
+  },
+  {
+    "file": "regulatory_rbi/rbi_dea_fund_faq_2014.pdf",
+    "url": "https://www.rbi.org.in/commonman/Upload/English/FAQs/PDFs/FAQonDEAFundScheme2014_05032024.pdf",
+    "ok": false,
+    "returncode": 0,
+    "bytes": 627,
+    "stderr": "  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n100   627  100   627    0     0   1720      0 --:--:-- --:--:-- --:--:--  1722\n"
+  }
+]

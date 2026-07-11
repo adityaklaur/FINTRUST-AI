@@ -1,0 +1,108 @@
+Generative AI Meets Open Source at American Express - American Express Technology 
+
+American Express Technology 
+
+Blog 
+
+GitHub 
+
+Developers 
+
+Careers 
+
+Published April 02, 2025 
+
+Generative AI Meets Open Source at American Express 
+
+Generative-AI Open-Source Python 
+
+Over the past year, we have witnessed an explosion of thousands of open source
+ Generative AI projects ranging from commercially backed large language
+ models (LLMs) like Meta’s LLaMA to grassroots experimental frameworks. Developments
+ in this field are occurring at a staggering pace, and they demonstrate how Generative AI
+ combined with open source are reshaping technology. At American Express, we see open
+ source as a pathway to more innovative and sustainable AI solutions, especially in the
+ rapidly evolving field of Generative AI, which thrives on the vast datasets and diverse contributions
+ that open source communities can provide. 
+
+One of our key initiatives with Generative AI and open source
+ is ConnectChain . It’s our orchestration
+ framework derived from LangChain, which is one of the most prominent open source Generative AI frameworks
+ in the open source community with over 87,000 stars on GitHub. It’s renowned for its LangChain
+ Expression Language (LCEL), which simplifies Python syntax and facilitates the composition of
+ Generative AI workflows in a declarative way. We selected LangChain because it was the most widely
+ adopted framework at the time and it met our needs in terms of functionality, for example using
+ open source frameworks keeps our models more on-topic. 
+
+Our contributions to ConnectChain expand the capabilities of LangChain, introducing additional
+ functionality designed specifically to cater to the needs of our broad enterprise userbase and
+ use cases. Today, ConnectChain is a fully open source, enterprise-grade Generative AI platform equipped
+ with a suite of utilities tailored for AI-enabled applications. Its primary objective is to
+ bridge the gap between the needs of large enterprises and the capabilities offered by existing
+ frameworks. 
+
+ConnectChain brings together a range of key features and advanced functionalities to enhance
+ deployment, security, and usability, including: 
+
+Unified deployment configuration : ConnectChain features a unified YAML configuration
+ that facilities efficient deployments across diverse environments without requiring
+ specific adapters of separate implementations. This allows for a more streamlined and
+ scalable deployment process. 
+
+Enhanced security, authentication, and authorization : The framework simplifies
+ the authentication process for API-based LLMs services by incorporating a login capability
+ that integrates with Enterprise Authentication Services (EAS). It automates the generation
+ of JWT authorization tokens, which are securely passed to the modelling service
+ provider. Additionally, ConnectChain includes configuration-based outbound proxy support
+ at the model level, ensuring secure integration with enterprise-level security protocols
+ and safeguarding data and model interactions within corporate networks. 
+
+Customizable AI interactions : ConnectChain enhances the LangChain packages by adding
+ hooks to allow for custom-built validation and sanitization logic in the inference
+ chain, giving users greater control over AI-generated content. These hooks enable precise
+ tailoring of prompts, aligning outputs with specific enterprise standards and/or expectations. 
+
+Operational enhancements : The framework supports a reverse-proxy to facilitate smooth
+ deployment within enterprise environments and included LCEL enhancements for additional
+ logging utilities. A configurable, swappable LLM interface, complete with EAS token
+ support, further enhances operational capabilities and flexibility. 
+
+These innovations within the ConnectChain framework have been shaped by solutions designed
+ to enhance the quality and consistency of our enterprise applications at American Express. We
+ faced common challenges typical of a banking infrastructure, which demands complex
+ networking, secure EAS, observability, and the intricacies of production deployments. These
+ elements are critical when transitioning from experimental applications to fully-scaled
+ enterprise solutions. As we navigate obstacles, particularly in areas like governance, quality
+ control, and security, each successful solution is integrated back into ConnectChain, forming
+ robust, reusable enterprise implementations. 
+
+As a result, our operational capabilities across engineering teams have significantly
+ improved. The pace of development has accelerated, as teams no longer need to devise their
+ own solutions for the complex issues that often arise when scaling AI applications, like handling
+ enterprise authentication or session management. We’ve successfully implemented high-level
+ integrations with our existing enterprise tools, enabling many teams to adopt the framework
+ seamlessly, without the need for explicit setup. We continue to gather formal feedback through
+ surveys, but anecdotal evidence already suggests high satisfaction levels. The framework has
+ received widespread approval from numerous teams and departments. To foster a global community
+ of developers around ConnectChain, we offer ongoing support and regularly update our
+ repositories with new examples to facilitate easy onboarding for new users. 
+
+As we expand and refine ConnectChain, we are excited to collaborate with other open source
+ developers on this journey. Community contributions can help enhance ConnectChain’s capabilities
+ and bring fresh perspectives and innovative solutions to tackle real-world challenges. Together, we
+ can build more efficient AI tools that meet today’s needs and pave the way for the future. 
+
+If you’re interested in innovating together, please visit
+ our GitHub page to get started. 
+
+About the Author 
+
+Benjamin Laney 
+
+Engineer 
+
+Benjamin Laney is an Engineer on the CTO R&D Engineering team focused right now on Generative AI (GenAI) and Large Language Models (LLMs) and related technologies. Ben is the lead developer of Generative AI Frameworks and Tools at American Express. During his time at American Express, he has focused on Generative AI enablement for business units and the establishment of engineering best practices. On the engineering front, he is the key developer and maintainer of both the inner and open source ConnectChain libraries among other foundational GenAI tools and frameworks. On the research front, he has been actively delving into cutting-edge GenAI technologies and contributing code examples utilizing internal libraries/tools. Before joining American Express, Ben spent many years designing and implementing high-performance, distributed investment systems, conducting quantitative R&D and as an engineer working on enterprise data science platforms engineering while based in Europe. Outside of work, he enjoys animals of all varieties, is an active conservationist, spending time outdoors and traveling. 
+
+All users of our online services are subject to our Privacy Statement and agree to be bound by the Terms of Service . Please review. 
+
+© 2026 American Express. All rights reserved

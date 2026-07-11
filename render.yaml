@@ -1,0 +1,34 @@
+# Render blueprint for the FinTrust AI backend (free tier).
+# Deploy: push to GitHub → Render → New → Blueprint → pick this repo.
+# The vector store is rebuilt at build time from sources/ (kept out of git),
+# so no large binaries are committed. Audit logs are ephemeral on the free tier
+# unless DATABASE_URL points at Postgres (Supabase/Neon).
+services:
+  - type: web
+    name: fintrust-backend
+    runtime: python
+    rootDir: backend
+    plan: free
+    healthCheckPath: /api/health
+    buildCommand: >-
+      pip install -r requirements.txt &&
+      python -m app.ingest.registry &&
+      python -m app.ingest.pipeline
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.13.9"
+      - key: APP_ENV
+        value: production
+      - key: LLM_PROVIDER
+        value: none            # set to groq/gemini + LLM_API_KEY to enable fluent answers
+      - key: CORS_ORIGINS
+        sync: false            # set to your deployed frontend URL(s)
+      - key: LLM_API_KEY
+        sync: false
+      - key: LLM_MODEL
+        sync: false
+      - key: DATABASE_URL
+        sync: false            # optional Postgres for persistent audit history
+      - key: SUPABASE_JWT_SECRET
+        sync: false            # optional; enables per-user history

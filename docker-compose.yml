@@ -1,0 +1,22 @@
+# Dev-mode compose: FastAPI backend + Vite dev server (with /api proxy).
+# Verified path is the non-Docker Quick Start in docs/RUNNING.md; this is a
+# convenience for one-command local bring-up.
+services:
+  backend:
+    build: ./backend
+    ports:
+      - "8000:8000"
+    environment:
+      - APP_ENV=docker
+      - LLM_PROVIDER=${LLM_PROVIDER:-none}
+      - LLM_API_KEY=${LLM_API_KEY:-}
+      - LLM_MODEL=${LLM_MODEL:-}
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "5173:5173"
+    environment:
+      - VITE_PROXY_TARGET=http://backend:8000
+    depends_on:
+      - backend
