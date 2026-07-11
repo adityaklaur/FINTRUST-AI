@@ -7,7 +7,7 @@ __pycache__/
 
 # Local secrets & data
 .env
-data/vector_store/
+# data/vector_store/  <- intentionally COMMITTED so cloud deploys ship the knowledge base
 data/audit/
 data/*.db
 data/eval/report_*.json

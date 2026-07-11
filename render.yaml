@@ -1,8 +1,8 @@
 # Render blueprint for the FinTrust AI backend (free tier).
 # Deploy: push to GitHub → Render → New → Blueprint → pick this repo.
-# The vector store is rebuilt at build time from sources/ (kept out of git),
-# so no large binaries are committed. Audit logs are ephemeral on the free tier
-# unless DATABASE_URL points at Postgres (Supabase/Neon).
+# The prebuilt vector store (backend/data/vector_store) is committed to git, so
+# the backend answers immediately on deploy — no build-time embedding needed.
+# Audit logs are ephemeral on the free tier unless DATABASE_URL points at Postgres.
 services:
   - type: web
     name: fintrust-backend
@@ -10,10 +10,7 @@ services:
     rootDir: backend
     plan: free
     healthCheckPath: /api/health
-    buildCommand: >-
-      pip install -r requirements.txt &&
-      python -m app.ingest.registry &&
-      python -m app.ingest.pipeline
+    buildCommand: pip install -r requirements.txt
     startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
     envVars:
       - key: PYTHON_VERSION
